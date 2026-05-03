@@ -1,0 +1,256 @@
+{
+    "DataList": [
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult1",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_1",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult2",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_2",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult3",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_3",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult4",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_4",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult5",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_5",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "DiceResult6",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_6",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "MoveForward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "LapFinish",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 818,
+            "EventContentDiceRaceResultType": "EventOccur",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult1",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_1",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult2",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_2",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult3",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_3",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult4",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_4",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult5",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_5",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "DiceResult6",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_6",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "MoveForward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "LapFinish",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "EventContentDiceRaceResultType": "SpecialReward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult1",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_1",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult2",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_2",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult3",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_3",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult4",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_4",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult5",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_5",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "DiceResult6",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_6",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "MoveForward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "LapFinish",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 10818,
+            "EventContentDiceRaceResultType": "EventOccur",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult1",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_1",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult2",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_2",
+            "VoiceIdLength": 12
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult3",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_3",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult4",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_4",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult5",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_5",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "DiceResult6",
+            "IsDiceResult": true,
+            "AniClip": "FX_UI_DiceThrow_6",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "MoveForward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 0
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "LapFinish",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "EventContentDiceRaceResultType": "SpecialReward",
+            "IsDiceResult": false,
+            "AniClip": "",
+            "VoiceIdLength": 12
+        }
+    ]
+}

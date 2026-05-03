@@ -1,0 +1,1234 @@
+[
+    {
+        "Id": 1,
+        "TabGroupId": 1,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_816_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 2,
+        "TabGroupId": 1,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_817_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 3,
+        "TabGroupId": 1,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_818_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 4,
+        "TabGroupId": 1,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_819_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 5,
+        "TabGroupId": 1,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_820_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 6,
+        "TabGroupId": 1,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_821_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 7,
+        "TabGroupId": 1,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_822_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 8,
+        "TabGroupId": 1,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_823_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 9,
+        "TabGroupId": 1,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_824_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 10,
+        "TabGroupId": 1,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_825_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 11,
+        "TabGroupId": 1,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_826_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 12,
+        "TabGroupId": 1,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_827_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 13,
+        "TabGroupId": 1,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_828_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 14,
+        "TabGroupId": 1,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_829_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 15,
+        "TabGroupId": 1,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_830_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 16,
+        "TabGroupId": 1,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_831_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 17,
+        "TabGroupId": 2,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_800_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 18,
+        "TabGroupId": 2,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_801_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 19,
+        "TabGroupId": 2,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_802_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 20,
+        "TabGroupId": 2,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_803_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 21,
+        "TabGroupId": 2,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_804_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 22,
+        "TabGroupId": 2,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_805_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 23,
+        "TabGroupId": 2,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_806_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 24,
+        "TabGroupId": 2,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_807_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 25,
+        "TabGroupId": 2,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_808_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 26,
+        "TabGroupId": 2,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_809_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 27,
+        "TabGroupId": 2,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_810_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 28,
+        "TabGroupId": 2,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_811_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 29,
+        "TabGroupId": 2,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_812_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 30,
+        "TabGroupId": 2,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_813_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 31,
+        "TabGroupId": 2,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_814_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 32,
+        "TabGroupId": 2,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_815_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 33,
+        "TabGroupId": 3,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_01_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 34,
+        "TabGroupId": 3,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_02_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 35,
+        "TabGroupId": 3,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_03_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 36,
+        "TabGroupId": 3,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_04_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 37,
+        "TabGroupId": 3,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_05_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 38,
+        "TabGroupId": 3,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_06_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 39,
+        "TabGroupId": 3,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_07_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 40,
+        "TabGroupId": 3,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_08_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 41,
+        "TabGroupId": 3,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_09_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 42,
+        "TabGroupId": 3,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_10_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 43,
+        "TabGroupId": 3,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_11_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 44,
+        "TabGroupId": 3,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_12_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 45,
+        "TabGroupId": 3,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_13_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 46,
+        "TabGroupId": 3,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_14_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 47,
+        "TabGroupId": 3,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_15_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 48,
+        "TabGroupId": 3,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_16_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 49,
+        "TabGroupId": 3,
+        "DisplayOrder": 17,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_17_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 50,
+        "TabGroupId": 3,
+        "DisplayOrder": 18,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_18_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 51,
+        "TabGroupId": 3,
+        "DisplayOrder": 19,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_19_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 52,
+        "TabGroupId": 3,
+        "DisplayOrder": 20,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_20_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 53,
+        "TabGroupId": 4,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_21_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 54,
+        "TabGroupId": 4,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_22_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 55,
+        "TabGroupId": 4,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_23_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 56,
+        "TabGroupId": 4,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_24_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 57,
+        "TabGroupId": 4,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_25_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 58,
+        "TabGroupId": 4,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_26_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 59,
+        "TabGroupId": 4,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_27_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 60,
+        "TabGroupId": 4,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_28_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 61,
+        "TabGroupId": 4,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_29_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 62,
+        "TabGroupId": 4,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_30_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 63,
+        "TabGroupId": 4,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_31_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 64,
+        "TabGroupId": 4,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_32_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 65,
+        "TabGroupId": 4,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_33_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 66,
+        "TabGroupId": 4,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_34_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 67,
+        "TabGroupId": 4,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_35_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 68,
+        "TabGroupId": 4,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_36_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 69,
+        "TabGroupId": 4,
+        "DisplayOrder": 17,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_37_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 70,
+        "TabGroupId": 4,
+        "DisplayOrder": 18,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_38_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 71,
+        "TabGroupId": 4,
+        "DisplayOrder": 19,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_39_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 72,
+        "TabGroupId": 4,
+        "DisplayOrder": 20,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_40_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 73,
+        "TabGroupId": 4,
+        "DisplayOrder": 21,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_41_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 74,
+        "TabGroupId": 4,
+        "DisplayOrder": 22,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_42_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 75,
+        "TabGroupId": 4,
+        "DisplayOrder": 23,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_43_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 76,
+        "TabGroupId": 4,
+        "DisplayOrder": 24,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_44_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 77,
+        "TabGroupId": 4,
+        "DisplayOrder": 25,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_45_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 78,
+        "TabGroupId": 4,
+        "DisplayOrder": 26,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_46_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 79,
+        "TabGroupId": 4,
+        "DisplayOrder": 27,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_47_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 80,
+        "TabGroupId": 4,
+        "DisplayOrder": 28,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_48_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 81,
+        "TabGroupId": 4,
+        "DisplayOrder": 29,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_49_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 82,
+        "TabGroupId": 4,
+        "DisplayOrder": 30,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_50_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 83,
+        "TabGroupId": 4,
+        "DisplayOrder": 31,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_51_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 84,
+        "TabGroupId": 4,
+        "DisplayOrder": 32,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_52_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 85,
+        "TabGroupId": 4,
+        "DisplayOrder": 33,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_53_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 86,
+        "TabGroupId": 4,
+        "DisplayOrder": 34,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_54_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 87,
+        "TabGroupId": 4,
+        "DisplayOrder": 35,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_55_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 88,
+        "TabGroupId": 4,
+        "DisplayOrder": 36,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_56_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 89,
+        "TabGroupId": 4,
+        "DisplayOrder": 37,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_57_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 90,
+        "TabGroupId": 4,
+        "DisplayOrder": 38,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_58_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 91,
+        "TabGroupId": 4,
+        "DisplayOrder": 39,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_59_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 92,
+        "TabGroupId": 4,
+        "DisplayOrder": 40,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_60_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 93,
+        "TabGroupId": 5,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_61_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 94,
+        "TabGroupId": 5,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_62_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 95,
+        "TabGroupId": 5,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_63_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 96,
+        "TabGroupId": 5,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_64_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 97,
+        "TabGroupId": 5,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_65_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 98,
+        "TabGroupId": 5,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_66_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 99,
+        "TabGroupId": 5,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_67_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 100,
+        "TabGroupId": 5,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_68_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 101,
+        "TabGroupId": 5,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_69_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 102,
+        "TabGroupId": 5,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_70_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 103,
+        "TabGroupId": 5,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_71_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 104,
+        "TabGroupId": 5,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_72_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 105,
+        "TabGroupId": 5,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_73_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 106,
+        "TabGroupId": 5,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_74_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 107,
+        "TabGroupId": 5,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_75_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 108,
+        "TabGroupId": 5,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_76_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 109,
+        "TabGroupId": 5,
+        "DisplayOrder": 17,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_77_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 110,
+        "TabGroupId": 5,
+        "DisplayOrder": 18,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_78_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 111,
+        "TabGroupId": 5,
+        "DisplayOrder": 19,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_79_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 112,
+        "TabGroupId": 5,
+        "DisplayOrder": 20,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_80_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 113,
+        "TabGroupId": 7,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_81_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 114,
+        "TabGroupId": 7,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_82_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 115,
+        "TabGroupId": 7,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_83_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 116,
+        "TabGroupId": 7,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_84_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 117,
+        "TabGroupId": 7,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_85_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 118,
+        "TabGroupId": 7,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_86_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 119,
+        "TabGroupId": 7,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_87_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 120,
+        "TabGroupId": 7,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_88_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 121,
+        "TabGroupId": 7,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_89_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 122,
+        "TabGroupId": 7,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_90_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 123,
+        "TabGroupId": 7,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_91_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 124,
+        "TabGroupId": 7,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_92_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 125,
+        "TabGroupId": 7,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_93_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 126,
+        "TabGroupId": 7,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_94_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 127,
+        "TabGroupId": 7,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_95_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 128,
+        "TabGroupId": 7,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_96_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 129,
+        "TabGroupId": 6,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_97_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 130,
+        "TabGroupId": 6,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_98_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 131,
+        "TabGroupId": 6,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_99_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 132,
+        "TabGroupId": 6,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_100_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 133,
+        "TabGroupId": 6,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_101_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 134,
+        "TabGroupId": 6,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_102_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 135,
+        "TabGroupId": 6,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_103_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 136,
+        "TabGroupId": 6,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_104_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 137,
+        "TabGroupId": 6,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_105_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 138,
+        "TabGroupId": 6,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_106_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 139,
+        "TabGroupId": 6,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_107_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 140,
+        "TabGroupId": 6,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_108_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 141,
+        "TabGroupId": 6,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_109_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 142,
+        "TabGroupId": 6,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_110_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 143,
+        "TabGroupId": 6,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_111_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 144,
+        "TabGroupId": 6,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_112_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 145,
+        "TabGroupId": 8,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_113_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 146,
+        "TabGroupId": 8,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_114_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 147,
+        "TabGroupId": 8,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_115_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 148,
+        "TabGroupId": 8,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_116_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 149,
+        "TabGroupId": 8,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_117_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 150,
+        "TabGroupId": 8,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_118_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 151,
+        "TabGroupId": 8,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_119_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 152,
+        "TabGroupId": 8,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_120_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 153,
+        "TabGroupId": 8,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_121_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 154,
+        "TabGroupId": 8,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_122_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 155,
+        "TabGroupId": 8,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_123_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 156,
+        "TabGroupId": 8,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_124_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 157,
+        "TabGroupId": 8,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_125_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 158,
+        "TabGroupId": 8,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_126_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 159,
+        "TabGroupId": 8,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_127_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 160,
+        "TabGroupId": 8,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_128_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 161,
+        "TabGroupId": 9,
+        "DisplayOrder": 1,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_129_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 162,
+        "TabGroupId": 9,
+        "DisplayOrder": 2,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_130_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 163,
+        "TabGroupId": 9,
+        "DisplayOrder": 3,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_131_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 164,
+        "TabGroupId": 9,
+        "DisplayOrder": 4,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_132_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 165,
+        "TabGroupId": 9,
+        "DisplayOrder": 5,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_133_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 166,
+        "TabGroupId": 9,
+        "DisplayOrder": 6,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_134_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 167,
+        "TabGroupId": 9,
+        "DisplayOrder": 7,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_135_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 168,
+        "TabGroupId": 9,
+        "DisplayOrder": 8,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_136_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 169,
+        "TabGroupId": 9,
+        "DisplayOrder": 9,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_137_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 170,
+        "TabGroupId": 9,
+        "DisplayOrder": 10,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_138_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 171,
+        "TabGroupId": 9,
+        "DisplayOrder": 11,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_139_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 172,
+        "TabGroupId": 9,
+        "DisplayOrder": 12,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_140_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 173,
+        "TabGroupId": 9,
+        "DisplayOrder": 13,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_141_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 174,
+        "TabGroupId": 9,
+        "DisplayOrder": 14,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_142_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 175,
+        "TabGroupId": 9,
+        "DisplayOrder": 15,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_143_Kr",
+        "ImagePathJp": ""
+    },
+    {
+        "Id": 176,
+        "TabGroupId": 9,
+        "DisplayOrder": 16,
+        "ImagePathKr": "UIs/01_Common/31_ClanEmoji/ClanChat_Emoji_144_Kr",
+        "ImagePathJp": ""
+    }
+]

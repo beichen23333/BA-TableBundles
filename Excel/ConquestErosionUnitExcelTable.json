@@ -1,0 +1,205 @@
+[
+    {
+        "TilePrefabId": 1670927233,
+        "MassErosionUnitId": 1675960886,
+        "MassErosionUnitRotationY": 16759.60886,
+        "IndividualErosionUnitId": 1675960886,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927246,
+        "MassErosionUnitId": 1675960886,
+        "MassErosionUnitRotationY": 16759.60886,
+        "IndividualErosionUnitId": 1728276471,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928297,
+        "MassErosionUnitId": 1390727184,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276466,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928278,
+        "MassErosionUnitId": 1390727356,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276466,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928279,
+        "MassErosionUnitId": 1390727384,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276466,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927413,
+        "MassErosionUnitId": 1390885632,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276467,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927410,
+        "MassErosionUnitId": 1390885804,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276467,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927411,
+        "MassErosionUnitId": 1390885832,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276467,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927441,
+        "MassErosionUnitId": 1390895728,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276464,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927454,
+        "MassErosionUnitId": 1390895772,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276464,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670927455,
+        "MassErosionUnitId": 1390895928,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276464,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929329,
+        "MassErosionUnitId": 1390828272,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276465,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929342,
+        "MassErosionUnitId": 1390828316,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276465,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929343,
+        "MassErosionUnitId": 1390828472,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276465,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929373,
+        "MassErosionUnitId": 1390853600,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276478,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929370,
+        "MassErosionUnitId": 1390838284,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276478,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929371,
+        "MassErosionUnitId": 1390838440,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276478,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928505,
+        "MassErosionUnitId": 1390863568,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276479,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928486,
+        "MassErosionUnitId": 1390863740,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276479,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670928487,
+        "MassErosionUnitId": 1390863768,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276479,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930265,
+        "MassErosionUnitId": 1390533968,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276476,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930246,
+        "MassErosionUnitId": 1390534140,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276476,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930247,
+        "MassErosionUnitId": 1390420504,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276476,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930405,
+        "MassErosionUnitId": 1390412864,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276477,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930402,
+        "MassErosionUnitId": 1390413036,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276477,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670930403,
+        "MassErosionUnitId": 1390413064,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276477,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929409,
+        "MassErosionUnitId": 1390440368,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276474,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929422,
+        "MassErosionUnitId": 1390440412,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276474,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    },
+    {
+        "TilePrefabId": 1670929423,
+        "MassErosionUnitId": 1390439544,
+        "MassErosionUnitRotationY": 16759.609620000003,
+        "IndividualErosionUnitId": 1728276474,
+        "IndividualErosionUnitRotationY": 16759.609620000003
+    }
+]

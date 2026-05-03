@@ -1,0 +1,482 @@
+[
+    {
+        "Id": 1844260031,
+        "EventContentId": 1844260763,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_1",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260030,
+        "EventContentId": 1844260763,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_2",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260029,
+        "EventContentId": 1844260763,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_3",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260028,
+        "EventContentId": 1844260763,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_4",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260027,
+        "EventContentId": 1844260763,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_5",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_05"
+    },
+    {
+        "Id": 1844260026,
+        "EventContentId": 1844260760,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_807_1",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260025,
+        "EventContentId": 1844260760,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_807_2",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260024,
+        "EventContentId": 1844260760,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_807_3",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260023,
+        "EventContentId": 1844260760,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_807_4",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260022,
+        "EventContentId": 1844260760,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_807_5",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_05"
+    },
+    {
+        "Id": 1844260021,
+        "EventContentId": 1844260742,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "꟯뻒濎페ꦃ돖ྐྵ섶ᚗ搔뜂쒥ᙰ疚縮맰緑㜊캖쑬ჵⵎԉ鸍⼅",
+        "GuideText": "MINIGAME_SHOOTING_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260020,
+        "EventContentId": 1844260742,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "꟯뻒濎페ꦃ돖ྐྵ섶ᚗ搔뜂쒥ᙰ疚縮맰緑㜊캖쑬ჵⵎԉ鸍Ⰵ",
+        "GuideText": "MINIGAME_SHOOTING_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260019,
+        "EventContentId": 1844260739,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_1",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260018,
+        "EventContentId": 1844260739,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_2",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260017,
+        "EventContentId": 1844260739,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_3",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260016,
+        "EventContentId": 1844260739,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_4",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260015,
+        "EventContentId": 1844260862,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_1",
+        "GuideText": "FIELD_833_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260014,
+        "EventContentId": 1844260862,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_2",
+        "GuideText": "FIELD_833_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260013,
+        "EventContentId": 1844260862,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_3",
+        "GuideText": "FIELD_833_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260012,
+        "EventContentId": 1844260862,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_4",
+        "GuideText": "FIELD_833_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260011,
+        "EventContentId": 1844260859,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_1",
+        "GuideText": "꾏疥幨ᑙᲿ札䕺ࢍ噣〙"
+    },
+    {
+        "Id": 1844260010,
+        "EventContentId": 1844260859,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_2",
+        "GuideText": "꾏疥幨ᑙᲿ札䕺ࢍ噣㌙"
+    },
+    {
+        "Id": 1844260009,
+        "EventContentId": 1844260859,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_3",
+        "GuideText": "꾏疥幨ᑙᲿ札䕺ࢍ噣㴙"
+    },
+    {
+        "Id": 1844260008,
+        "EventContentId": 1844260859,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_4",
+        "GuideText": "꾏疥幨ᑙᲿ札䕺ࢍ噣㈙"
+    },
+    {
+        "Id": 1844260007,
+        "EventContentId": 1844260859,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDreammaker_836_5",
+        "GuideText": "꾏疥幨ᑙᲿ札䕺ࢍ噣㰙"
+    },
+    {
+        "Id": 1844260006,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_1",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260005,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_2",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260004,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_3",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260003,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_4",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260002,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_5",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_05"
+    },
+    {
+        "Id": 1844260001,
+        "EventContentId": 1844260857,
+        "DisplayOrder": 1844260026,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameDefense_838_6",
+        "GuideText": "MINIGAME_DEFENSE_838_PLAYGUIDE_06"
+    },
+    {
+        "Id": 1844260000,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_1",
+        "GuideText": "FIELD_843_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844259999,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_2",
+        "GuideText": "FIELD_843_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844259998,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_3",
+        "GuideText": "FIELD_843_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844259997,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_4",
+        "GuideText": "FIELD_843_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844259996,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_5",
+        "GuideText": "FIELD_843_PLAYGUIDE_05"
+    },
+    {
+        "Id": 1844259995,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260026,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_6",
+        "GuideText": "FIELD_843_PLAYGUIDE_06"
+    },
+    {
+        "Id": 1844259994,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260025,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_7",
+        "GuideText": "FIELD_843_PLAYGUIDE_07"
+    },
+    {
+        "Id": 1844259993,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260024,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_8",
+        "GuideText": "FIELD_843_PLAYGUIDE_08"
+    },
+    {
+        "Id": 1844259992,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260023,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_9",
+        "GuideText": "FIELD_843_PLAYGUIDE_09"
+    },
+    {
+        "Id": 1844259991,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260022,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_10",
+        "GuideText": "FIELD_843_PLAYGUIDE_11"
+    },
+    {
+        "Id": 1844259990,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260021,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_11",
+        "GuideText": "FIELD_843_PLAYGUIDE_12"
+    },
+    {
+        "Id": 1844259989,
+        "EventContentId": 1844260852,
+        "DisplayOrder": 1844260020,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_843_12",
+        "GuideText": "FIELD_843_PLAYGUIDE_10"
+    },
+    {
+        "Id": 1844260059,
+        "EventContentId": 1844250251,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_1",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260058,
+        "EventContentId": 1844250251,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_2",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260057,
+        "EventContentId": 1844250251,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_3",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260056,
+        "EventContentId": 1844250251,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_4",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260055,
+        "EventContentId": 1844250251,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameRhythm_804_5",
+        "GuideText": "MINIGAME_RHYTHM_PLAYGUIDE_05"
+    },
+    {
+        "Id": 1844260049,
+        "EventContentId": 1844250358,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "꟯뻒濎페ꦃ돖ྐྵ섶ᚗ搔뜂쒥ᙰ疚縮맰緑㜊캖쑬ჵⵎԉ鸍⼅",
+        "GuideText": "MINIGAME_SHOOTING_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260048,
+        "EventContentId": 1844250358,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "꟯뻒濎페ꦃ돖ྐྵ섶ᚗ搔뜂쒥ᙰ疚縮맰緑㜊캖쑬ჵⵎԉ鸍Ⰵ",
+        "GuideText": "MINIGAME_SHOOTING_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260039,
+        "EventContentId": 1844250355,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_10828_1",
+        "GuideText": "MINIGAME_TBG_10828_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260038,
+        "EventContentId": 1844250355,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_1",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260037,
+        "EventContentId": 1844250355,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_2",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260036,
+        "EventContentId": 1844250355,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_828_3",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844260035,
+        "EventContentId": 1844250355,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_MinigameTBG_10828_4",
+        "GuideText": "MINIGAME_TBG_828_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844260034,
+        "EventContentId": 1844250350,
+        "DisplayOrder": 1844260031,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_1",
+        "GuideText": "FIELD_833_PLAYGUIDE_01"
+    },
+    {
+        "Id": 1844260033,
+        "EventContentId": 1844250350,
+        "DisplayOrder": 1844260030,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_2",
+        "GuideText": "FIELD_833_PLAYGUIDE_02"
+    },
+    {
+        "Id": 1844260032,
+        "EventContentId": 1844250350,
+        "DisplayOrder": 1844260029,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_3",
+        "GuideText": "FIELD_833_PLAYGUIDE_03"
+    },
+    {
+        "Id": 1844259903,
+        "EventContentId": 1844250350,
+        "DisplayOrder": 1844260028,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_833_4",
+        "GuideText": "FIELD_833_PLAYGUIDE_04"
+    },
+    {
+        "Id": 1844259902,
+        "EventContentId": 1844250350,
+        "DisplayOrder": 1844260027,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Field_10833_5",
+        "GuideText": "FIELD_10833_PLAYGUIDE_05"
+    }
+]

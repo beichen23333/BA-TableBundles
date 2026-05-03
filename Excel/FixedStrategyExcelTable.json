@@ -1,0 +1,101 @@
+[
+    {
+        "Id": 386949380,
+        "StageEnterEchelon01FixedEchelonId": 1093957529,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 387050000,
+        "StageEnterEchelon02Starttile": 387050000,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950250,
+        "StageEnterEchelon01FixedEchelonId": 387050000,
+        "StageEnterEchelon01Starttile": 387050000,
+        "StageEnterEchelon02FixedEchelonId": 387050000,
+        "StageEnterEchelon02Starttile": 387050000,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950332,
+        "StageEnterEchelon01FixedEchelonId": 1093938025,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093938026,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950362,
+        "StageEnterEchelon01FixedEchelonId": 1093937333,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093937336,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950392,
+        "StageEnterEchelon01FixedEchelonId": 1093937601,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093937603,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950422,
+        "StageEnterEchelon01FixedEchelonId": 1093938925,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093938926,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950410,
+        "StageEnterEchelon01FixedEchelonId": 1093939157,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093939158,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386950440,
+        "StageEnterEchelon01FixedEchelonId": 1093938401,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093938402,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 387050000,
+        "StageEnterEchelon03Starttile": 387050000,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    },
+    {
+        "Id": 386955508,
+        "StageEnterEchelon01FixedEchelonId": 1093927353,
+        "StageEnterEchelon01Starttile": 386949374,
+        "StageEnterEchelon02FixedEchelonId": 1093927354,
+        "StageEnterEchelon02Starttile": 386949375,
+        "StageEnterEchelon03FixedEchelonId": 1093927355,
+        "StageEnterEchelon03Starttile": 386949344,
+        "StageEnterEchelon04FixedEchelonId": 387050000,
+        "StageEnterEchelon04Starttile": 387050000
+    }
+]

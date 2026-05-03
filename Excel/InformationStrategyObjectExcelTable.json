@@ -1,0 +1,44 @@
+[
+    {
+        "Id": 1020840648,
+        "StageId": 1020766056,
+        "PageName": "UIInformationPopup_StrategyObject01",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840651,
+        "StageId": 1020752244,
+        "PageName": "UIInformationPopup_StrategyObject03",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840650,
+        "StageId": 1020733444,
+        "PageName": "UIInformationPopup_StrategyObject04",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840653,
+        "StageId": 1019790100,
+        "PageName": "UIInformationPopup_StrategyObject05",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840652,
+        "StageId": 1020744284,
+        "PageName": "UIInformationPopup_StrategyObject02",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840655,
+        "StageId": 1019840660,
+        "PageName": "UIInformationPopup_StrategyObject06",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    },
+    {
+        "Id": 1020840654,
+        "StageId": 1019840663,
+        "PageName": "UIInformationPopup_StrategyObject07",
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 99999997,
+        "LockUILength": 0,
+        "HideWhenLocked": false,
+        "AccountLevel": 0,
+        "ScenarioModeIdLength": 24,
+        "CampaignStageIDLength": 0,
+        "MultipleConditionCheckType": "And",
+        "AfterWhenDate": "",
+        "WorldRaidBossKillLength": 0
+    },
+    {
+        "Id": 99999998,
+        "LockUILength": 0,
+        "HideWhenLocked": false,
+        "AccountLevel": 0,
+        "ScenarioModeIdLength": 0,
+        "CampaignStageIDLength": 0,
+        "MultipleConditionCheckType": "And",
+        "AfterWhenDate": "",
+        "WorldRaidBossKillLength": 20
+    },
+    {
+        "Id": 814,
+        "LockUILength": 0,
+        "HideWhenLocked": false,
+        "AccountLevel": 0,
+        "ScenarioModeIdLength": 0,
+        "CampaignStageIDLength": 24,
+        "MultipleConditionCheckType": "And",
+        "AfterWhenDate": "",
+        "WorldRaidBossKillLength": 0
+    },
+    {
+        "Id": 821001,
+        "LockUILength": 0,
+        "HideWhenLocked": false,
+        "AccountLevel": 0,
+        "ScenarioModeIdLength": 0,
+        "CampaignStageIDLength": 0,
+        "MultipleConditionCheckType": "And",
+        "AfterWhenDate": "",
+        "WorldRaidBossKillLength": 20
+    },
+    {
+        "Id": 823001,
+        "LockUILength": 0,
+        "HideWhenLocked": false,
+        "AccountLevel": 0,
+        "ScenarioModeIdLength": 24,
+        "CampaignStageIDLength": 0,
+        "MultipleConditionCheckType": "And",
+        "AfterWhenDate": "",
+        "WorldRaidBossKillLength": 0
+    }
+]

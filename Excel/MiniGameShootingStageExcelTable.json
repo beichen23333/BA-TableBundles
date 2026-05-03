@@ -1,0 +1,95 @@
+{
+    "DataList": [
+        {
+            "UniqueId": 1,
+            "BgmIdLength": 248,
+            "CostGoodsId": 130006,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Free",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 2000
+        },
+        {
+            "UniqueId": 2,
+            "BgmIdLength": 248,
+            "CostGoodsId": 130006,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Test_2",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 2000
+        },
+        {
+            "UniqueId": 3,
+            "BgmIdLength": 240,
+            "CostGoodsId": 130015,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Free",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 2000
+        },
+        {
+            "UniqueId": 4,
+            "BgmIdLength": 240,
+            "CostGoodsId": 130006,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/EnemyTestLogicGround",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 30000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 1000
+        },
+        {
+            "UniqueId": 1000,
+            "BgmIdLength": 248,
+            "CostGoodsId": 130016,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Normal",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 101000
+        },
+        {
+            "UniqueId": 2000,
+            "BgmIdLength": 252,
+            "CostGoodsId": 130016,
+            "Difficulty": "Hard",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Hard",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d_original",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 102000
+        },
+        {
+            "UniqueId": 3000,
+            "BgmIdLength": 240,
+            "CostGoodsId": 130015,
+            "Difficulty": "Normal",
+            "DesignLevel": "MiniGame/Shooting/ArtLevel/MGS_Stage_Test01/LogicGround_Free",
+            "ArtLevel": "Minigame/Shooting/ArtLevel/mb_03_oldmansion_p01_d",
+            "StartBattleDuration": 120000,
+            "DefaultBattleDuration": 45000,
+            "DefaultLogicEffect": "Minigame/Shooting/LogicEffect/HealSectionClear",
+            "CameraSizeRate": 1.1100000143051147,
+            "EventContentStageRewardId": 3000
+        }
+    ]
+}

@@ -1,0 +1,652 @@
+{
+    "DataList": [
+        {
+            "EventContentId": 818,
+            "NodeId": 0,
+            "EventContentDiceRaceNodeType": "StartNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 52,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 16
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 1,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 2,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 3,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 4,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 3,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 5,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 6,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 7,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 8,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 9,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 10,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 1,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 11,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 12,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 13,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 14,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 15,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 16,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 2,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 818,
+            "NodeId": 17,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 0,
+            "EventContentDiceRaceNodeType": "StartNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 56,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 16
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 1,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 2,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 3,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 4,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 5,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 6,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 7,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 8,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 6,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 9,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 10,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 11,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 12,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 13,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 14,
+            "EventContentDiceRaceNodeType": "SpecialRewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 15,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 16,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 827,
+            "NodeId": 17,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 0,
+            "EventContentDiceRaceNodeType": "StartNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 56,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 16
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 1,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 2,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 3,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 4,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 3,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 5,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 6,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 7,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 8,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 9,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 10,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 1,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 11,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 12,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 13,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 14,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 15,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 16,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 2,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10818,
+            "NodeId": 17,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 0,
+            "EventContentDiceRaceNodeType": "StartNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 56,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 16
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 1,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 2,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 3,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 4,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 5,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 6,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 7,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 8,
+            "EventContentDiceRaceNodeType": "MoveForwardNode",
+            "MoveForwardTypeArg": 6,
+            "RewardParcelTypeLength": 44,
+            "RewardParcelIdLength": 36,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 9,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 60,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 10,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 11,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 12,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 13,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 14,
+            "EventContentDiceRaceNodeType": "SpecialRewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 15,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 16,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        },
+        {
+            "EventContentId": 10827,
+            "NodeId": 17,
+            "EventContentDiceRaceNodeType": "RewardNode",
+            "MoveForwardTypeArg": 0,
+            "RewardParcelTypeLength": 64,
+            "RewardParcelIdLength": 44,
+            "RewardAmountLength": 24
+        }
+    ]
+}

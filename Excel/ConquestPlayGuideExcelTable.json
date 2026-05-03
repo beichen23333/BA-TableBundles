@@ -1,0 +1,194 @@
+[
+    {
+        "Id": 1138719281,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719281,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉寃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_0"
+    },
+    {
+        "Id": 1138719280,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719280,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉嫃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_1"
+    },
+    {
+        "Id": 1138719283,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719283,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉姃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_2"
+    },
+    {
+        "Id": 1138719282,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719282,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉壃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_3"
+    },
+    {
+        "Id": 1138719285,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719285,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉埃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_4"
+    },
+    {
+        "Id": 1138719284,
+        "EventContentId": 1138719006,
+        "DisplayOrder": 1138719284,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉囃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_5"
+    },
+    {
+        "Id": 1138719287,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719281,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉鯰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_0"
+    },
+    {
+        "Id": 1138719286,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719280,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉髰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_1"
+    },
+    {
+        "Id": 1138719289,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719283,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉駰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_2"
+    },
+    {
+        "Id": 1138719288,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719282,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉飰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_3"
+    },
+    {
+        "Id": 1138719291,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719285,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉韰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_4"
+    },
+    {
+        "Id": 1138719290,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719284,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉雰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_5"
+    },
+    {
+        "Id": 1138719293,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719287,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉闰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_6"
+    },
+    {
+        "Id": 1138719292,
+        "EventContentId": 1138718983,
+        "DisplayOrder": 1138719286,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉铰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_7"
+    },
+    {
+        "Id": 1138719295,
+        "EventContentId": 1138736311,
+        "DisplayOrder": 1138719281,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉鯰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_0"
+    },
+    {
+        "Id": 1138719294,
+        "EventContentId": 1138736311,
+        "DisplayOrder": 1138719280,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉韰",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_822_4"
+    },
+    {
+        "Id": 1138711840,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719281,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉寃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_0"
+    },
+    {
+        "Id": 1138711843,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719280,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Conquest_10815_1",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_1"
+    },
+    {
+        "Id": 1138711842,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719283,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉姃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_2"
+    },
+    {
+        "Id": 1138711845,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719282,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉壃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_3"
+    },
+    {
+        "Id": 1138711844,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719285,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉埃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_4"
+    },
+    {
+        "Id": 1138711847,
+        "EventContentId": 1138708494,
+        "DisplayOrder": 1138719284,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Conquest_10815_5",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_5"
+    },
+    {
+        "Id": 1129721456,
+        "EventContentId": 1137886462,
+        "DisplayOrder": 1138719281,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "郠䔇蔖螱꩙╰鞸㢥綛鷋鈫㡂氕哧앳摞◃邸ꡦ냉寃",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_815_0"
+    },
+    {
+        "Id": 1129721459,
+        "EventContentId": 1137886462,
+        "DisplayOrder": 1138719280,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_Conquest_900815_4",
+        "GuideText": "UI_Event_Conquest_PlayGuide_Title_900815_4"
+    }
+]

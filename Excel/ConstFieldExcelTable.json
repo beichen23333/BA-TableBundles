@@ -1,0 +1,9 @@
+[
+    {
+        "DialogSmoothTime": 1640476895,
+        "TalkDialogDurationDefault": 1640479591,
+        "ThinkDialogDurationDefault": 1640479591,
+        "IdleThinkDelayMin": 1640473431,
+        "IdleThinkDelayMax": 1640476575
+    }
+]

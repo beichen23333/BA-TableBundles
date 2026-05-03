@@ -1,0 +1,130 @@
+{
+    "DataList": [
+        {
+            "MailType": "Attendance",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ATTENDANCE_REWARD_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "MassTrade",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_MASS_TRADE_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "InventoryFull",
+            "ExpiredDay": 1,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_INVENTROY_FULL_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "ArenaDefenseVictory",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ARENA_DEFENSE_VICTORY_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "CouponUsageReward",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_COUPON_REWARD_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "ArenaSeasonClose",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ARENA_SEASON_CLOSE_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "MonthlyProductReward",
+            "ExpiredDay": 1,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ProductMonthly_Reward_OverLimit"
+        },
+        {
+            "MailType": "WeeklyProductReward",
+            "ExpiredDay": 1,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ProductWeekly_Reward_OverLimit"
+        },
+        {
+            "MailType": "BiweeklyProductReward",
+            "ExpiredDay": 1,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ProductBiweekly_Reward_OverLimit"
+        },
+        {
+            "MailType": "ProductReward",
+            "ExpiredDay": 3650,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "Text_SendToMailBox_Title"
+        },
+        {
+            "MailType": "ExpiryChangeItem",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_EXPIRY_CHANGE_ITEM"
+        },
+        {
+            "MailType": "ClanAttendance",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_CLAN_ATTENDANCE_REWARD_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "AccountLink",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_ACCOUNT_LINK_REWARD_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "NewUserBonus",
+            "ExpiredDay": 70,
+            "Sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+            "Comment": "Mail_NewUserBonus"
+        },
+        {
+            "MailType": "LeftClanAssistReward",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+            "Comment": "Mail_LeftClanAssistReward"
+        },
+        {
+            "MailType": "CouponCompleteReward",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_COUPON_COMPLETE_REWARD_MESSAGE_NORMAL"
+        },
+        {
+            "MailType": "BirthdayGift",
+            "ExpiredDay": 60,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "Mail_BirthdayGift"
+        },
+        {
+            "MailType": "FromCS",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_CS_REPLY_MESSAGE"
+        },
+        {
+            "MailType": "ExpiryChangeCurrency",
+            "ExpiredDay": 7,
+            "Sender": "UI_MAILBOX_POST_SENDER_ARONA",
+            "Comment": "UI_MAILBOX_EXPIRY_CHANGE_CURRENCY"
+        },
+        {
+            "MailType": "SurveyReward",
+            "ExpiredDay": 60,
+            "Sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+            "Comment": "Mail_SurveyReward"
+        },
+        {
+            "MailType": "CbtRechargeReward",
+            "ExpiredDay": 365,
+            "Sender": "UI_MAILBOX_POST_SENDER_SCHALE",
+            "Comment": "Mail_CbtRechargeReward"
+        }
+    ]
+}

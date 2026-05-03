@@ -1,0 +1,296 @@
+[
+    {
+        "Id": 0,
+        "GroupID": 1,
+        "SlotZLength": 112,
+        "SlotXLength": 16
+    },
+    {
+        "Id": 22,
+        "GroupID": 10001,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 23,
+        "GroupID": 10011,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 24,
+        "GroupID": 10012,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 1,
+        "GroupID": 7310100,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 2,
+        "GroupID": 824330101,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 3,
+        "GroupID": 824330501,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 4,
+        "GroupID": 4000402,
+        "SlotZLength": 32,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 5,
+        "GroupID": 828130601,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 6,
+        "GroupID": 83001,
+        "SlotZLength": 104,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 7,
+        "GroupID": 829330401,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 8,
+        "GroupID": 830330301,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9,
+        "GroupID": 83002,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 10,
+        "GroupID": 83003,
+        "SlotZLength": 104,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 11,
+        "GroupID": 93,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 12,
+        "GroupID": 832330301,
+        "SlotZLength": 44,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 13,
+        "GroupID": 832330401,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 14,
+        "GroupID": 833430301,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 15,
+        "GroupID": 833430001,
+        "SlotZLength": 52,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 16,
+        "GroupID": 833430701,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 18,
+        "GroupID": 10012301,
+        "SlotZLength": 60,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 19,
+        "GroupID": 19,
+        "SlotZLength": 44,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 20,
+        "GroupID": 836330101,
+        "SlotZLength": 56,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 21,
+        "GroupID": 838430101,
+        "SlotZLength": 32,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 22,
+        "GroupID": 838430201,
+        "SlotZLength": 32,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 23,
+        "GroupID": 838430301,
+        "SlotZLength": 32,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 24,
+        "GroupID": 838440101,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 25,
+        "GroupID": 838440201,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 26,
+        "GroupID": 838440301,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 27,
+        "GroupID": 838440401,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 28,
+        "GroupID": 838450101,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 29,
+        "GroupID": 838450201,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 30,
+        "GroupID": 838450301,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 31,
+        "GroupID": 838450401,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 32,
+        "GroupID": 400010336,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 33,
+        "GroupID": 839130901,
+        "SlotZLength": 32,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 4001,
+        "GroupID": 4001,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 4002,
+        "GroupID": 4002,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 4003,
+        "GroupID": 4003,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9994,
+        "GroupID": 9956,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9995,
+        "GroupID": 9957,
+        "SlotZLength": 48,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9996,
+        "GroupID": 9958,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9997,
+        "GroupID": 9959,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9998,
+        "GroupID": 9960,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 9999,
+        "GroupID": 9961,
+        "SlotZLength": 40,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 21,
+        "GroupID": 21,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 34,
+        "GroupID": 9997,
+        "SlotZLength": 72,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 35,
+        "GroupID": 9998,
+        "SlotZLength": 72,
+        "SlotXLength": 24
+    },
+    {
+        "Id": 1001,
+        "GroupID": 1001,
+        "SlotZLength": 120,
+        "SlotXLength": 24
+    }
+]

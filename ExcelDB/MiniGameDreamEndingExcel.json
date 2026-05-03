@@ -1,0 +1,20 @@
+[
+    {
+        "EventContentId": 836,
+        "EndingId": 100,
+        "DreamMakerEndingType": "Special",
+        "Order": 1,
+        "ScenarioGroupId": 11434020,
+        "EndingConditionLength": 80,
+        "EndingConditionValueLength": 44
+    },
+    {
+        "EventContentId": 836,
+        "EndingId": 200,
+        "DreamMakerEndingType": "Normal",
+        "Order": 9999,
+        "ScenarioGroupId": 11434010,
+        "EndingConditionLength": 0,
+        "EndingConditionValueLength": 0
+    }
+]

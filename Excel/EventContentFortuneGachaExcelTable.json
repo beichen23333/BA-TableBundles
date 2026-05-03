@@ -1,0 +1,632 @@
+[
+    {
+        "FortuneGachaGroupId": 160370815,
+        "LocalizeEtcId": 790337540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370812,
+        "LocalizeEtcId": 1429564307,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370813,
+        "LocalizeEtcId": 1069083028,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370810,
+        "LocalizeEtcId": 1787458164,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370811,
+        "LocalizeEtcId": 2207350686,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370808,
+        "LocalizeEtcId": 4036539003,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370809,
+        "LocalizeEtcId": 2043632916,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370806,
+        "LocalizeEtcId": 4189577161,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370807,
+        "LocalizeEtcId": 3386909614,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370804,
+        "LocalizeEtcId": 1242613878,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370805,
+        "LocalizeEtcId": 3410749979,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370802,
+        "LocalizeEtcId": 338751176,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370803,
+        "LocalizeEtcId": 768952500,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370800,
+        "LocalizeEtcId": 2802304540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370801,
+        "LocalizeEtcId": 2147988941,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370798,
+        "LocalizeEtcId": 4004775819,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370799,
+        "LocalizeEtcId": 2584221054,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370796,
+        "LocalizeEtcId": 2048551595,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370797,
+        "LocalizeEtcId": 67934873,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370794,
+        "LocalizeEtcId": 279433625,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370795,
+        "LocalizeEtcId": 2517757321,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370792,
+        "LocalizeEtcId": 1883735017,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370793,
+        "LocalizeEtcId": 107666669,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370790,
+        "LocalizeEtcId": 1250220921,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370784,
+        "LocalizeEtcId": 821181061,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370785,
+        "LocalizeEtcId": 40406667,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370782,
+        "LocalizeEtcId": 1632981921,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370783,
+        "LocalizeEtcId": 4123498715,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370780,
+        "LocalizeEtcId": 2881693380,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370781,
+        "LocalizeEtcId": 2407019953,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370778,
+        "LocalizeEtcId": 2980826886,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370779,
+        "LocalizeEtcId": 1777677314,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370776,
+        "LocalizeEtcId": 998578728,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370777,
+        "LocalizeEtcId": 130559410,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370774,
+        "LocalizeEtcId": 3258683816,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370775,
+        "LocalizeEtcId": 4015924425,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370772,
+        "LocalizeEtcId": 4264438291,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370773,
+        "LocalizeEtcId": 1811162298,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370770,
+        "LocalizeEtcId": 2691881167,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370771,
+        "LocalizeEtcId": 68411829,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370768,
+        "LocalizeEtcId": 3165587416,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370769,
+        "LocalizeEtcId": 427318030,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370766,
+        "LocalizeEtcId": 2568350234,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370767,
+        "LocalizeEtcId": 1183299299,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370764,
+        "LocalizeEtcId": 3863844882,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370765,
+        "LocalizeEtcId": 2339860462,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370762,
+        "LocalizeEtcId": 402883387,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370763,
+        "LocalizeEtcId": 1978624044,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370760,
+        "LocalizeEtcId": 783890582,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370761,
+        "LocalizeEtcId": 237375785,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370758,
+        "LocalizeEtcId": 2222214226,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370759,
+        "LocalizeEtcId": 529982040,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370756,
+        "LocalizeEtcId": 1403265540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370757,
+        "LocalizeEtcId": 855625709,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370754,
+        "LocalizeEtcId": 832404601,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370755,
+        "LocalizeEtcId": 680741768,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370752,
+        "LocalizeEtcId": 3982803992,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370753,
+        "LocalizeEtcId": 1853260100,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370744,
+        "LocalizeEtcId": 790337540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370745,
+        "LocalizeEtcId": 1429564307,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370742,
+        "LocalizeEtcId": 1069083028,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370743,
+        "LocalizeEtcId": 1787458164,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370740,
+        "LocalizeEtcId": 2207350686,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370741,
+        "LocalizeEtcId": 4036539003,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370738,
+        "LocalizeEtcId": 2043632916,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370739,
+        "LocalizeEtcId": 4189577161,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370736,
+        "LocalizeEtcId": 3386909614,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370737,
+        "LocalizeEtcId": 1242613878,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370734,
+        "LocalizeEtcId": 3410749979,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370735,
+        "LocalizeEtcId": 338751176,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370732,
+        "LocalizeEtcId": 768952500,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370733,
+        "LocalizeEtcId": 2802304540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370730,
+        "LocalizeEtcId": 2147988941,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370731,
+        "LocalizeEtcId": 4004775819,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370728,
+        "LocalizeEtcId": 2584221054,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370729,
+        "LocalizeEtcId": 2048551595,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370726,
+        "LocalizeEtcId": 67934873,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370727,
+        "LocalizeEtcId": 279433625,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370724,
+        "LocalizeEtcId": 2517757321,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370725,
+        "LocalizeEtcId": 1883735017,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370722,
+        "LocalizeEtcId": 107666669,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370723,
+        "LocalizeEtcId": 1250220921,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5"
+    },
+    {
+        "FortuneGachaGroupId": 160370720,
+        "LocalizeEtcId": 1790756397,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370721,
+        "LocalizeEtcId": 298973666,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370718,
+        "LocalizeEtcId": 3716527334,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370719,
+        "LocalizeEtcId": 959496685,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370716,
+        "LocalizeEtcId": 2608464133,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck4"
+    },
+    {
+        "FortuneGachaGroupId": 160370714,
+        "LocalizeEtcId": 821181061,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370715,
+        "LocalizeEtcId": 40406667,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370712,
+        "LocalizeEtcId": 1632981921,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370713,
+        "LocalizeEtcId": 4123498715,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck0_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370710,
+        "LocalizeEtcId": 2881693380,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370711,
+        "LocalizeEtcId": 2407019953,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370708,
+        "LocalizeEtcId": 2980826886,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370709,
+        "LocalizeEtcId": 1777677314,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370706,
+        "LocalizeEtcId": 998578728,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370707,
+        "LocalizeEtcId": 130559410,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck1_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370704,
+        "LocalizeEtcId": 3258683816,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370705,
+        "LocalizeEtcId": 4015924425,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370702,
+        "LocalizeEtcId": 4264438291,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370703,
+        "LocalizeEtcId": 1811162298,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370700,
+        "LocalizeEtcId": 2691881167,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370701,
+        "LocalizeEtcId": 68411829,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck2_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370698,
+        "LocalizeEtcId": 3165587416,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370699,
+        "LocalizeEtcId": 427318030,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370696,
+        "LocalizeEtcId": 2568350234,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370697,
+        "LocalizeEtcId": 1183299299,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370694,
+        "LocalizeEtcId": 3863844882,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370695,
+        "LocalizeEtcId": 2339860462,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck3_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370692,
+        "LocalizeEtcId": 402883387,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370693,
+        "LocalizeEtcId": 1978624044,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370690,
+        "LocalizeEtcId": 783890582,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370691,
+        "LocalizeEtcId": 237375785,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370688,
+        "LocalizeEtcId": 2222214226,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370689,
+        "LocalizeEtcId": 529982040,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck4_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370942,
+        "LocalizeEtcId": 1403265540,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370943,
+        "LocalizeEtcId": 855625709,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370940,
+        "LocalizeEtcId": 832404601,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370941,
+        "LocalizeEtcId": 680741768,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370938,
+        "LocalizeEtcId": 3982803992,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370939,
+        "LocalizeEtcId": 1853260100,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/img_omikuji_paper_luck5_Common"
+    },
+    {
+        "FortuneGachaGroupId": 160370936,
+        "LocalizeEtcId": 1790756397,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck0"
+    },
+    {
+        "FortuneGachaGroupId": 160370937,
+        "LocalizeEtcId": 298973666,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck1"
+    },
+    {
+        "FortuneGachaGroupId": 160370934,
+        "LocalizeEtcId": 3716527334,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck2"
+    },
+    {
+        "FortuneGachaGroupId": 160370935,
+        "LocalizeEtcId": 959496685,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck3"
+    },
+    {
+        "FortuneGachaGroupId": 160370932,
+        "LocalizeEtcId": 2608464133,
+        "IconPath": "uis/01_common/27_eventcontent/omikujiimg/832/Img_FortuneGacha_Curry_Luck4"
+    }
+]

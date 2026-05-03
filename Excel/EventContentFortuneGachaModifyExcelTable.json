@@ -1,0 +1,56 @@
+[
+    {
+        "EventContentId": 1243270207,
+        "TargetGrade": 1243270931,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "uieventfortunegachashop_809",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Bucket_809",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_809",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_809"
+    },
+    {
+        "EventContentId": 1243270178,
+        "TargetGrade": 1243270931,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "uieventfortunegachashop_809",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Bucket_Common",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_Common",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_820"
+    },
+    {
+        "EventContentId": 1243270230,
+        "TargetGrade": 1243270930,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "UIEventFortuneGachaShop_832",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/832/Img_FortuneGacha_Bucket_832",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/832/Img_FortuneGacha_ShopBg_832",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_832"
+    },
+    {
+        "EventContentId": 1243276591,
+        "TargetGrade": 1243270931,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "uieventfortunegachashop_809",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Bucket_809",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_809",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_809"
+    },
+    {
+        "EventContentId": 1243276626,
+        "TargetGrade": 1243270931,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "uieventfortunegachashop_809",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_Bucket_Common",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/Img_Omikuji_ShopBg_Common",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_820"
+    },
+    {
+        "EventContentId": 1243276614,
+        "TargetGrade": 1243270930,
+        "ProbModifyStartCount": 1243270931,
+        "UsePrefabName": "UIEventFortuneGachaShop_832",
+        "BucketImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/832/Img_FortuneGacha_Bucket_832",
+        "ShopBgImagePath": "UIs/01_Common/27_EventContent/OmikujiImg/832/Img_FortuneGacha_ShopBg_832",
+        "TitleLocalizeKey": "UIEventFortuneGachaShop_Title_832"
+    }
+]

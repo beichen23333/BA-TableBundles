@@ -1,0 +1,2882 @@
+[
+    {
+        "Id": 822550468,
+        "EventContentId": 822549733,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_801_0",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殉",
+        "GuideText": "UI_Event_PlayGuide_Text_801_0"
+    },
+    {
+        "Id": 822550469,
+        "EventContentId": 822549733,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_801_1",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檉",
+        "GuideText": "UI_Event_PlayGuide_Text_801_1"
+    },
+    {
+        "Id": 822550470,
+        "EventContentId": 822549733,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_801_2",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榉",
+        "GuideText": "UI_Event_PlayGuide_Text_801_2"
+    },
+    {
+        "Id": 822550471,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꖉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_6"
+    },
+    {
+        "Id": 822550464,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_2"
+    },
+    {
+        "Id": 822550465,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_2",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꒉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_7"
+    },
+    {
+        "Id": 822550466,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_0",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_0"
+    },
+    {
+        "Id": 822550467,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_1",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_1"
+    },
+    {
+        "Id": 822550476,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_3",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_3"
+    },
+    {
+        "Id": 822550477,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_4",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋꞉",
+        "GuideText": "UI_Event_PlayGuide_Text_802_4"
+    },
+    {
+        "Id": 822550478,
+        "EventContentId": 822549734,
+        "DisplayOrder": 822550467,
+        "GuideTitle": "UI_Event_PlayGuide_Title_802_5",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꚉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_5"
+    },
+    {
+        "Id": 822550479,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_0"
+    },
+    {
+        "Id": 822550472,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_1"
+    },
+    {
+        "Id": 822550473,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_2"
+    },
+    {
+        "Id": 822550474,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_3"
+    },
+    {
+        "Id": 822550475,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_4"
+    },
+    {
+        "Id": 822550484,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822550485,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822550486,
+        "EventContentId": 822549735,
+        "DisplayOrder": 822550467,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822550487,
+        "EventContentId": 822549728,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮊",
+        "GuideText": "UI_Event_PlayGuide_Text_804_0"
+    },
+    {
+        "Id": 822550480,
+        "EventContentId": 822549728,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪊",
+        "GuideText": "UI_Event_PlayGuide_Text_804_1"
+    },
+    {
+        "Id": 822550481,
+        "EventContentId": 822549728,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦊",
+        "GuideText": "UI_Event_PlayGuide_Text_804_2"
+    },
+    {
+        "Id": 822550482,
+        "EventContentId": 822549729,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_0"
+    },
+    {
+        "Id": 822550483,
+        "EventContentId": 822549729,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_1"
+    },
+    {
+        "Id": 822550492,
+        "EventContentId": 822549729,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_2"
+    },
+    {
+        "Id": 822550493,
+        "EventContentId": 822549729,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_3"
+    },
+    {
+        "Id": 822550494,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_0"
+    },
+    {
+        "Id": 822550495,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_1"
+    },
+    {
+        "Id": 822550488,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_2"
+    },
+    {
+        "Id": 822550489,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_3"
+    },
+    {
+        "Id": 822550490,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋꞊",
+        "GuideText": "UI_Event_PlayGuide_Text_806_4"
+    },
+    {
+        "Id": 822550491,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋Ꚋ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_5"
+    },
+    {
+        "Id": 822550500,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꖊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_6"
+    },
+    {
+        "Id": 822550501,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550467,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꒊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_7"
+    },
+    {
+        "Id": 822550502,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550476,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꎊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_8"
+    },
+    {
+        "Id": 822550503,
+        "EventContentId": 822549730,
+        "DisplayOrder": 822550477,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꊊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_9"
+    },
+    {
+        "Id": 822550496,
+        "EventContentId": 822549740,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_0"
+    },
+    {
+        "Id": 822550497,
+        "EventContentId": 822549740,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_1"
+    },
+    {
+        "Id": 822550498,
+        "EventContentId": 822549740,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_2"
+    },
+    {
+        "Id": 822550499,
+        "EventContentId": 822549740,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_3"
+    },
+    {
+        "Id": 822550508,
+        "EventContentId": 822549740,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_4"
+    },
+    {
+        "Id": 822550509,
+        "EventContentId": 822549741,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋残",
+        "GuideText": "UI_Event_PlayGuide_Text_809_0"
+    },
+    {
+        "Id": 822550510,
+        "EventContentId": 822549741,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檋",
+        "GuideText": "UI_Event_PlayGuide_Text_809_1"
+    },
+    {
+        "Id": 822550511,
+        "EventContentId": 822549741,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榋",
+        "GuideText": "UI_Event_PlayGuide_Text_809_2"
+    },
+    {
+        "Id": 822550504,
+        "EventContentId": 822549741,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梋",
+        "GuideText": "UI_Event_PlayGuide_Text_809_3"
+    },
+    {
+        "Id": 822550505,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_0"
+    },
+    {
+        "Id": 822550506,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_1"
+    },
+    {
+        "Id": 822550507,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_2"
+    },
+    {
+        "Id": 822550516,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_3"
+    },
+    {
+        "Id": 822550517,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_4"
+    },
+    {
+        "Id": 822550518,
+        "EventContentId": 822549742,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⚙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_5"
+    },
+    {
+        "Id": 822550519,
+        "EventContentId": 822549743,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殙",
+        "GuideText": "UI_Event_PlayGuide_Text_811_0"
+    },
+    {
+        "Id": 822550512,
+        "EventContentId": 822549736,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_0"
+    },
+    {
+        "Id": 822550513,
+        "EventContentId": 822549736,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_1"
+    },
+    {
+        "Id": 822550514,
+        "EventContentId": 822549736,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_2"
+    },
+    {
+        "Id": 822550515,
+        "EventContentId": 822549736,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_3"
+    },
+    {
+        "Id": 822550524,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_0"
+    },
+    {
+        "Id": 822550525,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_1"
+    },
+    {
+        "Id": 822550526,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_2"
+    },
+    {
+        "Id": 822550527,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_3"
+    },
+    {
+        "Id": 822550520,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_4"
+    },
+    {
+        "Id": 822550521,
+        "EventContentId": 822549737,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_5"
+    },
+    {
+        "Id": 822550522,
+        "EventContentId": 822549738,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮚",
+        "GuideText": "UI_Event_PlayGuide_Text_814_0"
+    },
+    {
+        "Id": 822550523,
+        "EventContentId": 822549738,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪚",
+        "GuideText": "UI_Event_PlayGuide_Text_814_1"
+    },
+    {
+        "Id": 822550404,
+        "EventContentId": 822549738,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦚",
+        "GuideText": "UI_Event_PlayGuide_Text_814_2"
+    },
+    {
+        "Id": 822550405,
+        "EventContentId": 822549739,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殚",
+        "GuideText": "UI_Event_PlayGuide_Text_815_0"
+    },
+    {
+        "Id": 822550406,
+        "EventContentId": 822549748,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮚ",
+        "GuideText": "UI_Event_PlayGuide_Text_816_0"
+    },
+    {
+        "Id": 822550407,
+        "EventContentId": 822549748,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪚ",
+        "GuideText": "UI_Event_PlayGuide_Text_816_1"
+    },
+    {
+        "Id": 822550400,
+        "EventContentId": 822549748,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦚ",
+        "GuideText": "UI_Event_PlayGuide_Text_816_2"
+    },
+    {
+        "Id": 822550401,
+        "EventContentId": 822549749,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_0"
+    },
+    {
+        "Id": 822550402,
+        "EventContentId": 822549749,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_1"
+    },
+    {
+        "Id": 822550403,
+        "EventContentId": 822549749,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_2"
+    },
+    {
+        "Id": 822550412,
+        "EventContentId": 822549749,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_3"
+    },
+    {
+        "Id": 822550413,
+        "EventContentId": 822549750,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮛",
+        "GuideText": "UI_Event_PlayGuide_Text_818_0"
+    },
+    {
+        "Id": 822550414,
+        "EventContentId": 822549750,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪛",
+        "GuideText": "UI_Event_PlayGuide_Text_818_1"
+    },
+    {
+        "Id": 822550415,
+        "EventContentId": 822549750,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦛",
+        "GuideText": "UI_Event_PlayGuide_Text_818_2"
+    },
+    {
+        "Id": 822550408,
+        "EventContentId": 822549750,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢛",
+        "GuideText": "UI_Event_PlayGuide_Text_818_3"
+    },
+    {
+        "Id": 822550409,
+        "EventContentId": 822549751,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_0"
+    },
+    {
+        "Id": 822550410,
+        "EventContentId": 822549751,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_1"
+    },
+    {
+        "Id": 822550411,
+        "EventContentId": 822549751,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_2"
+    },
+    {
+        "Id": 822550420,
+        "EventContentId": 822549744,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_0"
+    },
+    {
+        "Id": 822550421,
+        "EventContentId": 822549744,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_1"
+    },
+    {
+        "Id": 822550422,
+        "EventContentId": 822549744,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_2"
+    },
+    {
+        "Id": 822550423,
+        "EventContentId": 822549744,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_3"
+    },
+    {
+        "Id": 822550416,
+        "EventContentId": 822549745,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殩",
+        "GuideText": "UI_Event_PlayGuide_Text_821_0"
+    },
+    {
+        "Id": 822550417,
+        "EventContentId": 822549746,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮩ",
+        "GuideText": "UI_Event_PlayGuide_Text_822_0"
+    },
+    {
+        "Id": 822550418,
+        "EventContentId": 822549747,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_823_0"
+    },
+    {
+        "Id": 822550419,
+        "EventContentId": 822549756,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮪",
+        "GuideText": "UI_Event_PlayGuide_Text_824_0"
+    },
+    {
+        "Id": 822550428,
+        "EventContentId": 822549756,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪪",
+        "GuideText": "UI_Event_PlayGuide_Text_824_1"
+    },
+    {
+        "Id": 822550429,
+        "EventContentId": 822549756,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦪",
+        "GuideText": "UI_Event_PlayGuide_Text_824_2"
+    },
+    {
+        "Id": 822550430,
+        "EventContentId": 822549756,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢪",
+        "GuideText": "UI_Event_PlayGuide_Text_824_3"
+    },
+    {
+        "Id": 822550431,
+        "EventContentId": 822549757,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_0"
+    },
+    {
+        "Id": 822550424,
+        "EventContentId": 822549757,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_1"
+    },
+    {
+        "Id": 822550425,
+        "EventContentId": 822549757,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_2"
+    },
+    {
+        "Id": 822550426,
+        "EventContentId": 822549757,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_3"
+    },
+    {
+        "Id": 822550427,
+        "EventContentId": 822549758,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_0"
+    },
+    {
+        "Id": 822550436,
+        "EventContentId": 822549758,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_1"
+    },
+    {
+        "Id": 822550437,
+        "EventContentId": 822549758,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_2"
+    },
+    {
+        "Id": 822550438,
+        "EventContentId": 822549758,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_3"
+    },
+    {
+        "Id": 822550439,
+        "EventContentId": 822549758,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋Ɦ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_4"
+    },
+    {
+        "Id": 822550432,
+        "EventContentId": 822549759,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_0"
+    },
+    {
+        "Id": 822550433,
+        "EventContentId": 822549759,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_1"
+    },
+    {
+        "Id": 822550434,
+        "EventContentId": 822549759,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_2"
+    },
+    {
+        "Id": 822550435,
+        "EventContentId": 822549759,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_3"
+    },
+    {
+        "Id": 822550444,
+        "EventContentId": 822549752,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_0"
+    },
+    {
+        "Id": 822550445,
+        "EventContentId": 822549752,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_1"
+    },
+    {
+        "Id": 822550446,
+        "EventContentId": 822549752,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_2"
+    },
+    {
+        "Id": 822550447,
+        "EventContentId": 822549752,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_3"
+    },
+    {
+        "Id": 822550440,
+        "EventContentId": 822549752,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_4"
+    },
+    {
+        "Id": 822550441,
+        "EventContentId": 822549753,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_0"
+    },
+    {
+        "Id": 822550442,
+        "EventContentId": 822549753,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_1"
+    },
+    {
+        "Id": 822550443,
+        "EventContentId": 822549753,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_2"
+    },
+    {
+        "Id": 822550452,
+        "EventContentId": 822549753,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_3"
+    },
+    {
+        "Id": 822550453,
+        "EventContentId": 822549753,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋枫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_4"
+    },
+    {
+        "Id": 822550454,
+        "EventContentId": 822549754,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_0"
+    },
+    {
+        "Id": 822550455,
+        "EventContentId": 822549754,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_1"
+    },
+    {
+        "Id": 822550448,
+        "EventContentId": 822549754,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_2"
+    },
+    {
+        "Id": 822550449,
+        "EventContentId": 822549754,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_3"
+    },
+    {
+        "Id": 822550450,
+        "EventContentId": 822549754,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_4"
+    },
+    {
+        "Id": 822550451,
+        "EventContentId": 822549755,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殹",
+        "GuideText": "UI_Event_PlayGuide_Text_831_0"
+    },
+    {
+        "Id": 822550460,
+        "EventContentId": 822549755,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檹",
+        "GuideText": "UI_Event_PlayGuide_Text_831_1"
+    },
+    {
+        "Id": 822550461,
+        "EventContentId": 822549755,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榹",
+        "GuideText": "UI_Event_PlayGuide_Text_831_2"
+    },
+    {
+        "Id": 822550462,
+        "EventContentId": 822549755,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梹",
+        "GuideText": "UI_Event_PlayGuide_Text_831_3"
+    },
+    {
+        "Id": 822550463,
+        "EventContentId": 822549755,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋枹",
+        "GuideText": "UI_Event_PlayGuide_Text_831_4"
+    },
+    {
+        "Id": 822550456,
+        "EventContentId": 822549636,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_0"
+    },
+    {
+        "Id": 822550457,
+        "EventContentId": 822549636,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_1"
+    },
+    {
+        "Id": 822550458,
+        "EventContentId": 822549636,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_2"
+    },
+    {
+        "Id": 822550459,
+        "EventContentId": 822549636,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_3"
+    },
+    {
+        "Id": 822550340,
+        "EventContentId": 822549636,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꞹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_4"
+    },
+    {
+        "Id": 822550341,
+        "EventContentId": 822549637,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_0"
+    },
+    {
+        "Id": 822550342,
+        "EventContentId": 822549637,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_1"
+    },
+    {
+        "Id": 822550343,
+        "EventContentId": 822549637,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_2"
+    },
+    {
+        "Id": 822550336,
+        "EventContentId": 822549637,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_3"
+    },
+    {
+        "Id": 822550337,
+        "EventContentId": 822549638,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮺",
+        "GuideText": "UI_Event_PlayGuide_Text_834_0"
+    },
+    {
+        "Id": 822550338,
+        "EventContentId": 822549638,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪺",
+        "GuideText": "UI_Event_PlayGuide_Text_834_1"
+    },
+    {
+        "Id": 822550339,
+        "EventContentId": 822549638,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦺",
+        "GuideText": "UI_Event_PlayGuide_Text_834_2"
+    },
+    {
+        "Id": 822550348,
+        "EventContentId": 822549638,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢺",
+        "GuideText": "UI_Event_PlayGuide_Text_834_3"
+    },
+    {
+        "Id": 822550349,
+        "EventContentId": 822549639,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殺",
+        "GuideText": "UI_Event_PlayGuide_Text_835_0"
+    },
+    {
+        "Id": 822550350,
+        "EventContentId": 822549639,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檺",
+        "GuideText": "UI_Event_PlayGuide_Text_835_1"
+    },
+    {
+        "Id": 822550351,
+        "EventContentId": 822549639,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榺",
+        "GuideText": "UI_Event_PlayGuide_Text_835_2"
+    },
+    {
+        "Id": 822550344,
+        "EventContentId": 822549639,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梺",
+        "GuideText": "UI_Event_PlayGuide_Text_835_3"
+    },
+    {
+        "Id": 822550345,
+        "EventContentId": 822549639,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋枺",
+        "GuideText": "UI_Event_PlayGuide_Text_835_4"
+    },
+    {
+        "Id": 822550346,
+        "EventContentId": 822549632,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮺ",
+        "GuideText": "UI_Event_PlayGuide_Text_836_0"
+    },
+    {
+        "Id": 822550347,
+        "EventContentId": 822549632,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪺ",
+        "GuideText": "UI_Event_PlayGuide_Text_836_1"
+    },
+    {
+        "Id": 822550356,
+        "EventContentId": 822549632,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦺ",
+        "GuideText": "UI_Event_PlayGuide_Text_836_2"
+    },
+    {
+        "Id": 822550357,
+        "EventContentId": 822549632,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢺ",
+        "GuideText": "UI_Event_PlayGuide_Text_836_3"
+    },
+    {
+        "Id": 822550354,
+        "EventContentId": 822549632,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋Ꞻ",
+        "GuideText": "UI_Event_PlayGuide_Text_836_4"
+    },
+    {
+        "Id": 822550358,
+        "EventContentId": 822549633,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_837_0"
+    },
+    {
+        "Id": 822550359,
+        "EventContentId": 822549633,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_837_1"
+    },
+    {
+        "Id": 822550352,
+        "EventContentId": 822549633,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_837_2"
+    },
+    {
+        "Id": 822550353,
+        "EventContentId": 822549633,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_837_4"
+    },
+    {
+        "Id": 822550355,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_0"
+    },
+    {
+        "Id": 822550364,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_1"
+    },
+    {
+        "Id": 822550365,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_2"
+    },
+    {
+        "Id": 822550366,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_3"
+    },
+    {
+        "Id": 822550367,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_4"
+    },
+    {
+        "Id": 822550360,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⚻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_5"
+    },
+    {
+        "Id": 822550361,
+        "EventContentId": 822549634,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋▻",
+        "GuideText": "UI_Event_PlayGuide_Text_838_6"
+    },
+    {
+        "Id": 822550362,
+        "EventContentId": 822549635,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殻",
+        "GuideText": "UI_Event_PlayGuide_Text_839_0"
+    },
+    {
+        "Id": 822550363,
+        "EventContentId": 822549635,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檻",
+        "GuideText": "UI_Event_PlayGuide_Text_839_1"
+    },
+    {
+        "Id": 822550372,
+        "EventContentId": 822549635,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榻",
+        "GuideText": "UI_Event_PlayGuide_Text_839_2"
+    },
+    {
+        "Id": 822550373,
+        "EventContentId": 822549635,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梻",
+        "GuideText": "UI_Event_PlayGuide_Text_839_3"
+    },
+    {
+        "Id": 822550374,
+        "EventContentId": 822549635,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋枻",
+        "GuideText": "UI_Event_PlayGuide_Text_839_4"
+    },
+    {
+        "Id": 822550375,
+        "EventContentId": 822549644,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⭉",
+        "GuideText": "UI_Event_PlayGuide_Text_840_0"
+    },
+    {
+        "Id": 822550368,
+        "EventContentId": 822549644,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⩉",
+        "GuideText": "UI_Event_PlayGuide_Text_840_1"
+    },
+    {
+        "Id": 822550369,
+        "EventContentId": 822549644,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⥉",
+        "GuideText": "UI_Event_PlayGuide_Text_840_2"
+    },
+    {
+        "Id": 822550370,
+        "EventContentId": 822549644,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⡉",
+        "GuideText": "UI_Event_PlayGuide_Text_840_3"
+    },
+    {
+        "Id": 822550371,
+        "EventContentId": 822549644,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋❉",
+        "GuideText": "UI_Event_PlayGuide_Text_840_4"
+    },
+    {
+        "Id": 822550380,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋歉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_0"
+    },
+    {
+        "Id": 822550381,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋橉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_1"
+    },
+    {
+        "Id": 822550382,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋楉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_1"
+    },
+    {
+        "Id": 822550383,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋桉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_2"
+    },
+    {
+        "Id": 822550376,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋杉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_3"
+    },
+    {
+        "Id": 822550377,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋晉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_4"
+    },
+    {
+        "Id": 822550378,
+        "EventContentId": 822549645,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋敉",
+        "GuideText": "UI_Event_PlayGuide_Text_841_5"
+    },
+    {
+        "Id": 822550379,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꭉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_0"
+    },
+    {
+        "Id": 822550388,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꩉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_1"
+    },
+    {
+        "Id": 822550389,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꥉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_1"
+    },
+    {
+        "Id": 822550390,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꡉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_2"
+    },
+    {
+        "Id": 822550391,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꝉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_3"
+    },
+    {
+        "Id": 822550384,
+        "EventContentId": 822549646,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꙉ",
+        "GuideText": "UI_Event_PlayGuide_Text_842_4"
+    },
+    {
+        "Id": 822550385,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_0"
+    },
+    {
+        "Id": 822550386,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_1"
+    },
+    {
+        "Id": 822550387,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_1"
+    },
+    {
+        "Id": 822550396,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_1"
+    },
+    {
+        "Id": 822550397,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_1"
+    },
+    {
+        "Id": 822550398,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_2"
+    },
+    {
+        "Id": 822550399,
+        "EventContentId": 822549647,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_843_3"
+    },
+    {
+        "Id": 822550392,
+        "EventContentId": 822549640,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⭊",
+        "GuideText": "UI_Event_PlayGuide_Text_844_0"
+    },
+    {
+        "Id": 822550393,
+        "EventContentId": 822549640,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⩊",
+        "GuideText": "UI_Event_PlayGuide_Text_844_1"
+    },
+    {
+        "Id": 822550394,
+        "EventContentId": 822549640,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⥊",
+        "GuideText": "UI_Event_PlayGuide_Text_844_2"
+    },
+    {
+        "Id": 822550395,
+        "EventContentId": 822549640,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⡊",
+        "GuideText": "UI_Event_PlayGuide_Text_844_3"
+    },
+    {
+        "Id": 822550276,
+        "EventContentId": 822549640,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋❊",
+        "GuideText": "UI_Event_PlayGuide_Text_844_4"
+    },
+    {
+        "Id": 822556885,
+        "EventContentId": 822556149,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殉",
+        "GuideText": "UI_Event_PlayGuide_Text_801_0"
+    },
+    {
+        "Id": 822556886,
+        "EventContentId": 822556149,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10801_1",
+        "GuideText": "UI_Event_PlayGuide_Text_10801_1"
+    },
+    {
+        "Id": 822556887,
+        "EventContentId": 822556149,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榉",
+        "GuideText": "UI_Event_PlayGuide_Text_801_2"
+    },
+    {
+        "Id": 822556880,
+        "EventContentId": 822556150,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_0"
+    },
+    {
+        "Id": 822556881,
+        "EventContentId": 822556150,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10802_1",
+        "GuideText": "UI_Event_PlayGuide_Text_802_1"
+    },
+    {
+        "Id": 822556882,
+        "EventContentId": 822556150,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10802_3",
+        "GuideText": "UI_Event_PlayGuide_Text_802_3"
+    },
+    {
+        "Id": 822556883,
+        "EventContentId": 822556150,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋꞉",
+        "GuideText": "UI_Event_PlayGuide_Text_802_4"
+    },
+    {
+        "Id": 822556892,
+        "EventContentId": 822556150,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꚉ",
+        "GuideText": "UI_Event_PlayGuide_Text_802_5"
+    },
+    {
+        "Id": 822556893,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_0"
+    },
+    {
+        "Id": 822556894,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10803_1",
+        "GuideText": "UI_Event_PlayGuide_Text_803_1"
+    },
+    {
+        "Id": 822556895,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10803_2",
+        "GuideText": "UI_Event_PlayGuide_Text_803_2"
+    },
+    {
+        "Id": 822556888,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10803_3",
+        "GuideText": "UI_Event_PlayGuide_Text_803_3"
+    },
+    {
+        "Id": 822556889,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10803_4",
+        "GuideText": "UI_Event_PlayGuide_Text_803_4"
+    },
+    {
+        "Id": 822556890,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822556891,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550466,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822556900,
+        "EventContentId": 822556151,
+        "DisplayOrder": 822550467,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_803_5"
+    },
+    {
+        "Id": 822556901,
+        "EventContentId": 822556144,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮊",
+        "GuideText": "UI_Event_PlayGuide_Text_804_0"
+    },
+    {
+        "Id": 822556902,
+        "EventContentId": 822556144,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10804_1",
+        "GuideText": "UI_Event_PlayGuide_Text_804_1"
+    },
+    {
+        "Id": 822556903,
+        "EventContentId": 822556144,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10804_2",
+        "GuideText": "UI_Event_PlayGuide_Text_804_2"
+    },
+    {
+        "Id": 822556896,
+        "EventContentId": 822556145,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_0"
+    },
+    {
+        "Id": 822556897,
+        "EventContentId": 822556145,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10805_1",
+        "GuideText": "UI_Event_PlayGuide_Text_805_1"
+    },
+    {
+        "Id": 822556898,
+        "EventContentId": 822556145,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10805_2",
+        "GuideText": "UI_Event_PlayGuide_Text_805_2"
+    },
+    {
+        "Id": 822556899,
+        "EventContentId": 822556145,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梊",
+        "GuideText": "UI_Event_PlayGuide_Text_805_3"
+    },
+    {
+        "Id": 822556908,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_0"
+    },
+    {
+        "Id": 822556909,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10806_1",
+        "GuideText": "UI_Event_PlayGuide_Text_806_1"
+    },
+    {
+        "Id": 822556910,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10806_2",
+        "GuideText": "UI_Event_PlayGuide_Text_806_2"
+    },
+    {
+        "Id": 822556911,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢊ",
+        "GuideText": "UI_Event_PlayGuide_Text_806_3"
+    },
+    {
+        "Id": 822556904,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_806_10",
+        "GuideText": "UI_Event_PlayGuide_Text_806_10"
+    },
+    {
+        "Id": 822556905,
+        "EventContentId": 822556146,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_806_11",
+        "GuideText": "UI_Event_PlayGuide_Text_806_11"
+    },
+    {
+        "Id": 822556906,
+        "EventContentId": 822556156,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_0"
+    },
+    {
+        "Id": 822556907,
+        "EventContentId": 822556156,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10808_1",
+        "GuideText": "UI_Event_PlayGuide_Text_808_1"
+    },
+    {
+        "Id": 822556916,
+        "EventContentId": 822556156,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10808_2",
+        "GuideText": "UI_Event_PlayGuide_Text_808_2"
+    },
+    {
+        "Id": 822556917,
+        "EventContentId": 822556156,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_3"
+    },
+    {
+        "Id": 822556918,
+        "EventContentId": 822556156,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➋",
+        "GuideText": "UI_Event_PlayGuide_Text_808_4"
+    },
+    {
+        "Id": 822556919,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_0"
+    },
+    {
+        "Id": 822556912,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10810_1",
+        "GuideText": "UI_Event_PlayGuide_Text_810_1"
+    },
+    {
+        "Id": 822556913,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10810_2",
+        "GuideText": "UI_Event_PlayGuide_Text_810_2"
+    },
+    {
+        "Id": 822556914,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_3"
+    },
+    {
+        "Id": 822556915,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_4"
+    },
+    {
+        "Id": 822556924,
+        "EventContentId": 822556158,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⚙",
+        "GuideText": "UI_Event_PlayGuide_Text_810_5"
+    },
+    {
+        "Id": 822556925,
+        "EventContentId": 822556159,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殙",
+        "GuideText": "UI_Event_PlayGuide_Text_811_0"
+    },
+    {
+        "Id": 822556926,
+        "EventContentId": 822556152,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_0"
+    },
+    {
+        "Id": 822556927,
+        "EventContentId": 822556152,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10812_1",
+        "GuideText": "UI_Event_PlayGuide_Text_812_1"
+    },
+    {
+        "Id": 822556920,
+        "EventContentId": 822556152,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10812_2",
+        "GuideText": "UI_Event_PlayGuide_Text_812_2"
+    },
+    {
+        "Id": 822556921,
+        "EventContentId": 822556152,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢙ",
+        "GuideText": "UI_Event_PlayGuide_Text_812_3"
+    },
+    {
+        "Id": 822556922,
+        "EventContentId": 822556157,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋残",
+        "GuideText": "UI_Event_PlayGuide_Text_809_0"
+    },
+    {
+        "Id": 822556923,
+        "EventContentId": 822556157,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10809_1",
+        "GuideText": "UI_Event_PlayGuide_Text_809_1"
+    },
+    {
+        "Id": 822556804,
+        "EventContentId": 822556157,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10809_2",
+        "GuideText": "UI_Event_PlayGuide_Text_809_2"
+    },
+    {
+        "Id": 822556805,
+        "EventContentId": 822556157,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梋",
+        "GuideText": "UI_Event_PlayGuide_Text_809_3"
+    },
+    {
+        "Id": 822556806,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_0"
+    },
+    {
+        "Id": 822556807,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10813_1",
+        "GuideText": "UI_Event_PlayGuide_Text_813_1"
+    },
+    {
+        "Id": 822556800,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10813_2",
+        "GuideText": "UI_Event_PlayGuide_Text_813_2"
+    },
+    {
+        "Id": 822556801,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_3"
+    },
+    {
+        "Id": 822556802,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_4"
+    },
+    {
+        "Id": 822556803,
+        "EventContentId": 822556153,
+        "DisplayOrder": 822550465,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_813_5"
+    },
+    {
+        "Id": 822556812,
+        "EventContentId": 822556036,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮚ",
+        "GuideText": "UI_Event_PlayGuide_Text_816_0"
+    },
+    {
+        "Id": 822556813,
+        "EventContentId": 822556036,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10816_1",
+        "GuideText": "UI_Event_PlayGuide_Text_816_1"
+    },
+    {
+        "Id": 822556814,
+        "EventContentId": 822556036,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10816_2",
+        "GuideText": "UI_Event_PlayGuide_Text_816_2"
+    },
+    {
+        "Id": 822556815,
+        "EventContentId": 822556154,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮚",
+        "GuideText": "UI_Event_PlayGuide_Text_814_0"
+    },
+    {
+        "Id": 822556808,
+        "EventContentId": 822556154,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10814_1",
+        "GuideText": "UI_Event_PlayGuide_Text_814_1"
+    },
+    {
+        "Id": 822556809,
+        "EventContentId": 822556154,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10814_2",
+        "GuideText": "UI_Event_PlayGuide_Text_814_2"
+    },
+    {
+        "Id": 822556810,
+        "EventContentId": 822556155,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10815_0",
+        "GuideText": "UI_Event_PlayGuide_Text_815_0"
+    },
+    {
+        "Id": 822556811,
+        "EventContentId": 822556037,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_0"
+    },
+    {
+        "Id": 822556820,
+        "EventContentId": 822556037,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10817_1",
+        "GuideText": "UI_Event_PlayGuide_Text_817_1"
+    },
+    {
+        "Id": 822556821,
+        "EventContentId": 822556037,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10817_2",
+        "GuideText": "UI_Event_PlayGuide_Text_817_2"
+    },
+    {
+        "Id": 822556822,
+        "EventContentId": 822556037,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_817_3"
+    },
+    {
+        "Id": 822556823,
+        "EventContentId": 822556038,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮛",
+        "GuideText": "UI_Event_PlayGuide_Text_818_0"
+    },
+    {
+        "Id": 822556816,
+        "EventContentId": 822556038,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10818_1",
+        "GuideText": "UI_Event_PlayGuide_Text_818_1"
+    },
+    {
+        "Id": 822556817,
+        "EventContentId": 822556038,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10818_2",
+        "GuideText": "UI_Event_PlayGuide_Text_818_2"
+    },
+    {
+        "Id": 822556818,
+        "EventContentId": 822556038,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10818_3",
+        "GuideText": "UI_Event_PlayGuide_Text_818_3"
+    },
+    {
+        "Id": 822556819,
+        "EventContentId": 822556039,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_0"
+    },
+    {
+        "Id": 822556828,
+        "EventContentId": 822556039,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_1"
+    },
+    {
+        "Id": 822556829,
+        "EventContentId": 822556039,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榛",
+        "GuideText": "UI_Event_PlayGuide_Text_819_2"
+    },
+    {
+        "Id": 822556830,
+        "EventContentId": 822556032,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_0"
+    },
+    {
+        "Id": 822556831,
+        "EventContentId": 822556032,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10820_1",
+        "GuideText": "UI_Event_PlayGuide_Text_820_1"
+    },
+    {
+        "Id": 822556824,
+        "EventContentId": 822556032,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10820_2",
+        "GuideText": "UI_Event_PlayGuide_Text_820_2"
+    },
+    {
+        "Id": 822556825,
+        "EventContentId": 822556032,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢩",
+        "GuideText": "UI_Event_PlayGuide_Text_820_3"
+    },
+    {
+        "Id": 822556826,
+        "EventContentId": 822556046,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_0"
+    },
+    {
+        "Id": 822556827,
+        "EventContentId": 822556046,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꪪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_1"
+    },
+    {
+        "Id": 822556836,
+        "EventContentId": 822556046,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꦪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_2"
+    },
+    {
+        "Id": 822556837,
+        "EventContentId": 822556046,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꢪ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_3"
+    },
+    {
+        "Id": 822556838,
+        "EventContentId": 822556046,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋Ɦ",
+        "GuideText": "UI_Event_PlayGuide_Text_826_4"
+    },
+    {
+        "Id": 822556839,
+        "EventContentId": 822556045,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_0"
+    },
+    {
+        "Id": 822556832,
+        "EventContentId": 822556045,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10825_1",
+        "GuideText": "UI_Event_PlayGuide_Text_825_1"
+    },
+    {
+        "Id": 822556833,
+        "EventContentId": 822556045,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10825_2",
+        "GuideText": "UI_Event_PlayGuide_Text_825_2"
+    },
+    {
+        "Id": 822556834,
+        "EventContentId": 822556045,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梪",
+        "GuideText": "UI_Event_PlayGuide_Text_825_3"
+    },
+    {
+        "Id": 822556835,
+        "EventContentId": 822556047,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_0"
+    },
+    {
+        "Id": 822556844,
+        "EventContentId": 822556047,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10827_1",
+        "GuideText": "UI_Event_PlayGuide_Text_827_1"
+    },
+    {
+        "Id": 822556845,
+        "EventContentId": 822556047,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10827_2",
+        "GuideText": "UI_Event_PlayGuide_Text_827_1"
+    },
+    {
+        "Id": 822556846,
+        "EventContentId": 822556047,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10827_3",
+        "GuideText": "UI_Event_PlayGuide_Text_827_2"
+    },
+    {
+        "Id": 822556847,
+        "EventContentId": 822556047,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_827_3"
+    },
+    {
+        "Id": 822556840,
+        "EventContentId": 822556041,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋殫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_0"
+    },
+    {
+        "Id": 822556841,
+        "EventContentId": 822556041,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋檫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_1"
+    },
+    {
+        "Id": 822556842,
+        "EventContentId": 822556041,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋榫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_2"
+    },
+    {
+        "Id": 822556843,
+        "EventContentId": 822556041,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋梫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_3"
+    },
+    {
+        "Id": 822556852,
+        "EventContentId": 822556041,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋枫",
+        "GuideText": "UI_Event_PlayGuide_Text_829_4"
+    },
+    {
+        "Id": 822556853,
+        "EventContentId": 822556040,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_0"
+    },
+    {
+        "Id": 822556854,
+        "EventContentId": 822556040,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_1"
+    },
+    {
+        "Id": 822556855,
+        "EventContentId": 822556040,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_2"
+    },
+    {
+        "Id": 822556848,
+        "EventContentId": 822556040,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_3"
+    },
+    {
+        "Id": 822556849,
+        "EventContentId": 822556040,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➫",
+        "GuideText": "UI_Event_PlayGuide_Text_828_4"
+    },
+    {
+        "Id": 822556850,
+        "EventContentId": 822556053,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_0"
+    },
+    {
+        "Id": 822556851,
+        "EventContentId": 822556053,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10833_1",
+        "GuideText": "UI_Event_PlayGuide_Text_833_1"
+    },
+    {
+        "Id": 822556860,
+        "EventContentId": 822556053,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10833_2",
+        "GuideText": "UI_Event_PlayGuide_Text_833_1"
+    },
+    {
+        "Id": 822556861,
+        "EventContentId": 822556053,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10833_3",
+        "GuideText": "UI_Event_PlayGuide_Text_833_2"
+    },
+    {
+        "Id": 822556862,
+        "EventContentId": 822556053,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋",
+        "GuideText": "UI_Event_PlayGuide_Text_833_3"
+    },
+    {
+        "Id": 822556863,
+        "EventContentId": 822556042,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⮹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_0"
+    },
+    {
+        "Id": 822556856,
+        "EventContentId": 822556042,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⪹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_1"
+    },
+    {
+        "Id": 822556857,
+        "EventContentId": 822556042,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⦹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_2"
+    },
+    {
+        "Id": 822556858,
+        "EventContentId": 822556042,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋⢹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_3"
+    },
+    {
+        "Id": 822556859,
+        "EventContentId": 822556042,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋➹",
+        "GuideText": "UI_Event_PlayGuide_Text_830_4"
+    },
+    {
+        "Id": 822556740,
+        "EventContentId": 822556052,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꮹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_0"
+    },
+    {
+        "Id": 822556741,
+        "EventContentId": 822556052,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10832_1",
+        "GuideText": "UI_Event_PlayGuide_Text_832_1"
+    },
+    {
+        "Id": 822556742,
+        "EventContentId": 822556052,
+        "DisplayOrder": 822550470,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10832_2",
+        "GuideText": "UI_Event_PlayGuide_Text_832_2"
+    },
+    {
+        "Id": 822556743,
+        "EventContentId": 822556052,
+        "DisplayOrder": 822550471,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_10832_3",
+        "GuideText": "UI_Event_PlayGuide_Text_832_3"
+    },
+    {
+        "Id": 822556736,
+        "EventContentId": 822556052,
+        "DisplayOrder": 822550464,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "钔㻹哏缔㒸䩽꣖调䪚류䔯誋랫넓촋ꞹ",
+        "GuideText": "UI_Event_PlayGuide_Text_832_4"
+    },
+    {
+        "Id": 822605220,
+        "EventContentId": 822605221,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605221,
+        "EventContentId": 822605221,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605222,
+        "EventContentId": 822605222,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605223,
+        "EventContentId": 822605222,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605216,
+        "EventContentId": 822605223,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605217,
+        "EventContentId": 822605223,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605218,
+        "EventContentId": 822605216,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605219,
+        "EventContentId": 822605216,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605228,
+        "EventContentId": 822605217,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605229,
+        "EventContentId": 822605217,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605230,
+        "EventContentId": 822605218,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605231,
+        "EventContentId": 822605218,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605224,
+        "EventContentId": 822605219,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605225,
+        "EventContentId": 822605219,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605226,
+        "EventContentId": 822605228,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605227,
+        "EventContentId": 822605228,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605236,
+        "EventContentId": 822605229,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605237,
+        "EventContentId": 822605229,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605238,
+        "EventContentId": 822605230,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605239,
+        "EventContentId": 822605230,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605232,
+        "EventContentId": 822605231,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605233,
+        "EventContentId": 822605231,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822605234,
+        "EventContentId": 822605224,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822605235,
+        "EventContentId": 822605224,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_1"
+    },
+    {
+        "Id": 822480564,
+        "EventContentId": 822480565,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_70000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822480565,
+        "EventContentId": 822480565,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_70000_1"
+    },
+    {
+        "Id": 822480566,
+        "EventContentId": 822480566,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_70000_0",
+        "GuideText": "UI_Event_PlayGuide_Text_60000_0"
+    },
+    {
+        "Id": 822480567,
+        "EventContentId": 822480566,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_60000_1",
+        "GuideText": "UI_Event_PlayGuide_Text_70000_1"
+    },
+    {
+        "Id": 822486852,
+        "EventContentId": 822486852,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_80000_0",
+        "GuideText": "UI_SeasonalEvent_PlayGuide_Text_80000_0"
+    },
+    {
+        "Id": 822493268,
+        "EventContentId": 822780165,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493269,
+        "EventContentId": 822780166,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493270,
+        "EventContentId": 822780167,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493271,
+        "EventContentId": 822780160,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493264,
+        "EventContentId": 822780161,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493265,
+        "EventContentId": 822780162,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493266,
+        "EventContentId": 822780172,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493267,
+        "EventContentId": 822780173,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493276,
+        "EventContentId": 822780174,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493277,
+        "EventContentId": 822780174,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900810_1",
+        "GuideText": "UI_Event_PlayGuide_Text_900810_1"
+    },
+    {
+        "Id": 822493278,
+        "EventContentId": 822780175,
+        "DisplayOrder": 822550468,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493279,
+        "EventContentId": 822780175,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900810_1",
+        "GuideText": "UI_Event_PlayGuide_Text_900810_1"
+    },
+    {
+        "Id": 822493272,
+        "EventContentId": 822780168,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493273,
+        "EventContentId": 822780169,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493274,
+        "EventContentId": 822780170,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900814_1",
+        "GuideText": "UI_Event_PlayGuide_Text_900814_1"
+    },
+    {
+        "Id": 822493275,
+        "EventContentId": 822780171,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900815_1",
+        "GuideText": "UI_Event_PlayGuide_Text_900815_1"
+    },
+    {
+        "Id": 822493284,
+        "EventContentId": 822780180,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493285,
+        "EventContentId": 822780181,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493286,
+        "EventContentId": 822780182,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493287,
+        "EventContentId": 822780183,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493280,
+        "EventContentId": 822780189,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    },
+    {
+        "Id": 822493281,
+        "EventContentId": 822780176,
+        "DisplayOrder": 822550469,
+        "GuideTitle": "UI_Event_PlayGuide_Title_Text",
+        "GuideImagePath": "UIs/01_Common/27_EventContent/PlayGuide/Event_PlayGuide_900800",
+        "GuideText": "UI_Event_PlayGuide_Text_50000_0"
+    }
+]

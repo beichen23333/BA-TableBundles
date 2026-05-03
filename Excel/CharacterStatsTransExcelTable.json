@@ -1,0 +1,100 @@
+{
+    "DataList": [
+        {
+            "TransSupportStats": "DefensePower",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 1000,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "MoveSpeed",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 1000,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "AttackRange",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "CriticalRate",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "DefensePower",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 3500,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "MoveSpeed",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 2000,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "AttackRange",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 5000,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "CriticalRate",
+            "EchelonExtensionType": "Base",
+            "TransSupportStatsFactor": 1000,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "DefensePower",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "MoveSpeed",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "AttackRange",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "CriticalRate",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 500,
+            "StatTransType": "SpecialTransStat"
+        },
+        {
+            "TransSupportStats": "DefensePower",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 3500,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "MoveSpeed",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 2000,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "AttackRange",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 5000,
+            "StatTransType": "TSATransStat"
+        },
+        {
+            "TransSupportStats": "CriticalRate",
+            "EchelonExtensionType": "Extension",
+            "TransSupportStatsFactor": 1000,
+            "StatTransType": "TSATransStat"
+        }
+    ]
+}

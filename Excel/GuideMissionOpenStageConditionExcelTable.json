@@ -1,0 +1,101 @@
+[
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752541,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab1",
+        "ClearScenarioModeId": 1728752540,
+        "LockScenarioTextLocailzeCode": "",
+        "ShortcutScenarioUI": "",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752542,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab2",
+        "ClearScenarioModeId": 1728741520,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab2_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|11020",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752543,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab3",
+        "ClearScenarioModeId": 1728741400,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab3_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|11140",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752536,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab4",
+        "ClearScenarioModeId": 1728772428,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab4_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|21200",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752537,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab5",
+        "ClearScenarioModeId": 1728772518,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab5_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|21050",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752538,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab6",
+        "ClearScenarioModeId": 1728762462,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab6_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|31170",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752539,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab7",
+        "ClearScenarioModeId": 1728763476,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab7_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|32200",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752532,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab8",
+        "ClearScenarioModeId": 1728719486,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab8_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|33250",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    },
+    {
+        "SeasonId": 1728752534,
+        "OrderNumber": 1728752533,
+        "TabLocalizeCode": "GuideMission_ScenarioMode_Season_24_Tab9",
+        "ClearScenarioModeId": 1728719494,
+        "LockScenarioTextLocailzeCode": "GuideMission_ScenarioMode_Season_24_Tab9_Lock_Condition",
+        "ShortcutScenarioUI": "UIScenarioMode_Volume|33050",
+        "ClearStageId": 1728752540,
+        "LockStageTextLocailzeCode": "",
+        "ShortcutStageUI": ""
+    }
+]

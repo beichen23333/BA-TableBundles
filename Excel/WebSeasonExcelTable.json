@@ -1,0 +1,213 @@
+{
+    "DataList": [
+        {
+            "WebId": 1001,
+            "OpenTime": "2023-08-31 14:00:00",
+            "CloseTime": "2023-09-21 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1002,
+            "OpenTime": "2023-10-12 14:00:00",
+            "CloseTime": "2023-11-02 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1003,
+            "OpenTime": "2024-02-01 14:00:00",
+            "CloseTime": "2024-02-14 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_HalfAnniversary",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/newyear2024"
+        },
+        {
+            "WebId": 1004,
+            "OpenTime": "2024-02-14 04:00:00",
+            "CloseTime": "2024-02-29 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_HalfAnniversary",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/newyear2024"
+        },
+        {
+            "WebId": 1005,
+            "OpenTime": "2024-04-04 14:00:00",
+            "CloseTime": "2024-04-18 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_SRTgame",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/srtgame"
+        },
+        {
+            "WebId": 1006,
+            "OpenTime": "2024-05-23 14:00:00",
+            "CloseTime": "2024-06-13 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_serikaramen",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/serikaramen"
+        },
+        {
+            "WebId": 1007,
+            "OpenTime": "2024-07-25 14:00:00",
+            "CloseTime": "2024-08-15 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_Halofestival2024",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/halofestival2024"
+        },
+        {
+            "WebId": 1008,
+            "OpenTime": "2024-08-01 14:00:00",
+            "CloseTime": "2024-08-15 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1009,
+            "OpenTime": "2024-08-01 14:00:00",
+            "CloseTime": "2024-08-15 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 7,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1010,
+            "OpenTime": "2024-11-07 10:00:00",
+            "CloseTime": "2024-11-21 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_mikacakeroll",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/mikacakeroll"
+        },
+        {
+            "WebId": 1011,
+            "OpenTime": "2025-05-24 14:00:00",
+            "CloseTime": "2025-06-05 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_Halofestival2024",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/halofestival2024-second"
+        },
+        {
+            "WebId": 1012,
+            "OpenTime": "2025-07-31 14:00:00",
+            "CloseTime": "2025-08-14 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_anniversary2025",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/anniversary2025"
+        },
+        {
+            "WebId": 1013,
+            "OpenTime": "2025-10-02 14:00:00",
+            "CloseTime": "2025-10-16 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 7,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_anniversary2025",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/midautumn2025"
+        },
+        {
+            "WebId": 1014,
+            "OpenTime": "2026-01-29 10:00:00",
+            "CloseTime": "2026-02-14 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_rhythmgame2026",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/rhythmgame2026"
+        },
+        {
+            "WebId": 1015,
+            "OpenTime": "2026-01-29 10:00:00",
+            "CloseTime": "2026-02-21 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1016,
+            "OpenTime": "2026-01-29 10:00:00",
+            "CloseTime": "2026-02-28 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        },
+        {
+            "WebId": 1017,
+            "OpenTime": "2026-02-14 14:00:00",
+            "CloseTime": "2026-02-28 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 7,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_Beatgame2026",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 1,
+            "Url": "https://bluearchive-cn.com/webview/Beatgame2026"
+        },
+        {
+            "WebId": 1018,
+            "OpenTime": "2026-02-11 14:00:00",
+            "CloseTime": "2026-02-28 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "UIs/01_Common/27_EventContent/Enter_Parcel/CN_Web_Teamgame2026",
+            "BannerType": "Webview_Arg",
+            "IconOrder": 2,
+            "Url": "https://bluearchive-cn.com/webview/Teamgame2026"
+        },
+        {
+            "WebId": 1019,
+            "OpenTime": "2026-02-11 14:00:00",
+            "CloseTime": "2026-03-12 03:59:59",
+            "Type": 1,
+            "MailExpiredDay": 14,
+            "MainIconParcelPath": "",
+            "BannerType": "Stage",
+            "IconOrder": 0,
+            "Url": ""
+        }
+    ]
+}

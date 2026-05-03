@@ -1,0 +1,1136 @@
+[
+    {
+        "CardGroupId": 1589494549,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 22688798,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494550,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 311506130,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494551,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 3837623242,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494544,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 3592095155,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494545,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 753856548,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494546,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 487848060,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494547,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 2044038998,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494556,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 3528954480,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494557,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 1186340457,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494558,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 1470592604,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494559,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 793657965,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494552,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 1350689499,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_05",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494553,
+        "EventContentId": 1589493810,
+        "LocalizeEtcId": 1249241031,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_06",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494554,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 2818954260,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494555,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1474286859,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494532,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1827335812,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494533,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 2391866035,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494534,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 2220554185,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494535,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 2812682365,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494528,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1329615420,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494529,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1902414096,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494530,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 659417623,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_r_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494531,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 3907950041,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494540,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1499208827,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494541,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 385629240,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494542,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 1482620384,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494543,
+        "EventContentId": 1589493817,
+        "LocalizeEtcId": 2815172076,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_05",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494012,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 228725402,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494013,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 2665527710,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494014,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 2495217729,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494015,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 1843389951,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494008,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 2469616131,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494009,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 2031410483,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_sr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494010,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 1827442011,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_sr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494011,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 3554907894,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493988,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 2053553359,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_r_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493989,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 6167019,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493990,
+        "EventContentId": 1589493806,
+        "LocalizeEtcId": 170271627,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_826_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493991,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 946913299,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493984,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 578757176,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493985,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 492733184,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493986,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 321392470,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493987,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 3850608203,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493996,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 3766545259,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493997,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 2220126267,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493998,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 103310749,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_R_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493999,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 3738695052,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_R_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493992,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 3363831297,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493993,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 1989962655,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493994,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 2063214482,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589493995,
+        "EventContentId": 1589493801,
+        "LocalizeEtcId": 2001422260,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495572,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 2297364747,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SSR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495573,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 3964702409,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SSR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495574,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 1366132502,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SSR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495575,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 1952349419,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495568,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 3195338796,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495569,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 1473486214,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495570,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 4165960118,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_SR_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495571,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 1472333077,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_R_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495580,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 2598204432,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_R_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495581,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 3013171162,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_N_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589495582,
+        "EventContentId": 1589493847,
+        "LocalizeEtcId": 445192016,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_N_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_835_Back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494536,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 22688798,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494568,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494537,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 311506130,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494568,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494538,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 3837623242,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494539,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 3592095155,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494580,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 753856548,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494581,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 487848060,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494582,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 2044038998,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494583,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 3528954480,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494576,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 1186340457,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494577,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 1470592604,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494578,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 793657965,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494579,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 1350689499,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_05",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494588,
+        "EventContentId": 1589504290,
+        "LocalizeEtcId": 1249241031,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_06",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494589,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 2818954260,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494590,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1474286859,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494591,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1827335812,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494584,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 2391866035,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_ssr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494585,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 2220554185,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494586,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 2812682365,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494587,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1329615420,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_sr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494564,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1902414096,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494565,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 659417623,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_r_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494566,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 3907950041,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494567,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1499208827,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494560,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 385629240,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494561,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 1482620384,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589494562,
+        "EventContentId": 1589504297,
+        "LocalizeEtcId": 2815172076,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_n_05",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_813_back",
+        "RewardParcelTypeLength": 1589494560,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502980,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 228725402,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SSR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502981,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 2665527710,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SSR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502982,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 2495217729,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SSR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502983,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 1843389951,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502976,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 2469616131,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502977,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 2031410483,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502978,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 1827442011,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_SR_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502979,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 3554907894,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_R_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502988,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 2053553359,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_R_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502989,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 6167019,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_N_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502990,
+        "EventContentId": 1589504350,
+        "LocalizeEtcId": 170271627,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_N_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_826_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502991,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 946913299,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502984,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 578757176,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502985,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 492733184,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502986,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 321392470,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SSR_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589502987,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 3850608203,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503028,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 3766545259,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503029,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 2220126267,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_SR_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503030,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 103310749,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_R_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503031,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 3738695052,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_R_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503024,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 3363831297,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_01",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503025,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 1989962655,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_02",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503026,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 2063214482,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_03",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494572,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589503027,
+        "EventContentId": 1589504345,
+        "LocalizeEtcId": 2001422260,
+        "IconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_N_04",
+        "BackIconPath": "UIs/01_Common/27_EventContent/CardShop/Event_Image_Card_829_Back",
+        "RewardParcelTypeLength": 1589494608,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480756,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 22688798,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494568,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480757,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 311506130,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494568,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480758,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 3837623242,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480759,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 3592095155,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_ssr_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494612,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480752,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 753856548,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480753,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 487848060,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_sr_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480754,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 2044038998,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_r_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480755,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 3528954480,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_01",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480764,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 1186340457,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_02",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480765,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 1470592604,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_03",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480766,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 793657965,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_04",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480767,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 1350689499,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_05",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    },
+    {
+        "CardGroupId": 1589480760,
+        "EventContentId": 1589455220,
+        "LocalizeEtcId": 1249241031,
+        "IconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_806_n_06",
+        "BackIconPath": "uis/01_common/27_eventcontent/cardshop/event_image_card_back",
+        "RewardParcelTypeLength": 1589494564,
+        "RewardParcelIdLength": 1589494532
+    }
+]

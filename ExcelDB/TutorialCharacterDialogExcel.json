@@ -1,0 +1,2116 @@
+[
+    {
+        "TalkId": 1,
+        "AnimationName": "01",
+        "LocalizeKR": "首先请允许我为您说明一下[c][007eff]技能卡系统[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 3590297102
+    },
+    {
+        "TalkId": 1,
+        "AnimationName": "02",
+        "LocalizeKR": "参加战斗的成员们，各自拥有一张[c][007eff]必杀技能卡[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 1187715485
+    },
+    {
+        "TalkId": 1,
+        "AnimationName": "01",
+        "LocalizeKR": "战斗时会随机抽取其中3名成员的技能卡。",
+        "LocalizeJP": "",
+        "VoiceId": 609033854
+    },
+    {
+        "TalkId": 1,
+        "AnimationName": "01",
+        "LocalizeKR": "点击需要的技能卡，即可使用技能。",
+        "LocalizeJP": "",
+        "VoiceId": 2217664535
+    },
+    {
+        "TalkId": 2,
+        "AnimationName": "02",
+        "LocalizeKR": "使用技能需要\n消耗相应的[c][007eff]蓄能值[-][/c]，",
+        "LocalizeJP": "",
+        "VoiceId": 824910007
+    },
+    {
+        "TalkId": 2,
+        "AnimationName": "01",
+        "LocalizeKR": "蓄能值会[c][007eff]自动充填[-][/c]，并显示在能量条上。",
+        "LocalizeJP": "",
+        "VoiceId": 2769762702
+    },
+    {
+        "TalkId": 3,
+        "AnimationName": "01",
+        "LocalizeKR": "成员们在发现[c][007eff]掩体[-][/c]时，会[c][007eff]自动进行掩蔽[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 649132842
+    },
+    {
+        "TalkId": 3,
+        "AnimationName": "02",
+        "LocalizeKR": "掩蔽期间可以抵挡敌人的大部分攻击， ",
+        "LocalizeJP": "",
+        "VoiceId": 2182256461
+    },
+    {
+        "TalkId": 3,
+        "AnimationName": "99",
+        "LocalizeKR": "因此有效地进行掩蔽是作战的要领所在。",
+        "LocalizeJP": "",
+        "VoiceId": 974418249
+    },
+    {
+        "TalkId": 3,
+        "AnimationName": "20",
+        "LocalizeKR": "但请注意，有些成员无法进行掩蔽，并且掩体也可能会被敌人的攻击破坏。",
+        "LocalizeJP": "",
+        "VoiceId": 280669824
+    },
+    {
+        "TalkId": 4,
+        "AnimationName": "01",
+        "LocalizeKR": "前方的敌人聚成了一团呢。",
+        "LocalizeJP": "",
+        "VoiceId": 3004656566
+    },
+    {
+        "TalkId": 4,
+        "AnimationName": "13",
+        "LocalizeKR": "[c][007eff]铃美[-][/c]小姐的技能对[c][007eff]成群的敌人[-][/c]非常有效，请尝试一下吧。",
+        "LocalizeJP": "",
+        "VoiceId": 3083858370
+    },
+    {
+        "TalkId": 4,
+        "AnimationName": "02",
+        "LocalizeKR": "请在点击技能卡后，选择成群的敌人。",
+        "LocalizeJP": "",
+        "VoiceId": 1772103690
+    },
+    {
+        "TalkId": 5,
+        "AnimationName": "01",
+        "LocalizeKR": "接下来试试[c][007eff]优香[-][/c]小姐的技能吧。",
+        "LocalizeJP": "",
+        "VoiceId": 1077379718
+    },
+    {
+        "TalkId": 5,
+        "AnimationName": "03",
+        "LocalizeKR": "[c][007eff]优香[-][/c]小姐的技能可以进行[c][007eff]自我强化[-][/c]，请点击技能卡后再点击优香小姐。",
+        "LocalizeJP": "",
+        "VoiceId": 2764250063
+    },
+    {
+        "TalkId": 6,
+        "AnimationName": "42",
+        "LocalizeKR": "现在我们需要对付十字号坦克了！",
+        "LocalizeJP": "",
+        "VoiceId": 2561015670
+    },
+    {
+        "TalkId": 6,
+        "AnimationName": "37",
+        "LocalizeKR": "十字号坦克的防御类型属于[c][007eff]重装甲[-][/c]，使用[c][007eff]贯穿型技能[-][/c]可以对其造成额外伤害。",
+        "LocalizeJP": "",
+        "VoiceId": 3405530868
+    },
+    {
+        "TalkId": 6,
+        "AnimationName": "99",
+        "LocalizeKR": "[c][007eff]莲见[-][/c]小姐的技能就是[c][007eff]贯穿型[-][/c]，供您参考。",
+        "LocalizeJP": "",
+        "VoiceId": 4264091547
+    },
+    {
+        "TalkId": 7,
+        "AnimationName": "12",
+        "LocalizeKR": "现在，老师的工作正式开始了！",
+        "LocalizeJP": "",
+        "VoiceId": 2932089311
+    },
+    {
+        "TalkId": 7,
+        "AnimationName": "22",
+        "LocalizeKR": "不过……\n由于沙勒刚刚成立不久，\n目前的成员数还不是很多……",
+        "LocalizeJP": "",
+        "VoiceId": 4110480774
+    },
+    {
+        "TalkId": 7,
+        "AnimationName": "01",
+        "LocalizeKR": "为了工作可以顺利进行，\n请招募更多成员加入沙勒吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1780834401
+    },
+    {
+        "TalkId": 30001,
+        "AnimationName": "02",
+        "LocalizeKR": "在确定招募结果之前，阿洛娜先来和您讲一讲筛选招募吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3835677731
+    },
+    {
+        "TalkId": 30001,
+        "AnimationName": "01",
+        "LocalizeKR": "您可以进行额外的筛选招募，画面中会显示剩余次数。",
+        "LocalizeJP": "",
+        "VoiceId": 1788150924
+    },
+    {
+        "TalkId": 30002,
+        "AnimationName": "03",
+        "LocalizeKR": "如果您要保存当前招募结果，请点击【保存结果】按钮！",
+        "LocalizeJP": "",
+        "VoiceId": 170576393
+    },
+    {
+        "TalkId": 30003,
+        "AnimationName": "01",
+        "LocalizeKR": "保存的招募结果可以在这里查看。",
+        "LocalizeJP": "",
+        "VoiceId": 3719488430
+    },
+    {
+        "TalkId": 30004,
+        "AnimationName": "02",
+        "LocalizeKR": "您只能保存最新一次的招募结\n果，一定要注意哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3306037473
+    },
+    {
+        "TalkId": 30004,
+        "AnimationName": "01",
+        "LocalizeKR": "您可以点击【再次开始】按钮再次开始筛选招募。",
+        "LocalizeJP": "",
+        "VoiceId": 3607142554
+    },
+    {
+        "TalkId": 30005,
+        "AnimationName": "11",
+        "LocalizeKR": "最后可以点击【选择结果】按钮确定招募结果哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3382742326
+    },
+    {
+        "TalkId": 30006,
+        "AnimationName": "13",
+        "LocalizeKR": "说明就到这里啦，我们快去与新的成员见面吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1344548568
+    },
+    {
+        "TalkId": 8,
+        "AnimationName": "12",
+        "LocalizeKR": "招募到新的成员啦！",
+        "LocalizeJP": "",
+        "VoiceId": 578285553
+    },
+    {
+        "TalkId": 8,
+        "AnimationName": "01",
+        "LocalizeKR": "那么，接下来就去处理\n联邦理事会交代的工作吧。",
+        "LocalizeJP": "",
+        "VoiceId": 3960988693
+    },
+    {
+        "TalkId": 9,
+        "AnimationName": "22",
+        "LocalizeKR": "现在，我们就要去对付\n扰乱基沃托斯和平的恶势力了！",
+        "LocalizeJP": "",
+        "VoiceId": 3839857660
+    },
+    {
+        "TalkId": 10,
+        "AnimationName": "01",
+        "LocalizeKR": "这是战略地图。可以将成员们\n以部队为单位进行部署并移动，\n从宏观的角度来执行作战行动。",
+        "LocalizeJP": "",
+        "VoiceId": 450219970
+    },
+    {
+        "TalkId": 10,
+        "AnimationName": "01",
+        "LocalizeKR": "请点击【开始】棋格，\n投入我方部队吧！",
+        "LocalizeJP": "",
+        "VoiceId": 254506953
+    },
+    {
+        "TalkId": 11,
+        "AnimationName": "01",
+        "LocalizeKR": "我们来试着给刚刚招募的成员编组吧？",
+        "LocalizeJP": "",
+        "VoiceId": 2778323810
+    },
+    {
+        "TalkId": 12,
+        "AnimationName": "02",
+        "LocalizeKR": "部队分为在战场正面\n战斗的突击部队，",
+        "LocalizeJP": "",
+        "VoiceId": 3651300884
+    },
+    {
+        "TalkId": 13,
+        "AnimationName": "03",
+        "LocalizeKR": "和在后方负责支援\n战斗的支援部队。",
+        "LocalizeJP": "",
+        "VoiceId": 1046045242
+    },
+    {
+        "TalkId": 14,
+        "AnimationName": "31",
+        "LocalizeKR": "编组完毕，准备出击！",
+        "LocalizeJP": "",
+        "VoiceId": 2145924530
+    },
+    {
+        "TalkId": 15,
+        "AnimationName": "02",
+        "LocalizeKR": "点击【开始任务】按钮来执行任务吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1639954094
+    },
+    {
+        "TalkId": 16,
+        "AnimationName": "01",
+        "LocalizeKR": "点击邻接的棋格，部队就会移动到那里。",
+        "LocalizeJP": "",
+        "VoiceId": 1455196932
+    },
+    {
+        "TalkId": 16,
+        "AnimationName": "01",
+        "LocalizeKR": "那么先移动到敌人所在的棋格，展开战斗吧！",
+        "LocalizeJP": "",
+        "VoiceId": 555619172
+    },
+    {
+        "TalkId": 17,
+        "AnimationName": "10",
+        "LocalizeKR": "已经移动过的我方部队\n在本回合内就不可以再次移动了。",
+        "LocalizeJP": "",
+        "VoiceId": 2354882728
+    },
+    {
+        "TalkId": 17,
+        "AnimationName": "01",
+        "LocalizeKR": "点击【回合结束】按钮来结束回合吧。",
+        "LocalizeJP": "",
+        "VoiceId": 2763385595
+    },
+    {
+        "TalkId": 18,
+        "AnimationName": "01",
+        "LocalizeKR": "又轮到我们的回合了！",
+        "LocalizeJP": "",
+        "VoiceId": 1379607331
+    },
+    {
+        "TalkId": 18,
+        "AnimationName": "22",
+        "LocalizeKR": "现在敌人只剩首领一关啦！",
+        "LocalizeJP": "",
+        "VoiceId": 743560781
+    },
+    {
+        "TalkId": 19,
+        "AnimationName": "02",
+        "LocalizeKR": "执行任务时，在哪种地形上战斗是很重要的。",
+        "LocalizeJP": "",
+        "VoiceId": 3807954392
+    },
+    {
+        "TalkId": 20,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以查看当前战场的地形。",
+        "LocalizeJP": "",
+        "VoiceId": 1583841037
+    },
+    {
+        "TalkId": 20,
+        "AnimationName": "03",
+        "LocalizeKR": "有些类型的成员可以在特定地形发挥更强大的威力，请留意哦！",
+        "LocalizeJP": "",
+        "VoiceId": 4215813659
+    },
+    {
+        "TalkId": 21,
+        "AnimationName": "32",
+        "LocalizeKR": "嗯，基本的战斗方法已经全部说明完毕啦。",
+        "LocalizeJP": "",
+        "VoiceId": 2904762616
+    },
+    {
+        "TalkId": 21,
+        "AnimationName": "31",
+        "LocalizeKR": "接下来，就需要老师来解决\n在基沃托斯发生的各种各样的事件了！",
+        "LocalizeJP": "",
+        "VoiceId": 3145620398
+    },
+    {
+        "TalkId": 21,
+        "AnimationName": "01",
+        "LocalizeKR": "那么，先返回大厅吧！",
+        "LocalizeJP": "",
+        "VoiceId": 461350018
+    },
+    {
+        "TalkId": 22,
+        "AnimationName": "02",
+        "LocalizeKR": "编入部队的成员越多，\n使用技能时所需的蓄能值的\n恢复速度会越快。",
+        "LocalizeJP": "",
+        "VoiceId": 887370249
+    },
+    {
+        "TalkId": 22,
+        "AnimationName": "01",
+        "LocalizeKR": "突击部队和支援部队都配置了人员的时候，",
+        "LocalizeJP": "",
+        "VoiceId": 949017678
+    },
+    {
+        "TalkId": 22,
+        "AnimationName": "03",
+        "LocalizeKR": "蓄能值的恢复速度会更快，\n所以尽可能配置更多的成员吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3931485746
+    },
+    {
+        "TalkId": 23,
+        "AnimationName": "01",
+        "LocalizeKR": "辛苦了，老师。这里就是沙勒的大厅。",
+        "LocalizeJP": "",
+        "VoiceId": 3793542894
+    },
+    {
+        "TalkId": 23,
+        "AnimationName": "03",
+        "LocalizeKR": "您以后会在这里处理各种工作。",
+        "LocalizeJP": "",
+        "VoiceId": 4007141114
+    },
+    {
+        "TalkId": 23,
+        "AnimationName": "03",
+        "LocalizeKR": "……咦？有人来消息了。",
+        "LocalizeJP": "",
+        "VoiceId": 2309901145
+    },
+    {
+        "TalkId": 24,
+        "AnimationName": "01",
+        "LocalizeKR": "【桃信】是大家在基沃托斯普遍使用的聊天软件。",
+        "LocalizeJP": "",
+        "VoiceId": 2917098098
+    },
+    {
+        "TalkId": 24,
+        "AnimationName": "01",
+        "LocalizeKR": "以后老师可以通过它来和成员们聊天，",
+        "LocalizeJP": "",
+        "VoiceId": 101075014
+    },
+    {
+        "TalkId": 24,
+        "AnimationName": "01",
+        "LocalizeKR": "或查看成员们的好感信息。",
+        "LocalizeJP": "",
+        "VoiceId": 1515157484
+    },
+    {
+        "TalkId": 25,
+        "AnimationName": "01",
+        "LocalizeKR": "新收到的消息会单独显示在左侧。",
+        "LocalizeJP": "",
+        "VoiceId": 3329759055
+    },
+    {
+        "TalkId": 26,
+        "AnimationName": "03",
+        "LocalizeKR": "点击图标查看一下消息吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1934342385
+    },
+    {
+        "TalkId": 27,
+        "AnimationName": "20",
+        "LocalizeKR": "啊，是优香小姐！",
+        "LocalizeJP": "",
+        "VoiceId": 3184011681
+    },
+    {
+        "TalkId": 27,
+        "AnimationName": "25",
+        "LocalizeKR": "内容当然由老师亲自来确认哦。",
+        "LocalizeJP": "",
+        "VoiceId": 3151390730
+    },
+    {
+        "TalkId": 28,
+        "AnimationName": "01",
+        "LocalizeKR": "或许还能收到意料之外的东西呢……？",
+        "LocalizeJP": "",
+        "VoiceId": 3592854545
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以查看故事内容。",
+        "LocalizeJP": "",
+        "VoiceId": 3601609341
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "02",
+        "LocalizeKR": "主线故事中会解决在基沃托斯发生的各种事件，",
+        "LocalizeJP": "",
+        "VoiceId": 4002636445
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "31",
+        "LocalizeKR": "支线故事则包含了成员们的日常生活。",
+        "LocalizeJP": "",
+        "VoiceId": 716536840
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "32",
+        "LocalizeKR": "除此之外还可以观看各种各样的小故事，\n请别忘了查看哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3413301983
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "25",
+        "LocalizeKR": "在这里可以安排老师的日程！",
+        "LocalizeJP": "",
+        "VoiceId": 820665494
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "02",
+        "LocalizeKR": "老师可以和成员们一起选择并执行各种各样的日程。",
+        "LocalizeJP": "",
+        "VoiceId": 2449257908
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "01",
+        "LocalizeKR": "那我们先去沙勒业务区看看吧？",
+        "LocalizeJP": "",
+        "VoiceId": 3765920401
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "02",
+        "LocalizeKR": "选择准备好的工作安排，\n可以提升参加该日程的成员们的好感度！",
+        "LocalizeJP": "",
+        "VoiceId": 2453785862
+    },
+    {
+        "TalkId": 9999,
+        "AnimationName": "25",
+        "LocalizeKR": "执行日程是有次数限制的，\n所以要慎重决定哦！",
+        "LocalizeJP": "",
+        "VoiceId": 2032658864
+    },
+    {
+        "TalkId": 35,
+        "AnimationName": "25",
+        "LocalizeKR": "困难任务开放了！",
+        "LocalizeJP": "",
+        "VoiceId": 2025867271
+    },
+    {
+        "TalkId": 35,
+        "AnimationName": "25",
+        "LocalizeKR": "这是很重要的任务哦，\n我们一起来看一下吧。",
+        "LocalizeJP": "",
+        "VoiceId": 2595248621
+    },
+    {
+        "TalkId": 36,
+        "AnimationName": "22",
+        "LocalizeKR": "困难任务的难度更高，\n所以能获得更丰富的奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 1171714786
+    },
+    {
+        "TalkId": 36,
+        "AnimationName": "22",
+        "LocalizeKR": "但一天内可以挑战的次数是有限的，这点请您留意哦。",
+        "LocalizeJP": "",
+        "VoiceId": 3746217977
+    },
+    {
+        "TalkId": 37,
+        "AnimationName": "25",
+        "LocalizeKR": "那我们就进入任务看一看吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3737371301
+    },
+    {
+        "TalkId": 38,
+        "AnimationName": "02",
+        "LocalizeKR": "在困难任务中，\n视野范围通常会很难确保。",
+        "LocalizeJP": "",
+        "VoiceId": 3028231922
+    },
+    {
+        "TalkId": 39,
+        "AnimationName": "05",
+        "LocalizeKR": "在看不见的区域中隐藏着的\n究竟是敌人还是重要道具，\n只能由我们亲自去确认。",
+        "LocalizeJP": "",
+        "VoiceId": 2754978882
+    },
+    {
+        "TalkId": 39,
+        "AnimationName": "05",
+        "LocalizeKR": "因此必须做出更加有战略性的判断！",
+        "LocalizeJP": "",
+        "VoiceId": 1129749482
+    },
+    {
+        "TalkId": 39,
+        "AnimationName": "25",
+        "LocalizeKR": "那么开始吧！",
+        "LocalizeJP": "",
+        "VoiceId": 401821793
+    },
+    {
+        "TalkId": 40,
+        "AnimationName": "01",
+        "LocalizeKR": "在特别任务中可以选择老师想要执行的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 74121895
+    },
+    {
+        "TalkId": 40,
+        "AnimationName": "02",
+        "LocalizeKR": "不同的任务需要用到不同的战略组合，\n找到适合各个任务的攻略方法是很重要的！",
+        "LocalizeJP": "",
+        "VoiceId": 3158632403
+    },
+    {
+        "TalkId": 41,
+        "AnimationName": "31",
+        "LocalizeKR": "这次来选择【据点防御】任务吧。",
+        "LocalizeJP": "",
+        "VoiceId": 3381627007
+    },
+    {
+        "TalkId": 42,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以查看任务信息。",
+        "LocalizeJP": "",
+        "VoiceId": 2788115913
+    },
+    {
+        "TalkId": 43,
+        "AnimationName": "02",
+        "LocalizeKR": "确认当前战场的地形是很重要的。",
+        "LocalizeJP": "",
+        "VoiceId": 684289571
+    },
+    {
+        "TalkId": 43,
+        "AnimationName": "31",
+        "LocalizeKR": "有些类型的成员可以在\n特定地形中发挥更强大的威力，\n因此根据地形来配置成员会比较有利。",
+        "LocalizeJP": "",
+        "VoiceId": 4056179630
+    },
+    {
+        "TalkId": 44,
+        "AnimationName": "32",
+        "LocalizeKR": "那么，现在就进入特别任务吧。",
+        "LocalizeJP": "",
+        "VoiceId": 1369787987
+    },
+    {
+        "TalkId": 45,
+        "AnimationName": "25",
+        "LocalizeKR": "【据点防御】中会有很多敌人蜂拥而至，\n因此大范围攻击技能是非常有效的。",
+        "LocalizeJP": "",
+        "VoiceId": 1014884379
+    },
+    {
+        "TalkId": 45,
+        "AnimationName": "25",
+        "LocalizeKR": "请综合考虑战斗思路和地形因素，\n再来为成员们编队吧！",
+        "LocalizeJP": "",
+        "VoiceId": 357285376
+    },
+    {
+        "TalkId": 49,
+        "AnimationName": "05",
+        "LocalizeKR": "总力战是与极其强大的首领进行战斗的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 1028357534
+    },
+    {
+        "TalkId": 49,
+        "AnimationName": "05",
+        "LocalizeKR": "一天内可以参加战斗的次数是有限的，所以要慎重考虑后\n再进行战斗！",
+        "LocalizeJP": "",
+        "VoiceId": 763523812
+    },
+    {
+        "TalkId": 50,
+        "AnimationName": "02",
+        "LocalizeKR": "总力战分为不同的难度，\n越困难的难度就可以获得越丰厚的奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 4199825530
+    },
+    {
+        "TalkId": 51,
+        "AnimationName": "32",
+        "LocalizeKR": "那我就先介绍到这里了！\n期待老师的精彩表现哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3113174257
+    },
+    {
+        "TalkId": 52,
+        "AnimationName": "01",
+        "LocalizeKR": "在战术对抗赛中可以通过与其他成员们战斗来争夺排名。",
+        "LocalizeJP": "",
+        "VoiceId": 2264355441
+    },
+    {
+        "TalkId": 52,
+        "AnimationName": "02",
+        "LocalizeKR": "在这里可以查看参赛队伍的列表。",
+        "LocalizeJP": "",
+        "VoiceId": 1903432612
+    },
+    {
+        "TalkId": 53,
+        "AnimationName": "31",
+        "LocalizeKR": "请先点击这个按钮来组织防御。",
+        "LocalizeJP": "",
+        "VoiceId": 3813556911
+    },
+    {
+        "TalkId": 54,
+        "AnimationName": "01",
+        "LocalizeKR": "组织防御的要点是选择地图时可以选择对老师有利的地形！",
+        "LocalizeJP": "",
+        "VoiceId": 1973780739
+    },
+    {
+        "TalkId": 54,
+        "AnimationName": "02",
+        "LocalizeKR": "请灵活运用地图的选择和成员技能的组合来组织防御吧！",
+        "LocalizeJP": "",
+        "VoiceId": 2051537576
+    },
+    {
+        "TalkId": 55,
+        "AnimationName": "32",
+        "LocalizeKR": "期待老师在战术对抗赛中的精彩表现哦！",
+        "LocalizeJP": "",
+        "VoiceId": 629870668
+    },
+    {
+        "TalkId": 56,
+        "AnimationName": "01",
+        "LocalizeKR": "这次来了解一下怎样培养各位成员吧。",
+        "LocalizeJP": "",
+        "VoiceId": 511291740
+    },
+    {
+        "TalkId": 56,
+        "AnimationName": "02",
+        "LocalizeKR": "首先选择需要培养的成员！",
+        "LocalizeJP": "",
+        "VoiceId": 511780315
+    },
+    {
+        "TalkId": 57,
+        "AnimationName": "01",
+        "LocalizeKR": "在成员信息中可以查看成员的基础能力值信息。",
+        "LocalizeJP": "",
+        "VoiceId": 4057041792
+    },
+    {
+        "TalkId": 57,
+        "AnimationName": "31",
+        "LocalizeKR": "在这一栏可以查看各位成员的装备，",
+        "LocalizeJP": "",
+        "VoiceId": 3875242301
+    },
+    {
+        "TalkId": 58,
+        "AnimationName": "02",
+        "LocalizeKR": "还有【升级】、【神秘解放】、【技能成长】等",
+        "LocalizeJP": "",
+        "VoiceId": 4246100585
+    },
+    {
+        "TalkId": 58,
+        "AnimationName": "31",
+        "LocalizeKR": "多种培养成员的方法。",
+        "LocalizeJP": "",
+        "VoiceId": 1541978941
+    },
+    {
+        "TalkId": 59,
+        "AnimationName": "25",
+        "LocalizeKR": "那先来看一下最基础的【升级】吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3689996900
+    },
+    {
+        "TalkId": 60,
+        "AnimationName": "02",
+        "LocalizeKR": "在这里可以查看成员升级时所提升的能力值信息。",
+        "LocalizeJP": "",
+        "VoiceId": 1906243484
+    },
+    {
+        "TalkId": 61,
+        "AnimationName": "02",
+        "LocalizeKR": "升级时需要【活动报告书】， ",
+        "LocalizeJP": "",
+        "VoiceId": 193785775
+    },
+    {
+        "TalkId": 62,
+        "AnimationName": "01",
+        "LocalizeKR": "活动报告书可以通过完成不同的工作来获得。",
+        "LocalizeJP": "",
+        "VoiceId": 1772603968
+    },
+    {
+        "TalkId": 62,
+        "AnimationName": "32",
+        "LocalizeKR": "成员最高可以升至与老师相同的等级。\n别忘了及时帮助成员成长哦！",
+        "LocalizeJP": "",
+        "VoiceId": 744061275
+    },
+    {
+        "TalkId": 63,
+        "AnimationName": "01",
+        "LocalizeKR": "接下来看一看成员们的装备吧。",
+        "LocalizeJP": "",
+        "VoiceId": 3217591070
+    },
+    {
+        "TalkId": 63,
+        "AnimationName": "01",
+        "LocalizeKR": "先来选择一名要进行装备管理的成员。",
+        "LocalizeJP": "",
+        "VoiceId": 353010963
+    },
+    {
+        "TalkId": 64,
+        "AnimationName": "01",
+        "LocalizeKR": "可以在下方装备栏确认成员的装备。",
+        "LocalizeJP": "",
+        "VoiceId": 456917226
+    },
+    {
+        "TalkId": 65,
+        "AnimationName": "01",
+        "LocalizeKR": "在已解锁的栏位上可以穿戴需要的装备，",
+        "LocalizeJP": "",
+        "VoiceId": 3593072419
+    },
+    {
+        "TalkId": 65,
+        "AnimationName": "01",
+        "LocalizeKR": "未解锁的栏位会在成员升级以后依次开放。",
+        "LocalizeJP": "",
+        "VoiceId": 1316787902
+    },
+    {
+        "TalkId": 65,
+        "AnimationName": "01",
+        "LocalizeKR": "装备可以通过这个按钮来进行强化。",
+        "LocalizeJP": "",
+        "VoiceId": 1103502530
+    },
+    {
+        "TalkId": 66,
+        "AnimationName": "25",
+        "LocalizeKR": "穿戴更好的装备可以提升成员的战斗能力和斗志哦！",
+        "LocalizeJP": "",
+        "VoiceId": 1355502804
+    },
+    {
+        "TalkId": 66,
+        "AnimationName": "03",
+        "LocalizeKR": "用更强的装备来帮助成员快速成长吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3316404687
+    },
+    {
+        "TalkId": 67,
+        "AnimationName": "01",
+        "LocalizeKR": "欢迎，老师。\n这里是沙勒附属的咖啡厅。",
+        "LocalizeJP": "",
+        "VoiceId": 620724586
+    },
+    {
+        "TalkId": 67,
+        "AnimationName": "03",
+        "LocalizeKR": "在这里可以和来访的\n成员们打招呼，还可以\n获得咖啡厅的收益。",
+        "LocalizeJP": "",
+        "VoiceId": 4019103967
+    },
+    {
+        "TalkId": 67,
+        "AnimationName": "01",
+        "LocalizeKR": "通过点击的方式就可以与来访的成员们进行互动。",
+        "LocalizeJP": "",
+        "VoiceId": 3822725085
+    },
+    {
+        "TalkId": 68,
+        "AnimationName": "01",
+        "LocalizeKR": "那么现在，我来把老师在咖啡厅\n能做的事情详细说明一下吧。",
+        "LocalizeJP": "",
+        "VoiceId": 433034527
+    },
+    {
+        "TalkId": 69,
+        "AnimationName": "13",
+        "LocalizeKR": "老师可以用精美的家具装饰咖啡厅，或者给来访的成员们赠送礼物。",
+        "LocalizeJP": "",
+        "VoiceId": 245595245
+    },
+    {
+        "TalkId": 69,
+        "AnimationName": "01",
+        "LocalizeKR": "在右侧可以查看咖啡厅当前的经营状况。",
+        "LocalizeJP": "",
+        "VoiceId": 1587600446
+    },
+    {
+        "TalkId": 70,
+        "AnimationName": "01",
+        "LocalizeKR": "咖啡厅的舒适度会随着配置的家具而变化。",
+        "LocalizeJP": "",
+        "VoiceId": 1786157394
+    },
+    {
+        "TalkId": 70,
+        "AnimationName": "25",
+        "LocalizeKR": "然后根据舒适度的变化，咖啡厅的收益也会不同！",
+        "LocalizeJP": "",
+        "VoiceId": 3437837610
+    },
+    {
+        "TalkId": 71,
+        "AnimationName": "22",
+        "LocalizeKR": "在这里可以查看并领取咖啡厅获得的收益。",
+        "LocalizeJP": "",
+        "VoiceId": 3054877860
+    },
+    {
+        "TalkId": 72,
+        "AnimationName": "01",
+        "LocalizeKR": "收益的保管是有上限的，\n超过上限值的收益就会消失，\n请多加留意哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3284340457
+    },
+    {
+        "TalkId": 73,
+        "AnimationName": "01",
+        "LocalizeKR": "现在来了解一下如何查看并提升成员的技能吧？",
+        "LocalizeJP": "",
+        "VoiceId": 1994262072
+    },
+    {
+        "TalkId": 73,
+        "AnimationName": "03",
+        "LocalizeKR": "首先，请选择想要查看的成员。",
+        "LocalizeJP": "",
+        "VoiceId": 1803491513
+    },
+    {
+        "TalkId": 74,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以查看成员拥有的技能。",
+        "LocalizeJP": "",
+        "VoiceId": 1094179818
+    },
+    {
+        "TalkId": 75,
+        "AnimationName": "01",
+        "LocalizeKR": "来更详细地查看一下吧。",
+        "LocalizeJP": "",
+        "VoiceId": 741479403
+    },
+    {
+        "TalkId": 76,
+        "AnimationName": "01",
+        "LocalizeKR": "点击各个技能，就能看到该技能的详细说明哦。",
+        "LocalizeJP": "",
+        "VoiceId": 589641019
+    },
+    {
+        "TalkId": 76,
+        "AnimationName": "01",
+        "LocalizeKR": "那么怎样才能提升这些技能呢…… ",
+        "LocalizeJP": "",
+        "VoiceId": 3094897348
+    },
+    {
+        "TalkId": 77,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以选择技能并且提升它们的等级。",
+        "LocalizeJP": "",
+        "VoiceId": 2908355837
+    },
+    {
+        "TalkId": 78,
+        "AnimationName": "01",
+        "LocalizeKR": "不仅可以预先查看技能的下一个等级，",
+        "LocalizeJP": "",
+        "VoiceId": 557192077
+    },
+    {
+        "TalkId": 79,
+        "AnimationName": "01",
+        "LocalizeKR": "还可以查看升级所需的各种材料。",
+        "LocalizeJP": "",
+        "VoiceId": 508744016
+    },
+    {
+        "TalkId": 80,
+        "AnimationName": "11",
+        "LocalizeKR": "收集材料来提升成员们的技能吧！",
+        "LocalizeJP": "",
+        "VoiceId": 207652462
+    },
+    {
+        "TalkId": 140001,
+        "AnimationName": "25",
+        "LocalizeKR": "获得【记忆大厅】啦！ ",
+        "LocalizeJP": "",
+        "VoiceId": 1248907137
+    },
+    {
+        "TalkId": 140001,
+        "AnimationName": "12",
+        "LocalizeKR": "这里保存着与成员们之间的珍贵回忆。",
+        "LocalizeJP": "",
+        "VoiceId": 2442091367
+    },
+    {
+        "TalkId": 140001,
+        "AnimationName": "13",
+        "LocalizeKR": "机会难得，就再来看一遍吧？",
+        "LocalizeJP": "",
+        "VoiceId": 3663083713
+    },
+    {
+        "TalkId": 140002,
+        "AnimationName": "01",
+        "LocalizeKR": "这里可以选择给老师的工作提供帮助的值班成员。",
+        "LocalizeJP": "",
+        "VoiceId": 1508596516
+    },
+    {
+        "TalkId": 140002,
+        "AnimationName": "01",
+        "LocalizeKR": "当值的成员会在沙勒的大厅里待命。",
+        "LocalizeJP": "",
+        "VoiceId": 871957014
+    },
+    {
+        "TalkId": 140002,
+        "AnimationName": "01",
+        "LocalizeKR": "通过这个图标可以确认是否拥有记忆大厅。",
+        "LocalizeJP": "",
+        "VoiceId": 2757969261
+    },
+    {
+        "TalkId": 140003,
+        "AnimationName": "01",
+        "LocalizeKR": "如果值班的是拥有记忆大厅的成员的话……",
+        "LocalizeJP": "",
+        "VoiceId": 2916516167
+    },
+    {
+        "TalkId": 140004,
+        "AnimationName": "01",
+        "LocalizeKR": "这里就会出现记忆大厅切换按钮。",
+        "LocalizeJP": "",
+        "VoiceId": 3173476555
+    },
+    {
+        "TalkId": 140005,
+        "AnimationName": "01",
+        "LocalizeKR": "系统设置中还有记忆大厅的相关选项，记得确认哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3501629486
+    },
+    {
+        "TalkId": 150001,
+        "AnimationName": "01",
+        "LocalizeKR": "这里可以通过倍速按钮来调整战斗速度。",
+        "LocalizeJP": "",
+        "VoiceId": 599978747
+    },
+    {
+        "TalkId": 150001,
+        "AnimationName": "01",
+        "LocalizeKR": "以适合自己的速度来指挥战斗吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3771636337
+    },
+    {
+        "TalkId": 160001,
+        "AnimationName": "01",
+        "LocalizeKR": "这里是制造工坊。",
+        "LocalizeJP": "",
+        "VoiceId": 2670945578
+    },
+    {
+        "TalkId": 160001,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里投入各种材料，\n就可以获得各种不同的道具。",
+        "LocalizeJP": "",
+        "VoiceId": 1445224029
+    },
+    {
+        "TalkId": 160001,
+        "AnimationName": "01",
+        "LocalizeKR": "点击【开始制造】可以启动制造工坊。",
+        "LocalizeJP": "",
+        "VoiceId": 3669180206
+    },
+    {
+        "TalkId": 160001,
+        "AnimationName": "03",
+        "LocalizeKR": "试试点击【开始制造】吧。",
+        "LocalizeJP": "",
+        "VoiceId": 1651435007
+    },
+    {
+        "TalkId": 160002,
+        "AnimationName": "01",
+        "LocalizeKR": "通过制造工坊进行制造时需要用到拱心石。",
+        "LocalizeJP": "",
+        "VoiceId": 273809992
+    },
+    {
+        "TalkId": 160003,
+        "AnimationName": "01",
+        "LocalizeKR": "投入拱心石，点击【启动】按钮即可进行制造。",
+        "LocalizeJP": "",
+        "VoiceId": 310020606
+    },
+    {
+        "TalkId": 160004,
+        "AnimationName": "01",
+        "LocalizeKR": "制造时，可以通过备选项来变更最终得到的道具。",
+        "LocalizeJP": "",
+        "VoiceId": 3580667340
+    },
+    {
+        "TalkId": 160004,
+        "AnimationName": "01",
+        "LocalizeKR": "选好所有选项后，等待一定的时间即可完成制造。",
+        "LocalizeJP": "",
+        "VoiceId": 3001699844
+    },
+    {
+        "TalkId": 160005,
+        "AnimationName": "25",
+        "LocalizeKR": "试着通过制造工坊来制造各种各样的道具吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1719413524
+    },
+    {
+        "TalkId": 170001,
+        "AnimationName": "01",
+        "LocalizeKR": "老师可以在这里安排日程！",
+        "LocalizeJP": "",
+        "VoiceId": 412092685
+    },
+    {
+        "TalkId": 170001,
+        "AnimationName": "01",
+        "LocalizeKR": "老师可以和成员们一起选择并执行各种各样的日程。",
+        "LocalizeJP": "",
+        "VoiceId": 3012201997
+    },
+    {
+        "TalkId": 170001,
+        "AnimationName": "01",
+        "LocalizeKR": "我们先去沙勒业务区看看吧？",
+        "LocalizeJP": "",
+        "VoiceId": 3253439800
+    },
+    {
+        "TalkId": 170002,
+        "AnimationName": "01",
+        "LocalizeKR": "执行准备好的日程，\n可以增加参加该日程的成员们的好感度！",
+        "LocalizeJP": "",
+        "VoiceId": 650565742
+    },
+    {
+        "TalkId": 170002,
+        "AnimationName": "05",
+        "LocalizeKR": "执行日程是有次数限制的，\n所以要慎重决定哦！",
+        "LocalizeJP": "",
+        "VoiceId": 1978568824
+    },
+    {
+        "TalkId": 170003,
+        "AnimationName": "01",
+        "LocalizeKR": "一开始每天的日程执行次数虽然很有限，",
+        "LocalizeJP": "",
+        "VoiceId": 4233978537
+    },
+    {
+        "TalkId": 170003,
+        "AnimationName": "01",
+        "LocalizeKR": "但随着日后区域等级渐渐提升，\n就可以安排更丰富的日程！",
+        "LocalizeJP": "",
+        "VoiceId": 3104157166
+    },
+    {
+        "TalkId": 170003,
+        "AnimationName": "01",
+        "LocalizeKR": "我们来看一下现在可以执行的日程吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3285867077
+    },
+    {
+        "TalkId": 170004,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以查看全部的日程！",
+        "LocalizeJP": "",
+        "VoiceId": 1616766153
+    },
+    {
+        "TalkId": 170004,
+        "AnimationName": "03",
+        "LocalizeKR": "现在就去执行日程，\n获得丰富的奖励和好感度吧！",
+        "LocalizeJP": "",
+        "VoiceId": 750997093
+    },
+    {
+        "TalkId": 180001,
+        "AnimationName": "01",
+        "LocalizeKR": "有一名未招募成员的神名文字已经全部集满了呢。",
+        "LocalizeJP": "",
+        "VoiceId": 2633161018
+    },
+    {
+        "TalkId": 180001,
+        "AnimationName": "03",
+        "LocalizeKR": "接下来试一下用神名文字来招募成员吧。",
+        "LocalizeJP": "",
+        "VoiceId": 918540636
+    },
+    {
+        "TalkId": 180002,
+        "AnimationName": "01",
+        "LocalizeKR": "请选择神名文字已全部集满的成员。",
+        "LocalizeJP": "",
+        "VoiceId": 523934675
+    },
+    {
+        "TalkId": 180003,
+        "AnimationName": "01",
+        "LocalizeKR": "成员的神名文字集满后，\n就可以通过【神名文字兑换】来招募新成员。",
+        "LocalizeJP": "",
+        "VoiceId": 3336876723
+    },
+    {
+        "TalkId": 180003,
+        "AnimationName": "01",
+        "LocalizeKR": "还有一种办法，就是不立即兑\n换，而是通过【招募】获得相\n应成员后，在【神秘解放】中\n使用该成员的神名文字。",
+        "LocalizeJP": "",
+        "VoiceId": 2041698325
+    },
+    {
+        "TalkId": 180004,
+        "AnimationName": "25",
+        "LocalizeKR": "那么就先到这里了，\n以后也要继续加油哦，老师！",
+        "LocalizeJP": "",
+        "VoiceId": 2005489556
+    },
+    {
+        "TalkId": 190001,
+        "AnimationName": "01",
+        "LocalizeKR": "可以在这里查看基沃托斯发生的各种故事。",
+        "LocalizeJP": "",
+        "VoiceId": 4286351744
+    },
+    {
+        "TalkId": 190001,
+        "AnimationName": "01",
+        "LocalizeKR": "首先是主线故事。",
+        "LocalizeJP": "",
+        "VoiceId": 3080722401
+    },
+    {
+        "TalkId": 190002,
+        "AnimationName": "01",
+        "LocalizeKR": "在主线故事中可以体验在基沃托斯发生的主要事件。",
+        "LocalizeJP": "",
+        "VoiceId": 1233131487
+    },
+    {
+        "TalkId": 190002,
+        "AnimationName": "25",
+        "LocalizeKR": "下一个是支线故事！",
+        "LocalizeJP": "",
+        "VoiceId": 1467350413
+    },
+    {
+        "TalkId": 190003,
+        "AnimationName": "01",
+        "LocalizeKR": "在支线故事中可以查看\n包括各个社团的故事在内的\n多种短篇故事。",
+        "LocalizeJP": "",
+        "VoiceId": 3916142399
+    },
+    {
+        "TalkId": 190003,
+        "AnimationName": "01",
+        "LocalizeKR": "已经观看过的故事也可以通过档案再次观看。",
+        "LocalizeJP": "",
+        "VoiceId": 92328165
+    },
+    {
+        "TalkId": 190004,
+        "AnimationName": "03",
+        "LocalizeKR": "好啦，老师以后也要继续加油哦！",
+        "LocalizeJP": "",
+        "VoiceId": 1003072420
+    },
+    {
+        "TalkId": 200001,
+        "AnimationName": "01",
+        "LocalizeKR": "现在可以执行特别委托了。",
+        "LocalizeJP": "",
+        "VoiceId": 4018130920
+    },
+    {
+        "TalkId": 200001,
+        "AnimationName": "03",
+        "LocalizeKR": "一起来看一下吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3658363999
+    },
+    {
+        "TalkId": 200001,
+        "AnimationName": "01",
+        "LocalizeKR": "首先是据点防御。",
+        "LocalizeJP": "",
+        "VoiceId": 3442643925
+    },
+    {
+        "TalkId": 200002,
+        "AnimationName": "01",
+        "LocalizeKR": "据点防御是需要击退众多蜂拥而至的敌人的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 696631563
+    },
+    {
+        "TalkId": 200002,
+        "AnimationName": "01",
+        "LocalizeKR": "完成后可以获得【活动报告书】作为奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 231664771
+    },
+    {
+        "TalkId": 200002,
+        "AnimationName": "01",
+        "LocalizeKR": "然后是信用回收。",
+        "LocalizeJP": "",
+        "VoiceId": 3443893152
+    },
+    {
+        "TalkId": 200003,
+        "AnimationName": "01",
+        "LocalizeKR": "信用回收是需要在有限时间内快速击败敌人的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 3608110686
+    },
+    {
+        "TalkId": 200003,
+        "AnimationName": "01",
+        "LocalizeKR": "完成后可以获得【信用积分】作为奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 836006224
+    },
+    {
+        "TalkId": 200003,
+        "AnimationName": "25",
+        "LocalizeKR": "特别委托没有入场次数限制，\n所以可以无限执行！",
+        "LocalizeJP": "",
+        "VoiceId": 1266167538
+    },
+    {
+        "TalkId": 210001,
+        "AnimationName": "01",
+        "LocalizeKR": "现在可以进行悬赏通缉了。",
+        "LocalizeJP": "",
+        "VoiceId": 3929649048
+    },
+    {
+        "TalkId": 210002,
+        "AnimationName": "22",
+        "LocalizeKR": "悬赏通缉是需要追击逃亡的恶势力的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 1434978791
+    },
+    {
+        "TalkId": 210002,
+        "AnimationName": "22",
+        "LocalizeKR": "完成后可以获得\n【技能成长材料】作为奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 4283522224
+    },
+    {
+        "TalkId": 210002,
+        "AnimationName": "01",
+        "LocalizeKR": "执行悬赏通缉必须要有挑战券。",
+        "LocalizeJP": "",
+        "VoiceId": 3727840512
+    },
+    {
+        "TalkId": 210003,
+        "AnimationName": "03",
+        "LocalizeKR": "请放心，挑战券的数量会在每天的指定时间恢复！",
+        "LocalizeJP": "",
+        "VoiceId": 694573644
+    },
+    {
+        "TalkId": 210003,
+        "AnimationName": "01",
+        "LocalizeKR": "啊，然后是最重要的【学院增益效果】。",
+        "LocalizeJP": "",
+        "VoiceId": 774241723
+    },
+    {
+        "TalkId": 210004,
+        "AnimationName": "01",
+        "LocalizeKR": "每个悬赏通缉任务都有学院可以获得相应的增益效果。",
+        "LocalizeJP": "",
+        "VoiceId": 2014251683
+    },
+    {
+        "TalkId": 210005,
+        "AnimationName": "01",
+        "LocalizeKR": "尽可能在队伍编入更多相应的成员，",
+        "LocalizeJP": "",
+        "VoiceId": 408691183
+    },
+    {
+        "TalkId": 210005,
+        "AnimationName": "01",
+        "LocalizeKR": "就可以轻松地完成任务，这一点要记住哦！",
+        "LocalizeJP": "",
+        "VoiceId": 3995655345
+    },
+    {
+        "TalkId": 210005,
+        "AnimationName": "03",
+        "LocalizeKR": "那么悬赏通缉任务也拜托老师了！ ",
+        "LocalizeJP": "",
+        "VoiceId": 1560687052
+    },
+    {
+        "TalkId": 220001,
+        "AnimationName": "01",
+        "LocalizeKR": "这次我们来了解一下账号绑定。",
+        "LocalizeJP": "",
+        "VoiceId": 1232519641
+    },
+    {
+        "TalkId": 220001,
+        "AnimationName": "02",
+        "LocalizeKR": "那先去绑定账号吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3677325456
+    },
+    {
+        "TalkId": 220002,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里，老师可以将自己的账号\n与各种社交账号绑定。",
+        "LocalizeJP": "",
+        "VoiceId": 120061069
+    },
+    {
+        "TalkId": 220003,
+        "AnimationName": "02",
+        "LocalizeKR": "绑定账号后，在其他设备上\n登录或重新下载游戏时， ",
+        "LocalizeJP": "",
+        "VoiceId": 1145610389
+    },
+    {
+        "TalkId": 220003,
+        "AnimationName": "01",
+        "LocalizeKR": "或在其他多种情况下，\n可以更方便地进行游戏。",
+        "LocalizeJP": "",
+        "VoiceId": 1346560964
+    },
+    {
+        "TalkId": 220003,
+        "AnimationName": "03",
+        "LocalizeKR": "那就拜托您了，老师！",
+        "LocalizeJP": "",
+        "VoiceId": 2761481536
+    },
+    {
+        "TalkId": 101130101,
+        "AnimationName": "01",
+        "LocalizeKR": "为了老师日后要执行的任务，\n我为老师准备了特别训练。",
+        "LocalizeJP": "",
+        "VoiceId": 2430307192
+    },
+    {
+        "TalkId": 101130101,
+        "AnimationName": "03",
+        "LocalizeKR": "那么，这就开始吧！",
+        "LocalizeJP": "",
+        "VoiceId": 2038669130
+    },
+    {
+        "TalkId": 101130101,
+        "AnimationName": "01",
+        "LocalizeKR": "首先是与战斗场所的【地形】相关的训练。",
+        "LocalizeJP": "",
+        "VoiceId": 2294161547
+    },
+    {
+        "TalkId": 101130101,
+        "AnimationName": "01",
+        "LocalizeKR": "成员们在作战时各自对应的有利[c][007eff]地形[-][/c]是不同的。",
+        "LocalizeJP": "",
+        "VoiceId": 517246178
+    },
+    {
+        "TalkId": 101130102,
+        "AnimationName": "01",
+        "LocalizeKR": "有些成员会在特定地形变得更强，\n而有些成员则相反。",
+        "LocalizeJP": "",
+        "VoiceId": 744645751
+    },
+    {
+        "TalkId": 101130103,
+        "AnimationName": "01",
+        "LocalizeKR": "编制部队时留意这些信息，\n会对执行任务起到非常大的帮助！",
+        "LocalizeJP": "",
+        "VoiceId": 3957991363
+    },
+    {
+        "TalkId": 101130104,
+        "AnimationName": "25",
+        "LocalizeKR": "发现[c][007eff]掩体[-][/c]！\n[c][007eff]掩体[-][/c]可以保护成员免受敌人攻击。",
+        "LocalizeJP": "",
+        "VoiceId": 3882229203
+    },
+    {
+        "TalkId": 101130105,
+        "AnimationName": "01",
+        "LocalizeKR": "大部分成员发现掩体会[c][00f0ff]自动掩蔽[-][/c]保护自己。",
+        "LocalizeJP": "",
+        "VoiceId": 3957120757
+    },
+    {
+        "TalkId": 101130106,
+        "AnimationName": "01",
+        "LocalizeKR": "但要注意，也有个别成员不会自动掩蔽！",
+        "LocalizeJP": "",
+        "VoiceId": 1780132006
+    },
+    {
+        "TalkId": 101130201,
+        "AnimationName": "01",
+        "LocalizeKR": "成员们会根据各自的特性，\n在作战中担任不同的[c][007eff]战术角色[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 4248017776
+    },
+    {
+        "TalkId": 101130202,
+        "AnimationName": "01",
+        "LocalizeKR": "根据使用的技能分为[c][00f0ff]坦克，输出，辅助，治疗，战术辅助（T.S）[-][/c]，",
+        "LocalizeJP": "",
+        "VoiceId": 781039542
+    },
+    {
+        "TalkId": 101130203,
+        "AnimationName": "01",
+        "LocalizeKR": "成员们会根据自己的[c][007eff]战术角色[-][/c]，自动移动到\n[c][007eff]利于执行作战的位置[-][/c]进行战斗。",
+        "LocalizeJP": "",
+        "VoiceId": 869722952
+    },
+    {
+        "TalkId": 101130203,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][007eff]辅助型[-][/c]角色可以使用不同的方式[c][007eff]协助[-][/c]其他成员战斗。",
+        "LocalizeJP": "",
+        "VoiceId": 314543352
+    },
+    {
+        "TalkId": 101130203,
+        "AnimationName": "03",
+        "LocalizeKR": "[c][007eff]小玉[-][/c]小姐的技能可以[c][007eff]提升我方的攻击力[-][/c]。\n快使用技能来帮助其他成员吧！",
+        "LocalizeJP": "",
+        "VoiceId": 2904657157
+    },
+    {
+        "TalkId": 101130204,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][007eff]输出型[-][/c]角色可以通过强大的攻击[c][007eff]给敌人造成巨大伤害！[-][/c]\n但由于体力较低，通常会站在后排战斗。",
+        "LocalizeJP": "",
+        "VoiceId": 2768947986
+    },
+    {
+        "TalkId": 101130204,
+        "AnimationName": "22",
+        "LocalizeKR": "现在[c][007eff]睦月[-][/c]小姐担任的是[c][007eff]输出型角色[-][/c]！\n请点击技能卡后选择敌人吧！",
+        "LocalizeJP": "",
+        "VoiceId": 470447301
+    },
+    {
+        "TalkId": 101130205,
+        "AnimationName": "01",
+        "LocalizeKR": "担任[c][007eff]坦克型[-][/c]角色的成员可以在前排[c][007eff]阻挡敌人的攻击。[-][/c]",
+        "LocalizeJP": "",
+        "VoiceId": 1239217876
+    },
+    {
+        "TalkId": 101130205,
+        "AnimationName": "01",
+        "LocalizeKR": "现在[c][007eff]优香[-][/c]小姐担任的是[c][007eff]坦克型角色[-][/c]。请使用技能强化正在被攻击的优香小姐吧！",
+        "LocalizeJP": "",
+        "VoiceId": 450949236
+    },
+    {
+        "TalkId": 101130206,
+        "AnimationName": "28",
+        "LocalizeKR": "敌人的猛击导致成员们的体力逐渐降低！",
+        "LocalizeJP": "",
+        "VoiceId": 3605460392
+    },
+    {
+        "TalkId": 101130206,
+        "AnimationName": "22",
+        "LocalizeKR": "轮到担任[c][007eff]治疗型角色[-][/c]的[c][007eff]花江[-][/c]小姐出场了！\n请赶快对成员们[c][007eff]进行治疗[-][/c]吧！",
+        "LocalizeJP": "",
+        "VoiceId": 210273164
+    },
+    {
+        "TalkId": 102130301,
+        "AnimationName": "01",
+        "LocalizeKR": "我方成员和敌方都拥有不同的[c][007eff]攻击属性[-][/c]和[c][007eff]防御类型[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 3013333738
+    },
+    {
+        "TalkId": 102130302,
+        "AnimationName": "25",
+        "LocalizeKR": "使用攻击属性[c][00f0ff]克制[-][/c]敌人[c][00f0ff]防御类型[-][/c]的角色攻击敌人，\n可以造成[c][00f0ff]更大的伤害[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 4154617257
+    },
+    {
+        "TalkId": 102130303,
+        "AnimationName": "01",
+        "LocalizeKR": "敌人的[c][00f0ff]体力条颜色[-][/c]反映了敌人的[c][00f0ff]防御类型[-][/c]，",
+        "LocalizeJP": "",
+        "VoiceId": 1675551159
+    },
+    {
+        "TalkId": 102130304,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][00f0ff]技能卡颜色[-][/c]则反映了成员的[c][00f0ff]攻击属性[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 1147949431
+    },
+    {
+        "TalkId": 102130305,
+        "AnimationName": "14",
+        "LocalizeKR": "[c][007eff]轻装甲型[-][/c]的敌人出现了！",
+        "LocalizeJP": "",
+        "VoiceId": 1790109316
+    },
+    {
+        "TalkId": 102130305,
+        "AnimationName": "01",
+        "LocalizeKR": "您可以使用[c][007eff]爆发型攻击[-][/c]对敌人造成[c][007eff]巨大伤害[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 1114920655
+    },
+    {
+        "TalkId": 102130305,
+        "AnimationName": "22",
+        "LocalizeKR": "[c][007eff]爱露[-][/c]小姐的技能就是[c][007eff]爆发属性[-][/c]。\n赶快试一试爱露小姐的技能吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1867119590
+    },
+    {
+        "TalkId": 102130306,
+        "AnimationName": "01",
+        "LocalizeKR": "这次是[c][007eff]重装甲型[-][/c]的敌人。\n[c][007eff]贯穿型[-][/c]技能对重装甲非常有效！",
+        "LocalizeJP": "",
+        "VoiceId": 2676176942
+    },
+    {
+        "TalkId": 102130306,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][007eff]纯子[-][/c]小姐的技能是[c][007eff]贯穿属性[-][/c]的。\n用纯子小姐的技能攻击敌人吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1785678414
+    },
+    {
+        "TalkId": 102130307,
+        "AnimationName": "05",
+        "LocalizeKR": "发现[c][007eff]特殊装甲型[-][/c]的敌人！",
+        "LocalizeJP": "",
+        "VoiceId": 3644071540
+    },
+    {
+        "TalkId": 102130307,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][007eff]神秘属性[-][/c]的攻击对[c][007eff]特殊装甲[-][/c]的敌人非常有效。",
+        "LocalizeJP": "",
+        "VoiceId": 2482671574
+    },
+    {
+        "TalkId": 102130307,
+        "AnimationName": "22",
+        "LocalizeKR": "[c][007eff]千世[-][/c]小姐的技能是[c][007eff]神秘属性[-][/c]的，\n试着点击技能卡并拖放到敌人身上吧！\n像这样点击或者拖动技能卡，\n都是可以发动技能的！",
+        "LocalizeJP": "",
+        "VoiceId": 2650306585
+    },
+    {
+        "TalkId": 102130401,
+        "AnimationName": "01",
+        "LocalizeKR": "有时老师可以使用成员的[c][007eff]技能[-][/c]\n[c][007eff]来亲自介入战场[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 1618482852
+    },
+    {
+        "TalkId": 102130401,
+        "AnimationName": "01",
+        "LocalizeKR": "使用这些技能时一定要注意[c][007eff]时机[-][/c]和[c][007eff]使用位置[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 3279331170
+    },
+    {
+        "TalkId": 102130401,
+        "AnimationName": "03",
+        "LocalizeKR": "在本次训练中尝试使用一下[c][007eff]能够引诱敌人的技能[-][/c]吧！",
+        "LocalizeJP": "",
+        "VoiceId": 1947831319
+    },
+    {
+        "TalkId": 102130402,
+        "AnimationName": "01",
+        "LocalizeKR": "[c][007eff]朱莉[-][/c]小姐的技能[c][007eff]可以引诱敌人[-][/c]，\n并对引诱来的敌人造成[c][007eff]伤害[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 2313465106
+    },
+    {
+        "TalkId": 102130402,
+        "AnimationName": "25",
+        "LocalizeKR": "把多个敌人引诱到一处的话，\n就能用范围攻击提高战斗效率啦！",
+        "LocalizeJP": "",
+        "VoiceId": 3251551825
+    },
+    {
+        "TalkId": 102130402,
+        "AnimationName": "01",
+        "LocalizeKR": "点击朱莉小姐的技能卡，\n拖到想要施放的位置后放开！",
+        "LocalizeJP": "",
+        "VoiceId": 403796475
+    },
+    {
+        "TalkId": 102130402,
+        "AnimationName": "05",
+        "LocalizeKR": "不过请注意，如果敌人\n距离太远的话是无法引诱的！",
+        "LocalizeJP": "",
+        "VoiceId": 1381736695
+    },
+    {
+        "TalkId": 103130501,
+        "AnimationName": "01",
+        "LocalizeKR": "部分成员还可以自己[c][007eff]设置掩体[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 1228104211
+    },
+    {
+        "TalkId": 103130501,
+        "AnimationName": "01",
+        "LocalizeKR": "快使用[c][007eff]志美子[-][/c]小姐的技能\n帮助白子小姐和瞬小姐吧！",
+        "LocalizeJP": "",
+        "VoiceId": 410822491
+    },
+    {
+        "TalkId": 103130501,
+        "AnimationName": "25",
+        "LocalizeKR": "在两个人面前设置掩体，\n阻挡敌人的攻击！",
+        "LocalizeJP": "",
+        "VoiceId": 3693232417
+    },
+    {
+        "TalkId": 103130601,
+        "AnimationName": "01",
+        "LocalizeKR": "有些成员拥有可以根据老师的指示[c][007eff]移动的技能[-][/c]。",
+        "LocalizeJP": "",
+        "VoiceId": 2158318927
+    },
+    {
+        "TalkId": 103130601,
+        "AnimationName": "22",
+        "LocalizeKR": "利用好这些成员的技能，\n就可以[c][007eff]躲避敌人的攻击啦！[-][/c]",
+        "LocalizeJP": "",
+        "VoiceId": 1741981238
+    },
+    {
+        "TalkId": 103130602,
+        "AnimationName": "05",
+        "LocalizeKR": "敌人瞄准了明日奈小姐。\n看样子马上就会展开强力的攻击！",
+        "LocalizeJP": "",
+        "VoiceId": 1863933913
+    },
+    {
+        "TalkId": 103130602,
+        "AnimationName": "05",
+        "LocalizeKR": "使用[c][007eff]明日奈[-][/c]小姐的技能躲避吧！\n快指示她跑出敌人的攻击范围！",
+        "LocalizeJP": "",
+        "VoiceId": 3772540248
+    },
+    {
+        "TalkId": 103130602,
+        "AnimationName": "22",
+        "LocalizeKR": "躲避攻击后，我们可以[c][007eff]用花凛小姐的技能反击[-][/c]！",
+        "LocalizeJP": "",
+        "VoiceId": 3097376334
+    },
+    {
+        "TalkId": 230001,
+        "AnimationName": "01",
+        "LocalizeKR": "有些成员现在可以装备自己的专属武器啦。",
+        "LocalizeJP": "",
+        "VoiceId": 4134019474
+    },
+    {
+        "TalkId": 230001,
+        "AnimationName": "02",
+        "LocalizeKR": "专属武器是一种特殊的武器，只有神秘解放达到5★的成员才能装备。",
+        "LocalizeJP": "",
+        "VoiceId": 2731089067
+    },
+    {
+        "TalkId": 230002,
+        "AnimationName": "03",
+        "LocalizeKR": "那么，我们先尝试给这位成员装备上专属武器吧。",
+        "LocalizeJP": "",
+        "VoiceId": 97342621
+    },
+    {
+        "TalkId": 230002,
+        "AnimationName": "02",
+        "LocalizeKR": "请点击这里的专属武器栏位。",
+        "LocalizeJP": "",
+        "VoiceId": 2080078994
+    },
+    {
+        "TalkId": 230003,
+        "AnimationName": "20",
+        "LocalizeKR": "在这里，可以进行专属武器的装备和管理。",
+        "LocalizeJP": "",
+        "VoiceId": 3690363308
+    },
+    {
+        "TalkId": 230003,
+        "AnimationName": "01",
+        "LocalizeKR": "专属武器会提升成员的能力值，",
+        "LocalizeJP": "",
+        "VoiceId": 1412560906
+    },
+    {
+        "TalkId": 230004,
+        "AnimationName": "02",
+        "LocalizeKR": "有时，甚至可以强化技能和地形适应力。",
+        "LocalizeJP": "",
+        "VoiceId": 1891941989
+    },
+    {
+        "TalkId": 230005,
+        "AnimationName": "02",
+        "LocalizeKR": "点击这个按钮可以装备专属武器。",
+        "LocalizeJP": "",
+        "VoiceId": 694518797
+    },
+    {
+        "TalkId": 230006,
+        "AnimationName": "01",
+        "LocalizeKR": "如果强化专属武器，能力值就会显著增加；",
+        "LocalizeJP": "",
+        "VoiceId": 38199112
+    },
+    {
+        "TalkId": 230006,
+        "AnimationName": "12",
+        "LocalizeKR": "不仅如此，还有助于强化技能，所以强烈推荐！",
+        "LocalizeJP": "",
+        "VoiceId": 1924627761
+    },
+    {
+        "TalkId": 230006,
+        "AnimationName": "22",
+        "LocalizeKR": "好了，老师，我们继续努力吧！",
+        "LocalizeJP": "",
+        "VoiceId": 4124746383
+    },
+    {
+        "TalkId": 240001,
+        "AnimationName": "31",
+        "LocalizeKR": "老师，欢迎参加【基沃托斯综合战术测试】！",
+        "LocalizeJP": "",
+        "VoiceId": 2109244288
+    },
+    {
+        "TalkId": 240001,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里可以评估学员们的战斗能力，根据成绩还能获得特别奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 232816865
+    },
+    {
+        "TalkId": 240001,
+        "AnimationName": "02",
+        "LocalizeKR": "每个考场都有各自的\n【特殊规则】，",
+        "LocalizeJP": "",
+        "VoiceId": 83579634
+    },
+    {
+        "TalkId": 240001,
+        "AnimationName": "20",
+        "LocalizeKR": "按照规则越快完成测试，获得的分数也越高。",
+        "LocalizeJP": "",
+        "VoiceId": 4101854004
+    },
+    {
+        "TalkId": 240002,
+        "AnimationName": "02",
+        "LocalizeKR": "测试开启期间，点击【入场】即可正式开始测试。",
+        "LocalizeJP": "",
+        "VoiceId": 4018349052
+    },
+    {
+        "TalkId": 240002,
+        "AnimationName": "01",
+        "LocalizeKR": "另外，点击【信息】可以查看下一场测试的具体信息。",
+        "LocalizeJP": "",
+        "VoiceId": 2254313339
+    },
+    {
+        "TalkId": 240002,
+        "AnimationName": "32",
+        "LocalizeKR": "请记得仔细查看特殊规则，制定出恰当的战术计划。",
+        "LocalizeJP": "",
+        "VoiceId": 4091921209
+    },
+    {
+        "TalkId": 240002,
+        "AnimationName": "25",
+        "LocalizeKR": "那就请加油吧，老师！我会为您加油助威的！",
+        "LocalizeJP": "",
+        "VoiceId": 1942919309
+    },
+    {
+        "TalkId": 250001,
+        "AnimationName": "05",
+        "LocalizeKR": "老师！现在可以参加大决战了！",
+        "LocalizeJP": "",
+        "VoiceId": 4153239329
+    },
+    {
+        "TalkId": 250001,
+        "AnimationName": "01",
+        "LocalizeKR": "在这里，总力战中遇到的首领们将以不同的防御类型出现。",
+        "LocalizeJP": "",
+        "VoiceId": 3706249175
+    },
+    {
+        "TalkId": 250002,
+        "AnimationName": "02",
+        "LocalizeKR": "当然，所有首领的出现时间都是固定的！",
+        "LocalizeJP": "",
+        "VoiceId": 1763180409
+    },
+    {
+        "TalkId": 250003,
+        "AnimationName": "01",
+        "LocalizeKR": "根据首领们防御类型的不同，所需的入场券也是不同的。",
+        "LocalizeJP": "",
+        "VoiceId": 3555801150
+    },
+    {
+        "TalkId": 250003,
+        "AnimationName": "03",
+        "LocalizeKR": "每天登录时，全部防御类型的入场券都可以各获得一张。",
+        "LocalizeJP": "",
+        "VoiceId": 2656138353
+    },
+    {
+        "TalkId": 250003,
+        "AnimationName": "01",
+        "LocalizeKR": "只要击败首领一次，就可以在对应的防御类型和难度下快速战斗了……",
+        "LocalizeJP": "",
+        "VoiceId": 578115682
+    },
+    {
+        "TalkId": 250003,
+        "AnimationName": "02",
+        "LocalizeKR": "但是请注意，每个赛季都需要再次击败首领，才能快速战斗！",
+        "LocalizeJP": "",
+        "VoiceId": 4008471030
+    },
+    {
+        "TalkId": 250003,
+        "AnimationName": "22",
+        "LocalizeKR": "每个首领都会按防御类型分别计算最高分数并记录排名。",
+        "LocalizeJP": "",
+        "VoiceId": 3326011738
+    },
+    {
+        "TalkId": 250004,
+        "AnimationName": "25",
+        "LocalizeKR": "这个任务也许不是很容易完成，但阿洛娜会尽全力支持老师的！",
+        "LocalizeJP": "",
+        "VoiceId": 458867328
+    },
+    {
+        "TalkId": 260001,
+        "AnimationName": "01",
+        "LocalizeKR": "现在可以参与无限制决战了。",
+        "LocalizeJP": "",
+        "VoiceId": 920384785
+    },
+    {
+        "TalkId": 260001,
+        "AnimationName": "99",
+        "LocalizeKR": "无限制决战是与随阶段变强的首领战斗的任务。",
+        "LocalizeJP": "",
+        "VoiceId": 417523128
+    },
+    {
+        "TalkId": 260001,
+        "AnimationName": "01",
+        "LocalizeKR": "击败首领可以获得阶段奖励。",
+        "LocalizeJP": "",
+        "VoiceId": 218110943
+    },
+    {
+        "TalkId": 260002,
+        "AnimationName": "02",
+        "LocalizeKR": "那么，正式开始说明战斗相关内容。",
+        "LocalizeJP": "",
+        "VoiceId": 1173656322
+    },
+    {
+        "TalkId": 260002,
+        "AnimationName": "03",
+        "LocalizeKR": "首先请点击入场按钮。",
+        "LocalizeJP": "",
+        "VoiceId": 2414656183
+    },
+    {
+        "TalkId": 260003,
+        "AnimationName": "15",
+        "LocalizeKR": "在这里可以查看并选择要挑战的首领阶段。",
+        "LocalizeJP": "",
+        "VoiceId": 2996807580
+    },
+    {
+        "TalkId": 260004,
+        "AnimationName": "02",
+        "LocalizeKR": "正如之前说明的，阶段越高，首领也越强。",
+        "LocalizeJP": "",
+        "VoiceId": 642412200
+    },
+    {
+        "TalkId": 260004,
+        "AnimationName": "02",
+        "LocalizeKR": "建议在这里预先查看首领信息并做好准备。",
+        "LocalizeJP": "",
+        "VoiceId": 1524859508
+    },
+    {
+        "TalkId": 260005,
+        "AnimationName": "01",
+        "LocalizeKR": "另外请注意，仅在赛季举办期间可以入场战斗。",
+        "LocalizeJP": "",
+        "VoiceId": 3784938625
+    },
+    {
+        "TalkId": 260006,
+        "AnimationName": "99",
+        "LocalizeKR": "在限定时间内挑战到最高阶段并非易事……",
+        "LocalizeJP": "",
+        "VoiceId": 3274897770
+    },
+    {
+        "TalkId": 260006,
+        "AnimationName": "03",
+        "LocalizeKR": "但我会和阿洛娜前辈一起支援老师的。",
+        "LocalizeJP": "",
+        "VoiceId": 1192459629
+    },
+    {
+        "TalkId": 270001,
+        "AnimationName": "25",
+        "LocalizeKR": "老师！从现在起可以更轻松地指挥任务战斗了！",
+        "LocalizeJP": "",
+        "VoiceId": 936726671
+    },
+    {
+        "TalkId": 270001,
+        "AnimationName": "03",
+        "LocalizeKR": "我来简单说明一下具体内容吧。",
+        "LocalizeJP": "",
+        "VoiceId": 73271917
+    },
+    {
+        "TalkId": 270002,
+        "AnimationName": "01",
+        "LocalizeKR": "简易作战是能通过一次战斗完成任务的功能。",
+        "LocalizeJP": "",
+        "VoiceId": 2017995719
+    },
+    {
+        "TalkId": 270003,
+        "AnimationName": "02",
+        "LocalizeKR": "但需要对抗集中指挥中出现的最强敌人。",
+        "LocalizeJP": "",
+        "VoiceId": 540568442
+    },
+    {
+        "TalkId": 270003,
+        "AnimationName": "01",
+        "LocalizeKR": "另外请注意，无论选择哪种战术指挥，任务目标都是共享的！",
+        "LocalizeJP": "",
+        "VoiceId": 2168429097
+    },
+    {
+        "TalkId": 270004,
+        "AnimationName": "13",
+        "LocalizeKR": "那，阿洛娜的说明就到这里啦。",
+        "LocalizeJP": "",
+        "VoiceId": 3702523130
+    },
+    {
+        "TalkId": 270004,
+        "AnimationName": "22",
+        "LocalizeKR": "现在请选择想要的指挥风格，循序渐进地解决剩余任务吧！",
+        "LocalizeJP": "",
+        "VoiceId": 3525513333
+    }
+]

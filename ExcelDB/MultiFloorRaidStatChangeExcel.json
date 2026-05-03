@@ -1,0 +1,5210 @@
+[
+    {
+        "StatChangeId": 101001,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101002,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101003,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101004,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101005,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101006,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101007,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101008,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101009,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101010,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101011,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101012,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101013,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101014,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101015,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101016,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101017,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101018,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101019,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101020,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101021,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101022,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101023,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101024,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101025,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101026,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101027,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101028,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101029,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101030,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101031,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101032,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101033,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101034,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101035,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101036,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101037,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101038,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101039,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101040,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101041,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101042,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101043,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101044,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101045,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101046,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101047,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101048,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101049,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101050,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101051,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101052,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101053,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101054,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101055,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101056,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101057,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101058,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101059,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101060,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101061,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101062,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101063,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101064,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101065,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101066,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101067,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101068,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101069,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101070,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101071,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101072,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101073,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101074,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101075,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101076,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101077,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101078,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101079,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101080,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101081,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101082,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101083,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101084,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101085,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101086,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101087,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101088,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101089,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101090,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101091,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101092,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101093,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101094,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101095,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101096,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101097,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101098,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101099,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101100,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101101,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101102,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101103,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101104,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101105,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101106,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101107,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101108,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101109,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101110,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101111,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101112,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101113,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101114,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101115,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101116,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101117,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101118,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101119,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101120,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101121,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101122,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101123,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 101124,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102001,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102002,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102003,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102004,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102005,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102006,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102007,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102008,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102009,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102010,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102011,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102012,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102013,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102014,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102015,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102016,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102017,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102018,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102019,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102020,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102021,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102022,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102023,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102024,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102025,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102026,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102027,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102028,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102029,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102030,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102031,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102032,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102033,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102034,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102035,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102036,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102037,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102038,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102039,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102040,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102041,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102042,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102043,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102044,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102045,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102046,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102047,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102048,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102049,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102050,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102051,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102052,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102053,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102054,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102055,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102056,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102057,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102058,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102059,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102060,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102061,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102062,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102063,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102064,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102065,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102066,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102067,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102068,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102069,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102070,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102071,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102072,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102073,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102074,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102075,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102076,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102077,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102078,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102079,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102080,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102081,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102082,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102083,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102084,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102085,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102086,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102087,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102088,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102089,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102090,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102091,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102092,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102093,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102094,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102095,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102096,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102097,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102098,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102099,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102100,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102101,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102102,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102103,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102104,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102105,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102106,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102107,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102108,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102109,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102110,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102111,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102112,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102113,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102114,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102115,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102116,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102117,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102118,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102119,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102120,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102121,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102122,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102123,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 102124,
+        "StatTypeLength": 88,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103001,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103002,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103003,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103004,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103005,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103006,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103007,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103008,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103009,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103010,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103011,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103012,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103013,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103014,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103015,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103016,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103017,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103018,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103019,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103020,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103021,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103022,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103023,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103024,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103025,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103026,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103027,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103028,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103029,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103030,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103031,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103032,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103033,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103034,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103035,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103036,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103037,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103038,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103039,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103040,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103041,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103042,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103043,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103044,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103045,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103046,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103047,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103048,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103049,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103050,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103051,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103052,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103053,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103054,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103055,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103056,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103057,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103058,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103059,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103060,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103061,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103062,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103063,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103064,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103065,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103066,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103067,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103068,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103069,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103070,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103071,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103072,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103073,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103074,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103075,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103076,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103077,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103078,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103079,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103080,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103081,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103082,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103083,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103084,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103085,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103086,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103087,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103088,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103089,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103090,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103091,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103092,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103093,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103094,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103095,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103096,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103097,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103098,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103099,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103100,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103101,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103102,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103103,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103104,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103105,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103106,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103107,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103108,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103109,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103110,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103111,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103112,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103113,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103114,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103115,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103116,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103117,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103118,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103119,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103120,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103121,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103122,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103123,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 103124,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104001,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104002,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104003,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104004,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104005,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104006,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104007,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104008,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104009,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104010,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104011,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104012,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104013,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104014,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104015,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104016,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104017,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104018,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104019,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104020,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104021,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104022,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104023,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104024,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104025,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104026,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104027,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104028,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104029,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104030,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104031,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104032,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104033,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104034,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104035,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104036,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104037,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104038,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104039,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104040,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104041,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104042,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104043,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104044,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104045,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104046,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104047,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104048,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104049,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104050,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104051,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104052,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104053,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104054,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104055,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104056,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104057,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104058,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104059,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104060,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104061,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104062,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104063,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104064,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104065,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104066,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104067,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104068,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104069,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104070,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104071,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104072,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104073,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104074,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104075,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104076,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104077,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104078,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104079,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104080,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104081,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104082,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104083,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104084,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104085,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104086,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104087,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104088,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104089,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104090,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104091,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104092,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104093,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104094,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104095,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104096,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104097,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104098,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104099,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104100,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104101,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104102,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104103,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104104,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104105,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104106,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104107,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104108,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104109,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104110,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104111,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104112,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104113,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104114,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104115,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104116,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104117,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104118,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104119,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104120,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104121,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104122,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104123,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 104124,
+        "StatTypeLength": 80,
+        "StatAddLength": 60,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201001,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201002,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201003,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201004,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201005,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201006,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201007,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201008,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201009,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201010,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201011,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201012,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201013,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201014,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201015,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201016,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201017,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201018,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201019,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201020,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201021,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201022,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201023,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201024,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201025,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201026,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201027,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201028,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201029,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201030,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201031,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201032,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201033,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201034,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201035,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201036,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201037,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201038,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201039,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201040,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201041,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201042,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201043,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201044,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201045,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201046,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201047,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201048,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201049,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201050,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201051,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201052,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201053,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201054,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201055,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201056,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201057,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201058,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201059,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201060,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201061,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201062,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201063,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201064,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201065,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201066,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201067,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201068,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201069,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201070,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201071,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201072,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201073,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201074,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201075,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201076,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201077,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201078,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201079,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201080,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201081,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201082,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201083,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201084,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201085,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201086,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201087,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201088,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201089,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201090,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201091,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201092,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201093,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201094,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201095,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201096,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201097,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201098,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201099,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201100,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201101,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201102,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201103,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201104,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201105,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201106,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201107,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201108,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201109,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201110,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201111,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201112,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201113,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201114,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201115,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201116,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201117,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201118,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201119,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201120,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201121,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201122,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201123,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 201124,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202001,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202002,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202003,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202004,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202005,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202006,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202007,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202008,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202009,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202010,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202011,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202012,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202013,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202014,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202015,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202016,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202017,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202018,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202019,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202020,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202021,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202022,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202023,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202024,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202025,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202026,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202027,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202028,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202029,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202030,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202031,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202032,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202033,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202034,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202035,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202036,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202037,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202038,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202039,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202040,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202041,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202042,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202043,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202044,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202045,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202046,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202047,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202048,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202049,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202050,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202051,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202052,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202053,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202054,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202055,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202056,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202057,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202058,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202059,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202060,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202061,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202062,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202063,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202064,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202065,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202066,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202067,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202068,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202069,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202070,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202071,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202072,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202073,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202074,
+        "StatTypeLength": 92,
+        "StatAddLength": 68,
+        "StatMultiplyLength": 40,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202075,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202076,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202077,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202078,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202079,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202080,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202081,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202082,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202083,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202084,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202085,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202086,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202087,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202088,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202089,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202090,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202091,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202092,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202093,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202094,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202095,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202096,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202097,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202098,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202099,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202100,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202101,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202102,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202103,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202104,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202105,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202106,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202107,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202108,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202109,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202110,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202111,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202112,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202113,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202114,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202115,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202116,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202117,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202118,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202119,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202120,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202121,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202122,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202123,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    },
+    {
+        "StatChangeId": 202124,
+        "StatTypeLength": 100,
+        "StatAddLength": 76,
+        "StatMultiplyLength": 48,
+        "ApplyCharacterIdLength": 28
+    }
+]

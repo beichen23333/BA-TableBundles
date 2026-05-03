@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 6000701,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelTypeLength": 52,
+        "RewardParcelIdLength": 40,
+        "RewardParcelAmountLength": 28
+    },
+    {
+        "Id": 6000801,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelTypeLength": 52,
+        "RewardParcelIdLength": 40,
+        "RewardParcelAmountLength": 28
+    },
+    {
+        "Id": 84001,
+        "LocalizeCodeID": "Event_Treasure_CellReward",
+        "RewardParcelTypeLength": 48,
+        "RewardParcelIdLength": 40,
+        "RewardParcelAmountLength": 28
+    },
+    {
+        "Id": 84201,
+        "LocalizeCodeID": "Event_Treasure_CellReward",
+        "RewardParcelTypeLength": 48,
+        "RewardParcelIdLength": 40,
+        "RewardParcelAmountLength": 28
+    },
+    {
+        "Id": 6001201,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelTypeLength": 52,
+        "RewardParcelIdLength": 40,
+        "RewardParcelAmountLength": 28
+    }
+]

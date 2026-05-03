@@ -1,0 +1,25 @@
+[
+    {
+        "ConquestMapBoundaryOffsetLeft": 6609.954100000001,
+        "ConquestMapBoundaryOffsetRight": 6609.954100000001,
+        "ConquestMapBoundaryOffsetTop": 6609.954110000001,
+        "ConquestMapBoundaryOffsetBottom": 6609.954110000001,
+        "ConquestMapCenterOffsetX": 6609.954110000001,
+        "ConquestMapCenterOffsetY": -6609.95412,
+        "CameraAngle": -6609.95445,
+        "CameraZoomMax": 6609.954130000001,
+        "CameraZoomMin": 6609.954140000001,
+        "CameraZoomDefault": 6609.954130000001,
+        "ThemaLoadingProgressTime": 6609.95408,
+        "MapAllyRotation": 6609.95337,
+        "AniAllyBattleAttack": "Normal_Attack_Start;Normal_Attack_Ing;Normal_Attack_End",
+        "EffectAllyBattleAttack": "",
+        "EffectAllyBattleDamage": "",
+        "AniEnemyBattleAttack": "Normal_Attack_Start;Normal_Attack_Ing;Normal_Attack_End",
+        "EffectEnemyBattleAttack": "",
+        "EffectEnemyBattleDamage": "",
+        "EncounterAllyRotation": -6609.95456,
+        "EncounterEnemyRotation": 6609.954540000001,
+        "EncounterRewardReceiveIndex": 660995410
+    }
+]

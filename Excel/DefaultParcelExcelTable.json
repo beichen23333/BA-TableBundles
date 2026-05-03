@@ -1,0 +1,119 @@
+{
+    "DataList": [
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 1,
+            "ParcelAmount": 10000
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 3,
+            "ParcelAmount": 600
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 5,
+            "ParcelAmount": 24
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 7,
+            "ParcelAmount": 5
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 8,
+            "ParcelAmount": 3
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 6,
+            "ParcelAmount": 3
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 22,
+            "ParcelAmount": 6
+        },
+        {
+            "ParcelType": "Item",
+            "ParcelId": 2,
+            "ParcelAmount": 5
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 23,
+            "ParcelAmount": 6
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 17,
+            "ParcelAmount": 3
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 18,
+            "ParcelAmount": 0
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 19,
+            "ParcelAmount": 40
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 20,
+            "ParcelAmount": 40
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 21,
+            "ParcelAmount": 40
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 24,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 25,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 26,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Currency",
+            "ParcelId": 27,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Emblem",
+            "ParcelId": 1,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Emblem",
+            "ParcelId": 2,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Emblem",
+            "ParcelId": 3,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Emblem",
+            "ParcelId": 4,
+            "ParcelAmount": 1
+        },
+        {
+            "ParcelType": "Emblem",
+            "ParcelId": 5,
+            "ParcelAmount": 1
+        }
+    ]
+}

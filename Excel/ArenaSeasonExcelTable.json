@@ -1,0 +1,58 @@
+[
+    {
+        "UniqueId": 1091473428,
+        "SeasonStartDate": "2021-12-15 14:30:00",
+        "SeasonEndDate": "2023-10-26 14:00:00",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473429
+    },
+    {
+        "UniqueId": 1091473431,
+        "SeasonStartDate": "2023-10-26 14:10:00",
+        "SeasonEndDate": "2024-03-14 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473428
+    },
+    {
+        "UniqueId": 1091473430,
+        "SeasonStartDate": "2024-03-14 14:10:00",
+        "SeasonEndDate": "2024-08-22 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473431
+    },
+    {
+        "UniqueId": 1091473425,
+        "SeasonStartDate": "2024-08-22 14:10:00",
+        "SeasonEndDate": "2025-01-23 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473430
+    },
+    {
+        "UniqueId": 1091473424,
+        "SeasonStartDate": "2025-01-23 14:10:00",
+        "SeasonEndDate": "2025-07-03 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473425
+    },
+    {
+        "UniqueId": 1091473427,
+        "SeasonStartDate": "2025-07-03 14:10:00",
+        "SeasonEndDate": "2025-12-04 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473424
+    },
+    {
+        "UniqueId": 1091473426,
+        "SeasonStartDate": "2025-12-04 14:10:00",
+        "SeasonEndDate": "2026-04-09 13:59:59",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473427
+    },
+    {
+        "UniqueId": 1091473437,
+        "SeasonStartDate": "2026-04-09 14:10:00",
+        "SeasonEndDate": "2100-01-01 14:00:00",
+        "SeasonGroupLimit": 1091480205,
+        "PrevSeasonId": 1091473427
+    }
+]

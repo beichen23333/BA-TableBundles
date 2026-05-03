@@ -1,0 +1,2528 @@
+[
+    {
+        "Key": 3205063001,
+        "ErrorLevel": "Warning",
+        "Kr": "未找到该助力者。",
+        "Jp": ""
+    },
+    {
+        "Key": 3080068811,
+        "ErrorLevel": "Error",
+        "Kr": "无法处理收到的请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 1451459100,
+        "ErrorLevel": "Error",
+        "Kr": "无法处理收到的请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 593817179,
+        "ErrorLevel": "Error",
+        "Kr": "数据包协议错误或协议不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 2920904025,
+        "ErrorLevel": "Error",
+        "Kr": "无效的会话。",
+        "Jp": ""
+    },
+    {
+        "Key": 3347437062,
+        "ErrorLevel": "Error",
+        "Kr": "客户端版本错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 3047249769,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 430044536,
+        "ErrorLevel": "Error",
+        "Kr": "数据库处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2095745906,
+        "ErrorLevel": "Warning",
+        "Kr": "资源不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 2367643443,
+        "ErrorLevel": "Warning",
+        "Kr": "已达到神秘解放上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 3762581793,
+        "ErrorLevel": "Error",
+        "Kr": "已达到持有上限，无法继续领取。",
+        "Jp": ""
+    },
+    {
+        "Key": 2711028080,
+        "ErrorLevel": "Error",
+        "Kr": "无法在数据库中找到账号信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 950826558,
+        "ErrorLevel": "Error",
+        "Kr": "该账号名不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 1838154309,
+        "ErrorLevel": "Warning",
+        "Kr": "账号名已存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 296527733,
+        "ErrorLevel": "Error",
+        "Kr": "未填写开发者编号的名字。",
+        "Jp": ""
+    },
+    {
+        "Key": 2525474471,
+        "ErrorLevel": "Error",
+        "Kr": "没有对应名字的账号。",
+        "Jp": ""
+    },
+    {
+        "Key": 503931658,
+        "ErrorLevel": "Error",
+        "Kr": "该账号没有访问权限。",
+        "Jp": ""
+    },
+    {
+        "Key": 3296768386,
+        "ErrorLevel": "Warning",
+        "Kr": "昵称包含空格。\n昵称中不能包含空格。",
+        "Jp": ""
+    },
+    {
+        "Key": 3501394912,
+        "ErrorLevel": "Warning",
+        "Kr": "新昵称与目前使用的昵称相同。",
+        "Jp": ""
+    },
+    {
+        "Key": 3421421223,
+        "ErrorLevel": "Warning",
+        "Kr": "包含不可使用的文字，请重新输入。",
+        "Jp": ""
+    },
+    {
+        "Key": 3283850040,
+        "ErrorLevel": "Warning",
+        "Kr": "昵称太短或太长。",
+        "Jp": ""
+    },
+    {
+        "Key": 1228209340,
+        "ErrorLevel": "Error",
+        "Kr": "认证服务器无法处理该请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 787750543,
+        "ErrorLevel": "Error",
+        "Kr": "与认证服务器通信时发生了错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2136129359,
+        "ErrorLevel": "Error",
+        "Kr": "处理认证服务器的请求时发生了错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1234200571,
+        "ErrorLevel": "Error",
+        "Kr": "账号生成失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2238395843,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理命令失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 928524933,
+        "ErrorLevel": "Error",
+        "Kr": "将账号与验证码绑定时失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1004710492,
+        "ErrorLevel": "Error",
+        "Kr": "无法登录开发者账号。",
+        "Jp": ""
+    },
+    {
+        "Key": 491727203,
+        "ErrorLevel": "Error",
+        "Kr": "该验证编号已被使用。\n生成账号失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 4020319994,
+        "ErrorLevel": "Error",
+        "Kr": "无法更新账号状态。",
+        "Jp": ""
+    },
+    {
+        "Key": 230738428,
+        "ErrorLevel": "Warning",
+        "Kr": "无对象成员。",
+        "Jp": ""
+    },
+    {
+        "Key": 269379813,
+        "ErrorLevel": "Warning",
+        "Kr": "该成员尚未解锁。",
+        "Jp": ""
+    },
+    {
+        "Key": 2445884324,
+        "ErrorLevel": "Warning",
+        "Kr": "该成员已重复。",
+        "Jp": ""
+    },
+    {
+        "Key": 2707122617,
+        "ErrorLevel": "Warning",
+        "Kr": "该成员已编入部队。",
+        "Jp": ""
+    },
+    {
+        "Key": 3808631556,
+        "ErrorLevel": "Error",
+        "Kr": "检测到好感度的减少。\n取消好感度更新。",
+        "Jp": ""
+    },
+    {
+        "Key": 4060733599,
+        "ErrorLevel": "Warning",
+        "Kr": "已达到最高等级。",
+        "Jp": ""
+    },
+    {
+        "Key": 2302161878,
+        "ErrorLevel": "Error",
+        "Kr": "因神秘解放或等级不足，无法进行升级。",
+        "Jp": ""
+    },
+    {
+        "Key": 3518848085,
+        "ErrorLevel": "Error",
+        "Kr": "没有装备。",
+        "Jp": ""
+    },
+    {
+        "Key": 1030865580,
+        "ErrorLevel": "Error",
+        "Kr": "无法放置在此栏位的装备。",
+        "Jp": ""
+    },
+    {
+        "Key": 2186670411,
+        "ErrorLevel": "Error",
+        "Kr": "无法出售或使用装备。",
+        "Jp": ""
+    },
+    {
+        "Key": 3926485639,
+        "ErrorLevel": "Error",
+        "Kr": "已穿戴该装备。",
+        "Jp": ""
+    },
+    {
+        "Key": 271875608,
+        "ErrorLevel": "Error",
+        "Kr": "超出装备升级所需的数量。",
+        "Jp": ""
+    },
+    {
+        "Key": 3899674665,
+        "ErrorLevel": "Error",
+        "Kr": "未穿戴该装备。",
+        "Jp": ""
+    },
+    {
+        "Key": 3199174171,
+        "ErrorLevel": "Error",
+        "Kr": "没有道具。",
+        "Jp": ""
+    },
+    {
+        "Key": 2028977636,
+        "ErrorLevel": "Error",
+        "Kr": "无法出售或使用道具。",
+        "Jp": ""
+    },
+    {
+        "Key": 2153358435,
+        "ErrorLevel": "Error",
+        "Kr": "请求生成道具时遗漏了数量信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 4227111820,
+        "ErrorLevel": "Warning",
+        "Kr": "即将到达道具持有数上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 436810703,
+        "ErrorLevel": "Error",
+        "Kr": "道具使用方式不符合定义。",
+        "Jp": ""
+    },
+    {
+        "Key": 1666241848,
+        "ErrorLevel": "Warning",
+        "Kr": "神秘解放所需的道具不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 2402602733,
+        "ErrorLevel": "Warning",
+        "Kr": "道具持有量不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 2874832470,
+        "ErrorLevel": "Error",
+        "Kr": "请求使用经验值提升道具时缺少数量信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1734057918,
+        "ErrorLevel": "Warning",
+        "Kr": "未指定队长。",
+        "Jp": ""
+    },
+    {
+        "Key": 1323800997,
+        "ErrorLevel": "Warning",
+        "Kr": "未找到部队。",
+        "Jp": ""
+    },
+    {
+        "Key": 2152463179,
+        "ErrorLevel": "Warning",
+        "Kr": "该部队尚未配置在战略地图。",
+        "Jp": ""
+    },
+    {
+        "Key": 2875328899,
+        "ErrorLevel": "Warning",
+        "Kr": "部队栏位不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 606737380,
+        "ErrorLevel": "Warning",
+        "Kr": "该成员已编入其他部队。",
+        "Jp": ""
+    },
+    {
+        "Key": 3085378534,
+        "ErrorLevel": "Warning",
+        "Kr": "尚未指定部队类型。",
+        "Jp": ""
+    },
+    {
+        "Key": 2234067980,
+        "ErrorLevel": "Warning",
+        "Kr": "不能使用空白的部队。",
+        "Jp": ""
+    },
+    {
+        "Key": 2422016245,
+        "ErrorLevel": "Warning",
+        "Kr": "因未满足解锁条件，当前无法进行游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 688651309,
+        "ErrorLevel": "Warning",
+        "Kr": "已耗尽每日次数上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 957588825,
+        "ErrorLevel": "Warning",
+        "Kr": "进入关卡失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3910671251,
+        "ErrorLevel": "Warning",
+        "Kr": "关卡进行信息不存在或无效。",
+        "Jp": ""
+    },
+    {
+        "Key": 213352577,
+        "ErrorLevel": "Warning",
+        "Kr": "现在不是玩家的回合。",
+        "Jp": ""
+    },
+    {
+        "Key": 2136130675,
+        "ErrorLevel": "Warning",
+        "Kr": "关卡不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 138788887,
+        "ErrorLevel": "Warning",
+        "Kr": "章节不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 614311547,
+        "ErrorLevel": "Warning",
+        "Kr": "我方或敌方部队不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 272639916,
+        "ErrorLevel": "Warning",
+        "Kr": "无法重新配置。",
+        "Jp": ""
+    },
+    {
+        "Key": 2432466270,
+        "ErrorLevel": "Warning",
+        "Kr": "该请求未指定普通/困难模式。",
+        "Jp": ""
+    },
+    {
+        "Key": 2402851462,
+        "ErrorLevel": "Error",
+        "Kr": "已经领取过该奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 404034177,
+        "ErrorLevel": "Error",
+        "Kr": "胜负判定失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1012603495,
+        "ErrorLevel": "Warning",
+        "Kr": "已耗尽行动次数。",
+        "Jp": ""
+    },
+    {
+        "Key": 260795101,
+        "ErrorLevel": "Error",
+        "Kr": "无法紧急恢复。",
+        "Jp": ""
+    },
+    {
+        "Key": 347228547,
+        "ErrorLevel": "Error",
+        "Kr": "已耗尽紧急恢复每日使用次数。",
+        "Jp": ""
+    },
+    {
+        "Key": 1157920399,
+        "ErrorLevel": "Warning",
+        "Kr": "我方和敌方部队位置不同。",
+        "Jp": ""
+    },
+    {
+        "Key": 2583699762,
+        "ErrorLevel": "Warning",
+        "Kr": "存在未行动的敌方部队。",
+        "Jp": ""
+    },
+    {
+        "Key": 3261228687,
+        "ErrorLevel": "Error",
+        "Kr": "战斗结果处理失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2942809624,
+        "ErrorLevel": "Error",
+        "Kr": "没有可领取的邮件信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 4228418186,
+        "ErrorLevel": "Error",
+        "Kr": "请求的奖励未达成任务条件。",
+        "Jp": ""
+    },
+    {
+        "Key": 415352066,
+        "ErrorLevel": "Error",
+        "Kr": "签到簿信息出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1758812781,
+        "ErrorLevel": "Error",
+        "Kr": "未找到商店的请求信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2041378334,
+        "ErrorLevel": "Error",
+        "Kr": "商店编号与物品编号与表值不同。",
+        "Jp": ""
+    },
+    {
+        "Key": 1749329065,
+        "ErrorLevel": "Error",
+        "Kr": "商店表中没有该商品编号。",
+        "Jp": ""
+    },
+    {
+        "Key": 2660807240,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出可购买次数上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 2950738644,
+        "ErrorLevel": "Warning",
+        "Kr": "无法继续更新。",
+        "Jp": ""
+    },
+    {
+        "Key": 4237895473,
+        "ErrorLevel": "Error",
+        "Kr": "未找到商店的请求信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1269606458,
+        "ErrorLevel": "Error",
+        "Kr": "没有组合公式信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1458733722,
+        "ErrorLevel": "Warning",
+        "Kr": "组合公式所需的材料不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 3621762549,
+        "ErrorLevel": "Error",
+        "Kr": "组合公式数据存在问题。",
+        "Jp": ""
+    },
+    {
+        "Key": 613903562,
+        "ErrorLevel": "Error",
+        "Kr": "该角色暂无记忆大厅。",
+        "Jp": ""
+    },
+    {
+        "Key": 3205256468,
+        "ErrorLevel": "Error",
+        "Kr": "未能变更大厅模式。",
+        "Jp": ""
+    },
+    {
+        "Key": 1877159664,
+        "ErrorLevel": "Error",
+        "Kr": "奖励信息无效。",
+        "Jp": ""
+    },
+    {
+        "Key": 216432509,
+        "ErrorLevel": "Error",
+        "Kr": "已经领取过该奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 1783313464,
+        "ErrorLevel": "Warning",
+        "Kr": "访问时间不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 1192440065,
+        "ErrorLevel": "Warning",
+        "Kr": "因未满足解锁条件，当前无法进行游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 49321440,
+        "ErrorLevel": "Error",
+        "Kr": "未生成咖啡厅。",
+        "Jp": ""
+    },
+    {
+        "Key": 463622482,
+        "ErrorLevel": "Warning",
+        "Kr": "家具配置失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1865613949,
+        "ErrorLevel": "Warning",
+        "Kr": "变更家具位置失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2188088798,
+        "ErrorLevel": "Error",
+        "Kr": "没有为成员设置互动数据。",
+        "Jp": ""
+    },
+    {
+        "Key": 1510279504,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到家具信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 696726334,
+        "ErrorLevel": "Warning",
+        "Kr": "没有可获得的资源。",
+        "Jp": ""
+    },
+    {
+        "Key": 454910838,
+        "ErrorLevel": "Error",
+        "Kr": "",
+        "Jp": ""
+    },
+    {
+        "Key": 2000402903,
+        "ErrorLevel": "Warning",
+        "Kr": "已通关该剧情。",
+        "Jp": ""
+    },
+    {
+        "Key": 3716096871,
+        "ErrorLevel": "Warning",
+        "Kr": "没有通关指定剧情。",
+        "Jp": ""
+    },
+    {
+        "Key": 449070089,
+        "ErrorLevel": "Warning",
+        "Kr": "等级不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 4267934794,
+        "ErrorLevel": "Warning",
+        "Kr": "没有通关指定的任务关卡。",
+        "Jp": ""
+    },
+    {
+        "Key": 1026052528,
+        "ErrorLevel": "Warning",
+        "Kr": "登记的成员数不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 1243134087,
+        "ErrorLevel": "Error",
+        "Kr": "数据库处理失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 4163649284,
+        "ErrorLevel": "Warning",
+        "Kr": "已经观看过该剧情。",
+        "Jp": ""
+    },
+    {
+        "Key": 2194821661,
+        "ErrorLevel": "Error",
+        "Kr": "数据库处理失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 973547158,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到制造信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2970299365,
+        "ErrorLevel": "Error",
+        "Kr": "错误的节点生成请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 140003667,
+        "ErrorLevel": "Warning",
+        "Kr": "节点升级所需的经验值不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 722323811,
+        "ErrorLevel": "Warning",
+        "Kr": "无法开始。",
+        "Jp": ""
+    },
+    {
+        "Key": 2339702451,
+        "ErrorLevel": "Warning",
+        "Kr": "不是基础节点。",
+        "Jp": ""
+    },
+    {
+        "Key": 1332955216,
+        "ErrorLevel": "Error",
+        "Kr": "制造已经开始。",
+        "Jp": ""
+    },
+    {
+        "Key": 1254199814,
+        "ErrorLevel": "Error",
+        "Kr": "制造未开始或已完成。",
+        "Jp": ""
+    },
+    {
+        "Key": 2597660730,
+        "ErrorLevel": "Warning",
+        "Kr": "正在制造。",
+        "Jp": ""
+    },
+    {
+        "Key": 4087551590,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到对应信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2615324660,
+        "ErrorLevel": "Warning",
+        "Kr": "当前不是赛季期间。",
+        "Jp": ""
+    },
+    {
+        "Key": 2947026275,
+        "ErrorLevel": "Warning",
+        "Kr": "已超时，战斗结束。",
+        "Jp": ""
+    },
+    {
+        "Key": 1934835945,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到战斗信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 4149047221,
+        "ErrorLevel": "Error",
+        "Kr": "战斗信息保存失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3058666136,
+        "ErrorLevel": "Error",
+        "Kr": "没有可领取的奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 3573385991,
+        "ErrorLevel": "Error",
+        "Kr": "存在已生成的总力战。",
+        "Jp": ""
+    },
+    {
+        "Key": 986999103,
+        "ErrorLevel": "Warning",
+        "Kr": "行动点不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 4098579131,
+        "ErrorLevel": "Warning",
+        "Kr": "总力战挑战券不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 1465803275,
+        "ErrorLevel": "Warning",
+        "Kr": "无法参与。",
+        "Jp": ""
+    },
+    {
+        "Key": 767163894,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出可参与人数。",
+        "Jp": ""
+    },
+    {
+        "Key": 2838772495,
+        "ErrorLevel": "Error",
+        "Kr": "没有收到奖励信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2540639998,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到奖励信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2750737239,
+        "ErrorLevel": "Error",
+        "Kr": "已领取奖励或没有相关信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 3793271115,
+        "ErrorLevel": "Error",
+        "Kr": "地点信息更新出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2658092416,
+        "ErrorLevel": "Error",
+        "Kr": "奖励信息更新出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2650496749,
+        "ErrorLevel": "Error",
+        "Kr": "奖励领取失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 317783289,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到总力战。",
+        "Jp": ""
+    },
+    {
+        "Key": 4088362999,
+        "ErrorLevel": "Error",
+        "Kr": "总力战不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 3260873820,
+        "ErrorLevel": "Error",
+        "Kr": "未能更新奖励领取情报。",
+        "Jp": ""
+    },
+    {
+        "Key": 1449130769,
+        "ErrorLevel": "Error",
+        "Kr": "没有玩家参与信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1595339990,
+        "ErrorLevel": "Warning",
+        "Kr": "包含已出战的成员。",
+        "Jp": ""
+    },
+    {
+        "Key": 2172607841,
+        "ErrorLevel": "Error",
+        "Kr": "未成功保存通关信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 279935345,
+        "ErrorLevel": "Error",
+        "Kr": "战斗已结束。",
+        "Jp": ""
+    },
+    {
+        "Key": 2862945212,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到对应信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2350037431,
+        "ErrorLevel": "Warning",
+        "Kr": "当前日期无法进入。",
+        "Jp": ""
+    },
+    {
+        "Key": 4154804449,
+        "ErrorLevel": "Error",
+        "Kr": "胜者信息出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2435225822,
+        "ErrorLevel": "Error",
+        "Kr": "保存信息出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 3693538322,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到奖励信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1900014796,
+        "ErrorLevel": "Error",
+        "Kr": "奖励种子未更新。",
+        "Jp": ""
+    },
+    {
+        "Key": 1867831835,
+        "ErrorLevel": "Error",
+        "Kr": "已击败的敌人数量超出最大值。",
+        "Jp": ""
+    },
+    {
+        "Key": 2084469709,
+        "ErrorLevel": "Error",
+        "Kr": "当前不是赛季期间。",
+        "Jp": ""
+    },
+    {
+        "Key": 516360769,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到分组相关信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2486217945,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到以往排名信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2972986328,
+        "ErrorLevel": "Error",
+        "Kr": "排名信息出现错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2131067520,
+        "ErrorLevel": "Error",
+        "Kr": "战斗信息设置失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 697494425,
+        "ErrorLevel": "Warning",
+        "Kr": "已领取本日奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 2703780086,
+        "ErrorLevel": "Warning",
+        "Kr": "当前不是赛季期间。",
+        "Jp": ""
+    },
+    {
+        "Key": 2481436170,
+        "ErrorLevel": "Warning",
+        "Kr": "现在还无法再次攻击。\n请稍后再试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2528585070,
+        "ErrorLevel": "Warning",
+        "Kr": "对方已经在战斗中。\n请更新列表。",
+        "Jp": ""
+    },
+    {
+        "Key": 2742406503,
+        "ErrorLevel": "Warning",
+        "Kr": "无法挑战该排名。",
+        "Jp": ""
+    },
+    {
+        "Key": 1443720116,
+        "ErrorLevel": "Warning",
+        "Kr": "请先完成防御编队。",
+        "Jp": ""
+    },
+    {
+        "Key": 4160425110,
+        "ErrorLevel": "Warning",
+        "Kr": "没有对战历史。",
+        "Jp": ""
+    },
+    {
+        "Key": 2745951414,
+        "ErrorLevel": "Error",
+        "Kr": "没有获得相关信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 892044620,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到日程数据。",
+        "Jp": ""
+    },
+    {
+        "Key": 3165059078,
+        "ErrorLevel": "Error",
+        "Kr": "没有收到操作数据。",
+        "Jp": ""
+    },
+    {
+        "Key": 928979900,
+        "ErrorLevel": "Warning",
+        "Kr": "已执行该日程。",
+        "Jp": ""
+    },
+    {
+        "Key": 1627145907,
+        "ErrorLevel": "Warning",
+        "Kr": "已执行该好感日程。",
+        "Jp": ""
+    },
+    {
+        "Key": 3703636363,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到成员。",
+        "Jp": ""
+    },
+    {
+        "Key": 2211462200,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到保存信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1749817446,
+        "ErrorLevel": "Error",
+        "Kr": "账号已被禁止使用，\n如有任何问题请咨询客服！\n封禁周期至：",
+        "Jp": ""
+    },
+    {
+        "Key": 600902130,
+        "ErrorLevel": "Error",
+        "Kr": "认证服务器拒绝了请求。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2441522708,
+        "ErrorLevel": "Error",
+        "Kr": "访问无效。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 281872164,
+        "ErrorLevel": "Error",
+        "Kr": "进行中的会话信息已存在。请稍后再试。",
+        "Jp": ""
+    },
+    {
+        "Key": 3833806126,
+        "ErrorLevel": "Error",
+        "Kr": "实时服务器发送了使用开发功能的请求（强制变更为待机状态的功能）。",
+        "Jp": ""
+    },
+    {
+        "Key": 2788887398,
+        "ErrorLevel": "Error",
+        "Kr": "实时服务器发送了使用开发功能的请求（强制无视Yostar验证的功能）。",
+        "Jp": ""
+    },
+    {
+        "Key": 329825449,
+        "ErrorLevel": "Error",
+        "Kr": "连接服务器时出现错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1764176572,
+        "ErrorLevel": "Error",
+        "Kr": "连接服务器时出现错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 846737899,
+        "ErrorLevel": "Error",
+        "Kr": "连接服务器时出现错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 263335428,
+        "ErrorLevel": "Error",
+        "Kr": "该入场券已被使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 1473721350,
+        "ErrorLevel": "Warning",
+        "Kr": "因未满足解锁条件，当前无法进行游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 4199568983,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败，请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 854479611,
+        "ErrorLevel": "Error",
+        "Kr": "登录失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1667401147,
+        "ErrorLevel": "Error",
+        "Kr": "请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 3373019765,
+        "ErrorLevel": "Warning",
+        "Kr": "服务器正在维护。\n将退出应用程序。",
+        "Jp": ""
+    },
+    {
+        "Key": 1967620704,
+        "ErrorLevel": "Error",
+        "Kr": "服务器正在维护，当前内容使用受限。",
+        "Jp": ""
+    },
+    {
+        "Key": 1387597489,
+        "ErrorLevel": "Warning",
+        "Kr": "无法连接到服务器。",
+        "Jp": ""
+    },
+    {
+        "Key": 874234115,
+        "ErrorLevel": "Warning",
+        "Kr": "当前服务器负载过高。\n正在等待登录，请稍候。\n若不想等待，请点击下方确认按钮。",
+        "Jp": ""
+    },
+    {
+        "Key": 4131409760,
+        "ErrorLevel": "Error",
+        "Kr": "版本号验证失败，请更新游戏版本。",
+        "Jp": ""
+    },
+    {
+        "Key": 2025471191,
+        "ErrorLevel": "Warning",
+        "Kr": "没有输入礼包码编号。",
+        "Jp": ""
+    },
+    {
+        "Key": 715519178,
+        "ErrorLevel": "Warning",
+        "Kr": "礼包码编号错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1128341386,
+        "ErrorLevel": "Warning",
+        "Kr": "没有找到礼包码信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 3770265341,
+        "ErrorLevel": "Warning",
+        "Kr": "该礼包码已被使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 1897255150,
+        "ErrorLevel": "Warning",
+        "Kr": "未登记的无效礼包码。",
+        "Jp": ""
+    },
+    {
+        "Key": 3600060356,
+        "ErrorLevel": "Warning",
+        "Kr": "该礼包码已失效。",
+        "Jp": ""
+    },
+    {
+        "Key": 3406003919,
+        "ErrorLevel": "Warning",
+        "Kr": "该礼包码已兑换。",
+        "Jp": ""
+    },
+    {
+        "Key": 2697096147,
+        "ErrorLevel": "Warning",
+        "Kr": "该礼包码已失效。",
+        "Jp": ""
+    },
+    {
+        "Key": 1560950739,
+        "ErrorLevel": "Warning",
+        "Kr": "该礼包码无法使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 2570594034,
+        "ErrorLevel": "Warning",
+        "Kr": "不符合使用时间的礼包码。",
+        "Jp": ""
+    },
+    {
+        "Key": 3143884977,
+        "ErrorLevel": "Warning",
+        "Kr": "日期已变更。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1099459407,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出道具使用期限。",
+        "Jp": ""
+    },
+    {
+        "Key": 823781795,
+        "ErrorLevel": "Error",
+        "Kr": "未找到ID。",
+        "Jp": ""
+    },
+    {
+        "Key": 1134830357,
+        "ErrorLevel": "Error",
+        "Kr": "无法购买该商品。",
+        "Jp": ""
+    },
+    {
+        "Key": 572639595,
+        "ErrorLevel": "Error",
+        "Kr": "没有找到玩家信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2305226512,
+        "ErrorLevel": "Error",
+        "Kr": "玩家等级不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 2702264133,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出购买上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 1476039225,
+        "ErrorLevel": "Error",
+        "Kr": "购买记录保存失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1710124296,
+        "ErrorLevel": "Warning",
+        "Kr": "未到月度商品可购买时间。",
+        "Jp": ""
+    },
+    {
+        "Key": 3023464381,
+        "ErrorLevel": "Error",
+        "Kr": "无法获取订单信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1892580245,
+        "ErrorLevel": "Error",
+        "Kr": "无法获取已购买的订单信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 364570626,
+        "ErrorLevel": "Error",
+        "Kr": "无法获取商品的订单信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2915218317,
+        "ErrorLevel": "Error",
+        "Kr": "无法获取月度商品的订单信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1834139508,
+        "ErrorLevel": "Error",
+        "Kr": "无效的发放请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 2408040378,
+        "ErrorLevel": "Error",
+        "Kr": "数据库更新失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1400807002,
+        "ErrorLevel": "Error",
+        "Kr": "邮件发送失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2091119962,
+        "ErrorLevel": "Error",
+        "Kr": "无效的账号信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 2010887118,
+        "ErrorLevel": "Error",
+        "Kr": "无法获取购买信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1183429982,
+        "ErrorLevel": "Error",
+        "Kr": "月度商品更新失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2955685875,
+        "ErrorLevel": "Error",
+        "Kr": "无法找到认证信息。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 844584816,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理认证信息时发生错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2966739105,
+        "ErrorLevel": "Error",
+        "Kr": "发现无效认证信息。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2899564018,
+        "ErrorLevel": "Error",
+        "Kr": "认证信息错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1556015914,
+        "ErrorLevel": "Error",
+        "Kr": "发现重复登录。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1988324695,
+        "ErrorLevel": "Error",
+        "Kr": "认证信息已超时。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 257404051,
+        "ErrorLevel": "Error",
+        "Kr": "该认证信息为旧版本服务器的信息。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2016178701,
+        "ErrorLevel": "Warning",
+        "Kr": "日期已变更。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 681178497,
+        "ErrorLevel": "Error",
+        "Kr": "该章节有未达成的任务目标。",
+        "Jp": ""
+    },
+    {
+        "Key": 2129400885,
+        "ErrorLevel": "Warning",
+        "Kr": "设置昵称后\n72小时内无法变更。",
+        "Jp": ""
+    },
+    {
+        "Key": 3045956905,
+        "ErrorLevel": "Warning",
+        "Kr": "未设置昵称。",
+        "Jp": ""
+    },
+    {
+        "Key": 4069281913,
+        "ErrorLevel": "Warning",
+        "Kr": "昵称包含无法使用的文字。",
+        "Jp": ""
+    },
+    {
+        "Key": 469714755,
+        "ErrorLevel": "Warning",
+        "Kr": "抱歉，目前没有找到合适的小组，请稍后再试",
+        "Jp": ""
+    },
+    {
+        "Key": 3604544587,
+        "ErrorLevel": "Warning",
+        "Kr": "未找到符合搜索条件的小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 199871244,
+        "ErrorLevel": "Warning",
+        "Kr": "请先填写要搜索的字符。",
+        "Jp": ""
+    },
+    {
+        "Key": 967534405,
+        "ErrorLevel": "Warning",
+        "Kr": "已经加入了小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 1998286387,
+        "ErrorLevel": "Warning",
+        "Kr": "已经离开了小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 2148321055,
+        "ErrorLevel": "Warning",
+        "Kr": "无法建立小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 1143382744,
+        "ErrorLevel": "Warning",
+        "Kr": "该小组成员人数已满。",
+        "Jp": ""
+    },
+    {
+        "Key": 3299212715,
+        "ErrorLevel": "Warning",
+        "Kr": "抱歉，您已被取消小组管理员身份",
+        "Jp": ""
+    },
+    {
+        "Key": 2071833767,
+        "ErrorLevel": "Warning",
+        "Kr": "抱歉，该申请已失效",
+        "Jp": ""
+    },
+    {
+        "Key": 1350002648,
+        "ErrorLevel": "Warning",
+        "Kr": "没有找到小组组员。",
+        "Jp": ""
+    },
+    {
+        "Key": 250137538,
+        "ErrorLevel": "Warning",
+        "Kr": "无法删除小组组员。",
+        "Jp": ""
+    },
+    {
+        "Key": 1199549907,
+        "ErrorLevel": "Warning",
+        "Kr": "小组内有其他组员时无法解散小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 269254824,
+        "ErrorLevel": "Warning",
+        "Kr": "无法离开小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 278111411,
+        "ErrorLevel": "Warning",
+        "Kr": "离开小组24小时后，才可以建立或加入别的小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 569861543,
+        "ErrorLevel": "Error",
+        "Kr": "组员权限变更失败。请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2894419798,
+        "ErrorLevel": "Warning",
+        "Kr": "小组已解散。",
+        "Jp": ""
+    },
+    {
+        "Key": 3629172404,
+        "ErrorLevel": "Warning",
+        "Kr": "处理完申请成员后，才可变更加入条件。",
+        "Jp": ""
+    },
+    {
+        "Key": 2640579740,
+        "ErrorLevel": "Warning",
+        "Kr": "可以拥有该权限的组员人数已满。",
+        "Jp": ""
+    },
+    {
+        "Key": 2226866488,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败。\n请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 3994088247,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败。\n请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 4070949931,
+        "ErrorLevel": "Warning",
+        "Kr": "当前状态下无法使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 989987378,
+        "ErrorLevel": "Error",
+        "Kr": "网络连接错误，请重试。\n点击返回大厅。",
+        "Jp": ""
+    },
+    {
+        "Key": 1231811525,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败，请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2262420626,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出行动点持有上限，无法继续购买。",
+        "Jp": ""
+    },
+    {
+        "Key": 367774391,
+        "ErrorLevel": "Error",
+        "Kr": "网络连接不稳定，暂时无法使用聊天功能。",
+        "Jp": ""
+    },
+    {
+        "Key": 602787320,
+        "ErrorLevel": "Error",
+        "Kr": "付费青辉石为负数时，无法进行游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 3004047387,
+        "ErrorLevel": "Error",
+        "Kr": "免费青辉石为负数时，无法进行游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 976342321,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出可输入的字符数上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 1879314961,
+        "ErrorLevel": "Error",
+        "Kr": "已达到持有上限，无法继续领取。",
+        "Jp": ""
+    },
+    {
+        "Key": 354888554,
+        "ErrorLevel": "Error",
+        "Kr": "服务器设置值错误，无法进行购买。",
+        "Jp": ""
+    },
+    {
+        "Key": 3386131571,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出列表更新时间。",
+        "Jp": ""
+    },
+    {
+        "Key": 3044066361,
+        "ErrorLevel": "Warning",
+        "Kr": "已超出编队时间限制。",
+        "Jp": ""
+    },
+    {
+        "Key": 2895313259,
+        "ErrorLevel": "Error",
+        "Kr": "通信环境已更新。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 3536494282,
+        "ErrorLevel": "Error",
+        "Kr": "通信状态不稳定。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 880662068,
+        "ErrorLevel": "Error",
+        "Kr": "服务器无响应。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2143241516,
+        "ErrorLevel": "Error",
+        "Kr": "内存不足。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2519875832,
+        "ErrorLevel": "Error",
+        "Kr": "客户端异常。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 261121768,
+        "ErrorLevel": "Error",
+        "Kr": "排名服务器无响应。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 3668978765,
+        "ErrorLevel": "Error",
+        "Kr": "数据已更新，\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2905977845,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2393967944,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 551069908,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 240259365,
+        "ErrorLevel": "Error",
+        "Kr": "客户端在指定时间内发送的请求过多。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 740556531,
+        "ErrorLevel": "Error",
+        "Kr": "现在无法获得战术对抗赛奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 124599116,
+        "ErrorLevel": "Error",
+        "Kr": "没有可领取的战术对抗赛奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 2418221952,
+        "ErrorLevel": "Error",
+        "Kr": "服务器处理请求失败。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2135655308,
+        "ErrorLevel": "Error",
+        "Kr": "排名过低，无法指定防御用地图。",
+        "Jp": ""
+    },
+    {
+        "Key": 2856326245,
+        "ErrorLevel": "Warning",
+        "Kr": "招募已过期。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 569241788,
+        "ErrorLevel": "Warning",
+        "Kr": "角色等级已达到上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 1076112629,
+        "ErrorLevel": "Error",
+        "Kr": "无效的关卡数据。",
+        "Jp": ""
+    },
+    {
+        "Key": 2592514515,
+        "ErrorLevel": "Error",
+        "Kr": "无法执行快速战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 3430710823,
+        "ErrorLevel": "Error",
+        "Kr": "无法加入到制造的材料。",
+        "Jp": ""
+    },
+    {
+        "Key": 2490705469,
+        "ErrorLevel": "Error",
+        "Kr": "进行制造时发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 364169284,
+        "ErrorLevel": "Error",
+        "Kr": "制造数据包含错误的值。",
+        "Jp": ""
+    },
+    {
+        "Key": 507009660,
+        "ErrorLevel": "Error",
+        "Kr": "装备升级失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1625540169,
+        "ErrorLevel": "Error",
+        "Kr": "需要增加材料进行装备升级。",
+        "Jp": ""
+    },
+    {
+        "Key": 190083373,
+        "ErrorLevel": "Error",
+        "Kr": "装备进阶失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 569149920,
+        "ErrorLevel": "Error",
+        "Kr": "商品存在问题。",
+        "Jp": ""
+    },
+    {
+        "Key": 2847927515,
+        "ErrorLevel": "Warning",
+        "Kr": "费用不足。",
+        "Jp": ""
+    },
+    {
+        "Key": 2798337214,
+        "ErrorLevel": "Error",
+        "Kr": "生日更新失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 1426481190,
+        "ErrorLevel": "Error",
+        "Kr": "费用消耗失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3922891619,
+        "ErrorLevel": "Error",
+        "Kr": "购买失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3981288380,
+        "ErrorLevel": "Error",
+        "Kr": "服务器无响应。",
+        "Jp": ""
+    },
+    {
+        "Key": 2980092194,
+        "ErrorLevel": "Error",
+        "Kr": "指定时间内未完成函数处理。",
+        "Jp": ""
+    },
+    {
+        "Key": 884407970,
+        "ErrorLevel": "Error",
+        "Kr": "同步账号信息时发生错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 3944054940,
+        "ErrorLevel": "Error",
+        "Kr": "同步资源信息时发生错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1854458240,
+        "ErrorLevel": "Error",
+        "Kr": "更新剧情数据时发生错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1788564632,
+        "ErrorLevel": "Warning",
+        "Kr": "小组名包含空格。\n小组名不能包含空格。",
+        "Jp": ""
+    },
+    {
+        "Key": 1606628276,
+        "ErrorLevel": "Warning",
+        "Kr": "小组名太短或太长。",
+        "Jp": ""
+    },
+    {
+        "Key": 2770189623,
+        "ErrorLevel": "Error",
+        "Kr": "与成员互动时发生错误。\n将返回大厅。",
+        "Jp": ""
+    },
+    {
+        "Key": 1503209846,
+        "ErrorLevel": "Warning",
+        "Kr": "对方排名发生变化。\n将回到战术对抗赛大厅。",
+        "Jp": ""
+    },
+    {
+        "Key": 3670806320,
+        "ErrorLevel": "Error",
+        "Kr": "无法领取奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 2153223226,
+        "ErrorLevel": "Error",
+        "Kr": "检测到客户端发生更改。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1443275327,
+        "ErrorLevel": "Warning",
+        "Kr": "安全模组初始化失败，需要重新启动应用。",
+        "Jp": ""
+    },
+    {
+        "Key": 3336944289,
+        "ErrorLevel": "Error",
+        "Kr": "专属武器已达到最高等级。",
+        "Jp": ""
+    },
+    {
+        "Key": 1792965332,
+        "ErrorLevel": "Error",
+        "Kr": "可通过极限解放扩展最高等级上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 3940889778,
+        "ErrorLevel": "Warning",
+        "Kr": "超出时间限制，战斗已结束。",
+        "Jp": ""
+    },
+    {
+        "Key": 1542776967,
+        "ErrorLevel": "Warning",
+        "Kr": "因尚未通关总力战，无法领取排名奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 1705407544,
+        "ErrorLevel": "Error",
+        "Kr": "已超出专属武器升级所需的数量。",
+        "Jp": ""
+    },
+    {
+        "Key": 3931378640,
+        "ErrorLevel": "Warning",
+        "Kr": "包含已登记在咖啡厅预设中的家具，无法作为制造原料使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 658573648,
+        "ErrorLevel": "Warning",
+        "Kr": "购买已结算完成，但还未进行招募。\n请在以下时间内进行招募（不会产生重复购买）",
+        "Jp": ""
+    },
+    {
+        "Key": 1345230216,
+        "ErrorLevel": "Warning",
+        "Kr": "剩余时间: {0}",
+        "Jp": ""
+    },
+    {
+        "Key": 3226801384,
+        "ErrorLevel": "Error",
+        "Kr": "有更新信息需同步，请返回大厅界面。",
+        "Jp": ""
+    },
+    {
+        "Key": 1637928881,
+        "ErrorLevel": "Error",
+        "Kr": "数据同步发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 3369731642,
+        "ErrorLevel": "Error",
+        "Kr": "期间已结束，无法入场。",
+        "Jp": ""
+    },
+    {
+        "Key": 3994530367,
+        "ErrorLevel": "Error",
+        "Kr": "已超过限制时间或日期产生变化，无法入场。",
+        "Jp": ""
+    },
+    {
+        "Key": 1529682812,
+        "ErrorLevel": "Error",
+        "Kr": "进行次数已耗尽。",
+        "Jp": ""
+    },
+    {
+        "Key": 1709993532,
+        "ErrorLevel": "Error",
+        "Kr": "有尚未领取的奖励，无法开始新的游戏。",
+        "Jp": ""
+    },
+    {
+        "Key": 2845889380,
+        "ErrorLevel": "Error",
+        "Kr": "已获得过奖励。",
+        "Jp": ""
+    },
+    {
+        "Key": 3017282168,
+        "ErrorLevel": "Error",
+        "Kr": "房间不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 2964710758,
+        "ErrorLevel": "Error",
+        "Kr": "发生无效数据请求。",
+        "Jp": ""
+    },
+    {
+        "Key": 2513956776,
+        "ErrorLevel": "Error",
+        "Kr": "数据错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1864642385,
+        "ErrorLevel": "Warning",
+        "Kr": "结算已正常完成，但尚未完成招募，请再次在招募界面进行招募（不会产生反复购买）",
+        "Jp": ""
+    },
+    {
+        "Key": 2047558969,
+        "ErrorLevel": "Error",
+        "Kr": "使用的材料已超过必要数字。",
+        "Jp": ""
+    },
+    {
+        "Key": 1920124898,
+        "ErrorLevel": "Error",
+        "Kr": "使用的材料已超过必要数字。",
+        "Jp": ""
+    },
+    {
+        "Key": 3507390375,
+        "ErrorLevel": "Error",
+        "Kr": "使用的材料已超过必要数字。",
+        "Jp": ""
+    },
+    {
+        "Key": 3490397281,
+        "ErrorLevel": "Error",
+        "Kr": "请输入正确的文字。",
+        "Jp": ""
+    },
+    {
+        "Key": 1747331783,
+        "ErrorLevel": "Warning",
+        "Kr": "购买1件商品后即可进行更新。",
+        "Jp": ""
+    },
+    {
+        "Key": 3861829530,
+        "ErrorLevel": "Warning",
+        "Kr": "不存在拥有记忆大厅的成员。",
+        "Jp": ""
+    },
+    {
+        "Key": 2744957643,
+        "ErrorLevel": "Error",
+        "Kr": "因有新增数据需要更新，重新连接。",
+        "Jp": ""
+    },
+    {
+        "Key": 697699156,
+        "ErrorLevel": "Warning",
+        "Kr": "包含不可编组的成员，无法出击。",
+        "Jp": ""
+    },
+    {
+        "Key": 2785402308,
+        "ErrorLevel": "Warning",
+        "Kr": "好友数已达到上限，无法申请。",
+        "Jp": ""
+    },
+    {
+        "Key": 126229189,
+        "ErrorLevel": "Warning",
+        "Kr": "好友数已达到上限，无法接受申请。",
+        "Jp": ""
+    },
+    {
+        "Key": 2367091035,
+        "ErrorLevel": "Warning",
+        "Kr": "申请中的好友数已达到上限，无法申请好友。",
+        "Jp": ""
+    },
+    {
+        "Key": 1264542676,
+        "ErrorLevel": "Warning",
+        "Kr": "对方的好友数已达到上限，无法申请好友。",
+        "Jp": ""
+    },
+    {
+        "Key": 3076130328,
+        "ErrorLevel": "Warning",
+        "Kr": "对方待接受的好友请求数已达到上限，无法申请好友。",
+        "Jp": ""
+    },
+    {
+        "Key": 3202852766,
+        "ErrorLevel": "Warning",
+        "Kr": "对方不是好友。",
+        "Jp": ""
+    },
+    {
+        "Key": 3863520183,
+        "ErrorLevel": "Warning",
+        "Kr": "已加为好友。",
+        "Jp": ""
+    },
+    {
+        "Key": 3400388344,
+        "ErrorLevel": "Error",
+        "Kr": "创建ID卡失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 337993265,
+        "ErrorLevel": "Warning",
+        "Kr": "输入的好友码不存在。",
+        "Jp": ""
+    },
+    {
+        "Key": 2267537515,
+        "ErrorLevel": "Warning",
+        "Kr": "此用户为无法接受好友申请的用户。",
+        "Jp": ""
+    },
+    {
+        "Key": 3587383162,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败，请再试一次。",
+        "Jp": ""
+    },
+    {
+        "Key": 1186923194,
+        "ErrorLevel": "Warning",
+        "Kr": "无法向自己发送好友申请。",
+        "Jp": ""
+    },
+    {
+        "Key": 3964055362,
+        "ErrorLevel": "Warning",
+        "Kr": "此为自己的好友码。",
+        "Jp": ""
+    },
+    {
+        "Key": 936218380,
+        "ErrorLevel": "Warning",
+        "Kr": "有尚未使用的自选券。\n请在以下期间内使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 2100477460,
+        "ErrorLevel": "Warning",
+        "Kr": "未持有3★成员自选券。\n购买自选券后，可选择成员招募。",
+        "Jp": ""
+    },
+    {
+        "Key": 1703914045,
+        "ErrorLevel": "Warning",
+        "Kr": "此商品每个账号只能购买1次。",
+        "Jp": ""
+    },
+    {
+        "Key": 2193719013,
+        "ErrorLevel": "Error",
+        "Kr": "此首领已被击败。",
+        "Jp": ""
+    },
+    {
+        "Key": 2070149033,
+        "ErrorLevel": "Error",
+        "Kr": "目前无法挑战此战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 1682605423,
+        "ErrorLevel": "Error",
+        "Kr": "目前无法挑战此战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 614842256,
+        "ErrorLevel": "Error",
+        "Kr": "目前无法挑战此战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 866734449,
+        "ErrorLevel": "Error",
+        "Kr": "目前非可获取期间。",
+        "Jp": ""
+    },
+    {
+        "Key": 2984740428,
+        "ErrorLevel": "Warning",
+        "Kr": "已超过可输入的最大字数。",
+        "Jp": ""
+    },
+    {
+        "Key": 3694147787,
+        "ErrorLevel": "Warning",
+        "Kr": "剩余时间: {0}",
+        "Jp": ""
+    },
+    {
+        "Key": 4050948436,
+        "ErrorLevel": "Warning",
+        "Kr": "无法重复兑换礼包码",
+        "Jp": ""
+    },
+    {
+        "Key": 1044115767,
+        "ErrorLevel": "Warning",
+        "Kr": "此礼包码已被使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 229924161,
+        "ErrorLevel": "Error",
+        "Kr": "今天的助力者可编队次数已用尽。",
+        "Jp": ""
+    },
+    {
+        "Key": 2896478356,
+        "ErrorLevel": "Warning",
+        "Kr": "已编组的部队无法更改。",
+        "Jp": ""
+    },
+    {
+        "Key": 74584359,
+        "ErrorLevel": "Warning",
+        "Kr": "包含不可编组的成员。",
+        "Jp": ""
+    },
+    {
+        "Key": 2426984458,
+        "ErrorLevel": "Warning",
+        "Kr": "尚未拥有此背景。",
+        "Jp": ""
+    },
+    {
+        "Key": 4156782493,
+        "ErrorLevel": "Error",
+        "Kr": "无法只使用助力者进入战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 2239305032,
+        "ErrorLevel": "Error",
+        "Kr": "未与我方领域相邻，无法前进。",
+        "Jp": ""
+    },
+    {
+        "Key": 3597640989,
+        "ErrorLevel": "Error",
+        "Kr": "无法只使用助力者进入战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 635909163,
+        "ErrorLevel": "Error",
+        "Kr": "无法只使用助力者进入战斗。",
+        "Jp": ""
+    },
+    {
+        "Key": 2898246963,
+        "ErrorLevel": "Warning",
+        "Kr": "超过了持有上限。\n请消耗道具后再尝试。",
+        "Jp": ""
+    },
+    {
+        "Key": 336268343,
+        "ErrorLevel": "Warning",
+        "Kr": "是比现在的等级更高的难易度。\n要挑战吗？",
+        "Jp": ""
+    },
+    {
+        "Key": 4220524733,
+        "ErrorLevel": "Error",
+        "Kr": "还在准备中的难易度。",
+        "Jp": ""
+    },
+    {
+        "Key": 4272144267,
+        "ErrorLevel": "Error",
+        "Kr": "未持有的贴纸。",
+        "Jp": ""
+    },
+    {
+        "Key": 2679306329,
+        "ErrorLevel": "Error",
+        "Kr": "未持有的贴纸。",
+        "Jp": ""
+    },
+    {
+        "Key": 14749936,
+        "ErrorLevel": "Error",
+        "Kr": "没有贴纸簿信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 4280485597,
+        "ErrorLevel": "Error",
+        "Kr": "已黏贴的贴纸。",
+        "Jp": ""
+    },
+    {
+        "Key": 2689814996,
+        "ErrorLevel": "Error",
+        "Kr": "无效的关卡。",
+        "Jp": ""
+    },
+    {
+        "Key": 774325742,
+        "ErrorLevel": "Error",
+        "Kr": "通关部队信息已到期。",
+        "Jp": ""
+    },
+    {
+        "Key": 2003150184,
+        "ErrorLevel": "Error",
+        "Kr": "未找到场地探索数据。",
+        "Jp": ""
+    },
+    {
+        "Key": 468627021,
+        "ErrorLevel": "Error",
+        "Kr": "和对象互动失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 436191477,
+        "ErrorLevel": "Error",
+        "Kr": "任务完成时发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1099196264,
+        "ErrorLevel": "Error",
+        "Kr": "活动场景变更失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3719177960,
+        "ErrorLevel": "Error",
+        "Kr": "场地探索结束失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 3605770317,
+        "ErrorLevel": "Error",
+        "Kr": "任务生成失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 4189976503,
+        "ErrorLevel": "Error",
+        "Kr": "重玩信息重置失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 423837306,
+        "ErrorLevel": "Error",
+        "Kr": "熟练度增加时发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1281004619,
+        "ErrorLevel": "Error",
+        "Kr": "战斗数据发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 1535161669,
+        "ErrorLevel": "Error",
+        "Kr": "战斗入场失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 617231319,
+        "ErrorLevel": "Error",
+        "Kr": "场地探索活动期间已结束。",
+        "Jp": ""
+    },
+    {
+        "Key": 993521222,
+        "ErrorLevel": "Error",
+        "Kr": "不符合场地探索所需的条件。",
+        "Jp": ""
+    },
+    {
+        "Key": 648895849,
+        "ErrorLevel": "Error",
+        "Kr": "不符合邀请约会所需的条件。",
+        "Jp": ""
+    },
+    {
+        "Key": 616668617,
+        "ErrorLevel": "Warning",
+        "Kr": "当前有正在观看的结局故事，请在继续播放完成结局后重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 667254186,
+        "ErrorLevel": "Error",
+        "Kr": "已超过可选择的最大关卡数量。",
+        "Jp": ""
+    },
+    {
+        "Key": 3892642851,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败，请重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2885117158,
+        "ErrorLevel": "Warning",
+        "Kr": "无法确认用户信息。",
+        "Jp": ""
+    },
+    {
+        "Key": 1791868885,
+        "ErrorLevel": "Warning",
+        "Kr": "无法向被屏蔽的用户发送好友申请。",
+        "Jp": ""
+    },
+    {
+        "Key": 2012934882,
+        "ErrorLevel": "Warning",
+        "Kr": "未能找到编队中应用的助战成员，正在更新编队内容。",
+        "Jp": ""
+    },
+    {
+        "Key": 216576929,
+        "ErrorLevel": "Warning",
+        "Kr": "屏蔽列表人数已达上限，无法继续屏蔽。",
+        "Jp": ""
+    },
+    {
+        "Key": 1163792356,
+        "ErrorLevel": "Error",
+        "Kr": "已超过可设置的道具数量上限。",
+        "Jp": ""
+    },
+    {
+        "Key": 2012218285,
+        "ErrorLevel": "Warning",
+        "Kr": "同步优惠信息时发生错误。",
+        "Jp": ""
+    },
+    {
+        "Key": 2301337179,
+        "ErrorLevel": "Error",
+        "Kr": "请求失败。",
+        "Jp": ""
+    },
+    {
+        "Key": 4284073730,
+        "ErrorLevel": "Warning",
+        "Kr": "当前无法修改昵称。",
+        "Jp": ""
+    },
+    {
+        "Key": 3094046990,
+        "ErrorLevel": "Warning",
+        "Kr": "当前无法修改问候语。",
+        "Jp": ""
+    },
+    {
+        "Key": 1319625247,
+        "ErrorLevel": "Warning",
+        "Kr": "当前无法修改称号。",
+        "Jp": ""
+    },
+    {
+        "Key": 305394291,
+        "ErrorLevel": "Warning",
+        "Kr": "当前无法播放称号动画。",
+        "Jp": ""
+    },
+    {
+        "Key": 1248443640,
+        "ErrorLevel": "Warning",
+        "Kr": "没有可访问的咖啡馆。",
+        "Jp": ""
+    },
+    {
+        "Key": 963278386,
+        "ErrorLevel": "Warning",
+        "Kr": "无法访问目标用户的咖啡馆。",
+        "Jp": ""
+    },
+    {
+        "Key": 1978647219,
+        "ErrorLevel": "Warning",
+        "Kr": "目标用户的咖啡馆尚未解锁，无法访问。",
+        "Jp": ""
+    },
+    {
+        "Key": 1422560270,
+        "ErrorLevel": "Warning",
+        "Kr": "没有申请加入小组",
+        "Jp": ""
+    },
+    {
+        "Key": 2415517664,
+        "ErrorLevel": "Warning",
+        "Kr": "抱歉，您已被移出小组",
+        "Jp": ""
+    },
+    {
+        "Key": 3820097803,
+        "ErrorLevel": "Warning",
+        "Kr": "抱歉，您的操作已超时，请退出后重试",
+        "Jp": ""
+    },
+    {
+        "Key": 3198026923,
+        "ErrorLevel": "Error",
+        "Kr": "充值异常。\n将返回开始页面。\n※如您充值后长时间未到账，可联系「客服」进行处理。",
+        "Jp": ""
+    },
+    {
+        "Key": 3989678419,
+        "ErrorLevel": "Error",
+        "Kr": "战斗服务器发生错误。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2401284787,
+        "ErrorLevel": "Error",
+        "Kr": "服务器繁忙，请稍后重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2786249034,
+        "ErrorLevel": "Error",
+        "Kr": "文本中包含违规字符，请重新输入 。",
+        "Jp": ""
+    },
+    {
+        "Key": 335559805,
+        "ErrorLevel": "Error",
+        "Kr": "网络错误，请稍后重试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2255574479,
+        "ErrorLevel": "Error",
+        "Kr": "检测到存在已支付的异常订单，将返回登录界面重新获取订单信息。\n\n※如您遇到充值后长时间未到账，可以联系“客服”处理。",
+        "Jp": ""
+    },
+    {
+        "Key": 1053288090,
+        "ErrorLevel": "Error",
+        "Kr": "日期已变更\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 2488576877,
+        "ErrorLevel": "Warning",
+        "Kr": "小组内有其他组员时无法解散小组。",
+        "Jp": ""
+    },
+    {
+        "Key": 901129598,
+        "ErrorLevel": "Warning",
+        "Kr": "设置助力者后的1分钟内无法重新进行设置。",
+        "Jp": ""
+    },
+    {
+        "Key": 4170972517,
+        "ErrorLevel": "Warning",
+        "Kr": "当前成员无法邀请",
+        "Jp": ""
+    },
+    {
+        "Key": 1843053281,
+        "ErrorLevel": "Error",
+        "Kr": "今日消费已达上限请明日再试（占位）",
+        "Jp": ""
+    },
+    {
+        "Key": 4216929410,
+        "ErrorLevel": "Warning",
+        "Kr": "赛季信息已变更。\n将返回标题画面。",
+        "Jp": ""
+    },
+    {
+        "Key": 3170767589,
+        "ErrorLevel": "Warning",
+        "Kr": "该小组成员非活跃组员，暂时无法转让。",
+        "Jp": ""
+    },
+    {
+        "Key": 3845352343,
+        "ErrorLevel": "Warning",
+        "Kr": "该功能暂时无法使用。",
+        "Jp": ""
+    },
+    {
+        "Key": 2180668157,
+        "ErrorLevel": "Warning",
+        "Kr": "当前区服无法使用此礼包码。",
+        "Jp": ""
+    },
+    {
+        "Key": 2464472860,
+        "ErrorLevel": "Warning",
+        "Kr": "请求过于频繁，请稍后再试。",
+        "Jp": ""
+    },
+    {
+        "Key": 2911926680,
+        "ErrorLevel": "Warning",
+        "Kr": "无法重复兑换此礼包码内容。",
+        "Jp": ""
+    },
+    {
+        "Key": 3307557487,
+        "ErrorLevel": "Warning",
+        "Kr": "选择部队包含未持有成员",
+        "Jp": ""
+    }
+]

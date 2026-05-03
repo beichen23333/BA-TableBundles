@@ -1,0 +1,135 @@
+[
+    {
+        "Id": 2077760940,
+        "GroupNameLocalize": 3878471442,
+        "LocalizeEtcId": 1422201644,
+        "RequiredFurnitureCountLength": 2077761012,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760941,
+        "GroupNameLocalize": 81361041,
+        "LocalizeEtcId": 3788983069,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760942,
+        "GroupNameLocalize": 3676925724,
+        "LocalizeEtcId": 90224256,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760943,
+        "GroupNameLocalize": 965437547,
+        "LocalizeEtcId": 1192758303,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760928,
+        "GroupNameLocalize": 4076914880,
+        "LocalizeEtcId": 2246230371,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760929,
+        "GroupNameLocalize": 4292963773,
+        "LocalizeEtcId": 3245130871,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760930,
+        "GroupNameLocalize": 197955230,
+        "LocalizeEtcId": 550793771,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760931,
+        "GroupNameLocalize": 1555653544,
+        "LocalizeEtcId": 2065629862,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760932,
+        "GroupNameLocalize": 878009713,
+        "LocalizeEtcId": 402555765,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760933,
+        "GroupNameLocalize": 2800587760,
+        "LocalizeEtcId": 880111679,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760934,
+        "GroupNameLocalize": 2366515332,
+        "LocalizeEtcId": 1934604845,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760935,
+        "GroupNameLocalize": 747643726,
+        "LocalizeEtcId": 3100209128,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760952,
+        "GroupNameLocalize": 626127600,
+        "LocalizeEtcId": 239849266,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760953,
+        "GroupNameLocalize": 2884551716,
+        "LocalizeEtcId": 3518615853,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760954,
+        "GroupNameLocalize": 104129073,
+        "LocalizeEtcId": 1694580572,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760955,
+        "GroupNameLocalize": 1710944377,
+        "LocalizeEtcId": 3817080556,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760956,
+        "GroupNameLocalize": 4100048551,
+        "LocalizeEtcId": 3797990706,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760957,
+        "GroupNameLocalize": 1184282732,
+        "LocalizeEtcId": 4023490092,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    },
+    {
+        "Id": 2077760958,
+        "GroupNameLocalize": 1268161409,
+        "LocalizeEtcId": 1732370485,
+        "RequiredFurnitureCountLength": 2077761008,
+        "ComfortBonusLength": 2077760984
+    }
+]

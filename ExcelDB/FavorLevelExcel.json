@@ -1,0 +1,402 @@
+[
+    {
+        "Level": 1,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 2,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 3,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 4,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 5,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 6,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 7,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 8,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 9,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 10,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 11,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 12,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 13,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 14,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 15,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 16,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 17,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 18,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 19,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 20,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 21,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 22,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 23,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 24,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 25,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 26,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 27,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 28,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 29,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 30,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 31,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 32,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 33,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 34,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 35,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 36,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 37,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 38,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 39,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 40,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 41,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 42,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 43,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 44,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 45,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 46,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 47,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 48,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 49,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 50,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 51,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 52,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 53,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 54,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 55,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 56,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 57,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 58,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 59,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 60,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 61,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 62,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 63,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 64,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 65,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 66,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 67,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 68,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 69,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 70,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 71,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 72,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 73,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 74,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 75,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 76,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 77,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 78,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 79,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 80,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 81,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 82,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 83,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 84,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 85,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 86,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 87,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 88,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 89,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 90,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 91,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 92,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 93,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 94,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 95,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 96,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 97,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 98,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 99,
+        "ExpTypeLength": 16
+    },
+    {
+        "Level": 100,
+        "ExpTypeLength": 16
+    }
+]
