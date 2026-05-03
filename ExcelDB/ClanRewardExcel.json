@@ -1,0 +1,9 @@
+[
+    {
+        "ClanRewardType": "Attendance",
+        "EchelonType": "None_",
+        "RewardParcelType": "Currency",
+        "RewardParcelId": 5,
+        "RewardParcelAmount": 10
+    }
+]

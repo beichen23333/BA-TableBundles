@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 1,
+        "Location": "Floor",
+        "PositionX": 13903.809560000002,
+        "PositionY": 13903.809560000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 2,
+        "Location": "WallRight",
+        "PositionX": 13903.809560000002,
+        "PositionY": 13903.809560000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 3,
+        "Location": "WallLeft",
+        "PositionX": 13903.809560000002,
+        "PositionY": 13903.809560000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 4,
+        "Location": "WallRight",
+        "PositionX": 13899.078840000002,
+        "PositionY": 13902.29692,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 5,
+        "Location": "Floor",
+        "PositionX": 13902.29692,
+        "PositionY": 13903.360120000001,
+        "Rotation": 13783.999640000002
+    },
+    {
+        "Id": 6,
+        "Location": "Floor",
+        "PositionX": 13899.761400000001,
+        "PositionY": 13899.078840000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 7,
+        "Location": "Floor",
+        "PositionX": 13899.761400000001,
+        "PositionY": 13900.48492,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 8,
+        "Location": "Floor",
+        "PositionX": 13898.35532,
+        "PositionY": 13899.078840000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 9,
+        "Location": "Floor",
+        "PositionX": 13901.233080000002,
+        "PositionY": 13904.08364,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 10,
+        "Location": "Floor",
+        "PositionX": 13899.761400000001,
+        "PositionY": 13899.078840000002,
+        "Rotation": 13903.809560000002
+    },
+    {
+        "Id": 11,
+        "Location": "WallLeft",
+        "PositionX": 13899.761400000001,
+        "PositionY": 13902.29692,
+        "Rotation": 13903.809560000002
+    }
+]

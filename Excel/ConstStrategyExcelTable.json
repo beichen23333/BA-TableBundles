@@ -1,0 +1,34 @@
+[
+    {
+        "HexaMapBoundaryOffset": -17401.205130000002,
+        "HexaMapStartCameraOffset": -17401.17521,
+        "CameraZoomMax": -17396.27617,
+        "CameraZoomMin": -17405.681210000002,
+        "CameraZoomDefault": -17405.681210000002,
+        "HealCostType": "GemBonus",
+        "HealCostAmount": [
+            0,
+            10,
+            40,
+            100
+        ],
+        "CanHealHpRate": 8000,
+        "PlayTimeLimitInSeconds": 86400,
+        "AdventureEchelonCount": 4,
+        "RaidEchelonCount": 4,
+        "DefaultEchelonCount": 1,
+        "EventContentEchelonCount": 4,
+        "TimeAttackDungeonEchelonCount": 4,
+        "WorldRaidEchelonCount": 4,
+        "TacticSkipClearTimeSeconds": 90,
+        "TacticSkipFramePerSecond": 1000,
+        "ConquestEchelonCount": 4,
+        "StoryEchelonCount": 4,
+        "MultiSweepPresetCount": 7,
+        "MultiSweepPresetNameMaxLength": 10,
+        "MultiSweepPresetNameMaxLengthKr": 10,
+        "MultiSweepPresetSelectStageMaxCount": 20,
+        "MultiSweepPresetMaxSweepCount": 99,
+        "MultiSweepPresetSelectParcelMaxCount": 3
+    }
+]
