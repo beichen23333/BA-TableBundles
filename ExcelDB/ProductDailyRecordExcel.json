@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1010001,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_login14days_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    },
+    {
+        "Id": 1050001,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_login14days_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    },
+    {
+        "Id": 1110001,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_login14days_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    }
+]

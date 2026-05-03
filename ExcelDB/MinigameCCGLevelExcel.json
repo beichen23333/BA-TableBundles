@@ -1,0 +1,296 @@
+[
+    {
+        "LevelId": 848111,
+        "CCGId": 848,
+        "FloorIndex": 1,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848201,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848202,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848203,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848204,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848205,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848206,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848207,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848208,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848209,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848210,
+        "CCGId": 848,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848301,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848302,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848303,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848304,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848305,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848306,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848307,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848308,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848309,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 848310,
+        "CCGId": 848,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854101,
+        "CCGId": 854,
+        "FloorIndex": 1,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854201,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854202,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854203,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854204,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854205,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854206,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854207,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854208,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854209,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854210,
+        "CCGId": 854,
+        "FloorIndex": 2,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854301,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854302,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854303,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854304,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854305,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854306,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854307,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854308,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854309,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    },
+    {
+        "LevelId": 854310,
+        "CCGId": 854,
+        "FloorIndex": 3,
+        "BackgroundPath": "",
+        "BGMId": 295
+    }
+]

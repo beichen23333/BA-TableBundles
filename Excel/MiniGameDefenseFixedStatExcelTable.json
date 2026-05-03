@@ -1,0 +1,53 @@
+[
+    {
+        "MinigameDefenseFixedStatId": 100838204,
+        "Level": 80,
+        "Grade": 5,
+        "ExSkillLevel": 5,
+        "NoneExSkillLevel": 10,
+        "Equipment1Tier": 7,
+        "Equipment1Level": 55,
+        "Equipment2Tier": 7,
+        "Equipment2Level": 55,
+        "Equipment3Tier": 7,
+        "Equipment3Level": 55,
+        "CharacterWeaponGrade": 0,
+        "CharacterWeaponLevel": 0,
+        "CharacterGearTier": 0,
+        "CharacterGearLevel": 0
+    },
+    {
+        "MinigameDefenseFixedStatId": 100838205,
+        "Level": 82,
+        "Grade": 5,
+        "ExSkillLevel": 5,
+        "NoneExSkillLevel": 10,
+        "Equipment1Tier": 7,
+        "Equipment1Level": 55,
+        "Equipment2Tier": 7,
+        "Equipment2Level": 55,
+        "Equipment3Tier": 7,
+        "Equipment3Level": 55,
+        "CharacterWeaponGrade": 0,
+        "CharacterWeaponLevel": 0,
+        "CharacterGearTier": 0,
+        "CharacterGearLevel": 0
+    },
+    {
+        "MinigameDefenseFixedStatId": 100838206,
+        "Level": 83,
+        "Grade": 5,
+        "ExSkillLevel": 5,
+        "NoneExSkillLevel": 10,
+        "Equipment1Tier": 7,
+        "Equipment1Level": 55,
+        "Equipment2Tier": 7,
+        "Equipment2Level": 55,
+        "Equipment3Tier": 7,
+        "Equipment3Level": 55,
+        "CharacterWeaponGrade": 0,
+        "CharacterWeaponLevel": 0,
+        "CharacterGearTier": 0,
+        "CharacterGearLevel": 0
+    }
+]

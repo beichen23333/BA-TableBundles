@@ -1,0 +1,47 @@
+[
+    {
+        "ID": 1,
+        "SoundUniqueId": "BUTTON_CLICK",
+        "Path": "Audio/SFX_UI/UI_Button_Touch"
+    },
+    {
+        "ID": 2,
+        "SoundUniqueId": "BACK_BUTTON_CLICK",
+        "Path": "Audio/SFX_UI/UI_Button_Back"
+    },
+    {
+        "ID": 3,
+        "SoundUniqueId": "BUTTON_MUTE",
+        "Path": "Audio/SFX_Common/Mute"
+    },
+    {
+        "ID": 4,
+        "SoundUniqueId": "BUTTON_WOOD",
+        "Path": "Audio/SFX_UI/UI_Button_Wood"
+    },
+    {
+        "ID": 5,
+        "SoundUniqueId": "BUTTON_MUS",
+        "Path": "Audio/SFX_UI/UI_Button_Mus"
+    },
+    {
+        "ID": 6,
+        "SoundUniqueId": "UI_BUTTON_FIELD_M",
+        "Path": "Audio/SFX_UI/UI_Button_Field_M"
+    },
+    {
+        "ID": 7,
+        "SoundUniqueId": "TITLE_BUTTON_NOTICE",
+        "Path": "Audio/SFX_UI/UI_Notice"
+    },
+    {
+        "ID": 8,
+        "SoundUniqueId": "UI_BUTTON_CARRIER_OPEN",
+        "Path": "Audio/SFX_UI/UI_Button_Carrier_Open"
+    },
+    {
+        "ID": 9,
+        "SoundUniqueId": "UI_BUTTON_CARRIER_CLICK",
+        "Path": "Audio/SFX_UI/UI_Button_Carrier_Click"
+    }
+]

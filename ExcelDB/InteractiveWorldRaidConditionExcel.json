@@ -1,0 +1,320 @@
+[
+    {
+        "Id": 854000000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "MainScenarioClear"
+        ],
+        "ConditionValue": [
+            90002100
+        ]
+    },
+    {
+        "Id": 854001000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540000
+        ]
+    },
+    {
+        "Id": 854001001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540100
+        ]
+    },
+    {
+        "Id": 854001002,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540200
+        ]
+    },
+    {
+        "Id": 854001003,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540300
+        ]
+    },
+    {
+        "Id": 854001004,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540400
+        ]
+    },
+    {
+        "Id": 854001005,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540500
+        ]
+    },
+    {
+        "Id": 854001006,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540600
+        ]
+    },
+    {
+        "Id": 854001007,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Or",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540700
+        ]
+    },
+    {
+        "Id": 854002000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Count",
+        "MultipleConditionCheckParameter": 3,
+        "ConditionType": [
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540100,
+            8540200,
+            8540300,
+            8540400,
+            8540500,
+            8540600
+        ]
+    },
+    {
+        "Id": 854002001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "Count",
+        "MultipleConditionCheckParameter": 6,
+        "ConditionType": [
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear",
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540100,
+            8540200,
+            8540300,
+            8540400,
+            8540500,
+            8540600
+        ]
+    },
+    {
+        "Id": 854003000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "EventStageClear"
+        ],
+        "ConditionValue": [
+            8541301
+        ]
+    },
+    {
+        "Id": 854003001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "EventStageClear"
+        ],
+        "ConditionValue": [
+            8541302
+        ]
+    },
+    {
+        "Id": 854004001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "EventScenarioClear"
+        ],
+        "ConditionValue": [
+            30005
+        ]
+    },
+    {
+        "Id": 854010000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "EventStageClear"
+        ],
+        "ConditionValue": [
+            8541302
+        ]
+    },
+    {
+        "Id": 854011000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540800
+        ]
+    },
+    {
+        "Id": 854011001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8540900
+        ]
+    },
+    {
+        "Id": 854020000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear",
+            "MainScenarioClear"
+        ],
+        "ConditionValue": [
+            8540900,
+            90002210
+        ]
+    },
+    {
+        "Id": 854021000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8541000
+        ]
+    },
+    {
+        "Id": 854021001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear"
+        ],
+        "ConditionValue": [
+            8541100
+        ]
+    },
+    {
+        "Id": 854030000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85403,
+        "Priority": 1,
+        "MultipleConditionCheckType": "And",
+        "MultipleConditionCheckParameter": 0,
+        "ConditionType": [
+            "BossClear",
+            "MainScenarioClear"
+        ],
+        "ConditionValue": [
+            8541100,
+            90002260
+        ]
+    }
+]
