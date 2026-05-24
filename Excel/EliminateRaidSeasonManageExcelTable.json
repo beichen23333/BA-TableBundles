@@ -389,5 +389,28 @@
         "LimitedRewardIdExtreme": 364885569,
         "LimitedRewardIdInsane": 364885598,
         "LimitedRewardIdTorment": 364681070
+    },
+    {
+        "SeasonId": 364681084,
+        "SeasonDisplay": 364681057,
+        "SeasonStartData": "2026-06-13 14:00:00",
+        "SeasonEndData": "2026-06-18 03:59:59",
+        "SettlementEndDate": "2026-06-18 23:59:59",
+        "LobbyTableBGPath": "Effect/UI/UIEliminateRaidLobbyFX/FX_UIEliminateRaidLobby_Hologram_Outdoor",
+        "LobbyScreenBGPath": "Effect/UI/UIEliminateRaidLobbyFX/FX_UIEliminateRaidLobby_Screen_Outdoor",
+        "OpenRaidBossGroup01": "Binah_Outdoor_LightArmor",
+        "OpenRaidBossGroup02": "Binah_Outdoor_ElasticArmor",
+        "OpenRaidBossGroup03": "Binah_Outdoor_Unarmed",
+        "RankingRewardGroupId": 364680960,
+        "MaxSeasonRewardGauage": 364681070,
+        "StackedSeasonRewardGaugeLength": 364680546,
+        "SeasonRewardIdLength": 364681006,
+        "LimitedRewardIdNormal": 364681070,
+        "LimitedRewardIdHard": 364873375,
+        "LimitedRewardIdVeryhard": 364681070,
+        "LimitedRewardIdHardcore": 364873372,
+        "LimitedRewardIdExtreme": 364873373,
+        "LimitedRewardIdInsane": 364873370,
+        "LimitedRewardIdTorment": 364681070
     }
 ]

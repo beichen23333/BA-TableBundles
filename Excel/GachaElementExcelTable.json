@@ -1717,28 +1717,6 @@
             "State": 1
         },
         {
-            "ID": 53000042,
-            "GachaGroupID": 53,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 53000043,
-            "GachaGroupID": 53,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 53000044,
             "GachaGroupID": 53,
             "ParcelType": "Character",
@@ -2007,6 +1985,28 @@
             "GachaGroupID": 53,
             "ParcelType": "Character",
             "ParcelID": 20019,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 53000071,
+            "GachaGroupID": 53,
+            "ParcelType": "Character",
+            "ParcelID": 10053,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 53000072,
+            "GachaGroupID": 53,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -4005,28 +4005,6 @@
             "State": 1
         },
         {
-            "ID": 63000115,
-            "GachaGroupID": 63,
-            "ParcelType": "Character",
-            "ParcelID": 20033,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 63000116,
-            "GachaGroupID": 63,
-            "ParcelType": "Character",
-            "ParcelID": 10087,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 63000117,
             "GachaGroupID": 63,
             "ParcelType": "Character",
@@ -4218,6 +4196,28 @@
             "GachaGroupID": 63,
             "ParcelType": "Character",
             "ParcelID": 10107,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 63000141,
+            "GachaGroupID": 63,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 63000142,
+            "GachaGroupID": 63,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -44441,28 +44441,6 @@
             "State": 1
         },
         {
-            "ID": 1000130042,
-            "GachaGroupID": 100013,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1000130043,
-            "GachaGroupID": 100013,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000130044,
             "GachaGroupID": 100013,
             "ParcelType": "Character",
@@ -44731,6 +44709,17 @@
             "GachaGroupID": 100013,
             "ParcelType": "Character",
             "ParcelID": 20019,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000130071,
+            "GachaGroupID": 100013,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -45321,10 +45310,21 @@
             "State": 1
         },
         {
+            "ID": 1000130143,
+            "GachaGroupID": 100013,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1000230000,
             "GachaGroupID": 100023,
             "ParcelType": "Character",
-            "ParcelID": 10108,
+            "ParcelID": 10053,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -46080,28 +46080,6 @@
             "State": 1
         },
         {
-            "ID": 1000330042,
-            "GachaGroupID": 100033,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1000330043,
-            "GachaGroupID": 100033,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000330044,
             "GachaGroupID": 100033,
             "ParcelType": "Character",
@@ -46370,6 +46348,17 @@
             "GachaGroupID": 100033,
             "ParcelType": "Character",
             "ParcelID": 20019,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000330071,
+            "GachaGroupID": 100033,
+            "ParcelType": "Character",
+            "ParcelID": 10053,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -46960,10 +46949,21 @@
             "State": 1
         },
         {
+            "ID": 1000330142,
+            "GachaGroupID": 100033,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1000430000,
             "GachaGroupID": 100043,
             "ParcelType": "Character",
-            "ParcelID": 10109,
+            "ParcelID": 10054,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -47719,17 +47719,6 @@
             "State": 1
         },
         {
-            "ID": 1000530043,
-            "GachaGroupID": 100053,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000530044,
             "GachaGroupID": 100053,
             "ParcelType": "Character",
@@ -48005,6 +47994,28 @@
             "State": 1
         },
         {
+            "ID": 1000530071,
+            "GachaGroupID": 100053,
+            "ParcelType": "Character",
+            "ParcelID": 10053,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000530072,
+            "GachaGroupID": 100053,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1000530073,
             "GachaGroupID": 100053,
             "ParcelType": "Character",
@@ -48262,17 +48273,6 @@
             "GachaGroupID": 100053,
             "ParcelType": "Character",
             "ParcelID": 10076,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1000530103,
-            "GachaGroupID": 100053,
-            "ParcelType": "Character",
-            "ParcelID": 20030,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -48602,7 +48602,7 @@
             "ID": 1000630000,
             "GachaGroupID": 100063,
             "ParcelType": "Character",
-            "ParcelID": 10031,
+            "ParcelID": 20030,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -49358,17 +49358,6 @@
             "State": 1
         },
         {
-            "ID": 1000730042,
-            "GachaGroupID": 100073,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000730044,
             "GachaGroupID": 100073,
             "ParcelType": "Character",
@@ -49611,17 +49600,6 @@
             "State": 1
         },
         {
-            "ID": 1000730068,
-            "GachaGroupID": 100073,
-            "ParcelType": "Character",
-            "ParcelID": 10051,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000730069,
             "GachaGroupID": 100073,
             "ParcelType": "Character",
@@ -49637,6 +49615,28 @@
             "GachaGroupID": 100073,
             "ParcelType": "Character",
             "ParcelID": 20019,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000730071,
+            "GachaGroupID": 100073,
+            "ParcelType": "Character",
+            "ParcelID": 10053,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000730072,
+            "GachaGroupID": 100073,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -50241,7 +50241,7 @@
             "ID": 1000830000,
             "GachaGroupID": 100083,
             "ParcelType": "Character",
-            "ParcelID": 10032,
+            "ParcelID": 10051,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -50997,28 +50997,6 @@
             "State": 1
         },
         {
-            "ID": 1000930042,
-            "GachaGroupID": 100093,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1000930043,
-            "GachaGroupID": 100093,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1000930044,
             "GachaGroupID": 100093,
             "ParcelType": "Character",
@@ -51294,6 +51272,28 @@
             "State": 1
         },
         {
+            "ID": 1000930071,
+            "GachaGroupID": 100093,
+            "ParcelType": "Character",
+            "ParcelID": 10053,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000930072,
+            "GachaGroupID": 100093,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1000930073,
             "GachaGroupID": 100093,
             "ParcelType": "Character",
@@ -51386,6 +51386,17 @@
             "GachaGroupID": 100093,
             "ParcelType": "Character",
             "ParcelID": 10063,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1000930086,
+            "GachaGroupID": 100093,
+            "ParcelType": "Character",
+            "ParcelID": 10064,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -51529,17 +51540,6 @@
             "GachaGroupID": 100093,
             "ParcelType": "Character",
             "ParcelID": 10075,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1000930102,
-            "GachaGroupID": 100093,
-            "ParcelType": "Character",
-            "ParcelID": 10076,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -51880,7 +51880,7 @@
             "ID": 1001030000,
             "GachaGroupID": 100103,
             "ParcelType": "Character",
-            "ParcelID": 10064,
+            "ParcelID": 10076,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -52636,28 +52636,6 @@
             "State": 1
         },
         {
-            "ID": 1100130042,
-            "GachaGroupID": 110013,
-            "ParcelType": "Character",
-            "ParcelID": 10032,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1100130043,
-            "GachaGroupID": 110013,
-            "ParcelType": "Character",
-            "ParcelID": 10031,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100130044,
             "GachaGroupID": 110013,
             "ParcelType": "Character",
@@ -52911,10 +52889,10 @@
             "State": 1
         },
         {
-            "ID": 1100130069,
+            "ID": 1100130070,
             "GachaGroupID": 110013,
             "ParcelType": "Character",
-            "ParcelID": 10052,
+            "ParcelID": 20019,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -52922,10 +52900,21 @@
             "State": 1
         },
         {
-            "ID": 1100130070,
+            "ID": 1100130071,
             "GachaGroupID": 110013,
             "ParcelType": "Character",
-            "ParcelID": 20019,
+            "ParcelID": 10053,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100130072,
+            "GachaGroupID": 110013,
+            "ParcelType": "Character",
+            "ParcelID": 10054,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -53036,6 +53025,17 @@
             "GachaGroupID": 110013,
             "ParcelType": "Character",
             "ParcelID": 10064,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100130087,
+            "GachaGroupID": 110013,
+            "ParcelType": "Character",
+            "ParcelID": 20025,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -53519,7 +53519,7 @@
             "ID": 1100230000,
             "GachaGroupID": 110023,
             "ParcelType": "Character",
-            "ParcelID": 20025,
+            "ParcelID": 10052,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -54682,17 +54682,6 @@
             "State": 1
         },
         {
-            "ID": 1100330089,
-            "GachaGroupID": 110033,
-            "ParcelType": "Character",
-            "ParcelID": 10066,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100330090,
             "GachaGroupID": 110033,
             "ParcelType": "Character",
@@ -54924,17 +54913,6 @@
             "State": 1
         },
         {
-            "ID": 1100330116,
-            "GachaGroupID": 110033,
-            "ParcelType": "Character",
-            "ParcelID": 10087,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100330117,
             "GachaGroupID": 110033,
             "ParcelType": "Character",
@@ -55133,10 +55111,32 @@
             "State": 1
         },
         {
+            "ID": 1100330141,
+            "GachaGroupID": 110033,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100330142,
+            "GachaGroupID": 110033,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1100430000,
             "GachaGroupID": 110043,
             "ParcelType": "Character",
-            "ParcelID": 20033,
+            "ParcelID": 10066,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -56310,17 +56310,6 @@
             "State": 1
         },
         {
-            "ID": 1100530090,
-            "GachaGroupID": 110053,
-            "ParcelType": "Character",
-            "ParcelID": 10067,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100530091,
             "GachaGroupID": 110053,
             "ParcelType": "Character",
@@ -56541,17 +56530,6 @@
             "State": 1
         },
         {
-            "ID": 1100530115,
-            "GachaGroupID": 110053,
-            "ParcelType": "Character",
-            "ParcelID": 20033,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100530117,
             "GachaGroupID": 110053,
             "ParcelType": "Character",
@@ -56750,10 +56728,32 @@
             "State": 1
         },
         {
+            "ID": 1100530141,
+            "GachaGroupID": 110053,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100530142,
+            "GachaGroupID": 110053,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1100630000,
             "GachaGroupID": 110063,
             "ParcelType": "Character",
-            "ParcelID": 10087,
+            "ParcelID": 10067,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -57392,17 +57392,6 @@
             "GachaGroupID": 110073,
             "ParcelType": "Character",
             "ParcelID": 10020,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1100730025,
-            "GachaGroupID": 110073,
-            "ParcelType": "Character",
-            "ParcelID": 10021,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -58235,17 +58224,6 @@
             "State": 1
         },
         {
-            "ID": 1100730125,
-            "GachaGroupID": 110073,
-            "ParcelType": "Character",
-            "ParcelID": 10094,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100730126,
             "GachaGroupID": 110073,
             "ParcelType": "Character",
@@ -58283,6 +58261,17 @@
             "GachaGroupID": 110073,
             "ParcelType": "Character",
             "ParcelID": 20037,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100730130,
+            "GachaGroupID": 110073,
+            "ParcelType": "Character",
+            "ParcelID": 10097,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -58334,10 +58323,54 @@
             "State": 1
         },
         {
+            "ID": 1100730139,
+            "GachaGroupID": 110073,
+            "ParcelType": "Character",
+            "ParcelID": 20040,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100730140,
+            "GachaGroupID": 110073,
+            "ParcelType": "Character",
+            "ParcelID": 10107,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100730141,
+            "GachaGroupID": 110073,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100730142,
+            "GachaGroupID": 110073,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1100830000,
             "GachaGroupID": 110083,
             "ParcelType": "Character",
-            "ParcelID": 20004,
+            "ParcelID": 10094,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -58983,21 +59016,10 @@
             "State": 1
         },
         {
-            "ID": 1100930025,
+            "ID": 1100930027,
             "GachaGroupID": 110093,
             "ParcelType": "Character",
-            "ParcelID": 10021,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1100930026,
-            "GachaGroupID": 110093,
-            "ParcelType": "Character",
-            "ParcelID": 20004,
+            "ParcelID": 20005,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -59830,17 +59852,6 @@
             "State": 1
         },
         {
-            "ID": 1100930126,
-            "GachaGroupID": 110093,
-            "ParcelType": "Character",
-            "ParcelID": 10095,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1100930127,
             "GachaGroupID": 110093,
             "ParcelType": "Character",
@@ -59867,6 +59878,17 @@
             "GachaGroupID": 110093,
             "ParcelType": "Character",
             "ParcelID": 20037,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100930130,
+            "GachaGroupID": 110093,
+            "ParcelType": "Character",
+            "ParcelID": 10097,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -59918,10 +59940,54 @@
             "State": 1
         },
         {
+            "ID": 1100930139,
+            "GachaGroupID": 110093,
+            "ParcelType": "Character",
+            "ParcelID": 20040,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100930140,
+            "GachaGroupID": 110093,
+            "ParcelType": "Character",
+            "ParcelID": 10107,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100930141,
+            "GachaGroupID": 110093,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1100930142,
+            "GachaGroupID": 110093,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1101030000,
             "GachaGroupID": 110103,
             "ParcelType": "Character",
-            "ParcelID": 20005,
+            "ParcelID": 10095,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,
@@ -60567,28 +60633,6 @@
             "State": 1
         },
         {
-            "ID": 1200130025,
-            "GachaGroupID": 120013,
-            "ParcelType": "Character",
-            "ParcelID": 20004,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
-            "ID": 1200130026,
-            "GachaGroupID": 120013,
-            "ParcelType": "Character",
-            "ParcelID": 10021,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1200130027,
             "GachaGroupID": 120013,
             "ParcelType": "Character",
@@ -60974,17 +61018,6 @@
             "State": 1
         },
         {
-            "ID": 1200130073,
-            "GachaGroupID": 120013,
-            "ParcelType": "Character",
-            "ParcelID": 20020,
-            "Rarity": "SSR",
-            "ParcelAmountMin": 1,
-            "ParcelAmountMax": 1,
-            "Prob": 1,
-            "State": 1
-        },
-        {
             "ID": 1200130074,
             "GachaGroupID": 120013,
             "ParcelType": "Character",
@@ -61282,6 +61315,17 @@
             "State": 1
         },
         {
+            "ID": 1200130109,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 10081,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1200130110,
             "GachaGroupID": 120013,
             "ParcelType": "Character",
@@ -61458,6 +61502,17 @@
             "State": 1
         },
         {
+            "ID": 1200130130,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 10097,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1200130133,
             "GachaGroupID": 120013,
             "ParcelType": "Character",
@@ -61502,10 +61557,54 @@
             "State": 1
         },
         {
+            "ID": 1200130139,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 20040,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1200130140,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 10107,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1200130141,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 10108,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
+            "ID": 1200130142,
+            "GachaGroupID": 120013,
+            "ParcelType": "Character",
+            "ParcelID": 10109,
+            "Rarity": "SSR",
+            "ParcelAmountMin": 1,
+            "ParcelAmountMax": 1,
+            "Prob": 1,
+            "State": 1
+        },
+        {
             "ID": 1200230000,
             "GachaGroupID": 120023,
             "ParcelType": "Character",
-            "ParcelID": 10081,
+            "ParcelID": 20020,
             "Rarity": "SSR",
             "ParcelAmountMin": 1,
             "ParcelAmountMax": 1,

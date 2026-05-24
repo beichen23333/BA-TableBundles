@@ -802,5 +802,17 @@
         "MaxSeasonRewardGauage": 1666684740,
         "StackedSeasonRewardGaugeLength": 1666684568,
         "SeasonRewardIdLength": 1666684772
+    },
+    {
+        "SeasonId": 1666684679,
+        "SeasonDisplay": 1666684678,
+        "SeasonStartData": "2026-06-04 14:00:00",
+        "SeasonEndData": "2026-06-11 03:59:59",
+        "SettlementEndDate": "2026-06-11 23:59:59",
+        "OpenRaidBossGroupLength": 1666684048,
+        "RankingRewardGroupId": 1666683050,
+        "MaxSeasonRewardGauage": 1666684740,
+        "StackedSeasonRewardGaugeLength": 1666684600,
+        "SeasonRewardIdLength": 1666684772
     }
 ]
