@@ -1,6 +1,7 @@
 [
     {
         "UniqueId": 833,
+        "FieldContentType": "Event",
         "EventContentId": 833,
         "EntryDateId": 83300,
         "InstantEntryDateId": 83305,
@@ -15,6 +16,7 @@
     },
     {
         "UniqueId": 10833,
+        "FieldContentType": "Event",
         "EventContentId": 10833,
         "EntryDateId": 83300,
         "InstantEntryDateId": 83305,
@@ -29,6 +31,7 @@
     },
     {
         "UniqueId": 843,
+        "FieldContentType": "Event",
         "EventContentId": 843,
         "EntryDateId": 84300,
         "InstantEntryDateId": 84305,
@@ -43,6 +46,7 @@
     },
     {
         "UniqueId": 10843,
+        "FieldContentType": "Event",
         "EventContentId": 10843,
         "EntryDateId": 84300,
         "InstantEntryDateId": 84305,
@@ -54,5 +58,20 @@
         "MasteryImagePath": "UIs/01_Common/45_Field/843/Field_LevelUp_Notice_843",
         "FieldLobbyTitleImagePath": "UIs/01_Common/45_Field/843/FieldEvent_Title_843",
         "KeywordLogoImagePath": "UIs/01_Common/45_Field/843/Field_Keyword_Empty_Symbol_843"
+    },
+    {
+        "UniqueId": 90101000,
+        "FieldContentType": "Narrative",
+        "EventContentId": 0,
+        "EntryDateId": 90101040,
+        "InstantEntryDateId": 0,
+        "StartDate": "",
+        "EndDate": "",
+        "LobbyBGMChangeStageId": 0,
+        "FieldPrefabControlID": 90101000,
+        "FieldGetKeywordCallDialogEnum": "Keyword_90101000",
+        "MasteryImagePath": "",
+        "FieldLobbyTitleImagePath": "",
+        "KeywordLogoImagePath": "UIs/01_Common/45_Field/843/Field_Keyword_Empty_Symbol_90101000"
     }
 ]

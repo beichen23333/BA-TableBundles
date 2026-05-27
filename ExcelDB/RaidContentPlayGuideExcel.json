@@ -88,5 +88,55 @@
         "GuideTitle": 1317720638,
         "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_Kaitenger_04",
         "GuideText": 2040549983
+    },
+    {
+        "Id": 9,
+        "RaidBossGroupType": "EN0022",
+        "IsPCBuild": false,
+        "IdExport": true,
+        "DisplayOrder": 0,
+        "GuideTitle": 1317720638,
+        "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_EN0022_01",
+        "GuideText": 577718197
+    },
+    {
+        "Id": 10,
+        "RaidBossGroupType": "EN0022",
+        "IsPCBuild": false,
+        "IdExport": true,
+        "DisplayOrder": 1,
+        "GuideTitle": 1317720638,
+        "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_EN0022_02",
+        "GuideText": 4270946096
+    },
+    {
+        "Id": 11,
+        "RaidBossGroupType": "EN0022",
+        "IsPCBuild": false,
+        "IdExport": true,
+        "DisplayOrder": 2,
+        "GuideTitle": 1317720638,
+        "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_EN0022_03",
+        "GuideText": 4165932791
+    },
+    {
+        "Id": 12,
+        "RaidBossGroupType": "EN0022",
+        "IsPCBuild": false,
+        "IdExport": true,
+        "DisplayOrder": 3,
+        "GuideTitle": 1317720638,
+        "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_EN0022_04",
+        "GuideText": 3950991928
+    },
+    {
+        "Id": 13,
+        "RaidBossGroupType": "EN0022",
+        "IsPCBuild": false,
+        "IdExport": true,
+        "DisplayOrder": 4,
+        "GuideTitle": 1317720638,
+        "GuideImagePath": "UIs/01_Common/49_BattlePlayGuide/Raid_PlayGuide_EN0022_05",
+        "GuideText": 723529624
     }
 ]

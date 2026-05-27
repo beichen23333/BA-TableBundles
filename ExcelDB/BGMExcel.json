@@ -7512,6 +7512,30 @@
         ]
     },
     {
+        "Id": 343,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_343"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            26.322999954223633
+        ],
+        "LoopEndTime": [
+            128.51600646972656
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
         "Id": 352,
         "Nation": [
             "All"
@@ -7527,6 +7551,78 @@
         ],
         "LoopEndTime": [
             123.46099853515625
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 353,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_353"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            1.7510000467300415
+        ],
+        "LoopEndTime": [
+            124.37899780273438
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 354,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_354"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            1.8459999561309814
+        ],
+        "LoopEndTime": [
+            60.92300033569336
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 355,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_355"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            1.7519999742507935
+        ],
+        "LoopEndTime": [
+            71.82499694824219
         ],
         "LoopTranstionTime": [
             0.20000000298023224
@@ -7959,6 +8055,54 @@
         ],
         "LoopEndTime": [
             53.93199920654297
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 1506,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_343_Verse"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            26.322999954223633
+        ],
+        "LoopEndTime": [
+            75.87100219726562
+        ],
+        "LoopTranstionTime": [
+            0.20000000298023224
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 1507,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_343_Chorus"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            3.0969998836517334
+        ],
+        "LoopEndTime": [
+            52.64500045776367
         ],
         "LoopTranstionTime": [
             0.20000000298023224
@@ -9294,6 +9438,30 @@
         ],
         "Path": [
             "Audio/BGM/Theme_227_Title"
+        ],
+        "Volume": [
+            1.0
+        ],
+        "LoopStartTime": [
+            0.0
+        ],
+        "LoopEndTime": [
+            0.0
+        ],
+        "LoopTranstionTime": [
+            86.0
+        ],
+        "LoopOffsetTime": [
+            0.0
+        ]
+    },
+    {
+        "Id": 90006,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/BGM/Theme_269_Title"
         ],
         "Volume": [
             1.0

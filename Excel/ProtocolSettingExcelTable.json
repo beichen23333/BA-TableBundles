@@ -427,6 +427,13 @@
         "Mail": false
     },
     {
+        "Protocol": "Mission_NotifyUIEntered",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
         "Protocol": "Attendance_Check",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -3053,6 +3060,55 @@
     },
     {
         "Protocol": "SNS_PostRead",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "WelcomeCampaign_GetInfo",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "WelcomeCampaign_ReceiveEnterReward",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "WelcomeCampaign_AttendanceReward",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
+        "Protocol": "WelcomeCampaign_MissionList",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "WelcomeCampaign_MissionReward",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "WelcomeCampaign_MissionMultipleReward",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "WelcomeCampaign_Check",
         "OpenConditionContent": "None_",
         "Currency": false,
         "Inventory": false,

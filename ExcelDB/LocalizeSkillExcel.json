@@ -92891,91 +92891,91 @@
     {
         "Key": 3038348773,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]42%[-][/c], 치명 대미지 [c][007eff]71%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]42%[-][/c], 치명 대미지 [c][007eff]71%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]42%[-][/c]、会心ダメージ率を[c][007eff]71%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]42%[-][/c]、会心ダメージ率を[c][007eff]71%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3699503829,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]48.4%[-][/c], 치명 대미지 [c][007eff]81.6%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]48.4%[-][/c], 치명 대미지 [c][007eff]81.6%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]48.4%[-][/c]、会心ダメージ率を[c][007eff]81.6%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]48.4%[-][/c]、会心ダメージ率を[c][007eff]81.6%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3107264258,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]54.7%[-][/c], 치명 대미지 [c][007eff]102%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]54.7%[-][/c], 치명 대미지 [c][007eff]102%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]54.7%[-][/c]、会心ダメージ率を[c][007eff]102%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]54.7%[-][/c]、会心ダメージ率を[c][007eff]102%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1789275687,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]61%[-][/c], 치명 대미지 [c][007eff]113%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]61%[-][/c], 치명 대미지 [c][007eff]113%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]61%[-][/c]、会心ダメージ率を[c][007eff]113%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]61%[-][/c]、会心ダメージ率を[c][007eff]113%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 818821578,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]67.3%[-][/c], 치명 대미지 [c][007eff]134%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]67.3%[-][/c], 치명 대미지 [c][007eff]134%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]67.3%[-][/c]、会心ダメージ率を[c][007eff]134%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]67.3%[-][/c]、会心ダメージ率を[c][007eff]134%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1567717914,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]73.6%[-][/c], 치명 대미지 [c][007eff]145%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]73.6%[-][/c], 치명 대미지 [c][007eff]145%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]73.6%[-][/c]、会心ダメージ率を[c][007eff]145%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]73.6%[-][/c]、会心ダメージ率を[c][007eff]145%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2740507188,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]79.9%[-][/c], 치명 대미지 [c][007eff]166%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]79.9%[-][/c], 치명 대미지 [c][007eff]166%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]79.9%[-][/c]、会心ダメージ率を[c][007eff]166%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]79.9%[-][/c]、会心ダメージ率を[c][007eff]166%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3500282738,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]86.2%[-][/c], 치명 대미지 [c][007eff]177%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]86.2%[-][/c], 치명 대미지 [c][007eff]177%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]86.2%[-][/c]、会心ダメージ率を[c][007eff]177%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]86.2%[-][/c]、会心ダメージ率を[c][007eff]177%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 508454952,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]98.8%[-][/c], 치명 대미지 [c][007eff]198%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]98.8%[-][/c], 치명 대미지 [c][007eff]198%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]98.8%[-][/c]、会心ダメージ率を[c][007eff]198%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]98.8%[-][/c]、会心ダメージ率を[c][007eff]198%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2047955795,
         "NameKr": "화력 강화",
-        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]102%[-][/c], 치명 대미지 [c][007eff]209%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
+        "DescriptionKr": "드론을 소환([c][007eff]40초[-][/c]간)\n드론이 유지되는 동안 일반 공격은 공격력 [c][007eff]120%[-][/c] 대미지를 주도록 변경/\n치명 수치 [c][007eff]102%[-][/c], 치명 대미지 [c][007eff]209%[-][/c] 증가([c][007eff]40초[-][/c]간)/\n자신에게 최대 체력의 [c][007eff]20%[-][/c] 만큼 고정 대미지\n(해당 스킬로 시로코*테러는 퇴각하지 않습니다)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "火力強化",
-        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]102%[-][/c]、会心ダメージ率を[c][007eff]209%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
+        "DescriptionJp": "ドローンを召喚（[c][007eff]40秒[-][/c]間）\nドローンが維持される間、通常攻撃は攻撃力の[c][007eff]120%[-][/c]分のダメージを与えるように変更/\n会心値を[c][007eff]102%[-][/c]、会心ダメージ率を[c][007eff]209%[-][/c]増加（[c][007eff]40秒[-][/c]間）/\n自身に対して最大HPの[c][007eff]20%[-][/c]分の固定ダメージ\n（このスキルでシロコ＊テラーは退却しません）",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -120430,7 +120430,7 @@
     },
     {
         "Key": 3753808449,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]25%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120439,7 +120439,7 @@
     },
     {
         "Key": 968437117,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]26.3%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120448,7 +120448,7 @@
     },
     {
         "Key": 4250181431,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]27.5%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120457,7 +120457,7 @@
     },
     {
         "Key": 3546660613,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]32.5%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120466,7 +120466,7 @@
     },
     {
         "Key": 4122701203,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]33.8%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120475,7 +120475,7 @@
     },
     {
         "Key": 240308294,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]35%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120484,7 +120484,7 @@
     },
     {
         "Key": 3662406203,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]40%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120493,7 +120493,7 @@
     },
     {
         "Key": 2267202481,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]41.3%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120502,7 +120502,7 @@
     },
     {
         "Key": 2565168192,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]42.5%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -120511,7 +120511,7 @@
     },
     {
         "Key": 2679137994,
-        "NameKr": "퍼펙트 메이드, 퍼스트 리콘",
+        "NameKr": "퍼펙트 메이드, 퍼펙트 리콘",
         "DescriptionKr": "[c][007eff]40초[-][/c]마다 공격력 [c][007eff]47.5%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n에너지 1단계 충전(최대 2단계)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "パーフェクトメイド、パーフェクトリコン",
@@ -125380,438 +125380,456 @@
     },
     {
         "Key": 28292367,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]1개[-][/c] 제거, 치유력 [c][007eff]147%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]1つ[-][/c]解除、治癒力の[c][007eff]147%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 711255487,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]1개[-][/c] 제거, 치유력 [c][007eff]169%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]1つ[-][/c]解除、治癒力の[c][007eff]169%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3363991890,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]2개[-][/c] 제거, 치유력 [c][007eff]213%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]2つ[-][/c]解除、治癒力の[c][007eff]213%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 191666520,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]2개[-][/c] 제거, 치유력 [c][007eff]235%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]2つ[-][/c]解除、治癒力の[c][007eff]235%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3399909134,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]279%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]279%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1087260376,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]301%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]301%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2708230930,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]345%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]345%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3251064996,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]367%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]367%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3550380940,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]411%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]411%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2107736669,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "이걸로 결정!",
+        "DescriptionKr": "아군 1인의 해로운 효과 [c][007eff]3개[-][/c] 제거, 치유력 [c][007eff]433%[-][/c] 회복/\n해로운 효과를 제거한 개수만큼 키링 획득(키링은 최대 3개까지 중첩)",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "この子に決めた！",
+        "DescriptionJp": "味方1人の弱体状態を[c][007eff]3つ[-][/c]解除、治癒力の[c][007eff]433%[-][/c]分の回復/\n弱体状態を解除した分「キーホルダー」を獲得（「キーホルダー」は最大3個まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1708740191,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]13.4%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]13.4%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2180822808,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]14.1%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]14.1%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 4149585353,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]14.8%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]14.8%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 4031347162,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]17.5%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]17.5%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1735154252,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]18.1%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]18.1%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3738902293,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]18.8%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]18.8%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1813632126,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]21.5%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]21.5%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1631570143,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]22.2%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]22.2%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 678393819,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]22.9%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]22.9%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 868814116,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "한 모금, 어때?",
+        "DescriptionKr": "키링 3개 획득 시 키링을 모두 소모하여 스트라이커 아군에게 치명 대미지 [c][007eff]25.6%[-][/c] 증가([c][007eff]33초[-][/c]간)(쿨타임 [c][007eff]8초[-][/c])",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "はい、あげる",
+        "DescriptionJp": "「キーホルダー」を3個獲得時、「キーホルダー」をすべて消耗してストライカーの味方の会心ダメージ率を[c][007eff]25.6%[-][/c]増加（[c][007eff]33秒[-][/c]間）（クールタイム[c][007eff]8秒[-][/c]）",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2417130635,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]14%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]14%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3424981233,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]14.7%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]14.7%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 556364348,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]15.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]15.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1227255897,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]18.2%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]18.2%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1384965044,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]18.9%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]18.9%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 644328214,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]19.6%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]19.6%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2805851921,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]22.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]22.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3607071692,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]23.1%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]23.1%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2351776081,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]23.8%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]23.8%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3124327600,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어",
+        "DescriptionKr": "치유력 [c][007eff]26.6%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ",
+        "DescriptionJp": "治癒力を[c][007eff]26.6%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 690576604,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]676[-][/c] 증가/\n추가로 치유력 [c][007eff]14%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]676[-][/c]増加/\nさらに治癒力を[c][007eff]14%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2574181649,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]710[-][/c] 증가/\n추가로 치유력 [c][007eff]14.7%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]710[-][/c]増加/\nさらに治癒力を[c][007eff]14.7%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1512853590,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]744[-][/c] 증가/\n추가로 치유력 [c][007eff]15.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]744[-][/c]増加/\nさらに治癒力を[c][007eff]15.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2247498388,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]879[-][/c] 증가/\n추가로 치유력 [c][007eff]18.2%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]879[-][/c]増加/\nさらに治癒力を[c][007eff]18.2%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 4114724103,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]913[-][/c] 증가/\n추가로 치유력 [c][007eff]18.9%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]913[-][/c]増加/\nさらに治癒力を[c][007eff]18.9%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2662208027,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]946[-][/c] 증가/\n추가로 치유력 [c][007eff]19.6%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]946[-][/c]増加/\nさらに治癒力を[c][007eff]19.6%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3855713463,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]1081[-][/c] 증가/\n추가로 치유력 [c][007eff]22.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]1081[-][/c]増加/\nさらに治癒力を[c][007eff]22.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2500556088,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]1115[-][/c] 증가/\n추가로 치유력 [c][007eff]23.1%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]1115[-][/c]増加/\nさらに治癒力を[c][007eff]23.1%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 142581174,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]1149[-][/c] 증가/\n추가로 치유력 [c][007eff]23.8%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]1149[-][/c]増加/\nさらに治癒力を[c][007eff]23.8%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 4247951194,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "밴드 가지고 있어+",
+        "DescriptionKr": "치유력 [c][007eff]1284[-][/c] 증가/\n추가로 치유력 [c][007eff]26.6%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "絆創膏どーぞ+",
+        "DescriptionJp": "治癒力を[c][007eff]1284[-][/c]増加/\nさらに治癒力を[c][007eff]26.6%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 841904396,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]12.7%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]12.7%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1128450062,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]13.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]13.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3845837489,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]14%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]14%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2599982048,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]16.5%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]16.5%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 3134600780,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]17.2%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]17.2%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2408905048,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]17.8%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]17.8%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 1465678932,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]20.4%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]20.4%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2971032372,
-        "NameKr": "",
-        "DescriptionKr": "",
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]21%[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
-        "NameJp": "",
-        "DescriptionJp": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]21%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 542091873,
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]21.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]21.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 906765301,
+        "NameKr": "반짝반짝☆이란 느낌?",
+        "DescriptionKr": "딜러 아군의 치명 대미지 [c][007eff]24.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "キラキラ☆って感じ？",
+        "DescriptionJp": "アタッカーの味方の会心ダメージ率を[c][007eff]24.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2293659407,
         "NameKr": "",
         "DescriptionKr": "",
         "SkillInvokeLocalizeKr": "",
@@ -125820,12 +125838,1344 @@
         "SkillInvokeLocalizeJp": ""
     },
     {
-        "Key": 906765301,
+        "Key": 2394794889,
         "NameKr": "",
         "DescriptionKr": "",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "",
         "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1190670664,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3638276158,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4226747204,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1343443153,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1851508361,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1315785086,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3029416412,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3344691717,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2399607767,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4177432290,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3915944749,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3560620602,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 644693043,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 937585918,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4011094412,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1810040616,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 476721947,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 738626358,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4168735473,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2321228645,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 59119528,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3231689559,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1053072010,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2704658263,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1675712743,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3293053348,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1879111398,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3995367473,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2528069571,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1140629762,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3321505332,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 565686316,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3956854534,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 314407600,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 347296338,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4124838188,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2815671087,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1524146703,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3932491139,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4176640054,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3908124565,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4138476375,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1675380048,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3440852908,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3008578320,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 391463278,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3181242497,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2653256013,
+        "NameKr": "",
+        "DescriptionKr": "",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "",
+        "DescriptionJp": "",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1889943648,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1740%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1740%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3181537892,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]2001%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]2001%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1320397116,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]2523%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]2523%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1526662712,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]2784%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]2784%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2900252536,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]3306%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]3306%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 167371719,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]3568%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]3568%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 872526837,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]4090%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]4090%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3990544433,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]4351%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]4351%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1354296455,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]4873%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]4873%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3369476097,
+        "NameKr": "폭연의 미뉴에트",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]5134%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "爆燃のメヌエット",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]5134%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3485534129,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]14%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]29.7%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]14%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]29.7%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2026231159,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]14.7%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]31.2%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]14.7%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]31.2%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3395447093,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]15.4%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]32.7%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]15.4%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]32.7%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1433914286,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]18.3%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]38.7%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]18.3%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]38.7%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2310612489,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]19%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]40.1%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]19%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]40.1%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 290717828,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]19.7%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]41.6%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]19.7%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]41.6%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1907131955,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]22.5%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]47.6%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]22.5%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]47.6%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3588797184,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]23.2%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]49.1%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]23.2%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]49.1%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2111460075,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]23.9%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]50.6%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]23.9%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]50.6%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2012110011,
+        "NameKr": "발밑을 조심해!",
+        "DescriptionKr": "[c][007eff]30초[-][/c]마다 원형범위 내의 적에게 치명 대미지 저항률 [c][007eff]26.7%[-][/c] 감소([c][007eff]20초[-][/c]간)/\n원형범위 내의 적에게 [c][007eff]1초[-][/c]마다 공격력 [c][007eff]56.5%[-][/c] 대미지([c][007eff]10초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "足元気をつけて！",
+        "DescriptionJp": "[c][007eff]30秒[-][/c]毎に、円形範囲内の敵に対して会心ダメージ抵抗率を[c][007eff]26.7%[-][/c]減少（[c][007eff]20秒[-][/c]間）/\n円形範囲内の敵に対して、[c][007eff]1秒[-][/c]毎に攻撃力の[c][007eff]56.5%[-][/c]分のダメージ（[c][007eff]10秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 538994942,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]14%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]14%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 47956094,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]14.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]14.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4131800233,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]15.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]15.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3447745066,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]18.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]18.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1105566914,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]18.9%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]18.9%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1616670822,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]19.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]19.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1293033640,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]22.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]22.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 650095949,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]23.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]23.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 58843523,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]23.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]23.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3239754711,
+        "NameKr": "더~ 재밌어질 거라구?",
+        "DescriptionKr": "공격력 [c][007eff]26.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？",
+        "DescriptionJp": "攻撃力を[c][007eff]26.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1057891861,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]360[-][/c] 증가/\n추가로 공격력 [c][007eff]14%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]360[-][/c]増加/\nさらに攻撃力を[c][007eff]14%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 606090415,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]378[-][/c] 증가/\n추가로 공격력 [c][007eff]14.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]378[-][/c]増加/\nさらに攻撃力を[c][007eff]14.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2513034366,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]396[-][/c] 증가/\n추가로 공격력 [c][007eff]15.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]396[-][/c]増加/\nさらに攻撃力を[c][007eff]15.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3416043348,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]468[-][/c] 증가/\n추가로 공격력 [c][007eff]18.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]468[-][/c]増加/\nさらに攻撃力を[c][007eff]18.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2839381108,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]486[-][/c] 증가/\n추가로 공격력 [c][007eff]18.9%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]486[-][/c]増加/\nさらに攻撃力を[c][007eff]18.9%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1666158703,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]504[-][/c] 증가/\n추가로 공격력 [c][007eff]19.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]504[-][/c]増加/\nさらに攻撃力を[c][007eff]19.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 777011224,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]576[-][/c] 증가/\n추가로 공격력 [c][007eff]22.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]576[-][/c]増加/\nさらに攻撃力を[c][007eff]22.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1191594994,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]594[-][/c] 증가/\n추가로 공격력 [c][007eff]23.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]594[-][/c]増加/\nさらに攻撃力を[c][007eff]23.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 28263411,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]612[-][/c] 증가/\n추가로 공격력 [c][007eff]23.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]612[-][/c]増加/\nさらに攻撃力を[c][007eff]23.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2687808460,
+        "NameKr": "더~ 재밌어질 거라구?+",
+        "DescriptionKr": "방어관통 수치 [c][007eff]684[-][/c] 증가/\n추가로 공격력 [c][007eff]26.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "もーっと面白くなるよ？+",
+        "DescriptionJp": "防御貫通値を[c][007eff]684[-][/c]増加/\nさらに攻撃力を[c][007eff]26.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2783169488,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]14.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]14.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 956734921,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]15%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]15%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 285019426,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]15.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]15.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 400720707,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]18.5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]18.5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3576760413,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]19.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]19.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1995016008,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]20%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]20%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 957590144,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]22.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]22.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 992965222,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]23.5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]23.5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2591082653,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]24.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]24.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3773105561,
+        "NameKr": "모두 같이 놀자!",
+        "DescriptionKr": "아군 스페셜 학생의 공격력 [c][007eff]27.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "一緒に遊ぼっ！",
+        "DescriptionJp": "味方スペシャル生徒の攻撃力を[c][007eff]27.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2139569906,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]778%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]35%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]778%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]35%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3728251637,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]895%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]35%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]895%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]35%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3043733291,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1011%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]50%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1011%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]50%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 756530119,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1128%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]50%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1128%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]50%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2173689575,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1245%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1245%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1873804875,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1362%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1362%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3164472691,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1595%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1595%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4258804855,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1712%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1712%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3447826387,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]1945%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]1945%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 810026354,
+        "NameKr": "이 몸을 바쳐서",
+        "DescriptionKr": "적 1인에게 공격력 [c][007eff]2062%[-][/c] 대미지(이 공격은 적의 방어력을 [c][007eff]68%[-][/c] 무시합니다.)/\n자신에게 최대 체력의 [c][007eff]6.8%[-][/c] 만큼 고정 대미지\n(해당 스킬로 하루카(드레스)는 퇴각하지 않습니다)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "この身を捧げて",
+        "DescriptionJp": "敵1人に対して、攻撃力の[c][007eff]2062%[-][/c]分のダメージ（この攻撃は敵の防御力を[c][007eff]68%[-][/c]無視します）/\n自身に対して最大HPの[c][007eff]6.8%[-][/c]分の固定ダメージ\n（このスキルでハルカ（ドレス）は退却しません）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 492547337,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]20.7%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]68.2%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]20.7%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]68.2%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3444947189,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]21.8%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]71.6%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]21.8%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]71.6%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3175687428,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]22.8%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]75.1%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]22.8%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]75.1%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1541189353,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]27%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]88.7%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]27%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]88.7%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2303012520,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]28%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]92.1%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]28%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]92.1%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3591825868,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]29%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]95.5%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]29%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]95.5%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 98881668,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]33.2%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]109%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]33.2%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]109%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 471516329,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]34.2%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]112%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]34.2%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]112%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1192023914,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]35.3%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]116%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]35.3%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]116%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1618367524,
+        "NameKr": "꽃이 피듯이",
+        "DescriptionKr": "[c][007eff]35초[-][/c]마다 공격력 [c][007eff]39.4%[-][/c] 증가([c][007eff]30초[-][/c]간)/\n치유력 [c][007eff]129%[-][/c] 회복(현재 체력에 비례하여 회복량이 1~2배로 변경)(체력이 낮을수록 회복량 증가)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "花が咲くように",
+        "DescriptionJp": "[c][007eff]35秒[-][/c]毎に、攻撃力を[c][007eff]39.4%[-][/c]増加（[c][007eff]30秒[-][/c]間）/\n治癒力の[c][007eff]129%[-][/c]分の回復（現在のHPに比例して回復量が1～2倍に変更）（HPが少ないほど回復量が増加）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2659372755,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]14%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]14%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1904550985,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]14.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]14.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 711213957,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]15.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]15.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3703189469,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]18.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]18.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 860441482,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]18.9%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]18.9%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4186441381,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]19.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]19.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1026864814,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]22.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]22.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2616596039,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]23.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]23.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1101282139,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]23.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]23.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2422444858,
+        "NameKr": "잡초의 염원",
+        "DescriptionKr": "공격력 [c][007eff]26.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐",
+        "DescriptionJp": "攻撃力を[c][007eff]26.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2475413197,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2000[-][/c] 증가/\n추가로 공격력 [c][007eff]14%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2000[-][/c]増加/\nさらに攻撃力を[c][007eff]14%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1497933124,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2100[-][/c] 증가/\n추가로 공격력 [c][007eff]14.7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2100[-][/c]増加/\nさらに攻撃力を[c][007eff]14.7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1143936366,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2200[-][/c] 증가/\n추가로 공격력 [c][007eff]15.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2200[-][/c]増加/\nさらに攻撃力を[c][007eff]15.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3242908308,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2600[-][/c] 증가/\n추가로 공격력 [c][007eff]18.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2600[-][/c]増加/\nさらに攻撃力を[c][007eff]18.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 299523419,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2700[-][/c] 증가/\n추가로 공격력 [c][007eff]18.9%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2700[-][/c]増加/\nさらに攻撃力を[c][007eff]18.9%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1419139775,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]2800[-][/c] 증가/\n추가로 공격력 [c][007eff]19.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]2800[-][/c]増加/\nさらに攻撃力を[c][007eff]19.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3674992807,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]3200[-][/c] 증가/\n추가로 공격력 [c][007eff]22.4%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]3200[-][/c]増加/\nさらに攻撃力を[c][007eff]22.4%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3141400905,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]3300[-][/c] 증가/\n추가로 공격력 [c][007eff]23.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]3300[-][/c]増加/\nさらに攻撃力を[c][007eff]23.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 902168217,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]3400[-][/c] 증가/\n추가로 공격력 [c][007eff]23.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]3400[-][/c]増加/\nさらに攻撃力を[c][007eff]23.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1070533781,
+        "NameKr": "잡초의 염원+",
+        "DescriptionKr": "치명 대미지 [c][007eff]3800[-][/c] 증가/\n추가로 공격력 [c][007eff]26.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "雑草の本懐+",
+        "DescriptionJp": "会心ダメージを[c][007eff]3800[-][/c]増加/\nさらに攻撃力を[c][007eff]26.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3003429362,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]5.3%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]5.3%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1051506152,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]5.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]5.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1781781507,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]5.9%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]5.9%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2049483084,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]7%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]7%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1650042599,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]7.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]7.2%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 691046094,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]7.5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]7.5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2417380622,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]8.6%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]8.6%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2346770769,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]8.8%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]8.8%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1548729075,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]9.1%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]9.1%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 950529532,
+        "NameKr": "사라져주세요사라져주세요!",
+        "DescriptionKr": "피해를 입을 경우 용서 못해 1개 적립([c][007eff]30초[-][/c]간)(쿨타임 [c][007eff]4초[-][/c])/\n용서 못해는 최대 [c][007eff]3개[-][/c]까지 중첩, 용서 못해 1개당 치명 대미지 [c][007eff]10.2%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "消えてください消えてください！",
+        "DescriptionJp": "ダメージを受けた場合、「許さない」を1個獲得（[c][007eff]30秒[-][/c]間）（クールタイム[c][007eff]4秒[-][/c]）/\n「許さない」は最大[c][007eff]3個[-][/c]まで重複、「許さない」1個毎に会心ダメージ率を[c][007eff]10.2%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -128129,7 +129479,7 @@
         "DescriptionKr": "[c][007eff]20초[-][/c]마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위 활성화\n- 오른팔(핑크): 공격력 [c][007eff]50%[-][/c] 증가\n- 가슴(레드): EX 스킬 공격 시 대상 기절 ([c][007eff]5초[-][/c]간)\n- 왼팔(그린): 방어력 [c][007eff]1000[-][/c] 증가\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않음\n파괴된 부위의 스킬은 사용 불가",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "心を燃やせ……まだまだ回れる！",
-        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]50%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなる\nまた、破壊されたパーツのスキルは、その後発動することができなくなる",
+        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]50%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊され活性化されなくなる\nまた、破壊されたパーツのスキルは、その後発動しなくなる",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -128165,7 +129515,7 @@
         "DescriptionKr": "[c][007eff]20초[-][/c]마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화\n- 오른팔(핑크): 공격력 [c][007eff]50%[-][/c] 증가\n- 가슴(레드): EX 스킬 공격 시 대상 기절 ([c][007eff]5초[-][/c]간)\n- 왼팔(그린): 방어력 [c][007eff]1000[-][/c] 증가, EX 스킬 공격 시 대상의 받는 회복효과 강화율 [c][007eff]80%[-][/c] 감소([c][007eff]30초[-][/c]간)(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않음\n파괴된 부위의 스킬은 사용 불가",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "心を燃やせ……まだまだ回れる！",
-        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]50%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加、さらにEXスキルの攻撃時、対象の被回復率を[c][007eff]80%[-][/c]減少（[c][007eff]30秒[-][/c]間）（この弱体状態効果は、弱体状態解除スキルによって解除されない）\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなる\nまた、破壊されたパーツのスキルは、その後発動することができなくなる",
+        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]50%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加、さらにEXスキルの攻撃時、対象の被回復率を[c][007eff]80%[-][/c]減少（[c][007eff]30秒[-][/c]間）（この弱体状態効果は、弱体状態解除スキルによって解除されない）\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊され活性化されなくなる\nまた、破壊されたパーツのスキルは、その後発動しなくなる",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -128282,7 +129632,7 @@
         "DescriptionKr": "[c][007eff]20초[-][/c]마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화\n- 오른팔(핑크): 공격력 [c][007eff]100%[-][/c] 증가\n- 가슴(레드): EX 스킬 공격 시 대상 기절 ([c][007eff]5초[-][/c]간)\n- 왼팔(그린): 방어력 [c][007eff]1000[-][/c] 증가, EX 스킬 공격 시 대상의 받는 회복효과 강화율 [c][007eff]80%[-][/c] 감소([c][007eff]30초[-][/c]간)(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않음\n파괴된 부위의 스킬은 사용 불가",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "心を燃やせ……まだまだ回れる！",
-        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]100%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加、さらにEXスキルの攻撃時、対象の被回復率を[c][007eff]80%[-][/c]減少（[c][007eff]30秒[-][/c]間）（この弱体状態効果は、弱体状態解除スキルによって解除されない）\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなる\nまた、破壊されたパーツのスキルは、その後発動することができなくなる",
+        "DescriptionJp": "[c][007eff]20秒[-][/c]毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化\n-右腕（ピンク）：攻撃力を[c][007eff]100%[-][/c]増加\n-胸部（レッド）：EXスキルの攻撃時、相手に気絶状態を付与（[c][007eff]5秒[-][/c]間）\n-左腕（グリーン）：防御力を[c][007eff]1000[-][/c]増加、さらにEXスキルの攻撃時、対象の被回復率を[c][007eff]80%[-][/c]減少（[c][007eff]30秒[-][/c]間）（この弱体状態効果は、弱体状態解除スキルによって解除されない）\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊され活性化されなくなる\nまた、破壊されたパーツのスキルは、その後発動しなくなる",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -128291,7 +129641,7 @@
         "DescriptionKr": "KAITEN FX Mk.0 탑승 전 각 카이텐져가 군중제어 효과에 걸릴 경우 다음 효과 적용\n- 각 카이텐져의 받는 대미지량 [c][007eff]80%[-][/c] 증가([c][007eff]15초[-][/c]간)\n- 모든 아군의 치명 확률 [c][007eff]10%[-][/c] 증가([c][007eff]15초[-][/c]간)(최대 [c][007eff]5[-][/c]회 까지 중첩)",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "悪党め！卑怯なり！",
-        "DescriptionJp": "KAITEN FX Mk.0に搭乗前、各カイテンジャーがCC状態になる場合、次の効果を適用\n-各カイテンジャーの被ダメージ量が[c][007eff]80%[-][/c]増加（[c][007eff]15秒[-][/c]間）\n-すべての味方の会心率を[c][007eff]10%[-][/c]増加（[c][007eff]15秒[-][/c]間）（最大 [c][007eff]5[-][/c]回まで重複）",
+        "DescriptionJp": "KAITEN FX Mk.0に搭乗前、各カイテンジャーがCC状態になる場合、次の効果を適用\n-各カイテンジャーの被ダメージ量が[c][007eff]80%[-][/c]増加（[c][007eff]15秒[-][/c]間）\n-すべての味方の会心率を[c][007eff]10%[-][/c]増加（[c][007eff]15秒[-][/c]間）（最大[c][007eff]5[-][/c]回まで重複）",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -128855,19 +130205,19 @@
     {
         "Key": 2904061954,
         "NameKr": "Prank or Protect",
-        "DescriptionKr": "모든 아군의 받는 회복효과 강화율 [c][007eff]50%[-][/c] 감소(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)/\n보호막이 있는 아군에게 고즈가 입히는 모든 피해가 [c][007eff]75%[-][/c] 감소",
+        "DescriptionKr": "모든 아군의 받는 회복효과 강화율 [c][007eff]50%[-][/c] 감소(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)/\n보호막이 있는 아군에게 고즈가 입히는 모든 피해가 [c][007eff]50%[-][/c] 감소",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "Prank or Protect",
-        "DescriptionJp": "すべての味方に対して被回復率を[c][007eff]50%[-][/c]減少（この弱体状態効果は、弱体状態解除スキルによって解除されない）/\nシールド効果を持っている味方に対して、ゴズが与える全てのダメージを[c][007eff]75%[-][/c]減少",
+        "DescriptionJp": "すべての味方に対して被回復率を[c][007eff]50%[-][/c]減少（この弱体状態効果は、弱体状態解除スキルによって解除されない）/\nシールド効果を持っている味方に対して、ゴズが与える全てのダメージを[c][007eff]50%[-][/c]減少",
         "SkillInvokeLocalizeJp": ""
     },
     {
         "Key": 2725301536,
         "NameKr": "Prank or Protect",
-        "DescriptionKr": "모든 아군의 받는 회복효과 강화율 [c][007eff]90%[-][/c] 감소(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)/\n보호막이 있는 아군에게 고즈가 입히는 모든 피해가 [c][007eff]75%[-][/c] 감소/\n고즈의 그로기 게이지 최대치가 대폭 증가",
+        "DescriptionKr": "모든 아군의 받는 회복효과 강화율 [c][007eff]90%[-][/c] 감소(이 해로운 효과는 해로운 효과 제거 스킬에 의해 제거되지 않음)/\n보호막이 있는 아군에게 고즈가 입히는 모든 피해가 [c][007eff]50%[-][/c] 감소/\n고즈의 그로기 게이지 최대치가 대폭 증가",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "Prank or Protect",
-        "DescriptionJp": "すべての味方に対して被回復率を[c][007eff]90%[-][/c]減少（この弱体状態効果は、弱体状態解除スキルによって解除されない）/\nシールド効果を持っている味方に対して、ゴズが与える全てのダメージを[c][007eff]75%[-][/c]減少/\nゴズのグロッキーゲージの最大値が大幅に増加",
+        "DescriptionJp": "すべての味方に対して被回復率を[c][007eff]90%[-][/c]減少（この弱体状態効果は、弱体状態解除スキルによって解除されない）/\nシールド効果を持っている味方に対して、ゴズが与える全てのダメージを[c][007eff]50%[-][/c]減少/\nゴズのグロッキーゲージの最大値が大幅に増加",
         "SkillInvokeLocalizeJp": ""
     },
     {
@@ -129488,7 +130838,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]1200[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]2200[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]1200[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2200[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]1200[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2200[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129497,7 +130847,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]2000[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]3200[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]3200[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]3200[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129506,7 +130856,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]2800[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]4500[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2800[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]4500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]2800[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]4500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129515,7 +130865,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]4000[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]5500[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]4000[-][/c] 回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]5500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]4000[-][/c] 回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]5500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129524,7 +130874,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]5000[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]7000[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]5000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]7000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]5000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]7000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129533,7 +130883,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]6000[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]9000[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]6000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]9000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]6000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]9000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129542,7 +130892,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]7500[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]12500[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]7500[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]12500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]7500[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]12500[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129551,7 +130901,7 @@
         "DescriptionKr": "난방기는 일정 시간마다 화력이 감소하며 화력에 따라 적용하는 효과가 달라짐(화력은 난방기의 현재 체력에 비례)\n- 화력 [c][007eff]30%[-][/c] 미만: 효과 없음\n- 화력 [c][007eff]30%[-][/c] 이상 [c][007eff]70%[-][/c] 미만: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]10000[-][/c] 회복\n- 화력 [c][007eff]70%[-][/c] 이상: [c][007eff]6초[-][/c]마다 난방기를 제외한 모든 아군의 체력 [c][007eff]16000[-][/c] 회복/ 난방기를 제외한 모든 아군의 받는 대미지량 [c][007eff]25%[-][/c] 감소\n난방기는 EX 스킬에만 타깃이 되며 보호막 효과를 받을 수 없음",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "緊急対応：ラジエーター稼動",
-        "DescriptionJp": "ラジェーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジェーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]10000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]16000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
+        "DescriptionJp": "ラジエーターは一定時間毎に出力が減少し、出力によって適用される効果が異なる（出力はラジエーターの現在のHPに比例）\n-出力[c][007eff]30%[-][/c]未満：効果なし\n-出力[c][007eff]30%[-][/c]以上[c][007eff]70%[-][/c]未満：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]10000[-][/c]回復\n-出力[c][007eff]70%[-][/c]以上：[c][007eff]6秒[-][/c]毎にラジエーターを除くすべての味方のHPを[c][007eff]16000[-][/c]回復/ラジエーターを除くすべての味方の被ダメージ量を[c][007eff]25%[-][/c]減少\nラジエーターはEXスキルでのみターゲットになり、シールド効果を受けることができない",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -129713,7 +131063,7 @@
         "DescriptionKr": "예소드는 EX 스킬 시전 시 [c][007eff]청색[-][/c] 등불 [c][007eff]3개[-][/c], [c][007eff]적색[-][/c] 등불 [c][007eff]3개[-][/c]를 소환\n등불을 파괴할 경우 예소드에게 예소드의 최대 체력 [c][007eff]0.1%[-][/c] 대미지\n아군 1인이 [c][007eff]2초[-][/c] 이내에 등불을 [c][007eff]2개[-][/c] 이상 파괴할 경우 코스트 회복 불가([c][007eff]50초[-][/c]간), 모든 아군 스트라이커 학생 기절([c][007eff]10초[-][/c]간)\n예소드와 예소드의 오른손의 받는 대미지량 [c][007eff]99%[-][/c] 감소, 그로기 게이지가 오르지 않으며, 치명 대미지 저항률 [c][007eff]25000[-][/c] 증가",
         "SkillInvokeLocalizeKr": "",
         "NameJp": "不動の地盤",
-        "DescriptionJp": "イェソドはEXスキルを使用する際、[c][007eff]青き[-][/c]灯火を[c][007eff]3つ[-][/c]、[c][007eff]赤き[-][/c]灯火を[c][007eff]3つ[-][/c]召喚\n灯火を破壊した場合、イェソドに対して、イェソドの最大HPの[c][007eff]0.1%[-][/c]分のダメージ\n味方1人が[c][007eff]2秒[-][/c]以内に灯火を[c][007eff]2つ[-][/c]以上破壊した場合、すべての味方のコスト回復不可（[c][007eff]50秒[-][/c]間）、すべての味方ストライカー生徒に気絶状態を付与（[c][007eff]10秒[-][/c]間）\nイェソドとイェソドの右手の被ダメージ量が[c][007eff]99%[-][/c]減少、グロッキーゲージが上昇せず、会心抵抗値が[c][007eff]25000[-][/c]増加",
+        "DescriptionJp": "イェソドはEXスキルを使用する際、[c][007eff]青き[-][/c]灯火を[c][007eff]3つ[-][/c]、[c][007eff]赤き[-][/c]灯火を[c][007eff]3つ[-][/c]召喚\n灯火を破壊した場合、イェソドに対して、イェソドの最大HPの[c][007eff]0.1%[-][/c]分のダメージ\n味方1人が[c][007eff]2秒[-][/c]以内に灯火を[c][007eff]2つ[-][/c]以上破壊した場合、すべての味方のコスト回復不可（[c][007eff]50秒[-][/c]間）、すべての味方ストライカー生徒に気絶状態を付与（[c][007eff]10秒[-][/c]間）\nイェソドとイェソドの右手の被ダメージ量が[c][007eff]99%[-][/c]減少、グロッキーゲージが上昇せず、会心ダメージ抵抗率が[c][007eff]25000[-][/c]増加",
         "SkillInvokeLocalizeJp": "False"
     },
     {
@@ -131073,6 +132423,384 @@
         "SkillInvokeLocalizeKr": "",
         "NameJp": "ナイトビジョン着用",
         "DescriptionJp": "ナイトビジョンを着けると、裸眼では見られなかったものを見ることができる。",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2078618939,
+        "NameKr": "내분비계 촉진",
+        "DescriptionKr": "드럼통 게의 공격력 [c][007eff]100%[-][/c] 증가\n학생이 드럼통 게의 능력치를 변경하는 해로운 효과 적용 시 동일한 효과를 모든 부위에 복제\n페이즈 변경 시 드럼통 게에게 적용된 모든 해로운 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "異常分泌の連鎖",
+        "DescriptionJp": "ドラム缶ガニの攻撃力を[c][007eff]100%[-][/c]増加\n生徒がドラム缶ガニの能力値を変更する弱体状態を適用した場合、同じ効果をすべてのパーツに複製\nフェーズ移行時、ドラム缶ガニに付与されているすべての弱体状態を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1611834664,
+        "NameKr": "내분비계 촉진",
+        "DescriptionKr": "드럼통 게의 공격력 [c][007eff]100%[-][/c] 증가, 관통 특효 [c][007eff]300%[-][/c] 가산\n학생이 드럼통 게의 능력치를 변경하는 해로운 효과 적용 시 동일한 효과를 모든 부위에 복제\n페이즈 변경 시 드럼통 게에게 적용된 모든 해로운 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "異常分泌の連鎖",
+        "DescriptionJp": "ドラム缶ガニの攻撃力を[c][007eff]100%[-][/c]増加。貫通特効を[c][007eff]300%[-][/c]加算\n生徒がドラム缶ガニの能力値を変更する弱体状態を適用した場合、同じ効果をすべてのパーツに複製\nフェーズ移行時、ドラム缶ガニに付与されているすべての弱体状態を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4077326515,
+        "NameKr": "우측 찌르기",
+        "DescriptionKr": "오른쪽 집게발로 직선 범위 내 아군에게 공격력 [c][007eff]500%[-][/c] 대미지 및 넉백\n컨트롤러에 공격이 적중할 경우 모든 아군 기절([c][007eff]20초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "右突き",
+        "DescriptionJp": "右ハサミで直線範囲内の味方に対して、攻撃力の[c][007eff]500%[-][/c]分のダメージおよびノックバック\n操作盤に攻撃が命中した場合、すべての味方に対して気絶状態を付与（[c][007eff]20秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 404156238,
+        "NameKr": "좌측 찌르기",
+        "DescriptionKr": "왼쪽 집게발로 직선 범위 내 아군에게 공격력 [c][007eff]500%[-][/c] 대미지 및 넉백\n컨트롤러에 공격이 적중할 경우 모든 아군 기절([c][007eff]20초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "左突き",
+        "DescriptionJp": "左ハサミで直線範囲内の味方に対して、攻撃力の[c][007eff]500%[-][/c]分のダメージおよびノックバック\n操作盤に攻撃が命中した場合、すべての味方に対して気絶状態を付与（[c][007eff]20秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3028018974,
+        "NameKr": "담즙 분사",
+        "DescriptionKr": "부채꼴 범위 내 아군에게 공격력 [c][007eff]100%[-][/c] 대미지\n컨트롤러에 끈끈한 체액을 부여([c][007eff]20초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "水鉄砲",
+        "DescriptionJp": "扇形範囲内の味方に対して、攻撃力の[c][007eff]100%[-][/c]分のダメージ\n操作盤に粘着液を付与（[c][007eff]20秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3769351911,
+        "NameKr": "담즙 분사",
+        "DescriptionKr": "부채꼴 범위 내 아군에게 공격력 [c][007eff]100%[-][/c] 대미지\n중장갑 아군 대상에게 공격력 [c][007eff]500%[-][/c] 추가 대미지\n컨트롤러에 끈끈한 체액을 부여([c][007eff]20초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "水鉄砲",
+        "DescriptionJp": "扇形範囲内の味方に対して、攻撃力の[c][007eff]100%[-][/c]分のダメージ\n重装甲の味方に対して、攻撃力の[c][007eff]500%[-][/c]分の追加ダメージ\n操作盤に粘着液を付与（[c][007eff]20秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3406901480,
+        "NameKr": "비릿한 게거품",
+        "DescriptionKr": "다량의 거품을 발사하여 가장 가까운 아군 1인에게 공격력 [c][007eff]600%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カニの泡",
+        "DescriptionJp": "大量の泡を発射し、最も近い味方1人に対して攻撃力の[c][007eff]600%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2115262268,
+        "NameKr": "비릿한 게거품",
+        "DescriptionKr": "다량의 거품을 발사하여 가장 가까운 아군 1인에게 공격력 [c][007eff]6000%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カニの泡",
+        "DescriptionJp": "大量の泡を発射し、最も近い味方1人に対して攻撃力の[c][007eff]6000%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3938689614,
+        "NameKr": "분리된 외골격",
+        "DescriptionKr": "드럼통 게는 배딱지, 집게발, 선체로 구성되며, 각각 개별적인 방어 타입과 강화 스킬을 보유\n양쪽 집게발과 선체를 모두 파괴할 경우 전투 종료 시까지 모든 부위의 받는 대미지량 [c][007eff]50%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "切り離された外骨格",
+        "DescriptionJp": "ドラム缶ガニはフンドシ、ハサミ、船体で構成され、それぞれ個別の防御タイプと強化スキルを保有\n両ハサミと船体をすべて破壊すると戦闘終了まですべてのパーツの被ダメージ量が[c][007eff]50%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1791955019,
+        "NameKr": "분리된 외골격",
+        "DescriptionKr": "드럼통 게는 배딱지, 집게발, 선체로 구성되며, 각각 개별적인 방어 타입과 강화 스킬을 보유\n양쪽 집게발과 선체를 모두 파괴할 경우 전투 종료 시까지 모든 부위의 받는 대미지량 [c][007eff]300%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "切り離された外骨格",
+        "DescriptionJp": "ドラム缶ガニはフンドシ、ハサミ、船体で構成され、それぞれ個別の防御タイプと強化スキルを保有\n両ハサミと船体をすべて破壊すると戦闘終了まですべてのパーツの被ダメージ量が[c][007eff]300%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 88764799,
+        "NameKr": "단단한 배딱지",
+        "DescriptionKr": "방어 타입: 특수장갑\n부위 파괴 불가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "硬いフンドシ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nパーツ破壊不可",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1694705278,
+        "NameKr": "단단한 배딱지",
+        "DescriptionKr": "방어 타입: 특수장갑\n배딱지의 받는 대미지량 [c][007eff]50%[-][/c] 감소\n부위 파괴 불가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "硬いフンドシ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nフンドシの被ダメージ量を[c][007eff]50%[-][/c]減少\nパーツ破壊不可",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 354185713,
+        "NameKr": "튼튼한 집게발",
+        "DescriptionKr": "방어 타입: 특수장갑\n드럼통 게가 우측 찌르기 또는 좌측 찌르기를 시전 후 일정 시간 동안만 EX 스킬로 공격 가능\n집게발의 받는 대미지량 [c][007eff]10%[-][/c] 감소\n체력이 [c][007eff]0[-][/c]이 되면 껍질이 파괴되어 받는 대미지량 [c][007eff]10%[-][/c] 감소 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "頑丈なハサミ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nドラム缶ガニが「右突き」または「左突き」使用後、一定時間のみEXスキルで攻撃可能\nハサミの被ダメージ量を[c][007eff]10%[-][/c]減少\nHPが[c][007eff]0[-][/c]になった場合、殻が破壊され被ダメージ量の[c][007eff]10%[-][/c]減少効果を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3087154065,
+        "NameKr": "튼튼한 집게발",
+        "DescriptionKr": "방어 타입: 특수장갑\n드럼통 게가 우측 찌르기 또는 좌측 찌르기를 시전 후 일정 시간 동안만 EX 스킬로 공격 가능\n집게발의 받는 대미지량 [c][007eff]30%[-][/c] 감소\n체력이 [c][007eff]0[-][/c]이 되면 껍질이 파괴되어 받는 대미지량 [c][007eff]30%[-][/c] 감소 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "頑丈なハサミ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nドラム缶ガニが「右突き」または「左突き」使用後、一定時間のみEXスキルで攻撃可能\nハサミの被ダメージ量を[c][007eff]30%[-][/c]減少\nHPが[c][007eff]0[-][/c]になった場合、殻が破壊され被ダメージ量の[c][007eff]30%[-][/c]減少効果を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 134171379,
+        "NameKr": "낡은 선체",
+        "DescriptionKr": "방어 타입: 경장갑\n선체의 받는 대미지량 [c][007eff]10%[-][/c] 감소\n체력이 [c][007eff]0[-][/c]이 되면 선체의 장갑이 파괴되어 받는 대미지량 [c][007eff]10%[-][/c] 감소 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "老朽化した船体",
+        "DescriptionJp": "防御タイプ：軽装備\n船体の被ダメージ量を[c][007eff]10%[-][/c]減少\nHPが[c][007eff]0[-][/c]になった場合、船体の装甲が破壊され被ダメージ量の[c][007eff]10%[-][/c]減少効果を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2604885501,
+        "NameKr": "낡은 선체",
+        "DescriptionKr": "방어 타입: 경장갑\n선체의 받는 대미지량 [c][007eff]30%[-][/c] 감소, EX 스킬 피격 대미지량 [c][007eff]40%[-][/c] 감소\n대신 받는 Weak 대미지량 [c][007eff]2배[-][/c] 증폭\n체력이 [c][007eff]0[-][/c]이 되면 선체의 장갑이 파괴되어 받는 대미지량 [c][007eff]30%[-][/c] 감소 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "老朽化した船体",
+        "DescriptionJp": "防御タイプ：軽装備\n船体の被ダメージ量を[c][007eff]30%[-][/c]減少。EXスキルの被ダメージ量を[c][007eff]40%[-][/c]減少\n代わりに、Weakダメージ量の[c][007eff]2倍[-][/c]増加\nHPが[c][007eff]0[-][/c]になった場合、船体の装甲が破壊され被ダメージ量の[c][007eff]30%[-][/c]減少効果を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3977968983,
+        "NameKr": "낡은 선체",
+        "DescriptionKr": "방어 타입: 경장갑\n선체의 받는 대미지량 [c][007eff]30%[-][/c] 감소, EX 스킬 피격 대미지량 [c][007eff]80%[-][/c] 감소\n대신 받는 Weak 대미지량 [c][007eff]2배[-][/c] 증폭\n체력이 [c][007eff]0[-][/c]이 되면 선체의 장갑이 파괴되어 받는 대미지량 [c][007eff]30%[-][/c] 감소 효과 제거",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "老朽化した船体",
+        "DescriptionJp": "防御タイプ：軽装備\n船体の被ダメージ量を[c][007eff]30%[-][/c]減少。EXスキルの被ダメージ量を[c][007eff]80%[-][/c]減少\n代わりに、Weakダメージ量の[c][007eff]2倍[-][/c]増加\nHPが[c][007eff]0[-][/c]になった場合、船体の装甲が破壊され被ダメージ量の[c][007eff]30%[-][/c]減少効果を解除",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1546810451,
+        "NameKr": "크레인 컨트롤러",
+        "DescriptionKr": "드럼통 게가 우측 찌르기 또는 좌측 찌르기를 시전 중인 경우에만 EX 스킬로 타겟 가능\n끈끈한 체액을 제거하면 제거한 컨트롤러 방향으로 크레인이 이동",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "操作盤",
+        "DescriptionJp": "ドラム缶ガニが「右突き」または「左突き」を使用中のみEXスキルでターゲット可能\n粘着液を除去すると、除去した操作盤方向へクレーンが移動",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1844023534,
+        "NameKr": "독성 담즙 분사",
+        "DescriptionKr": "부채꼴 범위 내 아군에게 공격력 [c][007eff]70%[-][/c] 대미지\n부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "毒の水鉄砲",
+        "DescriptionJp": "扇形範囲内の味方に対して、攻撃力の[c][007eff]70%[-][/c]分のダメージ\n錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 822231762,
+        "NameKr": "독성 담즙 분사",
+        "DescriptionKr": "부채꼴 범위 내 아군에게 공격력 [c][007eff]70%[-][/c] 대미지\n부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)(최대 [c][007eff]3[-][/c]중첩)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "毒の水鉄砲",
+        "DescriptionJp": "扇形範囲内の味方に対して、攻撃力の[c][007eff]70%[-][/c]分のダメージ\n錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）（最大[c][007eff]3[-][/c]重複）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 503231848,
+        "NameKr": "독성 담즙 분사",
+        "DescriptionKr": "부채꼴 범위 내 아군에게 공격력 [c][007eff]70%[-][/c] 대미지\n부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)(최대 [c][007eff]5[-][/c]중첩)",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "毒の水鉄砲",
+        "DescriptionJp": "扇形範囲内の味方に対して、攻撃力の[c][007eff]70%[-][/c]分のダメージ\n錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）（最大[c][007eff]5[-][/c]重複）",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3488084970,
+        "NameKr": "클로 스윕",
+        "DescriptionKr": "강철 집게로 충격파를 터트려 부채꼴 범위 내 아군에게 공격력 [c][007eff]100%[-][/c] 대미지\n해당 스킬을 시전 중인 경우 EX 스킬로 강철 집게 공격 가능",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "クロー・スイープ",
+        "DescriptionJp": "鋼鉄ハサミで衝撃波を発生させて扇形範囲内の味方に対して、攻撃力の[c][007eff]100%[-][/c]分のダメージ\n該当スキルを使用する場合、EXスキルで鋼鉄ハサミで攻撃が可能",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3017968882,
+        "NameKr": "주포 사격",
+        "DescriptionKr": "거대한 포를 발사하여 모든 아군에게 공격력 [c][007eff]85%[-][/c] 대미지",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "主砲射撃",
+        "DescriptionJp": "巨大砲を発射してすべての味方に対して、攻撃力の[c][007eff]85%[-][/c]分のダメージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1322851606,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]90000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]10%[-][/c] 대미지\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]90000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]10%[-][/c]分のダメージ\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1237644973,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]160000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]10%[-][/c] 대미지\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]160000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]10%[-][/c]分のダメージ\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1037513558,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]300000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]10%[-][/c] 대미지\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]300000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]10%[-][/c]分のダメージ\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1462899329,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]500000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]10%[-][/c] 대미지\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]500000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]10%[-][/c]分のダメージ\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 468431435,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]900000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]10%[-][/c] 대미지\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]900000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]10%[-][/c]分のダメージ\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 544073417,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]3000000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]100%[-][/c] 대미지\n(이 대미지로 체력이 [c][007eff]1%[-][/c]이하가 된 아군에게 코스트 회복력 [c][007eff]350[-][/c] 감소)\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]3000000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]100%[-][/c]分のダメージ\n（このダメージでHPが [c][007eff]1%[-][/c]以下になった味方のコスト回復力を[c][007eff]350[-][/c]減少）\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2378166214,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]6000000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]100%[-][/c] 대미지\n(이 대미지로 체력이 [c][007eff]1%[-][/c]이하가 된 아군에게 코스트 회복력 [c][007eff]700[-][/c] 감소)\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]6000000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]100%[-][/c]分のダメージ\n（このダメージでHPが [c][007eff]1%[-][/c]以下になった味方のコスト回復力を[c][007eff]700[-][/c]減少）\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 867971225,
+        "NameKr": "카운터 클로",
+        "DescriptionKr": "드럼통 게가 방어 자세를 취해 모든 공격을 강철 집게로 대신 받음\n방어 자세 도중 받은 피해의 [c][007eff]6배[-][/c]를 저장(최대 [c][007eff]10000000[-][/c])\n일정 시간 후 모든 아군에게 불사([c][007eff]10초[-][/c]간) 및 저장량의 [c][007eff]100%[-][/c] 대미지\n(이 대미지로 체력이 [c][007eff]1%[-][/c]이하가 된 아군에게 코스트 회복력 [c][007eff]700[-][/c] 감소)\n대미지를 가하기 전에 그로기 상태가 될 경우 대신 드럼통 게에게 저장량의 [c][007eff]100%[-][/c] 대미지\n대미지 적용 후 저장량 초기화 및 저장량 최대치 [c][007eff]2배[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "カウンタークロー",
+        "DescriptionJp": "ドラム缶ガニが防御姿勢を取り、すべての攻撃を鋼鉄ハサミが代わりに受け止める\n防御姿勢中に被ダメージの[c][007eff]6倍[-][/c]を蓄積（最大[c][007eff]10000000[-][/c]）\n一定時間後にすべての味方に対して、不死身状態を付与（[c][007eff]10秒[-][/c]間）\nさらに蓄積量の[c][007eff]100%[-][/c]分のダメージ\n（このダメージでHPが [c][007eff]1%[-][/c]以下になった味方のコスト回復力を[c][007eff]700[-][/c]減少）\nダメージを与える前にグロッキー状態になると、代わりにドラム缶ガニの蓄積量の[c][007eff]100%[-][/c]分のダメージ\nダメージ適用後、蓄積量をリセットおよび蓄積量が最大[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2022803589,
+        "NameKr": "강화를 위한 자절",
+        "DescriptionKr": "드럼통 게는 배딱지, 강철 집게로 구성되어 있으며, 각각 개별적인 방어 타입과 강화 스킬을 보유\n드럼통 게에게 화물 크레인을 사용 시 그로기 상태 적용",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "分離強化",
+        "DescriptionJp": "ドラム缶ガニはフンドシと鋼鉄ハサミで構成され、それぞれ個別の防御タイプと強化スキルを保有\nドラム缶ガニに貨物クレーンを使用するとグロッキー状態を付与",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2440199630,
+        "NameKr": "강화된 배딱지",
+        "DescriptionKr": "방어 타입: 특수장갑\n배딱지가 피해를 받을 때마다 화물 크레인 에너지 충전",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "強化されたフンドシ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nフンドシが攻撃される毎、貨物クレーンのエネルギーをチャージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 1713743675,
+        "NameKr": "강화된 배딱지",
+        "DescriptionKr": "방어 타입: 특수장갑\n배딱지의 EX 스킬 피격 대미지량 [c][007eff]40%[-][/c] 감소\n배딱지가 피해를 받을 때마다 화물 크레인 에너지 충전",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "強化されたフンドシ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nフンドシのEXスキルの被ダメージ量を[c][007eff]40%[-][/c]減少\nフンドシが攻撃される毎に、貨物クレーンのエネルギーをチャージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3839465692,
+        "NameKr": "강화된 배딱지",
+        "DescriptionKr": "방어 타입: 특수장갑\n배딱지의 EX 스킬 피격 대미지량 [c][007eff]80%[-][/c] 감소\n배딱지가 피해를 받을 때마다 화물 크레인 에너지 충전",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "強化されたフンドシ",
+        "DescriptionJp": "防御タイプ：特殊装甲\nフンドシのEXスキルの被ダメージ量を[c][007eff]80%[-][/c]減少\nフンドシが攻撃される毎に、貨物クレーンのエネルギーをチャージ",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4294240786,
+        "NameKr": "녹슨 강철 집게",
+        "DescriptionKr": "방어 타입: 경장갑\n드럼통 게가 클로 스윕, 카운터 클로를 시전 중이거나 그로기 상태일 때만 EX 스킬로 공격 가능\n대신 받는 Weak 대미지량 [c][007eff]2배[-][/c] 증폭",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "錆びた鋼鉄のハサミ",
+        "DescriptionJp": "防御タイプ：軽装備\nドラム缶ガニが「クロー・スイープ」、「カウンタークロー」使用中、またはグロッキー状態の時のみEXスキルで攻撃可能\n代わりに、Weakダメージ量の[c][007eff]2倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 4175928013,
+        "NameKr": "녹슨 강철 집게",
+        "DescriptionKr": "방어 타입: 경장갑\n드럼통 게가 클로 스윕, 카운터 클로를 시전 중이거나 그로기 상태일 때만 EX 스킬로 공격 가능\n강철 집게의 방어력 [c][007eff]400%[-][/c] 증가\n대신 받는 Weak 대미지량 [c][007eff]4배[-][/c] 증폭",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "錆びた鋼鉄のハサミ",
+        "DescriptionJp": "防御タイプ：軽装備\nドラム缶ガニが「クロー・スイープ」、「カウンタークロー」使用中、またはグロッキー状態の時のみEXスキルで攻撃可能\n鋼鉄ハサミの防御力を[c][007eff]400%[-][/c]増加\n代わりに、Weakダメージ量の[c][007eff]4倍[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3305531435,
+        "NameKr": "부패한 드럼통",
+        "DescriptionKr": "[c][007eff]10초[-][/c]마다 부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)\n[c][007eff]4초[-][/c]마다 모든 아군에게 공격력 [c][007eff]20%[-][/c] 대미지, 드럼통에 끈끈한 체액이 있을 경우 대신 [c][007eff]40%[-][/c] 대미지\n끈끈한 체액을 제거할 시 모든 아군의 공격력 [c][007eff]25%[-][/c], 공격속도 [c][007eff]75%[-][/c] 증가([c][007eff]35초[-][/c]간)\n추가로 끈끈한 체액을 제거한 수 [c][007eff]1개[-][/c]마다 드럼통 게의 모든 부위의 받는 대미지량 [c][007eff]5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "錆びたドラム缶",
+        "DescriptionJp": "[c][007eff]10秒[-][/c]毎に、錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）\n[c][007eff]4秒[-][/c]毎にすべての味方に対して、攻撃力の[c][007eff]20%[-][/c]分のダメージ。ドラム缶に粘着液がある場合、代わりに[c][007eff]40%[-][/c]分のダメージ\n粘着液を除去した場合、すべての味方の攻撃力を[c][007eff]25%[-][/c]、攻撃速度を[c][007eff]75%[-][/c]増加（[c][007eff]35秒[-][/c]間）\nさらに、除去した粘着液[c][007eff]1個[-][/c]毎に、ドラム缶ガニのすべてのパーツの被ダメージ量が[c][007eff]5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 289446290,
+        "NameKr": "부패한 드럼통",
+        "DescriptionKr": "[c][007eff]10초[-][/c]마다 부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)(최대 [c][007eff]3[-][/c]중첩)\n[c][007eff]4초[-][/c]마다 모든 아군에게 공격력 [c][007eff]20%[-][/c] 대미지, 드럼통에 끈끈한 체액이 있을 경우, 1개마다 대미지량 [c][007eff]20%[-][/c] 가산(최대 [c][007eff]80%[-][/c]까지)\n끈끈한 체액을 제거할 시, 모든 아군의 공격력 [c][007eff]25%[-][/c], 공격속도 [c][007eff]75%[-][/c] 증가([c][007eff]35초[-][/c]간)\n추가로 끈끈한 체액을 제거한 수 [c][007eff]1개[-][/c]마다 드럼통 게의 모든 부위의 받는 대미지량 [c][007eff]5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "錆びたドラム缶",
+        "DescriptionJp": "[c][007eff]10秒[-][/c]毎に、錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）（最大[c][007eff]3[-][/c]重複）\n[c][007eff]4秒[-][/c]毎にすべての味方に対して、攻撃力の[c][007eff]20%[-][/c]分のダメージ。ドラム缶に粘着液がある場合、1個毎にダメージ量を[c][007eff]20%[-][/c]加算（最大[c][007eff]80%[-][/c]まで）\n粘着液を除去した場合、すべての味方の攻撃力を[c][007eff]25%[-][/c]、攻撃速度を[c][007eff]75%[-][/c]増加（[c][007eff]35秒[-][/c]間）\nさらに、除去した粘着液[c][007eff]1個[-][/c]毎に、ドラム缶ガニのすべてのパーツの被ダメージ量が[c][007eff]5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 2580659348,
+        "NameKr": "부패한 드럼통",
+        "DescriptionKr": "[c][007eff]10초[-][/c]마다 부패한 드럼통에 끈끈한 체액을 [c][007eff]1개[-][/c] 적용([c][007eff]60초[-][/c]간)(최대 [c][007eff]5[-][/c]중첩)\n[c][007eff]4초[-][/c]마다 모든 아군에게 공격력 [c][007eff]20%[-][/c] 대미지, 드럼통에 끈끈한 체액이 있을 경우, 1개마다 대미지량 [c][007eff]20%[-][/c] 가산(최대 [c][007eff]120%[-][/c]까지)\n끈끈한 체액을 제거할 시, 모든 아군의 공격력 [c][007eff]25%[-][/c], 공격속도 [c][007eff]75%[-][/c] 증가([c][007eff]35초[-][/c]간)\n추가로 끈끈한 체액을 제거한 수 [c][007eff]1개[-][/c]마다 드럼통 게의 모든 부위의 받는 대미지량 [c][007eff]5%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "錆びたドラム缶",
+        "DescriptionJp": "[c][007eff]10秒[-][/c]毎に、錆びたドラム缶に粘着液を[c][007eff]1個[-][/c]適用（[c][007eff]60秒[-][/c]間）（最大[c][007eff]5[-][/c]重複）\n[c][007eff]4秒[-][/c]毎にすべての味方に対して、攻撃力の[c][007eff]20%[-][/c]分のダメージ。ドラム缶に粘着液がある場合、1個毎にダメージ量を[c][007eff]20%[-][/c]加算（最大[c][007eff]120%[-][/c]まで）\n粘着液を除去した場合、すべての味方の攻撃力を[c][007eff]25%[-][/c]、攻撃速度を[c][007eff]75%[-][/c]増加（[c][007eff]35秒[-][/c]間）\nさらに、除去した粘着液[c][007eff]1個[-][/c]毎に、ドラム缶ガニのすべてのパーツの被ダメージ量が[c][007eff]5%[-][/c]増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 209132904,
+        "NameKr": "화물 특급 배송",
+        "DescriptionKr": "게의 배딱지가 피해를 받을 때마다 화물 크레인 에너지 충전\n에너지가 가득차면 화물 크레인 사용 가능\n화물 크레인을 사용할 경우 드럼통 게가 그로기 상태가 되며, 그로기 종료 시까지 모든 아군의 코스트 회복력 [c][007eff]100%[-][/c] 증가\n화물 크레인을 사용할 때마다 크레인을 사용하기 위한 에너지 [c][007eff]2배[-][/c]씩 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "特急貨物",
+        "DescriptionJp": "カニのフンドシが攻撃される毎、貨物クレーンのエネルギーをチャージ\nエネルギーがMAXの場合、貨物クレーン使用可能\n貨物クレーンを使用するとドラム缶ガニはグロッキー状態になり、グロッキー状態終了まですべての味方のコスト回復力を[c][007eff]100%[-][/c]増加\n貨物クレーンを使用する毎に、必要エネルギー量が[c][007eff]2倍[-][/c]ずつ増加",
+        "SkillInvokeLocalizeJp": ""
+    },
+    {
+        "Key": 3529168081,
+        "NameKr": "화물 특급 배송",
+        "DescriptionKr": "드럼통 게에게 사용시\n그로기 게이지 [c][007eff]100%[-][/c] 증가",
+        "SkillInvokeLocalizeKr": "",
+        "NameJp": "特急貨物",
+        "DescriptionJp": "ドラム缶ガニに使用すると\nグロッキーゲージが[c][007eff]100%[-][/c]増加",
         "SkillInvokeLocalizeJp": ""
     }
 ]

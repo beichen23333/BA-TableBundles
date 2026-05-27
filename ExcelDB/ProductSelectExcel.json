@@ -2,6 +2,7 @@
     {
         "Id": 1652,
         "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
         "ProductId": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
         "StoreType": "GooglePlay",
         "Price": 3000,
@@ -24,6 +25,7 @@
     {
         "Id": 1678,
         "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
         "ProductId": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
         "StoreType": "GooglePlay",
         "Price": 3000,
@@ -46,6 +48,7 @@
     {
         "Id": 1690,
         "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "FavorItem",
         "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
         "StoreType": "GooglePlay",
         "Price": 2000,
@@ -66,8 +69,32 @@
         ]
     },
     {
+        "Id": 1701,
+        "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "GrowthItem",
+        "ProductId": "com.yostarjp.bluearchive.r92_202605_eleph_select_normal_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            6805
+        ],
+        "ParcelAmount": [
+            1
+        ],
+        "ProductSelectionSlot": [
+            1004
+        ]
+    },
+    {
         "Id": 5652,
         "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
         "ProductId": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
         "StoreType": "AppStore",
         "Price": 3000,
@@ -90,6 +117,7 @@
     {
         "Id": 5678,
         "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
         "ProductId": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
         "StoreType": "AppStore",
         "Price": 3000,
@@ -112,6 +140,7 @@
     {
         "Id": 5690,
         "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "FavorItem",
         "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
         "StoreType": "AppStore",
         "Price": 2000,
@@ -132,8 +161,32 @@
         ]
     },
     {
+        "Id": 5701,
+        "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "GrowthItem",
+        "ProductId": "com.yostarjp.bluearchive.r92_202605_eleph_select_normal_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            6805
+        ],
+        "ParcelAmount": [
+            1
+        ],
+        "ProductSelectionSlot": [
+            1004
+        ]
+    },
+    {
         "Id": 105683,
         "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "FavorItem",
         "ProductId": "com.yostarjp.bluearchive.r91_202604_select_presentpackage_2000",
         "StoreType": "PCStore",
         "Price": 2000,
@@ -151,6 +204,29 @@
         ],
         "ProductSelectionSlot": [
             1002
+        ]
+    },
+    {
+        "Id": 105694,
+        "ProductSelectSubType": "AutoSelect",
+        "AutoSelectPopupType": "GrowthItem",
+        "ProductId": "com.yostarjp.bluearchive.r92_202605_eleph_select_normal_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            6805
+        ],
+        "ParcelAmount": [
+            1
+        ],
+        "ProductSelectionSlot": [
+            1004
         ]
     }
 ]

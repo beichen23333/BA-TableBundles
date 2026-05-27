@@ -2856,6 +2856,30 @@
         "ReplaceLocalizeKey": ""
     },
     {
+        "Id": 1141300,
+        "Contents": "Raid",
+        "Type": "EN0022",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_01_Kr",
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_01_Jp",
+        "ReplaceLocalizeKey": ""
+    },
+    {
+        "Id": 1141301,
+        "Contents": "Raid",
+        "Type": "EN0022",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_02_Kr",
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_02_Jp",
+        "ReplaceLocalizeKey": ""
+    },
+    {
+        "Id": 1141302,
+        "Contents": "Raid",
+        "Type": "EN0022",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_03_Kr",
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0022_03_Jp",
+        "ReplaceLocalizeKey": ""
+    },
+    {
         "Id": 90081401,
         "Contents": "WorldRaid",
         "Type": "900814000",

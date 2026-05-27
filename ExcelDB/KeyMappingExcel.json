@@ -1536,6 +1536,18 @@
         "IconScaleY": 1.100000023841858
     },
     {
+        "Id": "UI_KeyMapping_Battle_CameraChange",
+        "TargetKeyCode": "Tab",
+        "IsDisplay": true,
+        "IsUsed": true,
+        "IsLongPress": false,
+        "IgnorePosCheck": false,
+        "IconPositionX": -24.0,
+        "IconPositionY": -140.0,
+        "IconScaleX": 1.100000023841858,
+        "IconScaleY": 1.100000023841858
+    },
+    {
         "Id": "UI_KeyMapping_WorldRaid_2DUI_ViewFar_Btn_Left",
         "TargetKeyCode": "A",
         "IsDisplay": false,

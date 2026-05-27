@@ -2538,6 +2538,42 @@
         "IsUnnecessaryStat": false
     },
     {
+        "Id": 10141,
+        "PotentialStatGroupId": 11010,
+        "PotentialStatBonusRateType": "MaxHP",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 10141,
+        "PotentialStatGroupId": 11020,
+        "PotentialStatBonusRateType": "AttackPower",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 10141,
+        "PotentialStatGroupId": 11030,
+        "PotentialStatBonusRateType": "HealPower",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 10142,
+        "PotentialStatGroupId": 25010,
+        "PotentialStatBonusRateType": "MaxHP",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 10142,
+        "PotentialStatGroupId": 25020,
+        "PotentialStatBonusRateType": "AttackPower",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 10142,
+        "PotentialStatGroupId": 25030,
+        "PotentialStatBonusRateType": "HealPower",
+        "IsUnnecessaryStat": true
+    },
+    {
         "Id": 13000,
         "PotentialStatGroupId": 13010,
         "PotentialStatBonusRateType": "MaxHP",
@@ -4244,6 +4280,24 @@
     {
         "Id": 20058,
         "PotentialStatGroupId": 20030,
+        "PotentialStatBonusRateType": "HealPower",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 20059,
+        "PotentialStatGroupId": 12010,
+        "PotentialStatBonusRateType": "MaxHP",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 20059,
+        "PotentialStatGroupId": 12020,
+        "PotentialStatBonusRateType": "AttackPower",
+        "IsUnnecessaryStat": false
+    },
+    {
+        "Id": 20059,
+        "PotentialStatGroupId": 12030,
         "PotentialStatBonusRateType": "HealPower",
         "IsUnnecessaryStat": false
     },

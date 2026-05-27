@@ -5337,7 +5337,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5377,7 +5377,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5417,7 +5417,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5457,7 +5457,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5497,7 +5497,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5537,7 +5537,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833,
@@ -5577,7 +5577,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 2,
         "CompleteConditionParameter": [
             833
@@ -5616,7 +5616,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 3,
         "CompleteConditionParameter": [
             833
@@ -5655,7 +5655,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 4,
         "CompleteConditionParameter": [
             833
@@ -5694,7 +5694,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             833
@@ -5733,7 +5733,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 6,
         "CompleteConditionParameter": [
             833
@@ -5772,7 +5772,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 7,
         "CompleteConditionParameter": [
             833
@@ -5811,7 +5811,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 8,
         "CompleteConditionParameter": [
             833
@@ -5850,7 +5850,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 9,
         "CompleteConditionParameter": [
             833
@@ -5889,7 +5889,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             833
@@ -5928,7 +5928,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 11,
         "CompleteConditionParameter": [
             833
@@ -5967,7 +5967,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 12,
         "CompleteConditionParameter": [
             833
@@ -6006,7 +6006,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 13,
         "CompleteConditionParameter": [
             833
@@ -6045,7 +6045,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 14,
         "CompleteConditionParameter": [
             833
@@ -6084,7 +6084,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             833
@@ -6123,7 +6123,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 16,
         "CompleteConditionParameter": [
             833
@@ -6162,7 +6162,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 17,
         "CompleteConditionParameter": [
             833
@@ -6201,7 +6201,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 18,
         "CompleteConditionParameter": [
             833
@@ -6240,7 +6240,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 19,
         "CompleteConditionParameter": [
             833
@@ -6279,7 +6279,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 20,
         "CompleteConditionParameter": [
             833
@@ -6318,7 +6318,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             833
@@ -6357,7 +6357,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             833
@@ -6396,7 +6396,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             833
@@ -6435,7 +6435,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             833
@@ -6474,7 +6474,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 20,
         "CompleteConditionParameter": [
             833
@@ -6513,7 +6513,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 25,
         "CompleteConditionParameter": [
             833
@@ -6552,7 +6552,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 30,
         "CompleteConditionParameter": [
             833
@@ -10865,7 +10865,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -10905,7 +10905,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -10945,7 +10945,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -10985,7 +10985,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -11025,7 +11025,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -11065,7 +11065,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833,
@@ -11105,7 +11105,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 2,
         "CompleteConditionParameter": [
             10833
@@ -11144,7 +11144,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 3,
         "CompleteConditionParameter": [
             10833
@@ -11183,7 +11183,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 4,
         "CompleteConditionParameter": [
             10833
@@ -11222,7 +11222,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             10833
@@ -11261,7 +11261,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 6,
         "CompleteConditionParameter": [
             10833
@@ -11300,7 +11300,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 7,
         "CompleteConditionParameter": [
             10833
@@ -11339,7 +11339,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 8,
         "CompleteConditionParameter": [
             10833
@@ -11378,7 +11378,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 9,
         "CompleteConditionParameter": [
             10833
@@ -11417,7 +11417,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             10833
@@ -11456,7 +11456,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 11,
         "CompleteConditionParameter": [
             10833
@@ -11495,7 +11495,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 12,
         "CompleteConditionParameter": [
             10833
@@ -11534,7 +11534,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 13,
         "CompleteConditionParameter": [
             10833
@@ -11573,7 +11573,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 14,
         "CompleteConditionParameter": [
             10833
@@ -11612,7 +11612,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             10833
@@ -11651,7 +11651,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 16,
         "CompleteConditionParameter": [
             10833
@@ -11690,7 +11690,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 17,
         "CompleteConditionParameter": [
             10833
@@ -11729,7 +11729,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 18,
         "CompleteConditionParameter": [
             10833
@@ -11768,7 +11768,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 19,
         "CompleteConditionParameter": [
             10833
@@ -11807,7 +11807,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 20,
         "CompleteConditionParameter": [
             10833
@@ -11846,7 +11846,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10833
@@ -11885,7 +11885,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             10833
@@ -11924,7 +11924,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             10833
@@ -11963,7 +11963,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             10833
@@ -12002,7 +12002,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 20,
         "CompleteConditionParameter": [
             10833
@@ -12041,7 +12041,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 25,
         "CompleteConditionParameter": [
             10833
@@ -12080,7 +12080,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldGetEvidenceCount",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 30,
         "CompleteConditionParameter": [
             10833
@@ -12119,7 +12119,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12159,7 +12159,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12199,7 +12199,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12239,7 +12239,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12279,7 +12279,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12319,7 +12319,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12359,7 +12359,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12399,7 +12399,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12439,7 +12439,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12479,7 +12479,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12519,7 +12519,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12559,7 +12559,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12599,7 +12599,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             843,
@@ -12639,7 +12639,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 2,
         "CompleteConditionParameter": [
             843
@@ -12678,7 +12678,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 3,
         "CompleteConditionParameter": [
             843
@@ -12717,7 +12717,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 4,
         "CompleteConditionParameter": [
             843
@@ -12756,7 +12756,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             843
@@ -12795,7 +12795,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 6,
         "CompleteConditionParameter": [
             843
@@ -12834,7 +12834,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 7,
         "CompleteConditionParameter": [
             843
@@ -12873,7 +12873,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 8,
         "CompleteConditionParameter": [
             843
@@ -12912,7 +12912,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 9,
         "CompleteConditionParameter": [
             843
@@ -12951,7 +12951,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             843
@@ -12990,7 +12990,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 11,
         "CompleteConditionParameter": [
             843
@@ -13029,7 +13029,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 12,
         "CompleteConditionParameter": [
             843
@@ -13068,7 +13068,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 13,
         "CompleteConditionParameter": [
             843
@@ -13107,7 +13107,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 14,
         "CompleteConditionParameter": [
             843
@@ -13146,7 +13146,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             843
@@ -16439,7 +16439,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16479,7 +16479,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16519,7 +16519,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16559,7 +16559,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16599,7 +16599,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16639,7 +16639,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16679,7 +16679,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16719,7 +16719,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16759,7 +16759,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16799,7 +16799,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16839,7 +16839,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16879,7 +16879,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16919,7 +16919,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldClearSpecificDate",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             10843,
@@ -16959,7 +16959,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 2,
         "CompleteConditionParameter": [
             10843
@@ -16998,7 +16998,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 3,
         "CompleteConditionParameter": [
             10843
@@ -17037,7 +17037,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 4,
         "CompleteConditionParameter": [
             10843
@@ -17076,7 +17076,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 5,
         "CompleteConditionParameter": [
             10843
@@ -17115,7 +17115,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 6,
         "CompleteConditionParameter": [
             10843
@@ -17154,7 +17154,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 7,
         "CompleteConditionParameter": [
             10843
@@ -17193,7 +17193,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 8,
         "CompleteConditionParameter": [
             10843
@@ -17232,7 +17232,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 9,
         "CompleteConditionParameter": [
             10843
@@ -17271,7 +17271,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 10,
         "CompleteConditionParameter": [
             10843
@@ -17310,7 +17310,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 11,
         "CompleteConditionParameter": [
             10843
@@ -17349,7 +17349,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 12,
         "CompleteConditionParameter": [
             10843
@@ -17388,7 +17388,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 13,
         "CompleteConditionParameter": [
             10843
@@ -17427,7 +17427,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 14,
         "CompleteConditionParameter": [
             10843
@@ -17466,7 +17466,7 @@
         "AccountLevel": 1,
         "ShortcutUI": [],
         "CompleteConditionType": "Reset_FieldMasteryLevel",
-        "IsCompleteExtensionTime": true,
+        "IsCompleteExtensionTime": false,
         "CompleteConditionCount": 15,
         "CompleteConditionParameter": [
             10843

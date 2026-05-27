@@ -5528,6 +5528,30 @@
         "GoodsId": 20259
     },
     {
+        "Id": 20260,
+        "CategoryType": "SecretStone",
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": "Gehenna",
+        "GoodsId": 20260
+    },
+    {
+        "Id": 20261,
+        "CategoryType": "SecretStone",
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": "Gehenna",
+        "GoodsId": 20261
+    },
+    {
+        "Id": 20262,
+        "CategoryType": "SecretStone",
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": "Gehenna",
+        "GoodsId": 20262
+    },
+    {
         "Id": 50000,
         "CategoryType": "SecretStoneGrowth",
         "ConsumeParcelType": "Item",
@@ -7054,6 +7078,14 @@
         "ConsumeParcelId": 18,
         "ShopFilterType": "SecretStone",
         "GoodsId": 80076
+    },
+    {
+        "Id": 80077,
+        "CategoryType": "MasterCoin",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 18,
+        "ShopFilterType": "SecretStone",
+        "GoodsId": 80077
     },
     {
         "Id": 90000,
@@ -17566,5 +17598,29 @@
         "ConsumeParcelId": 4,
         "ShopFilterType": "Furniture",
         "GoodsId": 172235
+    },
+    {
+        "Id": 172236,
+        "CategoryType": "GemWeekly",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 4,
+        "ShopFilterType": "Furniture",
+        "GoodsId": 172236
+    },
+    {
+        "Id": 172237,
+        "CategoryType": "GemWeekly",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 4,
+        "ShopFilterType": "Furniture",
+        "GoodsId": 172237
+    },
+    {
+        "Id": 172238,
+        "CategoryType": "GemWeekly",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 4,
+        "ShopFilterType": "Furniture",
+        "GoodsId": 172238
     }
 ]

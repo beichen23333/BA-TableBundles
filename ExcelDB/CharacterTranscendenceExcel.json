@@ -9165,6 +9165,136 @@
         ]
     },
     {
+        "CharacterId": 10141,
+        "MaxFavorLevel": [
+            10,
+            10,
+            20,
+            30,
+            100
+        ],
+        "StatBonusRateAttack": [
+            0,
+            1000,
+            1200,
+            1400,
+            1700
+        ],
+        "StatBonusRateHP": [
+            0,
+            500,
+            700,
+            900,
+            1400
+        ],
+        "StatBonusRateHeal": [
+            0,
+            750,
+            1000,
+            1200,
+            1500
+        ],
+        "RecipeId": [
+            10141000,
+            10141001,
+            10141002,
+            10141003
+        ],
+        "SkillSlotA": [
+            "ExSkill01",
+            "Passive01",
+            "ExtraPassive01",
+            "None",
+            "None"
+        ],
+        "SkillSlotB": [
+            "PublicSkill01",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "SkillSlotC": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "MaxlevelStar": [
+            70,
+            70,
+            70,
+            70,
+            70
+        ]
+    },
+    {
+        "CharacterId": 10142,
+        "MaxFavorLevel": [
+            10,
+            10,
+            20,
+            30,
+            100
+        ],
+        "StatBonusRateAttack": [
+            0,
+            1000,
+            1200,
+            1400,
+            1700
+        ],
+        "StatBonusRateHP": [
+            0,
+            500,
+            700,
+            900,
+            1400
+        ],
+        "StatBonusRateHeal": [
+            0,
+            750,
+            1000,
+            1200,
+            1500
+        ],
+        "RecipeId": [
+            10142000,
+            10142001,
+            10142002,
+            10142003
+        ],
+        "SkillSlotA": [
+            "ExSkill01",
+            "Passive01",
+            "ExtraPassive01",
+            "None",
+            "None"
+        ],
+        "SkillSlotB": [
+            "PublicSkill01",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "SkillSlotC": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "MaxlevelStar": [
+            70,
+            70,
+            70,
+            70,
+            70
+        ]
+    },
+    {
         "CharacterId": 13000,
         "MaxFavorLevel": [
             10,
@@ -16649,6 +16779,71 @@
             20058001,
             20058002,
             20058003
+        ],
+        "SkillSlotA": [
+            "ExSkill01",
+            "Passive01",
+            "ExtraPassive01",
+            "None",
+            "None"
+        ],
+        "SkillSlotB": [
+            "PublicSkill01",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "SkillSlotC": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "MaxlevelStar": [
+            70,
+            70,
+            70,
+            70,
+            70
+        ]
+    },
+    {
+        "CharacterId": 20059,
+        "MaxFavorLevel": [
+            10,
+            10,
+            20,
+            30,
+            100
+        ],
+        "StatBonusRateAttack": [
+            0,
+            1000,
+            1200,
+            1400,
+            1700
+        ],
+        "StatBonusRateHP": [
+            0,
+            500,
+            700,
+            900,
+            1400
+        ],
+        "StatBonusRateHeal": [
+            0,
+            750,
+            1000,
+            1200,
+            1500
+        ],
+        "RecipeId": [
+            20059000,
+            20059001,
+            20059002,
+            20059003
         ],
         "SkillSlotA": [
             "ExSkill01",

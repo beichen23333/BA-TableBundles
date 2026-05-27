@@ -6625,6 +6625,9 @@
             "ActionTrigger",
             "Scenario",
             "ActionTrigger",
+            "Dialog",
+            "Dialog",
+            "Dialog",
             "Dialog"
         ],
         "InteractionId": [
@@ -6635,6 +6638,9 @@
             83306035603,
             83306035700,
             83306035604,
+            83306035630,
+            83306035630,
+            83306035630,
             83306035630
         ],
         "ConditionClass": "AndOr",
@@ -10325,6 +10331,9 @@
             "ActionTrigger",
             "Scenario",
             "ActionTrigger",
+            "Dialog",
+            "Dialog",
+            "Dialog",
             "Dialog"
         ],
         "InteractionId": [
@@ -10335,6 +10344,9 @@
             83306035603,
             83306035700,
             83306035604,
+            83306035630,
+            83306035630,
+            83306035630,
             83306035630
         ],
         "ConditionClass": "AndOr",
@@ -20875,6 +20887,9 @@
             "ActionTrigger",
             "Scenario",
             "ActionTrigger",
+            "Dialog",
+            "Dialog",
+            "Dialog",
             "Dialog"
         ],
         "InteractionId": [
@@ -20885,6 +20900,9 @@
             83306035603,
             83306035700,
             83306035604,
+            83306035630,
+            83306035630,
+            83306035630,
             83306035630
         ],
         "ConditionClass": "AndOr",
@@ -24575,6 +24593,9 @@
             "ActionTrigger",
             "Scenario",
             "ActionTrigger",
+            "Dialog",
+            "Dialog",
+            "Dialog",
             "Dialog"
         ],
         "InteractionId": [
@@ -24585,6 +24606,9 @@
             83306035603,
             83306035700,
             83306035604,
+            83306035630,
+            83306035630,
+            83306035630,
             83306035630
         ],
         "ConditionClass": "AndOr",
@@ -40798,6 +40822,2270 @@
         ],
         "InteractionId": [
             84399025
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040010100,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "Timeline",
+            "ActionTrigger",
+            "Dialog",
+            "Scenario"
+        ],
+        "InteractionId": [
+            90101000001,
+            911040010101,
+            911040010110,
+            901010400110
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040010200,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "Scenario"
+        ],
+        "InteractionId": [
+            911040010210,
+            911040010201,
+            911040010220,
+            901010400120
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040010100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040010300,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen"
+        ],
+        "InteractionId": [
+            901010400130,
+            9010100001,
+            911040010310,
+            91104001
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040010200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040020100,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911040020101,
+            911040020110,
+            911040020102,
+            911040020120,
+            911040020103
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040010300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040020200,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            901010400210,
+            911040020201,
+            911040020210
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040020100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040020300,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911040020301,
+            911040020310,
+            911040020302
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040020200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040020400,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_02",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911040020401,
+            911040020410
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040020300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040020500,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "KeywordFound",
+            "ActionTrigger",
+            "Dialog",
+            "Scenario",
+            "Dialog",
+            "SNSOpen"
+        ],
+        "InteractionId": [
+            901010400220,
+            9010100002,
+            911040020501,
+            911040020510,
+            901010400230,
+            911040020520,
+            91104002
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040020400
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040030100,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911040030101,
+            911040030110
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040020500
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040030200,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911040030201,
+            911040030210,
+            911040030202,
+            911040030220,
+            911040030203
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040030100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040030300,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010400310,
+            911040030301
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040030200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040030400,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "Dialog"
+        ],
+        "InteractionId": [
+            901010400320,
+            911040030410
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040030300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040030500,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "KeywordFound",
+            "ActionTrigger",
+            "Dialog",
+            "SNSOpen",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010400330,
+            9010100003,
+            911040030501,
+            911040030510,
+            91104003,
+            911040030502
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040030400
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040100,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911040040101
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040200,
+        "FieldDateId": 90101040,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010400410
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040300,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_15",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010400420,
+            911040040301
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040400,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_03",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010400430
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040500,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_04",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010400440
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040600,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_05",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010400450
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911040040700,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_12",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario"
+        ],
+        "InteractionId": [
+            911040040701,
+            901010400460
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0,
+            1,
+            2
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            911040040400,
+            911040040500,
+            911040040600
+        ],
+        "NegateCondition": [
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060010100,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "Scenario"
+        ],
+        "InteractionId": [
+            911060010101,
+            911060010110,
+            901010600110
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060010200,
+        "FieldDateId": 90101060,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            901010600120,
+            911060010201,
+            911060010210
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060010100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060010300,
+        "FieldDateId": 90101060,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen"
+        ],
+        "InteractionId": [
+            901010600130,
+            9010100004,
+            911060010310,
+            91106001
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060010200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060020100,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911060020101,
+            911060020110,
+            911060020102,
+            911060020120
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060010300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060020200,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911060020201,
+            911060020210
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060020100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060020300,
+        "FieldDateId": 90101060,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Scenario",
+            "ActionTrigger",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010600210,
+            911060020301,
+            911060020310,
+            911060020302,
+            901010600220,
+            911060020303,
+            9010100005,
+            911060020320,
+            91106002,
+            911060020304
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060020200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060030100,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911060030101,
+            911060030110,
+            911060030102,
+            911060030120
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060020300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060030200,
+        "FieldDateId": 90101060,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911060030201,
+            901010600310,
+            911060030202,
+            911060030210
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060030100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060030300,
+        "FieldDateId": 90101060,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario",
+            "KeywordFound",
+            "ActionTrigger",
+            "Dialog",
+            "SNSOpen",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010600320,
+            9010100006,
+            911060030301,
+            911060030310,
+            91106003,
+            911060030302
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060030200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040100,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911060040101
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040200,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911060040201,
+            901010600410,
+            911060040202
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040300,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_15",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010600420,
+            911060040301
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040400,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_06",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010600430
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040500,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_07",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010600440
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040600,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_08",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010600450
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911060040700,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_833_Keyword_Conclusion",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario"
+        ],
+        "InteractionId": [
+            911060040701,
+            901010600460
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0,
+            1,
+            2
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            911060040400,
+            911060040500,
+            911060040600
+        ],
+        "NegateCondition": [
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080010100,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911080010101,
+            911080010110
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080010200,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911080010201,
+            901010800110,
+            911080010202,
+            911080010210
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080010100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080010300,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "SceneChange"
+        ],
+        "InteractionId": [
+            911080010301,
+            9010108020
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080010200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020100,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080020101,
+            911080020110,
+            911080020102
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020200,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_02",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen"
+        ],
+        "InteractionId": [
+            911080020201,
+            901010800210,
+            9010100007,
+            911080020210,
+            91108001
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020300,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080020301,
+            911080020310,
+            911080020302
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020400,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog"
+        ],
+        "InteractionId": [
+            911080020401,
+            911080020410,
+            911080020402,
+            911080020420,
+            911080020403,
+            911080020430
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020500,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_02",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080020501,
+            911080020510,
+            911080020502
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020400
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020600,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_02",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "Scenario",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen"
+        ],
+        "InteractionId": [
+            911080020601,
+            911080020610,
+            901010800220,
+            911080020602,
+            911080020620,
+            911080020603,
+            911080020630,
+            911080020604,
+            9010100008,
+            911080020640,
+            91108002
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020500
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020700,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080020701,
+            911080020710,
+            911080020702,
+            911080020720,
+            911080020703
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020600
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080020800,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario",
+            "ActionTrigger",
+            "Dialog",
+            "KeywordFound",
+            "Dialog",
+            "SNSOpen",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080020801,
+            901010800230,
+            911080020802,
+            911080020810,
+            9010100009,
+            911080020820,
+            91108003,
+            911080020803
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080020700
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030100,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            911080030101
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030200,
+        "FieldDateId": 90101080,
+        "ShowEmoji": true,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_01",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010800310
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030100
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030300,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_15",
+        "InteractionType": [
+            "Scenario",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            901010800320,
+            911080030301
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030400,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_09",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010800330
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030500,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_10",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010800340
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030600,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_11",
+        "InteractionType": [
+            "Scenario"
+        ],
+        "InteractionId": [
+            901010800350
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030300
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 911080030700,
+        "FieldDateId": 90101080,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_12",
+        "InteractionType": [
+            "ActionTrigger",
+            "Scenario"
+        ],
+        "InteractionId": [
+            911080030701,
+            901010800360
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": true,
+        "ConditionIndex": [
+            0,
+            1,
+            2
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            911080030400,
+            911080030500,
+            911080030600
+        ],
+        "NegateCondition": [
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499000,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099000
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499001,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099001
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499002,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099002
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499003,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099003
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499004,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099004
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499005,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099005
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499006,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099006
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499007,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099007
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499008,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099008
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499009,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099009
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110499010,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099010
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 91104000100,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            91104000101,
+            91104000110,
+            91104000102,
+            91104000120,
+            91104000103
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 91104000200,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            91104000201,
+            91104000210,
+            91104000202
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 91104000300,
+        "FieldDateId": 90101040,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            91104000301,
+            91104000220,
+            91104000302
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [
+            0
+        ],
+        "ConditionType": [
+            "Interaction"
+        ],
+        "ConditionId": [
+            91104000200
+        ],
+        "NegateCondition": [
+            false
+        ]
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699000,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099000
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699001,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099001
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699002,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099002
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699003,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099003
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699004,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099004
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699005,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099005
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699006,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099006
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699007,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_13",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099007
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699008,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099008
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699009,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099009
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 9110699010,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "UI_Field_90101000_Keyword_Common_Interaction_14",
+        "InteractionType": [
+            "Interplay"
+        ],
+        "InteractionId": [
+            911099010
+        ],
+        "ConditionClass": "AndOr",
+        "ConditionClassParameters": [],
+        "OnceOnly": false,
+        "ConditionIndex": [],
+        "ConditionType": [],
+        "ConditionId": [],
+        "NegateCondition": []
+    },
+    {
+        "FieldSeasonId": 90101000,
+        "UniqueId": 91106000100,
+        "FieldDateId": 90101060,
+        "ShowEmoji": false,
+        "KeywordLocalize": "-",
+        "InteractionType": [
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger",
+            "Dialog",
+            "ActionTrigger"
+        ],
+        "InteractionId": [
+            91106000101,
+            91106000110,
+            91106000102,
+            91106000120,
+            91106000103
         ],
         "ConditionClass": "AndOr",
         "ConditionClassParameters": [],

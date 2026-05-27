@@ -16,7 +16,7 @@
         "CafeProductionDecimalPosition": 2,
         "CafeSetGroupApplyCount": 3,
         "WeekDungeonFindGiftRewardLimitCount": 15,
-        "StageFailedCurrencyRefundRate": 95,
+        "StageFailedCurrencyRefundRate": 100,
         "EnterDeposit": 10,
         "AccountMaxLevel": 90,
         "MainSquadExpBonus": 15000,
