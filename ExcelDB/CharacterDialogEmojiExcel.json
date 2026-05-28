@@ -5,8 +5,8 @@
         "DialogType": "Talk",
         "Duration": 1000,
         "HideUI": false,
-        "LocalizeKR": "주변이 소란스럽네요…",
-        "LocalizeJP": "周りが騒がしいですね…。"
+        "LocalizeKR": "周围真吵啊……",
+        "LocalizeJP": ""
     },
     {
         "GroupId": 1,
@@ -14,8 +14,8 @@
         "DialogType": "Think",
         "Duration": 1000,
         "HideUI": true,
-        "LocalizeKR": "(게헨나 파티라…)",
-        "LocalizeJP": "（ゲヘナのパーティーか…）"
+        "LocalizeKR": "（歌赫娜的派对啊……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": 1,
@@ -159,7 +159,7 @@
         "Duration": 1000,
         "HideUI": true,
         "LocalizeKR": "이제 환풍구로 들어갈 수 있겠어요",
-        "LocalizeJP": "이제 환풍구로 진입할 수 있겠어"
+        "LocalizeJP": ""
     },
     {
         "GroupId": 3,
@@ -177,7 +177,7 @@
         "Duration": 1000,
         "HideUI": true,
         "LocalizeKR": "서둘러서 이동해야겠어요",
-        "LocalizeJP": "이런 서둘러서 이동해야겠어요"
+        "LocalizeJP": ""
     },
     {
         "GroupId": 4,
@@ -500,8 +500,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "(수집한 데이터를 저장했어요.)",
-        "LocalizeJP": "（集めたデータを保存した)"
+        "LocalizeKR": "（需要保存收集到\n的数据。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -157935575,
@@ -509,8 +509,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "(수집한 데이터를 저장했어.)",
-        "LocalizeJP": "（収集データ、保存したぞ）"
+        "LocalizeKR": "（已经保存了收集到\n的数据。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -157935574,
@@ -518,8 +518,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "(네루도 데이터를 가져와야 해요.)",
-        "LocalizeJP": "（ネルにもデータを持ってきてもらわねば）"
+        "LocalizeKR": "（需要得到妮露的\n数据。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -157935573,
@@ -527,8 +527,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "(세이아도 데이터를 가져와야 해.)",
-        "LocalizeJP": "（セイアのデータも必要だな）"
+        "LocalizeKR": "（需要得到圣娅的\n数据。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933592,
@@ -536,8 +536,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(박스를 쓰면 움직이지 않을 땐 들키지 않을 거예요.)",
-        "LocalizeJP": "（動かなければ気付かれないはずだ）"
+        "LocalizeKR": "（不动的时候应该\n不会被发现。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933592,
@@ -545,8 +545,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(타이밍을 잘 봐가며… 움직이죠.)",
-        "LocalizeJP": "（タイミングを見て進もう）"
+        "LocalizeKR": "（看准时机……\n再行动吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933582,
@@ -554,8 +554,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "…는 …",
-        "LocalizeJP": "…は…。"
+        "LocalizeKR": "……哈……",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933582,
@@ -563,8 +563,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "…가…",
-        "LocalizeJP": "…が…で…。"
+        "LocalizeKR": "……啊……",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933582,
@@ -572,8 +572,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(조금 더…)",
-        "LocalizeJP": "（まだ遠いな…）"
+        "LocalizeKR": "（再……\n一点……)",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933562,
@@ -581,8 +581,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "곧 있으면 접선 시간이야.",
-        "LocalizeJP": "そろそろ時間だ。"
+        "LocalizeKR": "马上就到接头\n时间了。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933562,
@@ -590,8 +590,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "빨리 거래 끝내고 돌아가자.",
-        "LocalizeJP": "早く渡して帰ろうぜ。"
+        "LocalizeKR": "赶紧交易完回去吧。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933562,
@@ -599,8 +599,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(……이쯤이면 되겠죠.)",
-        "LocalizeJP": "（…なるほど）"
+        "LocalizeKR": "（……这样应该\n可以了吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933552,
@@ -608,8 +608,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(아직 할 일이 있어요.)",
-        "LocalizeJP": "（まだやることがある)"
+        "LocalizeKR": "（还有事情要做。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159933542,
@@ -617,8 +617,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(잠시 기다려보죠.)",
-        "LocalizeJP": "（少し待つとしよう)"
+        "LocalizeKR": "（先稍微等等吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159931592,
@@ -626,8 +626,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(가다 보면 데이터 장치가 있다고 했지?)",
-        "LocalizeJP": "（この先のロックされた部屋にはセキュリティキーがあるんだっけか）"
+        "LocalizeKR": "（听说继续往前\n走的话，会有数据\n装置，对吧？）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159931592,
@@ -635,8 +635,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(마음 같아선 다 때려 부수며 가고 싶지만…)",
-        "LocalizeJP": "（もう全部ぶっ壊して進みてぇ…）"
+        "LocalizeKR": "（说实话真想一路把\n它们全砸了……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159931592,
@@ -644,8 +644,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…하여간 잠입은 취향이 아니라니까.)",
-        "LocalizeJP": "（潜入って性に合わねぇんだよな）"
+        "LocalizeKR": "（……总之\n潜入这种事不是\n我的风格。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159931592,
@@ -653,8 +653,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(체력이 떨어지면... 회복약을 먹으면 된다고 했었지.)",
-        "LocalizeJP": "（体力が減ってきたら……回復薬を飲めばいいんだっけか）"
+        "LocalizeKR": "（体力下降的话……\n之前说过可以吃回复\n药来恢复。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159931582,
@@ -662,8 +662,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(아직 할 일이 있어.)",
-        "LocalizeJP": "（まだやることがあってな)"
+        "LocalizeKR": "（还有事要做。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928592,
@@ -671,8 +671,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(드론… 밀레니엄답네요. 트리니티와는 많이 달라요.)",
-        "LocalizeJP": "（ドローン…トリニティでは想像できない光景だね）"
+        "LocalizeKR": "（无人机……\n很有千禧年的风格\n呢，和崔尼蒂完全\n不一样。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928592,
@@ -680,8 +680,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이 통로 끝까지 가면… 문이 나오겠군요.)",
-        "LocalizeJP": "（通路の突きあたりまで行けばドアがあるはずだが）"
+        "LocalizeKR": "（走到这条通道\n尽头……应该就会\n看到门了。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928582,
@@ -689,8 +689,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(강아지 로봇…)",
-        "LocalizeJP": "（犬型ロボット…）"
+        "LocalizeKR": "（机器狗……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928582,
@@ -698,8 +698,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "세이아, 이쪽이야.",
-        "LocalizeJP": "セイア、こっちよ。"
+        "LocalizeKR": "圣娅，这边。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928582,
@@ -707,8 +707,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "리오.",
-        "LocalizeJP": "…リオか？"
+        "LocalizeKR": "莉音？",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928582,
@@ -716,8 +716,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "강아지 로봇에 통신기를 달았어.",
-        "LocalizeJP": "通信機を取りつけてあるわ。"
+        "LocalizeKR": "机器狗上装了\n通信器。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928582,
@@ -725,8 +725,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "중간중간 수집한 데이터를 저장할 수 있어.",
-        "LocalizeJP": "途中で収集したデータを保存できるようになっているの。"
+        "LocalizeKR": "这样就能保存途中\n收集到的数据了。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928572,
@@ -734,8 +734,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…이건 혼자서 지나갈 수 없겠어요.)",
-        "LocalizeJP": "（ここは一人で通れそうにない）"
+        "LocalizeKR": "（……这个地方\n过不去。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928572,
@@ -743,8 +743,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(리오에게 연락해야겠군요.)",
-        "LocalizeJP": "（リオに連絡しなくては）"
+        "LocalizeKR": "（得联系莉音\n才行。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928562,
@@ -752,8 +752,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "그러잖아도 이쪽에서 비밀 통로를 만들고 있었어.",
-        "LocalizeJP": "ちょうど進路を確保していたところよ。"
+        "LocalizeKR": "正好，我这边也在\n弄一条秘密通道。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928562,
@@ -761,8 +761,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "배전반을 조작해서 환풍기를 끄고 환풍구로 가면 돼.",
-        "LocalizeJP": "換気扇を止めてもらえるかしら。そのままダクトを通れるはずよ。"
+        "LocalizeKR": "去操作配电盘，\n把换气扇关掉，然后\n从通风口过去就行。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928552,
@@ -770,8 +770,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이건… 배전반…?)",
-        "LocalizeJP": "（これは…配電盤…？)"
+        "LocalizeKR": "（这是……\n配电盘……？）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928542,
@@ -779,8 +779,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이제 환풍구로 들어갈 수 있겠어요.)",
-        "LocalizeJP": "（これでダクトを通れそうだ)"
+        "LocalizeKR": "（这样一来，就能进\n通风口了。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -159928542,
@@ -788,8 +788,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(서둘러서 이동해야겠네요.)",
-        "LocalizeJP": "（急いで移動しよう)"
+        "LocalizeKR": "（得赶紧移动\n才行。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158933592,
@@ -797,8 +797,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(저건……?)",
-        "LocalizeJP": "（あれは…）"
+        "LocalizeKR": "（那是……？）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158933592,
@@ -806,8 +806,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이곳에도 있었네요. 요긴하겠어요.)",
-        "LocalizeJP": "（ほかとは違う手掛かりのようだね）"
+        "LocalizeKR": "（这里也有啊。看来\n会很有用。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158933582,
@@ -815,8 +815,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이쯤에서 써 보면 되려나요……)",
-        "LocalizeJP": "（このあたりに…）"
+        "LocalizeKR": "（在这里试着用一下\n吧……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158933581,
@@ -824,8 +824,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(저거로군요. 성능 확실하네요.)",
-        "LocalizeJP": "（…あれか。探知機があって助かった）"
+        "LocalizeKR": "（就是那个啊。性能\n确实不错。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932592,
@@ -833,8 +833,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(일단 오기는 했는데……)",
-        "LocalizeJP": "（到着…っと）"
+        "LocalizeKR": "（总之是到了……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932592,
@@ -842,8 +842,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(조금 더 들어가 볼까.)",
-        "LocalizeJP": "（…もう少し奥まで行くか）"
+        "LocalizeKR": "（再往里面走一点\n看看吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932582,
@@ -851,8 +851,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(들키지 않고 접근하긴 어렵겠는데.)",
-        "LocalizeJP": "（バレずに近づくのは厳しそうだな）"
+        "LocalizeKR": "（想不被发现\n地接近，恐怕有点\n难。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932582,
@@ -860,8 +860,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…리오가 준 무릎 보호대가 있었지.)",
-        "LocalizeJP": "（ああ、そういえばニーパッドがあったな）"
+        "LocalizeKR": "（……我记得还有莉\n音给的护膝。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932582,
@@ -869,8 +869,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(마침 좋은 타이밍이네.)",
-        "LocalizeJP": "（ちょうどよかった）"
+        "LocalizeKR": "（时机正好呢。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932572,
@@ -878,8 +878,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "이번 건만 성공하면 드디어 우리도 회식 한 번 하자고!",
-        "LocalizeJP": "これが終わったらパアっとやろうぜ！"
+        "LocalizeKR": "只要这次也\n成功了，我们也去\n聚餐一次吧！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932572,
@@ -887,8 +887,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "2차도 갈 수 있겠지!? 모처럼이니까!",
-        "LocalizeJP": "二次会もやっちゃお！"
+        "LocalizeKR": "还能去第二摊吧！？\n难得有机会！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932572,
@@ -896,8 +896,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "저는 철판요리가 먹고 싶어요!",
-        "LocalizeJP": "鉄板焼き！鉄板焼き食べたいっす！"
+        "LocalizeKR": "我想吃铁板烧！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932562,
@@ -905,8 +905,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(소리를 내면 도망갈 수도 있는데….)",
-        "LocalizeJP": "（銃は撃つなって言われてるしな…）"
+        "LocalizeKR": "（要是发出\n声音，她们可能会\n逃掉……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932562,
@@ -915,7 +915,7 @@
         "Duration": 1000,
         "HideUI": true,
         "LocalizeKR": "[전구]",
-        "LocalizeJP": "[전구]"
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932562,
@@ -923,8 +923,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…맞다, 패드.)",
-        "LocalizeJP": "（そういえば消音ストックがあったな）"
+        "LocalizeKR": "（……对了，\n垫片。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158932562,
@@ -932,8 +932,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(하여간 철두철미한 녀석이라니까.)",
-        "LocalizeJP": "（…本当、隙のねぇヤツ）"
+        "LocalizeKR": "（真是个做事滴水\n不漏的家伙。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158931592,
@@ -941,8 +941,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(으음… 곤란해졌군요.)",
-        "LocalizeJP": "（参ったな…）"
+        "LocalizeKR": "（嗯……这下\n麻烦了。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158931592,
@@ -950,8 +950,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…무전기로 네루에게 연락할 수 있다 했었죠.)",
-        "LocalizeJP": "（確かこれで連絡を取れるのだったか）"
+        "LocalizeKR": "（……之前说过\n可以用对讲机联系\n妮露吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158931592,
@@ -959,8 +959,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(어디 한 번 해볼까요.)",
-        "LocalizeJP": "（繋がるといいのだが…）"
+        "LocalizeKR": "（那就试试看吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158931582,
@@ -968,8 +968,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "어. 대충 상황은 알았어. 이쪽에서 뭔가 해볼게.",
-        "LocalizeJP": "…ああ、大体分かった。"
+        "LocalizeKR": "哦，大致情况\n我知道了。我这边来\n想想办法。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158931582,
@@ -977,8 +977,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "…배전반? 오케이. 내가 찾아볼게.",
-        "LocalizeJP": "換気扇？了解、探してみる。"
+        "LocalizeKR": "……换气扇？\nOK，我去找找看。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158930592,
@@ -986,8 +986,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(세이아 쪽은…)",
-        "LocalizeJP": "（セイアの方は…）"
+        "LocalizeKR": "（圣娅那边……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158930592,
@@ -995,8 +995,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…애도 아니고, 알아서 잘 하겠지.)",
-        "LocalizeJP": "（…まぁ、適当にうまくやるだろ）"
+        "LocalizeKR": "（……她又不是\n小孩子，应该能自己\n处理好吧。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158930582,
@@ -1004,8 +1004,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(…저쪽에서 뭔가 해줘야겠는걸.)",
-        "LocalizeJP": "（これは……あっちに頼もうぜ）"
+        "LocalizeKR": "（……看来我这边也\n得做点什么。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158929592,
@@ -1013,8 +1013,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(……잘은 모르지만 반드시 빠져 나가야 해요.)",
-        "LocalizeJP": "（ここから離れなくては）"
+        "LocalizeKR": "（……虽然我也\n不太清楚，但一定得\n逃出去才行。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158929592,
@@ -1022,8 +1022,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(저의 직감이 말하고 있어요. 잡히면 끝이라고!)",
-        "LocalizeJP": "（捕まってはならない…勘がそう告げている）"
+        "LocalizeKR": "（我的直觉在\n告诉我，要是被抓到\n就完了！）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1031,8 +1031,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "……뭔가 이상한데요.",
-        "LocalizeJP": "おかしい…"
+        "LocalizeKR": "……总觉得有点\n不对劲。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1040,8 +1040,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(보통은 점점 경비가 강화될 텐데 말이죠.)",
-        "LocalizeJP": "（この違和感は…）"
+        "LocalizeKR": "（一般来说，\n警备应该会越来越\n严才对。）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1050,7 +1050,7 @@
         "Duration": 2500,
         "HideUI": true,
         "LocalizeKR": "[…]",
-        "LocalizeJP": "[…]"
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1059,7 +1059,7 @@
         "Duration": 1000,
         "HideUI": true,
         "LocalizeKR": "[!]",
-        "LocalizeJP": "[!]"
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1067,8 +1067,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "함정이에요, 처음부터 이걸 노린 거군요!",
-        "LocalizeJP": "罠か…っ！"
+        "LocalizeKR": "是陷阱，\n她们从一开始就是\n冲着这个来的！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928592,
@@ -1076,8 +1076,8 @@
         "DialogType": "Talk",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "네루의 도움이 필요해요!",
-        "LocalizeJP": "力を貸してほしい、ネル。"
+        "LocalizeKR": "需要妮露的帮助！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928582,
@@ -1086,7 +1086,7 @@
         "Duration": 1000,
         "HideUI": false,
         "LocalizeKR": "[!]",
-        "LocalizeJP": "[!]"
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928582,
@@ -1094,8 +1094,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "이번엔 네루가 위험해요!",
-        "LocalizeJP": "……ネルの身が危険だ。"
+        "LocalizeKR": "这次轮到妮露\n有危险了！",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158928572,
@@ -1103,8 +1103,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "세이아가 열어줘야겠는걸.",
-        "LocalizeJP": "セイアに開けてもらわねぇとな。"
+        "LocalizeKR": "得由圣娅来打开\n才行。",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158927592,
@@ -1112,8 +1112,8 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": true,
-        "LocalizeKR": "(이대로는 따라잡히고 말아요…)",
-        "LocalizeJP": "（このままでは追いつかれる）"
+        "LocalizeKR": "（这样下去会被\n追上的……）",
+        "LocalizeJP": ""
     },
     {
         "GroupId": -158927592,
@@ -1121,7 +1121,7 @@
         "DialogType": "Think",
         "Duration": 2500,
         "HideUI": false,
-        "LocalizeKR": "(뭔가… 진로를 방해할 수 있는 게…!)",
-        "LocalizeJP": "（何か進路を妨げられるものは…）"
+        "LocalizeKR": "（得想办法……\n找个能妨碍她们前进\n的东西……！）",
+        "LocalizeJP": ""
     }
 ]

@@ -23836,21 +23836,21 @@
     },
     {
         "Key": 800984420,
-        "NameKr": "Sheside Outside\n纪念礼包 I",
+        "NameKr": "Code: BOX\n纪念礼包 I",
         "DescriptionKr": "为老师提供的纪念礼包。\n可获得青辉石 x 428。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1672699359,
-        "NameKr": "Sheside Outside\n纪念礼包 III",
+        "NameKr": "Code: BOX\n纪念礼包 III",
         "DescriptionKr": "为老师提供的纪念礼包。\n可获得青辉石 x 2300。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1569547706,
-        "NameKr": "Sheside Outside\n纪念礼包 II",
+        "NameKr": "Code: BOX\n纪念礼包 II",
         "DescriptionKr": "为老师提供的纪念礼包。\n可获得青辉石 x 1375。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -23934,7 +23934,7 @@
     },
     {
         "Key": 1296520153,
-        "NameKr": "必杀技能成长礼包",
+        "NameKr": "Code: BOX\n必杀技能成长礼包",
         "DescriptionKr": "提供必杀技能升级材料和青辉石的礼包。\n可获得青辉石 x 2300。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -23948,14 +23948,14 @@
     },
     {
         "Key": 1890843802,
-        "NameKr": "DJ派对会场纪念家具\n组合礼包",
+        "NameKr": "千禧年之塔休息室\n纪念家具礼包",
         "DescriptionKr": "提供各类家具自选箱的礼包。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 961917549,
-        "NameKr": "Serenade Promenade\n专属武器成长礼包",
+        "NameKr": "专属武器成长礼包",
         "DescriptionKr": "对学员专属武器成长有帮助的礼包。\n可获得青辉石 x 1375。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -24088,7 +24088,7 @@
     },
     {
         "Key": 3424522971,
-        "NameKr": "技能成长礼包",
+        "NameKr": "Code: BOX\n技能成长礼包",
         "DescriptionKr": "提供技能升级材料和青辉石的礼包。\n可获得青辉石 x 2300。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -26139,7 +26139,7 @@
     },
     {
         "Key": 2807255615,
-        "NameKr": "Sheside Outside\n纪念礼物礼包",
+        "NameKr": "Code: BOX\n纪念礼物礼包",
         "DescriptionKr": "提供各类礼物和青辉石的礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -27007,7 +27007,7 @@
     },
     {
         "Key": 2230434314,
-        "NameKr": "Serenade Promenade\n制造礼包",
+        "NameKr": "Code: BOX\n制造礼包",
         "DescriptionKr": "由制造所需的材料组成的礼包。\n可获得青辉石 x 1200。\n※礼包的详细内容物请参考下列商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -27043,7 +27043,7 @@
     {
         "Key": 2507708460,
         "NameKr": "T8装备设计图选择券",
-        "DescriptionKr": "可选择想要的装备设计图的选择券",
+        "DescriptionKr": "可选择想要的装备设计图的选择券。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -28120,7 +28120,7 @@
     },
     {
         "Key": 3626590947,
-        "NameKr": "装备成长礼包",
+        "NameKr": "Code: BOX\n装备成长礼包",
         "DescriptionKr": "提供装备成长材料和青辉石的礼包。\n可获得青辉石 x 1200。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -28820,7 +28820,7 @@
     },
     {
         "Key": 3514350287,
-        "NameKr": "DJ派对会场套装",
+        "NameKr": "DJ派对会场主题",
         "DescriptionKr": "可以生成咖啡厅家具（DJ派对会场主题）。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -29555,8 +29555,8 @@
     },
     {
         "Key": 781511214,
-        "NameKr": "百鬼夜行组合",
-        "DescriptionKr": "可制造咖啡厅家具。（百鬼夜行主题）",
+        "NameKr": "百鬼夜行主题",
+        "DescriptionKr": "可制造咖啡厅家具（百鬼夜行主题）。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29570,7 +29570,7 @@
     {
         "Key": 973517464,
         "NameKr": "百鬼夜行主题家具抽奖券",
-        "DescriptionKr": "可获得1个百鬼夜行主题家具的抽奖券，所有内容物的获得机率相同。",
+        "DescriptionKr": "使用时，以相同的概率获得1个百鬼夜行主题家具抽奖券。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29660,8 +29660,8 @@
     },
     {
         "Key": 3028917634,
-        "NameKr": "Serenade Promenade\n装备设计图组合包",
-        "DescriptionKr": "有助于装备成长的组合包。\n可获得青辉石 x 1375。\n※礼包详细内容物请参考下方商品内容。",
+        "NameKr": "Code: BOX\n装备设计图礼包",
+        "DescriptionKr": "有助于装备成长的礼包。\n可获得青辉石 x 1375。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29842,85 +29842,85 @@
     },
     {
         "Key": 1383315036,
-        "NameKr": "精胺酸箱",
-        "DescriptionKr": "装有健康食品的箱子。大小足以让身材娇小的人完全躲进去。具备能从里面观察外面的小孔，简直是最佳的潜入道具。",
+        "NameKr": "精氨酸箱子",
+        "DescriptionKr": "原本用来装训练食品的箱子，大小足以让体型娇小的人整个钻进去躲藏，上面还有可以从里向外观察的小孔！堪称最佳的潜入工具。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2125430007,
-        "NameKr": "莉音制作的扫描器",
-        "DescriptionKr": "可对周围进行扫描，并找出可疑物品的尖端设备。戴上耳机并移动探测器即可使用。虽然不清楚原理，但性能确实可靠。",
+        "NameKr": "莉音制作的探测器",
+        "DescriptionKr": "可对周围进行扫描，并找出可疑之物的尖端设备。戴上耳机并移动探测器即可使用。虽不清楚其工作原理，但性能确实毋庸置疑。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3106820832,
         "NameKr": "打击用特殊垫片",
-        "DescriptionKr": "设计来打击后脑而非肩膀的特殊垫片。能够安静且完整地传递冲击力。",
+        "DescriptionKr": "专为打击后脑而非肩膀所设计的特殊垫片。能原封不动地传递冲击力，同时保持惊人的安静。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4092727589,
         "NameKr": "涂有特殊涂料的护膝",
-        "DescriptionKr": "能让使用者以膝盖在地面滑行，安静而迅速地移动的特殊护膝。因为没有特别的附加功能，效果完全取决于使用者的技术和力量。",
+        "DescriptionKr": "能让使用者以膝盖贴地滑行、悄无声息迅速移动的特制护膝。因未附加任何特殊功能，使用效果完全取决于使用者的技术与能力。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3964788977,
         "NameKr": "通讯对讲机",
-        "DescriptionKr": "据说能突破大多数干扰的高性能对讲机。虽然是为潜入作战而设计，不过由于侧重于通讯性能而导致机身稍嫌大而笨重。具备大而简洁的操作界面，即使不是千禧年的成员也能轻松上手。",
+        "DescriptionKr": "据说能突破绝大多数干扰的高性能对讲机。为潜入作战而设计，但由于侧重通讯性能，机身略显笨重。它的操作界面大而简洁，即使不是千禧年的学员也能轻松使用。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2775830511,
-        "NameKr": "噪音产生器",
-        "DescriptionKr": "为应对作战中的特殊情况而制作的噪音产生器。当处于劣势或面临被发现的危机时，可以将注意力引向其他地方。启动后务必要往反方向躲避。",
+        "NameKr": "噪音发生器",
+        "DescriptionKr": "为应对作战中突发状况而制作的噪音发生器。当陷入不利境地或面临被发现的危机时，可用它引开敌方的注意力。启动之后，请务必迅速朝反方向逃离。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1728300996,
-        "NameKr": "低噪音弹",
-        "DescriptionKr": "可在无法装备消音器或效果不足时使用的低噪音弹药。子弹本身几乎不会发出声音，发射与命中产生的热量也会迅速消失。虽然威力略低于普通弹药，不过在潜入任务中相当实用。",
+        "NameKr": "消音子弹",
+        "DescriptionKr": "可在无法装备消音器或消音效果不足时使用的低噪音弹药。子弹本身几乎不会发出声响，发射与命中时产生的热量也会迅速消散。因此，虽然它的威力略低于普通弹药，但在潜入任务中相当实用。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3426576768,
         "NameKr": "恢复药",
-        "DescriptionKr": "能恢复身体疲劳或轻伤的药物。无法用于慢性疲劳或重伤。还是以不要受伤为目标吧。",
+        "DescriptionKr": "能恢复身体疲劳，治疗轻伤的药剂。对慢性疲劳与重伤无效。归根结底，还是尽量不要受伤吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 282905937,
-        "NameKr": "剪线钳",
-        "DescriptionKr": "可以拆除监视摄影机或地雷等等物品的切割工具。虽然是性能可靠且锋利的工具，然而过于锋利造成的快速磨损也导致无法多次使用。请谨慎选择要拆除的目标。",
+        "NameKr": "钢丝钳",
+        "DescriptionKr": "能够拆除监控摄像头、阔剑地雷等装置的切割工具。虽性能可靠、刀刃锋利，但也正因锋利，磨损极快，无法多次使用。请谨慎选择要拆除的目标。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1844419868,
-        "NameKr": "保全钥匙",
-        "DescriptionKr": "可开启保全门或解除锁定装置的保全钥匙。这是不能轻易弄丢的重要物品，之后必须物归原主才行……当然还得确保不会被发现。不过现在必须先使用它。",
+        "NameKr": "钥匙卡",
+        "DescriptionKr": "能够开启安保门、解除锁定装置的安保钥匙。这是不能轻易弄丢的重要物品，之后必须物归原主才行……当然，要神不知鬼不觉地归还。不过，眼下就先用了再说吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3949011075,
-        "NameKr": "USB随身碟",
-        "DescriptionKr": "拥有各种作用的USB随身碟。过去人们会使用木头或玉石刻的印章，但现在时代已经变了。",
+        "NameKr": "USB盘",
+        "DescriptionKr": "能够发挥多种功能的特殊USB盘。从前人们使用木雕或玉雕的印章，而如今，时代已经变了。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1153341951,
-        "NameKr": "OTP",
-        "DescriptionKr": "为坚固的安全系统所制作的特别认证装置。只要没有它，即使知道密码也无法解除安全锁。当然反过来说，只要有这个的话……",
+        "NameKr": "安全令牌",
+        "DescriptionKr": "为坚固的安保系统量身打造的特殊认证装置。没有它，即使知晓密码也无法解除防护。而反过来说，只要有它……",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29941,7 +29941,7 @@
     {
         "Key": 308105341,
         "NameKr": "妮露（制服）",
-        "DescriptionKr": "这什么鬼？",
+        "DescriptionKr": "这又是什么玩意儿？",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29955,7 +29955,7 @@
     {
         "Key": 975255250,
         "NameKr": "头盔团",
-        "DescriptionKr": "只要在这里，像这样……碰！",
+        "DescriptionKr": "把这里像这样……砰！",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -29976,14 +29976,14 @@
     {
         "Key": 1049685414,
         "NameKr": "爱丽丝",
-        "DescriptionKr": "是！地城扫荡任务，开始！",
+        "DescriptionKr": "是！地下城扫荡\n任务，开始！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2621456159,
         "NameKr": "绿",
-        "DescriptionKr": "看来还没完。",
+        "DescriptionKr": "看来还剩下一些呢。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30004,28 +30004,28 @@
     {
         "Key": 3304758574,
         "NameKr": "爱丽丝",
-        "DescriptionKr": "魔力补充100%……",
+        "DescriptionKr": "魔力充能100%……",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 503558520,
         "NameKr": "爱丽丝",
-        "DescriptionKr": "光呀！！",
+        "DescriptionKr": "光啊！！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2395457438,
         "NameKr": "鹤城",
-        "DescriptionKr": "叽耶耶耶！是血的盛宴！",
+        "DescriptionKr": "咿嘿嘿嘿嘿——！\n血之盛宴——！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2272036400,
         "NameKr": "头盔团杂鱼",
-        "DescriptionKr": "呜啊啊～！！救命啊～！！",
+        "DescriptionKr": "呜哇——！！\n救命啊——！！",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30039,14 +30039,14 @@
     {
         "Key": 3209623061,
         "NameKr": "莲见",
-        "DescriptionKr": "在事情扩大之前，赶紧追上去吧。",
+        "DescriptionKr": "趁事态还没扩大，赶紧追上去吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2515139315,
         "NameKr": "莲见",
-        "DescriptionKr": "在那里啊。",
+        "DescriptionKr": "那边。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30059,22 +30059,22 @@
     },
     {
         "Key": 948196982,
-        "NameKr": "头盔团头目",
-        "DescriptionKr": "为什么……连在这里……！",
+        "NameKr": "头盔团首领",
+        "DescriptionKr": "为什么……连在这种地方……！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2404652050,
-        "NameKr": "头盔团头目",
-        "DescriptionKr": "也得看见你们的脸啊！！",
+        "NameKr": "头盔团首领",
+        "DescriptionKr": "都非得见到你们这些家伙不可啊！！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4221970729,
         "NameKr": "莲见",
-        "DescriptionKr": "……这句话应该是我要说的。",
+        "DescriptionKr": "……这是我们要说的话才对。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30087,71 +30087,71 @@
     },
     {
         "Key": 3328636483,
-        "NameKr": "使用箱子悄悄接近头盔团",
-        "DescriptionKr": "接近头盔团并偷听他们的谈话吧。\n运用箱子就能在不被发现的情况下靠近。",
+        "NameKr": "利用箱子悄悄接近头盔团",
+        "DescriptionKr": "接近头盔团，偷听她们的对话。利用箱子便可在不被发现的情况下靠近。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2007212476,
-        "NameKr": "躲避无人机并穿越保全门",
-        "DescriptionKr": "避开守护资料中心的无人机，通过保全门吧。使用恢复药可恢复体力。",
+        "NameKr": "避开无人机穿越安保门",
+        "DescriptionKr": "避开数据中心的无人机，穿过安保门。使用恢复药可以恢复体力。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 14774070,
-        "NameKr": "躲避无人机并潜入大姐头房间",
-        "DescriptionKr": "避开资料中心的保全无人机，潜入大姐头房间。可藉由莉音的机器狗来保存进度。",
+        "NameKr": "避开无人机潜入老大姐房间",
+        "DescriptionKr": "避开数据中心的无人机，潜入老大姐房间。可利用莉音的机器狗保存进度。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3457439688,
         "NameKr": "寻找并回收危险展品",
-        "DescriptionKr": "寻找并回收展示场里的危险物品吧。使用圣娅携带的扫描器就能找到隐藏的物品。",
+        "DescriptionKr": "寻找并回收展示会场中的危险物品。使用圣娅携带的探测器，便可发现隐藏的物品。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1369763957,
         "NameKr": "逮捕头盔团队长",
-        "DescriptionKr": "逮捕在展示场偷窃展品的头盔团队长吧。运用特殊橡胶垫便能悄悄将其制伏。",
+        "DescriptionKr": "逮捕正在偷窃展品的头盔团首领。使用特制垫片便可悄无声息地将其制服。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4069660877,
         "NameKr": "找出游戏开发部摊位的入侵者",
-        "DescriptionKr": "找出入侵游戏开发部摊位的入侵者吧。相互协助便能突破保全系统。",
+        "DescriptionKr": "找出入侵游戏开发部展台的入侵者。通过互相配合，即可突破安保系统。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4201274762,
         "NameKr": "关闭故障设备的电源",
-        "DescriptionKr": "操作配电盘，将出问题的设备电源关闭吧。使用护膝就能在不被发现的情形下迅速移动。",
+        "DescriptionKr": "操作配电盘，切断发生故障的设备电源。使用护膝便可在不被察觉的情况下迅速移动。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2555313209,
-        "NameKr": "避开堇和头盔团并逃脱",
-        "DescriptionKr": "避开堇和头盔团，逃出展示场吧。躲在柜子中可以避免被堇和头盔团发现。",
+        "NameKr": "避开堇与头盔团逃脱",
+        "DescriptionKr": "避开堇与头盔团，逃出展示会场。躲进储物柜便可不被堇与头盔团发现。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3441326232,
-        "NameKr": "避开保全系统并逃脱",
-        "DescriptionKr": "避开启动的保全系统，逃出展示场吧。必须回避危险气体并迅速逃离。",
+        "NameKr": "避开安保系统逃脱",
+        "DescriptionKr": "避开已启动的安保系统，逃出展示会场。需要避开危险的气体迅速逃离。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2202660611,
-        "NameKr": "避开机械鳄鱼并逃脱",
-        "DescriptionKr": "避开失控的机械鳄鱼，逃出展示场吧。可利用自动贩卖机降低机械鳄鱼的追赶速度。",
+        "NameKr": "避开机械鳄鱼逃脱",
+        "DescriptionKr": "避开失控的机械鳄鱼，逃出展示会场。利用自动贩卖机可拖慢追来的机械鳄鱼的速度。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30165,223 +30165,223 @@
     {
         "Key": 3294588725,
         "NameKr": "博览会纪念品",
-        "DescriptionKr": "在博览会场各处都能找到的千禧年博览会纪念品。虽然在活动期间很常见，但最终也会成为限量版！",
+        "DescriptionKr": "可在博览会会场各处获得的千禧年博览会纪念品。虽然在活动期间随处可见，但它迟早也会变成限量版的珍品！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 123964663,
         "NameKr": "某人的遗失物",
-        "DescriptionKr": "成员们在来往时遗失的物品。只要好好收集起来交给主办方，就能让失主重获幸福。",
+        "DescriptionKr": "学员们往来之间，某人遗落的失物。只要妥善收集起来交还给主办方，便能让失主重获幸福。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2954572543,
-        "NameKr": "休息室长椅",
-        "DescriptionKr": "曲线华丽，引人注目的长椅。适合让前来休息室拜访的成员们休息。",
+        "NameKr": "圆角休息室长椅",
+        "DescriptionKr": "曲线流畅亮眼的长椅。很适合造访休息室的学员们歇歇脚。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2960450097,
         "NameKr": "多人用休息室长椅",
-        "DescriptionKr": "可以让几个人同时坐上去的休憩长椅。虽然看起来硬邦邦，但实际坐起来比想象中舒适。",
+        "DescriptionKr": "可让多人一同坐下休憩的长椅。看上去硬邦邦，实际上却比想象中舒适。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1313686834,
         "NameKr": "蓝色八角形地毯",
-        "DescriptionKr": "柔软的蓝色八角形地毯。能稳定地铺在较大的空间上。",
+        "DescriptionKr": "色彩柔和的八角形地毯。能覆盖宽阔的空间。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 40718990,
-        "NameKr": "藏青色八角形地毯",
-        "DescriptionKr": "藏青色的八角形地毯。能稳定地铺在较大的空间上。",
+        "NameKr": "深蓝色八角形地毯",
+        "DescriptionKr": "色彩浓郁的八角形地毯。能覆盖宽阔的空间。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1529615935,
-        "NameKr": "几何学图案地毯",
-        "DescriptionKr": "刻有几何图案的地毯。据说能为无数的千禧年成员带来灵感。",
+        "NameKr": "几何花纹地毯",
+        "DescriptionKr": "绘有几何花纹的地毯。据说曾为无数千禧年学员带来灵感。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3557494881,
-        "NameKr": "六角形图案地毯",
-        "DescriptionKr": "由连续相接的六角形组成的地毯。看上去总感觉比其他地毯还要更坚固。",
+        "NameKr": "六角花纹地毯",
+        "DescriptionKr": "由连续相接的六角形组成的地毯。不知为何，总觉得它比其他地毯更牢固。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1423836042,
-        "NameKr": "绿色边框地毯",
-        "DescriptionKr": "边缘以绿色装饰的地毯。或许能带来稳定心理的效果？",
+        "NameKr": "绿边地毯",
+        "DescriptionKr": "边缘以绿色装饰的地毯。或许有令人心境安宁的效果？",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2850387743,
-        "NameKr": "四边形大理石图案地毯",
-        "DescriptionKr": "印有高级大理石图案的地毯。虽然看上去冰冷，但摸起来很柔软。",
+        "NameKr": "方形大理石纹地毯",
+        "DescriptionKr": "饰有高级大理石花纹的地毯。看上去清凉，触感却柔软蓬松。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3457434895,
-        "NameKr": "圆角大理石图案地毯",
-        "DescriptionKr": "印有高级大理石图案的地毯。相当适合其现代简洁的氛围。",
+        "NameKr": "圆角大理石纹地毯",
+        "DescriptionKr": "饰有高级大理石花纹的地毯。与现代简约的氛围相得益彰。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2824696329,
         "NameKr": "壁挂式电子时钟",
-        "DescriptionKr": "可挂在墙上的电子时钟。能显示湿度和温度，相当实用。",
+        "DescriptionKr": "可挂在墙上的电子时钟。它能同时显示温度与湿度，十分实用。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1701209630,
-        "NameKr": "设施说明显示器",
-        "DescriptionKr": "显示内部设施说明的直立式显示器。能一目了然地了解各设施的所在位置。",
+        "NameKr": "设施指引显示屏",
+        "DescriptionKr": "用于显示内部设施指引的立式显示屏。何处有何物一目了然。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3617828029,
-        "NameKr": "活动宣传显示器",
-        "DescriptionKr": "宣传千禧年内活动的显示器。申请社团活动请到研讨会！",
+        "NameKr": "活动宣传显示屏",
+        "DescriptionKr": "宣传千禧年内部活动的显示屏。请前往研讨会报名参加社团活动！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2047348994,
-        "NameKr": "访客体验型显示器",
-        "DescriptionKr": "为前来交谊厅拜访的成员们提供各种信息的显示器。使用触控荧幕操作。",
+        "NameKr": "访客用显示屏",
+        "DescriptionKr": "为造访休息室的学员提供各种信息的显示屏。以触屏方式操作。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1778905185,
-        "NameKr": "管制用安全栏杆",
-        "DescriptionKr": "设置于出入管制区域的安全栏杆。虽然容易翻越，但为了安全起见还是绕道而行吧。",
+        "NameKr": "管控用安全栏",
+        "DescriptionKr": "设置于出入管控区域的安全栏。虽然能轻易跨越，但安全起见还是绕道而行吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2521181138,
         "NameKr": "玻璃围栏",
-        "DescriptionKr": "玻璃制成的围栏。视野开阔，美观大方。小心别留下指纹！",
+        "DescriptionKr": "玻璃制作的围栏。视野开阔，兼具美感。请小心不要留下手印哦！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4008069522,
         "NameKr": "壁挂式灯具",
-        "DescriptionKr": "可设置于墙面的灯具。千禧年特有的青绿色灯光，带有简洁感。",
+        "DescriptionKr": "可安装于墙面的灯具。千禧年特有的青绿色灯光，带来简洁利落的感觉。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 282620578,
-        "NameKr": "立式灯具",
-        "DescriptionKr": "可直立的圆柱形照明灯。照亮四面的青绿色灯光，营造出简洁的氛围。",
+        "NameKr": "落地灯",
+        "DescriptionKr": "可直立放置的圆柱形照明灯。四面散发的青绿色灯光，营造出清爽的氛围。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4092787851,
         "NameKr": "方形休息室隔板",
-        "DescriptionKr": "由窗框和玻璃组成的方形隔板。以简洁的感觉区隔出空间。",
+        "DescriptionKr": "由窗框与玻璃构成的方形隔板。能以清爽的感觉划分空间。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2481019026,
-        "NameKr": "三角形休息室隔板",
-        "DescriptionKr": "由窗框和玻璃组成的三角形隔板。想在分隔空间时增添特色，可说是效果十足！",
+        "NameKr": "三角形休息室隔断",
+        "DescriptionKr": "由窗框与玻璃构成的三角形隔板。想为空间的分隔增添特色时，它的效果非常棒！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2174794892,
-        "NameKr": "观赏植物花盆A型",
-        "DescriptionKr": "种植中型观赏植物的花盆。能为室内增添一丝清新。",
+        "NameKr": "观赏植物盆栽A型",
+        "DescriptionKr": "种有中等尺寸观赏植物的花盆。能为室内增添一份清新。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 5077418,
-        "NameKr": "观赏植物花盆B型",
-        "DescriptionKr": "以圆形观赏植物作为亮点的花盆。给人一种松软可爱的感觉。",
+        "NameKr": "观赏植物盆栽B型",
+        "DescriptionKr": "以圆润观赏植物作为点缀的花盆。给人一种毛茸茸的可爱感。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 533203456,
-        "NameKr": "观赏植物花盆C型",
-        "DescriptionKr": "种植大型观赏植物的花盆。即使在室内也能营造出行道树的感觉。",
+        "NameKr": "观赏植物盆栽C型",
+        "DescriptionKr": "种有大型观赏植物的花盆。能在室内也制造出行道树般的氛围。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3136345532,
-        "NameKr": "放置花盆的六角形桌子",
-        "DescriptionKr": "放置小花盆的实用六角形桌子。不知为何能让人感觉空气更加清新。",
+        "NameKr": "摆有花盆的六角形桌子",
+        "DescriptionKr": "摆有小花盆的实用六角形桌子。总觉得连空气都变得清新起来了。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1840858735,
-        "NameKr": "放置平板的圆形桌子",
-        "DescriptionKr": "放置着触控荧幕平板的圆形桌子。总觉得在这里工作会很顺利。",
+        "NameKr": "摆有平板电脑的圆形桌子",
+        "DescriptionKr": "摆着触屏平板的圆形桌子。总觉得在这里工作效率会很高。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1841568450,
-        "NameKr": "放置灯光的圆形桌子",
-        "DescriptionKr": "放置小型灯光的圆形桌子。感觉随着夜晚到来，氛围会更加迷人。",
+        "NameKr": "摆有灯具的圆形桌子",
+        "DescriptionKr": "摆着小型灯具的圆形桌子。总觉得夜幕越深，氛围就会越到位。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1418371049,
-        "NameKr": "千禧年A型突出柱",
-        "DescriptionKr": "能展现出千禧年氛围的柱子。顶部的照明是其特色。",
+        "NameKr": "千禧年A型立柱",
+        "DescriptionKr": "洋溢着千禧年气息的立柱。上端的照明是点睛之笔。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2916391596,
-        "NameKr": "千禧年B型突出柱",
-        "DescriptionKr": "能展现出千禧年氛围的柱子。简洁的感觉令人印象深刻。",
+        "NameKr": "千禧年B型立柱",
+        "DescriptionKr": "洋溢着千禧年气息的立柱。简洁的观感令人印象深刻。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1495795501,
-        "NameKr": "千禧年C型突出柱",
-        "DescriptionKr": "能展现出千禧年氛围的柱子。纵向延伸的长条灯光是其亮点。",
+        "NameKr": "千禧年C型立柱",
+        "DescriptionKr": "洋溢着千禧年气息的立柱。纵向延伸的条状灯带是其亮点。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 79128299,
-        "NameKr": "刻有千禧年标志的柱子",
-        "DescriptionKr": "大面积覆盖墙面的柱子。在千禧年的工程设计下，能有效分散负重。",
+        "NameKr": "刻有千禧年标志的立柱",
+        "DescriptionKr": "大面积覆盖墙面的立柱。千禧年的工程设计能有效分散承重。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 572400942,
-        "NameKr": "千禧年半透明窗户",
+        "NameKr": "千禧年半透明窗",
         "DescriptionKr": "刻有千禧年标志的半透明窗户。能有效阻挡紫外线。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -30389,196 +30389,196 @@
     {
         "Key": 226696232,
         "NameKr": "青绿色千禧年椅子",
-        "DescriptionKr": "圆形稜角的椅子。青绿色带给人一种清新感。",
+        "DescriptionKr": "曲线圆润的椅子。青绿色显得清新怡人。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 311177339,
         "NameKr": "蓝色千禧年椅子",
-        "DescriptionKr": "圆形稜角的椅子。深蓝色带给人一种舒爽感。",
+        "DescriptionKr": "曲线圆润的椅子。浓郁的蓝色带来清凉的感觉。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2121016063,
-        "NameKr": "藏青色千禧年椅子",
-        "DescriptionKr": "圆形稜角的椅子。使用能给人留下深刻印象的藏青色。",
+        "NameKr": "深蓝色千禧年椅子",
+        "DescriptionKr": "曲线圆润的椅子。深蓝色给人留下深刻印象。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2511886108,
-        "NameKr": "A型休息室长椅",
-        "DescriptionKr": "两侧弯曲造型的长椅。配备柔软坐垫，能让人舒适休息。",
+        "NameKr": "休息室A型长椅",
+        "DescriptionKr": "两端呈弯曲造型的长椅。配有柔软的坐垫，让人得以舒适放松。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 397747254,
         "NameKr": "八角形大型长椅",
-        "DescriptionKr": "种有树木的八角形大型长椅。可供多人围坐。",
+        "DescriptionKr": "中央种有树木的八角形大型长椅。可供多人围坐。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3936566839,
-        "NameKr": "圆形显示器长椅",
-        "DescriptionKr": "上方安装了圆形显示器的长椅。这样的构造能同时提供休息与宣传的空间。",
+        "NameKr": "圆形展示长椅",
+        "DescriptionKr": "上方装有圆形显示屏的长椅。构造巧妙，兼顾休息与宣传功能。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3627212448,
-        "NameKr": "千禧年宽型办公桌",
-        "DescriptionKr": "宽阔的办公用书桌。即使放上各种物品，也仍有充足的空间。",
+        "NameKr": "千禧年宽办公桌",
+        "DescriptionKr": "宽敞的办公桌。即便摆上各种物品，桌面依旧绰绰有余。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3880204055,
-        "NameKr": "休息室地图显示器",
-        "DescriptionKr": "显示千禧年之塔休息室地图的显示器。若有想去的地方，就来这里参考地图吧！",
+        "NameKr": "休息室地图显示屏",
+        "DescriptionKr": "显示千禧年之塔休息室地图的显示屏。若有想去的地方，请参考这里！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3632885326,
         "NameKr": "千禧年开放式电梯",
-        "DescriptionKr": "视野开阔的电梯。随着高度变化，视角也随之改变。",
+        "DescriptionKr": "视野开阔的电梯。随着高度变化，风景也随之不同。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2022344463,
         "NameKr": "千禧年之塔休息室大门",
-        "DescriptionKr": "进出千禧年之塔休息室的大门。偶尔会被黑客入侵，导致每次有人经过时都播放嘈杂的音乐。",
+        "DescriptionKr": "通往千禧年之塔休息室的大门。偶尔会被黑客入侵，每当有人经过时就响起嘈杂的音乐。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 389601628,
-        "NameKr": "休憩用按摩椅",
-        "DescriptionKr": "能让全身彻底放松的按摩椅。疲劳时躺在上面，即可体验到极乐世界般的舒适感。",
+        "NameKr": "休闲按摩椅",
+        "DescriptionKr": "能让全身彻底放松的按摩椅。据说疲惫时躺上去，便能体验到极乐的感觉。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 917686991,
-        "NameKr": "纵向柱子隔板",
-        "DescriptionKr": "以纵向柱子连接的曲线型隔板。能在分隔空间的同时，增添现代感与艺术感。",
+        "NameKr": "竖立柱式隔板",
+        "DescriptionKr": "由纵向立柱构成的曲线形隔板。能在分隔空间的同时，增添现代感与艺术感。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 826937419,
-        "NameKr": "方形观赏植物花盆",
-        "DescriptionKr": "种植着观赏用植物的方形花盆。能为室内增添盎然绿意。",
+        "NameKr": "长方形观赏植物盆栽",
+        "DescriptionKr": "种有观赏植物的长方形花盆。能为室内增添一抹翠绿。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1090148821,
         "NameKr": "壁挂式千禧年标志",
-        "DescriptionKr": "随处可见的千禧年标志挂在显眼的墙上，说不定不知不觉就会产生爱校精神？",
+        "DescriptionKr": "无论在哪里都能一眼认出的千禧年标志。挂在显眼的墙上，或许不知不觉就会涌起归属感？",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4832055,
         "NameKr": "千禧年之塔休息室自动贩卖机",
-        "DescriptionKr": "设置于休息室的大型自动贩卖机。冷藏和保温系统俱全！",
+        "DescriptionKr": "设置于休息室的大型自动贩卖机。冷藏与保温系统一应俱全！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3656122902,
-        "NameKr": "千禧年格子型窗户",
-        "DescriptionKr": "格子状设计的窗户。偶尔也来眺望一下窗外，享受风景吧。",
+        "NameKr": "千禧年格子窗",
+        "DescriptionKr": "设计成格子形状的窗户。偶尔眺望一下窗外，享受一份雅致吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 4277704352,
         "NameKr": "千禧年之塔休息室墙壁",
-        "DescriptionKr": "由整洁材质构成的墙面。象征千禧年的配色是其亮点。",
+        "DescriptionKr": "由简洁材质构成的墙壁。象征千禧年的配色正是其亮点。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2148927862,
         "NameKr": "千禧年之塔休息室地板",
-        "DescriptionKr": "由光滑材质制成的地板。富有未来感的设计和氛围，特别引人注目。",
+        "DescriptionKr": "以光滑材质打造的地板。极具未来感的设计与氛围令人瞩目。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3462475894,
         "NameKr": "千禧年之塔休息室背景",
-        "DescriptionKr": "以面向未来的蓝色色调构成的背景。是千禧年的象征性配色。",
+        "DescriptionKr": "由未来感十足的蓝色色调构成的背景。堪称象征千禧年的专属配色。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 400761702,
         "NameKr": "三面开放式长椅",
-        "DescriptionKr": "三面彼此相接的开放式长椅。据说中间的空间常发现遗失物。",
+        "DescriptionKr": "由三面开放式长椅拼接而成的结构。据说中央的空隙处时常能捡到遗失物。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1946045865,
-        "NameKr": "千禧年全息投影地图",
-        "DescriptionKr": "显示千禧年学院全景的全息投影装置。由于画面是实时更新的，对掌握交通状况也很有用！",
+        "NameKr": "千禧年全息地图",
+        "DescriptionKr": "以全息影像呈现千禧年学院全景的装置。由于是实时影像，用来掌握交通状况也很方便！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3778870744,
-        "NameKr": "千禧年之塔休息室电梯",
-        "DescriptionKr": "可前往其他楼层的电梯。在里头随意走跳会有危险，请小心！",
+        "NameKr": "千禧年之塔休息室自动扶梯",
+        "DescriptionKr": "可通往其他楼层的自动扶梯。在上面走动或者跑动容易发生危险，请小心！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2296647309,
         "NameKr": "休息室服务台",
-        "DescriptionKr": "可咨询问题的服务台。即使没有人也不必惊慌，请使用自助机台吧！",
+        "DescriptionKr": "可询问各种事宜的服务台。即使没人在也不必慌张，请使用自助的平板！",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2518968126,
-        "NameKr": "休息室导览用无人机",
-        "DescriptionKr": "在休息室各处提供引导的无人机。平时飞行在空中，但电力不足时会摇晃行走。",
+        "NameKr": "休息室引导用无人机",
+        "DescriptionKr": "在休息室各处提供指引的无人机。平时飞行穿梭，但电量不足时会摇摇晃晃地步行。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 180301164,
-        "NameKr": "休息室导览用机器人",
-        "DescriptionKr": "在休息室各处提供引导的机器人。勤奋的形象和丰富的表情受到成员们的喜爱。",
+        "NameKr": "休息室引导用机器人",
+        "DescriptionKr": "在休息室各处提供指引的机器人。勤勉的模样与丰富的表情，让它深受学员们的喜爱。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 142655698,
-        "NameKr": "千禧年宽型窗户",
-        "DescriptionKr": "从窗外望去，千禧年的全景一览无遗。",
+        "NameKr": "千禧年宽窗",
+        "DescriptionKr": "向窗外望去，可将千禧年的全景尽收眼底。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2073445367,
-        "NameKr": "双人用千禧年书桌",
-        "DescriptionKr": "可以两人一起坐的书桌。学习专注度也会加倍…或许吧。",
+        "NameKr": "千禧年双人书桌",
+        "DescriptionKr": "可供两人同坐的书桌。这样学习的专注力也能翻倍……或许吧。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 810452553,
-        "NameKr": "千禧年之塔休息室组合",
-        "DescriptionKr": "能完整感受到千禧年氛围的休息室套组。欢迎来到尖端科技学院！",
+        "NameKr": "千禧年之塔休息室主题家具",
+        "DescriptionKr": "能原汁原味感受千禧年氛围的休息区家具。欢迎来到尖端科技的学院！",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30598,15 +30598,15 @@
     },
     {
         "Key": 4286106492,
-        "NameKr": "军事露营展板装置",
-        "DescriptionKr": "为表演艺术设置的巨大展板。目前上面绘有率性的涂鸦。",
+        "NameKr": "军事露营展板",
+        "DescriptionKr": "为表演艺术而设置的巨大展板。如今上面画满了极具品味的涂鸦。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3819813867,
-        "NameKr": "最初的前卫",
-        "DescriptionKr": "莉音为创作出自己的杰作而制作的初版模型。里头融入了莉音独特的哲学。",
+        "NameKr": "初代前卫",
+        "DescriptionKr": "莉音为创作出自己的杰作而制作的初期模型。其中蕴含着独属于莉音的哲学。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30815,8 +30815,8 @@
     },
     {
         "Key": 367539819,
-        "NameKr": "4th周年报告组合包",
-        "DescriptionKr": "有助于成员成长的商品\n青辉石 X 800 （付费 800 个）\n※组合包的详细内容物请参考下列商品内容。",
+        "NameKr": "Code: BOX\n活动报告书礼包",
+        "DescriptionKr": "提供学员成长材料的礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30871,22 +30871,22 @@
     },
     {
         "Key": 3592147829,
-        "NameKr": "4th周年★3成员（攻击类型）招募组合包",
-        "DescriptionKr": "可获得1张10次招募票券与1张★3成员（攻击类型）1次招募票券的4周年商品\n青辉石 X 1255（付费 1200 + 免费 55）\n※组合包的详细内容物请参考下列商品内容。",
+        "NameKr": "Code: BOX\n3★必得攻击类型招募礼包",
+        "DescriptionKr": "提供1张10次招募券\n与1张3★成员必得1次招募券（攻击类型）的礼包。\n可获得青辉石 x 1255。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1972155099,
-        "NameKr": "千禧年之塔休息室主题家具",
-        "DescriptionKr": "可制造咖啡厅家具（千禧年之塔休息室主题家具）。",
+        "NameKr": "千禧年之塔休息室主题",
+        "DescriptionKr": "可制造咖啡厅家具（千禧年之塔休息室主题）。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 958576710,
         "NameKr": "千禧年之塔休息室主题家具抽奖券",
-        "DescriptionKr": "可获得1个千禧年之塔休息室主题家具的抽奖券，所有内容物的获得机率相同。",
+        "DescriptionKr": "使用时，以相同的概率获得1个千禧年之塔休息室主题家具抽奖券。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30920,8 +30920,8 @@
     },
     {
         "Key": 2272468806,
-        "NameKr": "Code:BOX 逼近千禧年的黑影",
-        "DescriptionKr": "完成Code:BOX 逼近千禧年的黑影称号获取任务",
+        "NameKr": "Code: BOX 逼近千禧年的阴影",
+        "DescriptionKr": "完成Code: BOX 逼近千禧年的阴影称号获取任务",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -30941,8 +30941,8 @@
     },
     {
         "Key": 2691968158,
-        "NameKr": "★3成员保证1次招募票券（攻击类型）",
-        "DescriptionKr": "可用于保证招募★3成员（攻击类型）的1次招募票券。\n※如未于有效期间前使用，本票券将自动消失。",
+        "NameKr": "3★成员必得1次招募券（攻击类型）",
+        "DescriptionKr": "可以在3★成员必得招募（攻击类型）中使用，进行1次招募。※如未于有效期间前使用，本票券将自动消失。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -31361,14 +31361,14 @@
     },
     {
         "Key": 3832027870,
-        "NameKr": "午夜派对\n特别礼物礼包",
+        "NameKr": "Code: BOX\n特别礼物礼包Ⅰ",
         "DescriptionKr": "为老师提供的特别礼物礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 696107766,
-        "NameKr": "Sheside Outside\n特别礼物礼包Ⅱ",
+        "NameKr": "Code: BOX\n特别礼物礼包Ⅱ",
         "DescriptionKr": "为老师提供的特别礼物礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -31377,6 +31377,27 @@
         "Key": 456984053,
         "NameKr": "神名文字选择箱",
         "DescriptionKr": "可从椿、优香、芹香、睦月、桃、千世的神名文字中，选择想要的神名文字的箱子。",
+        "NameJp": "",
+        "DescriptionJp": ""
+    },
+    {
+        "Key": 3364253650,
+        "NameKr": "Code: BOX\n特别礼物礼包III",
+        "DescriptionKr": "为老师提供的特别礼物礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
+        "NameJp": "",
+        "DescriptionJp": ""
+    },
+    {
+        "Key": 2991736991,
+        "NameKr": "Code: BOX\n特别礼物礼包IV",
+        "DescriptionKr": "为老师提供的特别礼物礼包。\n可获得青辉石 x 800。\n※礼包详细内容物请参考下方商品内容。",
+        "NameJp": "",
+        "DescriptionJp": ""
+    },
+    {
+        "Key": 3189911802,
+        "NameKr": "【庆典限定】\n限时招募补给礼包",
+        "DescriptionKr": "为老师提供的限时招募补给礼包。\n※礼包详细内容物请参考下方商品内容。",
         "NameJp": "",
         "DescriptionJp": ""
     }

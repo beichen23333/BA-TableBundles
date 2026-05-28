@@ -123,7 +123,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4076631753,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025039959,
@@ -132,7 +132,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1317820167,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025039956,
@@ -141,7 +141,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 505461355,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025039919,
@@ -150,7 +150,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3087735419,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040095,
@@ -159,7 +159,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1385749431,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040082,
@@ -168,7 +168,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 143150984,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040081,
@@ -177,7 +177,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3382394043,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040084,
@@ -186,7 +186,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4190873764,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040079,
@@ -195,7 +195,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2376429135,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040066,
@@ -204,7 +204,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3409881563,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040064,
@@ -213,7 +213,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3775604027,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040070,
@@ -222,7 +222,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4019699735,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040068,
@@ -231,7 +231,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 104921548,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040122,
@@ -240,7 +240,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3897788368,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040120,
@@ -249,7 +249,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2951736206,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040126,
@@ -258,7 +258,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1260663641,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040124,
@@ -267,7 +267,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2848658069,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040114,
@@ -276,7 +276,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1445413492,
-        "Property": 2025042095
+        "Property": 2025046015
     },
     {
         "ID": 2025040112,
@@ -285,7 +285,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 222239361,
-        "Property": 2025039962
+        "Property": 2025046015
     },
     {
         "ID": 2025039957,
@@ -465,7 +465,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4076631753,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025039995,
@@ -474,7 +474,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1317820167,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025039992,
@@ -483,7 +483,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 505461355,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025039917,
@@ -492,7 +492,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3087735419,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040092,
@@ -501,7 +501,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1385749431,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040083,
@@ -510,7 +510,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 143150984,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040086,
@@ -519,7 +519,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3382394043,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040085,
@@ -528,7 +528,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4190873764,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040076,
@@ -537,7 +537,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2376429135,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040067,
@@ -546,7 +546,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3409881563,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040065,
@@ -555,7 +555,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3775604027,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040071,
@@ -564,7 +564,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4019699735,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040069,
@@ -573,7 +573,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 104921548,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040123,
@@ -582,7 +582,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3897788368,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040121,
@@ -591,7 +591,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2951736206,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040127,
@@ -600,7 +600,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1260663641,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040125,
@@ -609,7 +609,7 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2848658069,
-        "Property": 2025012711
+        "Property": 2025006470
     },
     {
         "ID": 2025040115,
@@ -618,7 +618,16 @@
         "NodeQuality": 2025039960,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1445413492,
-        "Property": 2025012711
+        "Property": 2025006470
+    },
+    {
+        "ID": 2025040113,
+        "Tier": 2025039960,
+        "QuickCraftNodeDisplayOrder": 2025039903,
+        "NodeQuality": 2025039960,
+        "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
+        "LocalizeKey": 222239361,
+        "Property": 2025006470
     },
     {
         "ID": 2025039993,
@@ -627,7 +636,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3083109344,
-        "Property": 2024981041
+        "Property": 2024986950
     },
     {
         "ID": 2025039998,
@@ -636,7 +645,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 848052855,
-        "Property": 2025012193
+        "Property": 2025007928
     },
     {
         "ID": 2025039999,
@@ -645,7 +654,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1125868741,
-        "Property": 2025034046
+        "Property": 2025037242
     },
     {
         "ID": 2025039996,
@@ -654,7 +663,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2090907625,
-        "Property": 2025020456
+        "Property": 2024973839
     },
     {
         "ID": 2025039997,
@@ -663,7 +672,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3049973113,
-        "Property": 2025061412
+        "Property": 2025060761
     },
     {
         "ID": 2025039986,
@@ -672,7 +681,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1343760947,
-        "Property": 2024836188
+        "Property": 2024833621
     },
     {
         "ID": 2025039987,
@@ -681,7 +690,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1548974113,
-        "Property": 2024989635
+        "Property": 2024990909
     },
     {
         "ID": 2025039984,
@@ -690,7 +699,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 1924399810,
-        "Property": 2024902729
+        "Property": 2024906689
     },
     {
         "ID": 2025039985,
@@ -699,7 +708,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 3611683448,
-        "Property": 2025033360
+        "Property": 2025032972
     },
     {
         "ID": 2025039990,
@@ -708,7 +717,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 2511789793,
-        "Property": 2025033184
+        "Property": 2025032766
     },
     {
         "ID": 2025040075,
@@ -717,7 +726,7 @@
         "NodeQuality": 2025039963,
         "Icon": "UIs/01_Common/19_CraftDuration/CraftNode_Furniture",
         "LocalizeKey": 4287044257,
-        "Property": 2025044675
+        "Property": 2025044176
     },
     {
         "ID": 2025039991,

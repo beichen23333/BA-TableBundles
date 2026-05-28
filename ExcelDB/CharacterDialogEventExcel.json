@@ -134616,16 +134616,16 @@
         "ActionName": "",
         "Duration": 1760,
         "AnimationName": "02",
-        "LocalizeKR": "어서 오세요, 선생님.",
+        "LocalizeKR": "老师你来啦。",
         "LocalizeJP": "",
-        "VoiceIdLength": 124,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
-        "DurationCN": 1760
+        "DurationCN": 1450
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134642,7 +134642,7 @@
         "ActionName": "",
         "Duration": 3570,
         "AnimationName": "02",
-        "LocalizeKR": "바빠 보이시네요.",
+        "LocalizeKR": "你看起来挺忙的。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134651,7 +134651,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
-        "DurationCN": 3570
+        "DurationCN": 2450
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134668,16 +134668,16 @@
         "ActionName": "",
         "Duration": 3330,
         "AnimationName": "02",
-        "LocalizeKR": "아, 선생님이시군요.",
+        "LocalizeKR": "啊，是老师啊。",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 124,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 3330
+        "DurationCN": 2330
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134694,7 +134694,7 @@
         "ActionName": "",
         "Duration": 4000,
         "AnimationName": "99",
-        "LocalizeKR": "마침 잘 오셨어요.",
+        "LocalizeKR": "你来得正好。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134703,7 +134703,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 4000
+        "DurationCN": 1870
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134720,7 +134720,7 @@
         "ActionName": "",
         "Duration": 5130,
         "AnimationName": "05",
-        "LocalizeKR": "슬슬 진척도가……",
+        "LocalizeKR": "进度差不多该……",
         "LocalizeJP": "",
         "VoiceIdLength": 128,
         "CollectionVisible": true,
@@ -134729,7 +134729,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
-        "DurationCN": 5130
+        "DurationCN": 2300
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134746,7 +134746,7 @@
         "ActionName": "",
         "Duration": 4360,
         "AnimationName": "02",
-        "LocalizeKR": "아, 아무것도\n아니에요.",
+        "LocalizeKR": "啊，没什么。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134755,7 +134755,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
-        "DurationCN": 4360
+        "DurationCN": 2400
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134772,7 +134772,7 @@
         "ActionName": "",
         "Duration": 3390,
         "AnimationName": "02",
-        "LocalizeKR": "거의 다 끝났군요.",
+        "LocalizeKR": "差不多快结束了。",
         "LocalizeJP": "",
         "VoiceIdLength": 128,
         "CollectionVisible": true,
@@ -134781,7 +134781,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 3390
+        "DurationCN": 2100
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134798,7 +134798,7 @@
         "ActionName": "",
         "Duration": 4810,
         "AnimationName": "99",
-        "LocalizeKR": "……나중에 말씀\n드리겠습니다.",
+        "LocalizeKR": "……具体情况我稍后\n再告诉你。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134807,7 +134807,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 4810
+        "DurationCN": 3000
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134824,7 +134824,7 @@
         "ActionName": "",
         "Duration": 2590,
         "AnimationName": "99",
-        "LocalizeKR": "많은 일들이 있었네요.",
+        "LocalizeKR": "这段时间发生了\n不少事呢。",
         "LocalizeJP": "",
         "VoiceIdLength": 124,
         "CollectionVisible": true,
@@ -134833,7 +134833,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 2590
+        "DurationCN": 2650
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134850,7 +134850,7 @@
         "ActionName": "",
         "Duration": 5250,
         "AnimationName": "02",
-        "LocalizeKR": "도와주셔서 감사합니다.",
+        "LocalizeKR": "真的非常感谢你的帮助。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134859,7 +134859,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 5250
+        "DurationCN": 2750
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134876,7 +134876,7 @@
         "ActionName": "",
         "Duration": 1390,
         "AnimationName": "01",
-        "LocalizeKR": "절 부르셨나요?",
+        "LocalizeKR": "你叫我吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -134885,7 +134885,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
-        "DurationCN": 1390
+        "DurationCN": 1350
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134902,7 +134902,7 @@
         "ActionName": "",
         "Duration": 3750,
         "AnimationName": "02",
-        "LocalizeKR": "무슨 일이시죠?",
+        "LocalizeKR": "是有什么事吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134911,7 +134911,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
-        "DurationCN": 3750
+        "DurationCN": 1950
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134928,9 +134928,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "저는 어디 가지\n않는답니다.",
+        "LocalizeKR": "我哪儿也不会去的。",
         "LocalizeJP": "",
-        "VoiceIdLength": 104,
+        "VoiceIdLength": 100,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -134954,7 +134954,7 @@
         "ActionName": "",
         "Duration": 4800,
         "AnimationName": "02",
-        "LocalizeKR": "가끔은 이런 것도\n즐겁네요.",
+        "LocalizeKR": "偶尔这样也挺开心的。",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -134963,7 +134963,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 4800
+        "DurationCN": 2600
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -134980,7 +134980,7 @@
         "ActionName": "",
         "Duration": 3790,
         "AnimationName": "08",
-        "LocalizeKR": "트리니티 밖이라서\n그런 걸까요?",
+        "LocalizeKR": "是因为在崔尼蒂之外吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -134989,7 +134989,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 3790
+        "DurationCN": 3000
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -135006,7 +135006,7 @@
         "ActionName": "",
         "Duration": 2940,
         "AnimationName": "05",
-        "LocalizeKR": "간지러워요……",
+        "LocalizeKR": "有点痒……",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -135015,7 +135015,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
-        "DurationCN": 2940
+        "DurationCN": 1950
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -135032,7 +135032,7 @@
         "ActionName": "",
         "Duration": 4480,
         "AnimationName": "07",
-        "LocalizeKR": "그렇지만,\n싫은 건 아니네요.",
+        "LocalizeKR": "不过，倒也不讨厌。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135041,7 +135041,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
-        "DurationCN": 4480
+        "DurationCN": 3700
     },
     {
         "CostumeUniqueId": 1900934101,
@@ -135058,7 +135058,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "여! 선생!\n여기야, 여기!",
+        "LocalizeKR": "喂！老师！\n这儿，看这儿！",
         "LocalizeJP": "",
         "VoiceIdLength": 112,
         "CollectionVisible": true,
@@ -135084,9 +135084,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "아, 선생!\n왜 이렇게 늦었어?",
+        "LocalizeKR": "啊，老师！\n怎么这么晚才来？",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 108,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135110,9 +135110,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "08",
-        "LocalizeKR": "자, 자!\n정신 바짝 차리자고!",
+        "LocalizeKR": "喂喂！\n给我打起精神来！",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135136,7 +135136,7 @@
         "ActionName": "",
         "Duration": 1010,
         "AnimationName": "03",
-        "LocalizeKR": "조금만 참아,",
+        "LocalizeKR": "再撑一会儿，",
         "LocalizeJP": "",
         "VoiceIdLength": 128,
         "CollectionVisible": true,
@@ -135145,7 +135145,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 1010
+        "DurationCN": 800
     },
     {
         "CostumeUniqueId": 1900934101,
@@ -135162,7 +135162,7 @@
         "ActionName": "",
         "Duration": 3990,
         "AnimationName": "21",
-        "LocalizeKR": "다 끝나면\n놀아줄 테니까!",
+        "LocalizeKR": "等忙完我就陪你玩！",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135171,7 +135171,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 3990
+        "DurationCN": 2400
     },
     {
         "CostumeUniqueId": 1900934101,
@@ -135188,9 +135188,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "하-! 나름대로\n재밌었어, 그렇지?",
+        "LocalizeKR": "哈——！\n还挺带劲的是吧？",
         "LocalizeJP": "",
-        "VoiceIdLength": 108,
+        "VoiceIdLength": 112,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135214,7 +135214,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "01",
-        "LocalizeKR": "어? 불렀어?\n불렀으면 말을 해야\n할 거 아냐.",
+        "LocalizeKR": "嗯？叫我？\n有事就说啊。",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135240,7 +135240,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "아앙? 그냥 한 번\n찔러봤다고?\n그건 또 무슨…….",
+        "LocalizeKR": "啊啊？\n就是随便戳戳看？\n你这人真是……",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135266,7 +135266,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "06",
-        "LocalizeKR": "…하아, 어린애 같은\n짓하고 말이야.",
+        "LocalizeKR": "……唉，真幼稚。",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135292,9 +135292,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "기억해 두겠어.\n다음엔 내가 찌를\n테니까, 각오하라고.",
+        "LocalizeKR": "哼哼，我记住了。\n下次换我戳你，\n等着瞧吧。",
         "LocalizeJP": "",
-        "VoiceIdLength": 100,
+        "VoiceIdLength": 104,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135318,9 +135318,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "알맞은 타이밍에\n도착했네.",
+        "LocalizeKR": "老师来得正是时候。",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 108,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135344,9 +135344,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "99",
-        "LocalizeKR": "그래. 지금쯤\n올 거라 생각했어.",
+        "LocalizeKR": "嗯，我猜你也该到了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 108,
+        "VoiceIdLength": 112,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135370,9 +135370,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "99",
-        "LocalizeKR": "순조롭게 진행\n중이지만, 아직 안심할\n정도는 아니야.",
+        "LocalizeKR": "虽然进展顺利，\n但还没到可以\n放心的时候。",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135396,16 +135396,16 @@
         "ActionName": "",
         "Duration": 2540,
         "AnimationName": "99",
-        "LocalizeKR": "이제 거의 다 왔어.",
+        "LocalizeKR": "快完成了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 128,
+        "VoiceIdLength": 132,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 2540
+        "DurationCN": 1000
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -135422,7 +135422,7 @@
         "ActionName": "",
         "Duration": 2290,
         "AnimationName": "02",
-        "LocalizeKR": "곧 말해줄 수 있겠네.",
+        "LocalizeKR": "很快就能告诉你了。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135431,7 +135431,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
-        "DurationCN": 2290
+        "DurationCN": 2100
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -135448,16 +135448,16 @@
         "ActionName": "",
         "Duration": 2500,
         "AnimationName": "02",
-        "LocalizeKR": "잘 해결돼서 다행이네.",
+        "LocalizeKR": "能顺利解决真是太好了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 124,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 2500
+        "DurationCN": 3000
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -135474,7 +135474,7 @@
         "ActionName": "",
         "Duration": 2160,
         "AnimationName": "99",
-        "LocalizeKR": "……이건 진심이야.",
+        "LocalizeKR": "……这句话是\n发自真心的。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135483,7 +135483,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 2160
+        "DurationCN": 2600
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -135500,7 +135500,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "응? 무슨 일이야?\n갑자기 건드리고.",
+        "LocalizeKR": "嗯？怎么了？\n突然碰我……",
         "LocalizeJP": "",
         "VoiceIdLength": 104,
         "CollectionVisible": true,
@@ -135526,7 +135526,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "06",
-        "LocalizeKR": "말로 표현해\n주지 않으면,\n이해하기 힘들어.",
+        "LocalizeKR": "你不说的话，\n我很难明白啊。",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135552,9 +135552,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "07",
-        "LocalizeKR": "아니, 그러니까……\n으음…….",
+        "LocalizeKR": "不是，那个……\n唔……",
         "LocalizeJP": "",
-        "VoiceIdLength": 100,
+        "VoiceIdLength": 104,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135578,7 +135578,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "뭔가 필요한 거라도\n있는 거야?",
+        "LocalizeKR": "是有什么需要的\n东西吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135604,7 +135604,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "아! 선생님!\n이쪽이야~!",
+        "LocalizeKR": "啊！老师！\n在这边~！",
         "LocalizeJP": "",
         "VoiceIdLength": 112,
         "CollectionVisible": true,
@@ -135630,16 +135630,16 @@
         "ActionName": "",
         "Duration": 2270,
         "AnimationName": "04",
-        "LocalizeKR": "주인님…… 이 아니라,",
+        "LocalizeKR": "先生……哦不对，",
         "LocalizeJP": "",
-        "VoiceIdLength": 124,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 2270
+        "DurationCN": 1300
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135656,7 +135656,7 @@
         "ActionName": "",
         "Duration": 3200,
         "AnimationName": "03",
-        "LocalizeKR": "선생님!\n드디어 만났다~!",
+        "LocalizeKR": "老师！\n终于见面啦~！",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135665,7 +135665,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 3200
+        "DurationCN": 2850
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135682,7 +135682,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "야호! 선생님!\n즐기고 있어~?",
+        "LocalizeKR": "呀吼！老师！\n玩得开心吗~？",
         "LocalizeJP": "",
         "VoiceIdLength": 120,
         "CollectionVisible": true,
@@ -135708,9 +135708,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "01",
-        "LocalizeKR": "후훗, 마지막까지\n놀아보자구~! 주인님,\n아니, 선생님!",
+        "LocalizeKR": "呵呵，\n我们尽情玩到最后吧~！\n先生，哦不对，老师！",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135734,16 +135734,16 @@
         "ActionName": "",
         "Duration": 5860,
         "AnimationName": "06",
-        "LocalizeKR": "벌써 끝이라니,\n시간이 너무 빠르지?",
+        "LocalizeKR": "居然已经结束了，\n时间过得也太快了吧？",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 124,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 5860
+        "DurationCN": 5600
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135760,7 +135760,7 @@
         "ActionName": "",
         "Duration": 5490,
         "AnimationName": "03",
-        "LocalizeKR": "하지만 너무너무\n즐거웠어!",
+        "LocalizeKR": "但是我非常非常开心！",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135769,7 +135769,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 5490
+        "DurationCN": 5080
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135786,9 +135786,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "08",
-        "LocalizeKR": "선생님, 어디 가고\n싶은 곳 있어?\n안내할게~",
+        "LocalizeKR": "老师，\n想去什么地方？\n我来带路~",
         "LocalizeJP": "",
-        "VoiceIdLength": 100,
+        "VoiceIdLength": 104,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -135812,7 +135812,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "응? 왜?\n아스나에게 부탁할\n일이라도 있어?",
+        "LocalizeKR": "嗯？怎么了？\n老师有事要拜托\n明日奈吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -135838,16 +135838,16 @@
         "ActionName": "",
         "Duration": 3490,
         "AnimationName": "03",
-        "LocalizeKR": "아하하, 간지러워~!",
+        "LocalizeKR": "啊哈哈，好痒~！",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 3490
+        "DurationCN": 2640
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135864,7 +135864,7 @@
         "ActionName": "",
         "Duration": 3630,
         "AnimationName": "01",
-        "LocalizeKR": "혹시 선생님,\n놀고 싶은 거야?",
+        "LocalizeKR": "老师这是想和我\n玩点什么吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135873,7 +135873,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 3630
+        "DurationCN": 4010
     },
     {
         "CostumeUniqueId": 1900934201,
@@ -135890,7 +135890,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "헤헤, 그럼 아스나도\n선생님 간지럽힐래! 자,\n이쪽으로 와! 얼른!",
+        "LocalizeKR": "嘿嘿，\n那么明日奈也要来\n挠老师的痒痒咯！\n你跑不掉的哦~",
         "LocalizeJP": "",
         "VoiceIdLength": 104,
         "CollectionVisible": true,
@@ -135916,16 +135916,16 @@
         "ActionName": "",
         "Duration": 4670,
         "AnimationName": "04",
-        "LocalizeKR": "아, 안녕. 선생님.",
+        "LocalizeKR": "你，你好，老师。",
         "LocalizeJP": "",
-        "VoiceIdLength": 124,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
-        "DurationCN": 4670
+        "DurationCN": 4700
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -135942,7 +135942,7 @@
         "ActionName": "",
         "Duration": 3220,
         "AnimationName": "06",
-        "LocalizeKR": "……늘 하던 인사와\n달라서 어색하네.",
+        "LocalizeKR": "……打招呼的方式和平时\n不太一样，有点别扭呢。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -135951,7 +135951,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
-        "DurationCN": 3220
+        "DurationCN": 5300
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -135968,7 +135968,7 @@
         "ActionName": "",
         "Duration": 3650,
         "AnimationName": "99",
-        "LocalizeKR": "조금 더\n귀여운 인사를……",
+        "LocalizeKR": "要用更可爱的方式……",
         "LocalizeJP": "",
         "VoiceIdLength": 124,
         "CollectionVisible": true,
@@ -135977,7 +135977,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 3650
+        "DurationCN": 3000
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -135994,7 +135994,7 @@
         "ActionName": "",
         "Duration": 4170,
         "AnimationName": "08",
-        "LocalizeKR": "지, 지금 건\n혼잣말이야!",
+        "LocalizeKR": "……啊，刚才是在\n自言自语！",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136003,7 +136003,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
-        "DurationCN": 4170
+        "DurationCN": 4100
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136020,9 +136020,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "생각보다\n정신없는 행사네……",
+        "LocalizeKR": "这次活动比想象中\n还要混乱啊……",
         "LocalizeJP": "",
-        "VoiceIdLength": 116,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136046,7 +136046,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "조금만\n더 하면 끝이야.\n힘내자고, 선생님.",
+        "LocalizeKR": "还差一点就要结束了。\n加油，老师。",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -136072,16 +136072,16 @@
         "ActionName": "",
         "Duration": 2260,
         "AnimationName": "99",
-        "LocalizeKR": "벌써 끝이라니.",
+        "LocalizeKR": "这么快就结束了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 124,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 2260
+        "DurationCN": 2100
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136098,7 +136098,7 @@
         "ActionName": "",
         "Duration": 4950,
         "AnimationName": "03",
-        "LocalizeKR": "뭔가…… 서운한\n기분이네.",
+        "LocalizeKR": "感觉……\n有点依依不舍呢。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136107,7 +136107,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
-        "DurationCN": 4950
+        "DurationCN": 4250
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136124,9 +136124,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "으, 으응?\n왜, 왜 그러지?\n시킬 일이라도 있어?",
+        "LocalizeKR": "呃，怎，怎么了？\n有什么需要我做的事吗？",
         "LocalizeJP": "",
-        "VoiceIdLength": 104,
+        "VoiceIdLength": 100,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136150,16 +136150,16 @@
         "ActionName": "",
         "Duration": 6120,
         "AnimationName": "04",
-        "LocalizeKR": "이, 이것은 밀레니엄\n지정의 단순한\n교복이다만…?",
+        "LocalizeKR": "这，这只是千禧年的\n普通制服……",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
-        "DurationCN": 6120
+        "DurationCN": 4200
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136176,7 +136176,7 @@
         "ActionName": "",
         "Duration": 2970,
         "AnimationName": "02",
-        "LocalizeKR": "뭔가 이상한\n부분이라도 있는 건가?",
+        "LocalizeKR": "有什么奇怪的地方吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136185,7 +136185,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
-        "DurationCN": 2970
+        "DurationCN": 2500
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136202,7 +136202,7 @@
         "ActionName": "",
         "Duration": 3320,
         "AnimationName": "99",
-        "LocalizeKR": "그…… 선생님.",
+        "LocalizeKR": "那个……老师。",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -136211,7 +136211,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 3320
+        "DurationCN": 2700
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136228,7 +136228,7 @@
         "ActionName": "",
         "Duration": 5030,
         "AnimationName": "04",
-        "LocalizeKR": "이왕 이런 차람이니,",
+        "LocalizeKR": "难得穿了制服，",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136237,7 +136237,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 5030
+        "DurationCN": 2200
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136254,7 +136254,7 @@
         "ActionName": "",
         "Duration": 3570,
         "AnimationName": "06",
-        "LocalizeKR": "같이……",
+        "LocalizeKR": "要不要一起……",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136263,7 +136263,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
-        "DurationCN": 3570
+        "DurationCN": 2500
     },
     {
         "CostumeUniqueId": 1900934601,
@@ -136280,7 +136280,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "……아, 아냐.\n역시 아무것도 아니다.\n미안.",
+        "LocalizeKR": "……啊，算了，\n没什么。抱歉。",
         "LocalizeJP": "",
         "VoiceIdLength": 100,
         "CollectionVisible": true,
@@ -136306,7 +136306,7 @@
         "ActionName": "",
         "Duration": 2590,
         "AnimationName": "08",
-        "LocalizeKR": "이것저것 준비해 보았어요.",
+        "LocalizeKR": "我准备了各式各样的东西，",
         "LocalizeJP": "",
         "VoiceIdLength": 124,
         "CollectionVisible": true,
@@ -136315,7 +136315,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
-        "DurationCN": 2590
+        "DurationCN": 2050
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136332,7 +136332,7 @@
         "ActionName": "",
         "Duration": 2800,
         "AnimationName": "02",
-        "LocalizeKR": "둘러보세요.",
+        "LocalizeKR": "你随便看看吧。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136341,7 +136341,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
-        "DurationCN": 2800
+        "DurationCN": 1900
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136358,7 +136358,7 @@
         "ActionName": "",
         "Duration": 4040,
         "AnimationName": "02",
-        "LocalizeKR": "필요하신 게 있으실까요?",
+        "LocalizeKR": "你需要什么？",
         "LocalizeJP": "",
         "VoiceIdLength": 120,
         "CollectionVisible": true,
@@ -136367,7 +136367,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
-        "DurationCN": 4040
+        "DurationCN": 1100
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136384,7 +136384,7 @@
         "ActionName": "",
         "Duration": 4440,
         "AnimationName": "01",
-        "LocalizeKR": "우선 말씀해 보세요.",
+        "LocalizeKR": "不妨先说说看。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136393,7 +136393,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
-        "DurationCN": 4440
+        "DurationCN": 2050
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136410,7 +136410,7 @@
         "ActionName": "",
         "Duration": 1900,
         "AnimationName": "01",
-        "LocalizeKR": "혹시 모르니,",
+        "LocalizeKR": "你最好再仔细",
         "LocalizeJP": "",
         "VoiceIdLength": 120,
         "CollectionVisible": true,
@@ -136419,7 +136419,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
-        "DurationCN": 1900
+        "DurationCN": 800
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136436,7 +136436,7 @@
         "ActionName": "",
         "Duration": 3760,
         "AnimationName": "02",
-        "LocalizeKR": "한 번 더 살펴보세요.\n선생님.",
+        "LocalizeKR": "检查一遍哦。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136445,7 +136445,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
-        "DurationCN": 3760
+        "DurationCN": 1950
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136462,16 +136462,16 @@
         "ActionName": "",
         "Duration": 1490,
         "AnimationName": "00",
-        "LocalizeKR": "…저를?",
+        "LocalizeKR": "……我？",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
-        "DurationCN": 1490
+        "DurationCN": 750
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136488,7 +136488,7 @@
         "ActionName": "",
         "Duration": 3700,
         "AnimationName": "02",
-        "LocalizeKR": "후후, 저는\n판매하고 있지 않아요.",
+        "LocalizeKR": "呵呵，\n我可是非卖品啊。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136497,7 +136497,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
-        "DurationCN": 3700
+        "DurationCN": 4490
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136514,16 +136514,16 @@
         "ActionName": "",
         "Duration": 3100,
         "AnimationName": "02",
-        "LocalizeKR": "재미있네요.",
+        "LocalizeKR": "真有意思。",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
-        "DurationCN": 3100
+        "DurationCN": 1300
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136540,7 +136540,7 @@
         "ActionName": "",
         "Duration": 4040,
         "AnimationName": "08",
-        "LocalizeKR": "이제는 제가\n찌를 차례일까요?",
+        "LocalizeKR": "现在该轮到我戳了吧？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136549,7 +136549,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
-        "DurationCN": 4040
+        "DurationCN": 4280
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136566,9 +136566,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "99",
-        "LocalizeKR": "그것도 좋지요.",
+        "LocalizeKR": "那个也不错。",
         "LocalizeJP": "",
-        "VoiceIdLength": 116,
+        "VoiceIdLength": 112,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136592,9 +136592,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "나쁘지 않은 선택이에요.",
+        "LocalizeKR": "这个选择不赖。",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136618,9 +136618,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "08",
-        "LocalizeKR": "아, 그게 필요하셨군요.",
+        "LocalizeKR": "啊，原来你需要的\n是这个啊。",
         "LocalizeJP": "",
-        "VoiceIdLength": 116,
+        "VoiceIdLength": 112,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136644,7 +136644,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "네. 여기 있답니다.",
+        "LocalizeKR": "好的，给你。",
         "LocalizeJP": "",
         "VoiceIdLength": 112,
         "CollectionVisible": true,
@@ -136670,9 +136670,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "해야 할 일들을\n정리해 봤어.",
+        "LocalizeKR": "我把要做的事情\n都列出来了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 116,
+        "VoiceIdLength": 120,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136696,9 +136696,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "잘 왔어, 선생님.\n오늘의 할 일들이야.",
+        "LocalizeKR": "老师来得正好，\n这是今天的任务清单。",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136722,7 +136722,7 @@
         "ActionName": "",
         "Duration": 2860,
         "AnimationName": "04",
-        "LocalizeKR": "말없이\n건드리기만 하면……",
+        "LocalizeKR": "要是光碰我不说话……",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -136731,7 +136731,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
-        "DurationCN": 2860
+        "DurationCN": 2640
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -136748,7 +136748,7 @@
         "ActionName": "",
         "Duration": 3570,
         "AnimationName": "06",
-        "LocalizeKR": "이해할 수 없어.",
+        "LocalizeKR": "我可理解不了啊。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136757,7 +136757,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
-        "DurationCN": 3570
+        "DurationCN": 2010
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -136774,7 +136774,7 @@
         "ActionName": "",
         "Duration": 1490,
         "AnimationName": "06",
-        "LocalizeKR": "혹시 나도 똑같이",
+        "LocalizeKR": "是想让我",
         "LocalizeJP": "",
         "VoiceIdLength": 116,
         "CollectionVisible": true,
@@ -136783,7 +136783,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
-        "DurationCN": 1490
+        "DurationCN": 1850
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -136800,7 +136800,7 @@
         "ActionName": "",
         "Duration": 2960,
         "AnimationName": "04",
-        "LocalizeKR": "해주길 바라는 거야?",
+        "LocalizeKR": "也对你做同样的事吗？",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136809,7 +136809,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
-        "DurationCN": 2960
+        "DurationCN": 2310
     },
     {
         "CostumeUniqueId": 1900934301,
@@ -136826,7 +136826,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "확인했어. 체크할게.",
+        "LocalizeKR": "确认过了。\n我会检查的。",
         "LocalizeJP": "",
         "VoiceIdLength": 112,
         "CollectionVisible": true,
@@ -136852,9 +136852,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "완료된 리스트로 바꿔둘게.",
+        "LocalizeKR": "我把清单更新成\n已完成状态了。",
         "LocalizeJP": "",
-        "VoiceIdLength": 116,
+        "VoiceIdLength": 112,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136878,9 +136878,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "01",
-        "LocalizeKR": "꼼꼼히 확인하고 가세요.",
+        "LocalizeKR": "请仔细确认好再带走。",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 124,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136904,16 +136904,16 @@
         "ActionName": "",
         "Duration": 4540,
         "AnimationName": "02",
-        "LocalizeKR": "선생님이 오실 줄",
+        "LocalizeKR": "我就猜到老师会来。",
         "LocalizeJP": "",
-        "VoiceIdLength": 132,
+        "VoiceIdLength": 128,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventFieldMission_Enter2",
-        "DurationCN": 4540
+        "DurationCN": 1760
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136930,7 +136930,7 @@
         "ActionName": "",
         "Duration": 3680,
         "AnimationName": "08",
-        "LocalizeKR": "알고 있었습니다.\n후후, 감이라는 것이지요.",
+        "LocalizeKR": "呵呵，这就是直觉吧。",
         "LocalizeJP": "",
         "VoiceIdLength": 0,
         "CollectionVisible": false,
@@ -136939,7 +136939,7 @@
         "UnlockEventSeason": 843,
         "ScenarioGroupId": 10041005,
         "LocalizeCVGroup": "CVGroup_UIEventFieldMission_Enter2",
-        "DurationCN": 3680
+        "DurationCN": 3290
     },
     {
         "CostumeUniqueId": 1900934001,
@@ -136956,9 +136956,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "06",
-        "LocalizeKR": "……선생님이라는 존재에\n대해, 해석이 달라지게\n하지 말아주세요.",
+        "LocalizeKR": "……请不要让我对“老师”\n这个概念的理解产生偏差哦。",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -136982,9 +136982,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "…후후,\n여전하시군요, 선생님.",
+        "LocalizeKR": "……呵呵，你还是一点没变呢，\n老师。",
         "LocalizeJP": "",
-        "VoiceIdLength": 112,
+        "VoiceIdLength": 116,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",
@@ -137008,7 +137008,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "08",
-        "LocalizeKR": "고생하셨습니다.",
+        "LocalizeKR": "辛苦你了。",
         "LocalizeJP": "",
         "VoiceIdLength": 124,
         "CollectionVisible": true,
@@ -137034,9 +137034,9 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "03",
-        "LocalizeKR": "훌륭하시네요.",
+        "LocalizeKR": "真厉害。",
         "LocalizeJP": "",
-        "VoiceIdLength": 120,
+        "VoiceIdLength": 124,
         "CollectionVisible": true,
         "CVCollectionType": "CVEvent",
         "CVUnlockScenarioType": "Event",

@@ -316,5 +316,47 @@
         "ShopFreeRecruitIntervalId": 1525892192,
         "IntervalDate": "2026-02-13 04:00:00",
         "FreeRecruitCount": 1525892221
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892200,
+        "IntervalDate": "2026-05-28 14:00:00",
+        "FreeRecruitCount": 1525892195
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892203,
+        "IntervalDate": "2026-05-29 04:00:00",
+        "FreeRecruitCount": 1525892195
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892202,
+        "IntervalDate": "2026-05-30 04:00:00",
+        "FreeRecruitCount": 1525892195
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892205,
+        "IntervalDate": "2026-05-31 04:00:00",
+        "FreeRecruitCount": 1525892195
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892204,
+        "IntervalDate": "2026-06-01 04:00:00",
+        "FreeRecruitCount": 1525892221
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892207,
+        "IntervalDate": "2026-06-02 04:00:00",
+        "FreeRecruitCount": 1525892221
+    },
+    {
+        "ShopFreeRecruitId": 1525892206,
+        "ShopFreeRecruitIntervalId": 1525892206,
+        "IntervalDate": "2026-06-03 04:00:00",
+        "FreeRecruitCount": 1525892221
     }
 ]

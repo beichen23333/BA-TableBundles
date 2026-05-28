@@ -8197,6 +8197,30 @@
             "GroupType": "Reward_General"
         },
         {
+            "ID": 900022,
+            "NameKr": "3성 확정 속성 1회 모집 - 폭발 SSR 확정",
+            "IsRecursive": true,
+            "GroupType": "Reward_General"
+        },
+        {
+            "ID": 900042,
+            "NameKr": "3성 확정 속성 1회 모집 - 관통 SSR 확정",
+            "IsRecursive": true,
+            "GroupType": "Reward_General"
+        },
+        {
+            "ID": 900062,
+            "NameKr": "3성 확정 속성 1회 모집 - 신비 SSR 확정",
+            "IsRecursive": true,
+            "GroupType": "Reward_General"
+        },
+        {
+            "ID": 900070,
+            "NameKr": "3성 확정 속성 1회 모집 - 진동 SSR 확정",
+            "IsRecursive": true,
+            "GroupType": "Reward_General"
+        },
+        {
             "ID": 1000000,
             "NameKr": "메인 스토리 1부 최종편 보상용 꾸러미 보상",
             "IsRecursive": false,

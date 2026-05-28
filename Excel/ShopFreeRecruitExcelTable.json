@@ -47,6 +47,14 @@
             "FreeRecruitType": "Accumulation",
             "FreeRecruitDecorationImagePath": "",
             "ShopRecruitIdLength": 16
+        },
+        {
+            "Id": 7,
+            "FreeRecruitPeriodFrom": "2026-05-28 14:00:00",
+            "FreeRecruitPeriodTo": "2026-06-04 13:59:59",
+            "FreeRecruitType": "Accumulation",
+            "FreeRecruitDecorationImagePath": "",
+            "ShopRecruitIdLength": 16
         }
     ]
 }

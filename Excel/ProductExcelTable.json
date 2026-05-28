@@ -817,6 +817,30 @@
             "ParcelAmountLength": 32
         },
         {
+            "Id": 1609,
+            "ProductId": "com.yostarcn.bluearchive.CharacterExp",
+            "StoreType": "GooglePlay",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 132,
+            "ParcelIdLength": 84,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 1613,
+            "ProductId": "com.yostarcn.bluearchive.3staratktype2",
+            "StoreType": "GooglePlay",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
             "Id": 15005,
             "ProductId": "com.yostarcn.bluearchive.3starspecial156",
             "StoreType": "GooglePlay",
@@ -1099,7 +1123,7 @@
             "Price": 9800,
             "PriceReference": "",
             "PurchasePeriodType": "None_",
-            "PurchasePeriodLimit": 3,
+            "PurchasePeriodLimit": 5,
             "ParcelTypeLength": 88,
             "ParcelIdLength": 60,
             "ParcelAmountLength": 32
@@ -1606,6 +1630,42 @@
             "PurchasePeriodLimit": 3,
             "ParcelTypeLength": 120,
             "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 15071,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_C",
+            "StoreType": "GooglePlay",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 15072,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_D",
+            "StoreType": "GooglePlay",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 15073,
+            "ProductId": "com.yostarcn.bluearchive.limited_gacha_CN1",
+            "StoreType": "GooglePlay",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 104,
+            "ParcelIdLength": 68,
             "ParcelAmountLength": 32
         },
         {
@@ -2425,6 +2485,30 @@
             "ParcelAmountLength": 32
         },
         {
+            "Id": 5609,
+            "ProductId": "com.yostarcn.bluearchive.CharacterExp",
+            "StoreType": "AppStore",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 132,
+            "ParcelIdLength": 84,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 5613,
+            "ProductId": "com.yostarcn.bluearchive.3staratktype2",
+            "StoreType": "AppStore",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
             "Id": 55005,
             "ProductId": "com.yostarcn.bluearchive.3starspecial156",
             "StoreType": "AppStore",
@@ -2707,7 +2791,7 @@
             "Price": 9800,
             "PriceReference": "",
             "PurchasePeriodType": "None_",
-            "PurchasePeriodLimit": 3,
+            "PurchasePeriodLimit": 5,
             "ParcelTypeLength": 88,
             "ParcelIdLength": 60,
             "ParcelAmountLength": 32
@@ -3214,6 +3298,42 @@
             "PurchasePeriodLimit": 3,
             "ParcelTypeLength": 120,
             "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 55071,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_C",
+            "StoreType": "AppStore",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 55072,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_D",
+            "StoreType": "AppStore",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 55073,
+            "ProductId": "com.yostarcn.bluearchive.limited_gacha_CN1",
+            "StoreType": "AppStore",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 104,
+            "ParcelIdLength": 68,
             "ParcelAmountLength": 32
         },
         {
@@ -4033,6 +4153,30 @@
             "ParcelAmountLength": 32
         },
         {
+            "Id": 8609,
+            "ProductId": "com.yostarcn.bluearchive.CharacterExp",
+            "StoreType": "Harmony",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 132,
+            "ParcelIdLength": 84,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 8613,
+            "ProductId": "com.yostarcn.bluearchive.3staratktype2",
+            "StoreType": "Harmony",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
             "Id": 85005,
             "ProductId": "com.yostarcn.bluearchive.3starspecial156",
             "StoreType": "Harmony",
@@ -4315,7 +4459,7 @@
             "Price": 9800,
             "PriceReference": "",
             "PurchasePeriodType": "None_",
-            "PurchasePeriodLimit": 3,
+            "PurchasePeriodLimit": 5,
             "ParcelTypeLength": 88,
             "ParcelIdLength": 60,
             "ParcelAmountLength": 32
@@ -4822,6 +4966,42 @@
             "PurchasePeriodLimit": 3,
             "ParcelTypeLength": 120,
             "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 85071,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_C",
+            "StoreType": "Harmony",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 85072,
+            "ProductId": "com.yostarcn.bluearchive.2.5Anniversary_gift_D",
+            "StoreType": "Harmony",
+            "Price": 9800,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 3,
+            "ParcelTypeLength": 120,
+            "ParcelIdLength": 76,
+            "ParcelAmountLength": 32
+        },
+        {
+            "Id": 85073,
+            "ProductId": "com.yostarcn.bluearchive.limited_gacha_CN1",
+            "StoreType": "Harmony",
+            "Price": 15600,
+            "PriceReference": "",
+            "PurchasePeriodType": "None_",
+            "PurchasePeriodLimit": 1,
+            "ParcelTypeLength": 104,
+            "ParcelIdLength": 68,
             "ParcelAmountLength": 32
         }
     ]

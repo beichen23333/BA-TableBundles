@@ -7737,7 +7737,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "별 일 없어야 할텐데…",
+            "LocalizeKR": "可千万别出\n什么事啊……",
             "LocalizeJP": ""
         },
         {
@@ -7749,7 +7749,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "응, 좋은 느낌이 들어!",
+            "LocalizeKR": "嗯，感觉真不错！",
             "LocalizeJP": ""
         },
         {
@@ -7761,7 +7761,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "여기가 밀레니엄 학원…",
+            "LocalizeKR": "这儿就是千禧年\n学院啊……",
             "LocalizeJP": ""
         },
         {
@@ -7773,7 +7773,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "과연. 트리니티 학원과는 느낌이 다르네요!",
+            "LocalizeKR": "果然。\n和崔尼蒂学院的氛围\n完全不一样！",
             "LocalizeJP": ""
         },
         {
@@ -7785,7 +7785,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으음…",
+            "LocalizeKR": "嗯……",
             "LocalizeJP": ""
         },
         {
@@ -7797,7 +7797,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "환영하는 분위기… 일까나?",
+            "LocalizeKR": "这算是……\n欢迎的氛围吗？",
             "LocalizeJP": ""
         },
         {
@@ -7809,7 +7809,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "쟤가 그 티파티의 아가씨?",
+            "LocalizeKR": "她就是茶话会的\n那位大小姐？",
             "LocalizeJP": ""
         },
         {
@@ -7821,7 +7821,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "몸이 안좋다고 들었는데… 괜찮나 봐?",
+            "LocalizeKR": "听说她身体不太\n舒服……现在看起\n来应该没事了吧？",
             "LocalizeJP": ""
         },
         {
@@ -7881,7 +7881,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어라……. 선생님은?",
+            "LocalizeKR": "咦……老师呢？",
             "LocalizeJP": ""
         },
         {
@@ -7893,7 +7893,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……사람들이 너무 많아 놓쳐버린 것 같군요.",
+            "LocalizeKR": "……人太多了，\n好像跟丢了。",
             "LocalizeJP": ""
         },
         {
@@ -7905,7 +7905,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "우선 저분들께 말씀드려 볼까요.",
+            "LocalizeKR": "要不先跟那几位\n打听一下？",
             "LocalizeJP": ""
         },
         {
@@ -7929,7 +7929,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "뭐였죠, 방금……?",
+            "LocalizeKR": "刚才那是……\n什么动静？",
             "LocalizeJP": ""
         },
         {
@@ -7941,7 +7941,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "잠시만 확인해 보도록 할까요.",
+            "LocalizeKR": "我稍微确认一下。",
             "LocalizeJP": ""
         },
         {
@@ -7953,7 +7953,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(잘 안 들리는데, 더 가까이 가보면…)",
+            "LocalizeKR": "（听不太清啊，再\n靠近点试试……）",
             "LocalizeJP": ""
         },
         {
@@ -7965,7 +7965,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(뭔가 몸을 감출 만한 것이 없을까요.)",
+            "LocalizeKR": "（得找个能藏身的\n地方……）",
             "LocalizeJP": ""
         },
         {
@@ -7977,7 +7977,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음… 역사에 남을 발명품을 만들고 싶은데…",
+            "LocalizeKR": "嗯……\n真想搞个能名垂青史\n的发明啊……",
             "LocalizeJP": ""
         },
         {
@@ -7989,7 +7989,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "예를 들면, 아방가르드군 같은 거?",
+            "LocalizeKR": "比如……\n像前卫君那样的？",
             "LocalizeJP": ""
         },
         {
@@ -8001,7 +8001,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음음. 심오한 조각상이군.",
+            "LocalizeKR": "嗯……\n这雕像挺有深意的。",
             "LocalizeJP": ""
         },
         {
@@ -8013,7 +8013,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "과연… 이쪽이 취약하겠어.",
+            "LocalizeKR": "果然……\n这应该是它的弱点。",
             "LocalizeJP": ""
         },
         {
@@ -8037,7 +8037,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "뭘 연구하고 있는 거야?",
+            "LocalizeKR": "你在研究啥呢？",
             "LocalizeJP": ""
         },
         {
@@ -8049,7 +8049,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "… … ….",
+            "LocalizeKR": "……",
             "LocalizeJP": ""
         },
         {
@@ -8061,7 +8061,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…… ….",
+            "LocalizeKR": "……",
             "LocalizeJP": ""
         },
         {
@@ -8073,7 +8073,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(으음……. 이건 좀…….)",
+            "LocalizeKR": "（呃……这个嘛……\n有点难办啊……）",
             "LocalizeJP": ""
         },
         {
@@ -8085,7 +8085,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(다른 걸 찾아보죠.)",
+            "LocalizeKR": "（还是找找别\n的吧。）",
             "LocalizeJP": ""
         },
         {
@@ -8097,7 +8097,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(살짝 부족하네요.)",
+            "LocalizeKR": "（还差点意思。）",
             "LocalizeJP": ""
         },
         {
@@ -8121,7 +8121,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……저거라면 괜찮겠어요.)",
+            "LocalizeKR": "（……用那个的话\n应该能行。）",
             "LocalizeJP": ""
         },
         {
@@ -8133,7 +8133,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(훌륭하네요. 이거라면 되겠어요.)",
+            "LocalizeKR": "（太棒了，用这个\n准行。）",
             "LocalizeJP": ""
         },
         {
@@ -8145,7 +8145,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(그럼 더 가까이 다가가 보도록 할까요.)",
+            "LocalizeKR": "（那就再靠近些\n看看吧。）",
             "LocalizeJP": ""
         },
         {
@@ -8157,7 +8157,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(이곳은……?)",
+            "LocalizeKR": "（这里是……？）",
             "LocalizeJP": ""
         },
         {
@@ -8169,7 +8169,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(은신처로 사용 중인 것 같군요.)",
+            "LocalizeKR": "（看来这里被当作\n藏身之处了。）",
             "LocalizeJP": ""
         },
         {
@@ -8193,7 +8193,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "쳇. 귀찮은 일에 휘말렸네.",
+            "LocalizeKR": "啧，麻烦事\n找上门了。",
             "LocalizeJP": ""
         },
         {
@@ -8205,7 +8205,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "밀레니엄 엑스포의 파국?",
+            "LocalizeKR": "让千禧年博览会\n彻底崩盘？",
             "LocalizeJP": ""
         },
         {
@@ -8217,7 +8217,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "녀석들… 꽤나 큰 꿈을 꾸고 있었잖아?",
+            "LocalizeKR": "这帮家伙……\n野心倒是不小啊？",
             "LocalizeJP": ""
         },
         {
@@ -8241,7 +8241,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "과연, 그런 거였나……",
+            "LocalizeKR": "原来是这么\n回事……",
             "LocalizeJP": ""
         },
         {
@@ -8253,7 +8253,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(행사장과 그 주변을 자연스레 조사하기 위해선…)",
+            "LocalizeKR": "（要想自然地\n调查会场和周边的\n话……）",
             "LocalizeJP": ""
         },
         {
@@ -8265,7 +8265,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(우선은 자연스럽게 대열에 합류해야겠네요.)",
+            "LocalizeKR": "（得先自然地混进\n队伍里才行。）",
             "LocalizeJP": ""
         },
         {
@@ -8277,7 +8277,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "이번 작전은 <양동이 작전>이야.",
+            "LocalizeKR": "这次行动就叫\n【声东嘻嘻】吧。",
             "LocalizeJP": ""
         },
         {
@@ -8301,7 +8301,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(지금부터 어디로 가는 게 좋을까요.)",
+            "LocalizeKR": "（现在该往哪儿\n走好呢。）",
             "LocalizeJP": ""
         },
         {
@@ -8325,7 +8325,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……직접 여쭤보는 게 빠르겠군요.",
+            "LocalizeKR": "……直接问本人\n最快了。",
             "LocalizeJP": ""
         },
         {
@@ -8337,7 +8337,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "쉽지 않네.",
+            "LocalizeKR": "真不容易啊。",
             "LocalizeJP": ""
         },
         {
@@ -8349,7 +8349,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으음… 어쩐지 미묘한 기분인데.",
+            "LocalizeKR": "嗯……\n总觉得有点微妙呢。",
             "LocalizeJP": ""
         },
         {
@@ -8373,7 +8373,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 이번에도 예산이 깎여버리면…",
+            "LocalizeKR": "唉……\n这次预算要是再被\n砍的话……",
             "LocalizeJP": ""
         },
         {
@@ -8385,7 +8385,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "큭큭… 굉장한 아이디어가 떠올랐어.",
+            "LocalizeKR": "嘿嘿……\n我想到个绝妙的\n主意。",
             "LocalizeJP": ""
         },
         {
@@ -8397,7 +8397,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오오! 제법 귀여운데?",
+            "LocalizeKR": "哇！\n还挺可爱的嘛？",
             "LocalizeJP": ""
         },
         {
@@ -8409,7 +8409,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "큭! 밀레니엄에는 이렇게 귀여운 로봇이 잔뜩…!",
+            "LocalizeKR": "嚯！\n千禧年居然有这么多\n可爱的机器人……！",
             "LocalizeJP": ""
         },
         {
@@ -8565,7 +8565,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "일반 학생 분들이 많이 계실만한 곳…….",
+            "LocalizeKR": "得找个普通学员\n多的地方……",
             "LocalizeJP": ""
         },
         {
@@ -8577,7 +8577,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……역시 <교실>이려나요.",
+            "LocalizeKR": "……果然还是得去\n【讲堂】吧。",
             "LocalizeJP": ""
         },
         {
@@ -8589,7 +8589,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(이곳이 밀레니엄의 교실…….)",
+            "LocalizeKR": "（这里就是千禧年的\n讲堂啊……）",
             "LocalizeJP": ""
         },
         {
@@ -8601,7 +8601,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(저희 학교와는 분위기가 사뭇 다르군요.)",
+            "LocalizeKR": "（和我们学院的氛围\n真是不太一样呢。）",
             "LocalizeJP": ""
         },
         {
@@ -8613,7 +8613,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "뭔가 평소보다 더 시끄럽지 않아?",
+            "LocalizeKR": "是不是比平时\n吵多了？",
             "LocalizeJP": ""
         },
         {
@@ -8625,7 +8625,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "SNS에 재미있는 게 많이 올라오네.",
+            "LocalizeKR": "社交平台上好多\n有意思的内容啊。",
             "LocalizeJP": ""
         },
         {
@@ -8637,7 +8637,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 또 무슨 일이 일어날까~",
+            "LocalizeKR": "今天又会有什么\n新鲜事呢~",
             "LocalizeJP": ""
         },
         {
@@ -8661,7 +8661,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "수업이 전혀 되질 않아……",
+            "LocalizeKR": "这课根本没法\n上了……",
             "LocalizeJP": ""
         },
         {
@@ -8673,7 +8673,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "나도 구경이나 다닐까?",
+            "LocalizeKR": "要不我也去\n凑个热闹？",
             "LocalizeJP": ""
         },
         {
@@ -8685,7 +8685,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "여기, 꽤 귀여운 게 많아 보여.",
+            "LocalizeKR": "这儿有意思的\n小玩意儿还真不少。",
             "LocalizeJP": ""
         },
         {
@@ -8697,7 +8697,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "모두에게서 열정이 느껴지는 곳……!",
+            "LocalizeKR": "这地方真是充满\n干劲啊……！",
             "LocalizeJP": ""
         },
         {
@@ -8709,7 +8709,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "왜 벌써 피곤하지……? 당분 부족?",
+            "LocalizeKR": "怎么这么快就\n累了……？\n难道是糖分不够了？",
             "LocalizeJP": ""
         },
         {
@@ -8721,7 +8721,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "꽤 정신사나운 곳이었네.",
+            "LocalizeKR": "可真够闹腾的。",
             "LocalizeJP": ""
         },
         {
@@ -8733,7 +8733,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "엑스포 기간에 문제가 생길 만한 곳?",
+            "LocalizeKR": "博览会期间容易出\n问题的地方？",
             "LocalizeJP": ""
         },
         {
@@ -8745,7 +8745,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "한두 곳이 아닐 것 같은데……",
+            "LocalizeKR": "不止一两处啊……",
             "LocalizeJP": ""
         },
         {
@@ -8757,7 +8757,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(비슷한 반응이로군요.)",
+            "LocalizeKR": "（反应都差不\n多呢。）",
             "LocalizeJP": ""
         },
         {
@@ -8769,7 +8769,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "불안한 곳?",
+            "LocalizeKR": "让人不放心的地方？",
             "LocalizeJP": ""
         },
         {
@@ -8781,7 +8781,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "사건 사고가 일어날 곳……?",
+            "LocalizeKR": "容易出事的\n地方……？",
             "LocalizeJP": ""
         },
         {
@@ -8805,7 +8805,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……우리 학교 전체? 하하하!",
+            "LocalizeKR": "是我们整个学院吧？\n哈哈哈！",
             "LocalizeJP": ""
         },
         {
@@ -8829,7 +8829,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "그, 그렇군요…….",
+            "LocalizeKR": "这，这样啊……",
             "LocalizeJP": ""
         },
         {
@@ -8841,7 +8841,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(이래서야 끝이 없겠네요.)",
+            "LocalizeKR": "（这样下去可没完\n没了了啊。）",
             "LocalizeJP": ""
         },
         {
@@ -8853,7 +8853,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(안 되겠어요. 직접 찾는 수밖에……)",
+            "LocalizeKR": "（看来只能亲自\n出马了……）",
             "LocalizeJP": ""
         },
         {
@@ -8865,7 +8865,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "다들 그다지 놀라지도 않는 것 같고…",
+            "LocalizeKR": "看来大家都没太\n惊讶的样子……",
             "LocalizeJP": ""
         },
         {
@@ -8877,7 +8877,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "밀레니엄에선 흔한 일인가 보군요.",
+            "LocalizeKR": "这在千禧年怕是\n家常便饭吧。",
             "LocalizeJP": ""
         },
         {
@@ -8889,7 +8889,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "깜짝 놀랐어……",
+            "LocalizeKR": "吓我一大跳……",
             "LocalizeJP": ""
         },
         {
@@ -8901,7 +8901,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "거대 메카 악어라니, SO HOT…….!",
+            "LocalizeKR": "巨型机械鳄鱼？！\n这也太酷了吧……！",
             "LocalizeJP": ""
         },
         {
@@ -8913,7 +8913,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "진짜 별의 별 게 다 있구나, 여기는.",
+            "LocalizeKR": "这儿真是啥稀奇\n玩意儿都有啊。",
             "LocalizeJP": ""
         },
         {
@@ -8925,7 +8925,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "괜찮은 거야, 이 학교?",
+            "LocalizeKR": "这学院真的\n没问题吗？",
             "LocalizeJP": ""
         },
         {
@@ -8937,7 +8937,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(엔지니어부라……)",
+            "LocalizeKR": "（工程部啊……）",
             "LocalizeJP": ""
         },
         {
@@ -8961,7 +8961,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(기우라면 좋을텐데 말이죠…)",
+            "LocalizeKR": "（但愿只是我\n多心……）",
             "LocalizeJP": ""
         },
         {
@@ -8973,7 +8973,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하아. 이런 실수를…",
+            "LocalizeKR": "唉，\n这种低级错误……",
             "LocalizeJP": ""
         },
         {
@@ -8985,7 +8985,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하하핫! 직접 보고 싶었는데.",
+            "LocalizeKR": "哈哈哈！\n真想亲眼见识一下。",
             "LocalizeJP": ""
         },
         {
@@ -8997,7 +8997,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아하하핫! 재밌었어.",
+            "LocalizeKR": "啊哈哈哈！\n真有意思。",
             "LocalizeJP": ""
         },
         {
@@ -9009,7 +9009,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "또 이런 사고를…",
+            "LocalizeKR": "怎么又出这种\n事故……",
             "LocalizeJP": ""
         },
         {
@@ -9021,7 +9021,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아아, 한 번만 봐달라고.",
+            "LocalizeKR": "拜托就让我\n看一眼嘛。",
             "LocalizeJP": ""
         },
         {
@@ -9033,7 +9033,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으아아아! 안돼!",
+            "LocalizeKR": "啊啊啊！\n不行！",
             "LocalizeJP": ""
         },
         {
@@ -9045,7 +9045,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "시즌 387호 아방가르드군이…!",
+            "LocalizeKR": "第387代前卫君\n竟然……！",
             "LocalizeJP": ""
         },
         {
@@ -9093,7 +9093,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 엔지니어부 녀석들은 매번…",
+            "LocalizeKR": "唉……\n工程部那帮家伙\n每次都这样……",
             "LocalizeJP": ""
         },
         {
@@ -9105,7 +9105,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "젠장, 이런 걸 봐버린 이상…!",
+            "LocalizeKR": "糟了，既然撞见了\n这种事……！",
             "LocalizeJP": ""
         },
         {
@@ -9117,7 +9117,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(아방가르드군 쪽으로 가보죠.)",
+            "LocalizeKR": "（去前卫君那边\n看看吧。）",
             "LocalizeJP": ""
         },
         {
@@ -9129,7 +9129,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……? 저건?)",
+            "LocalizeKR": "（……？那是？）",
             "LocalizeJP": ""
         },
         {
@@ -9141,7 +9141,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(뭔가 있네요.)",
+            "LocalizeKR": "（好像有情况。）",
             "LocalizeJP": ""
         },
         {
@@ -9153,7 +9153,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(아방가르드군 안에 들어있던 기계 같네요.)",
+            "LocalizeKR": "（看起来像是前卫君\n内部的机械装置。）",
             "LocalizeJP": ""
         },
         {
@@ -9165,7 +9165,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(하지만 저로선 뭔지 알 길이…….)",
+            "LocalizeKR": "（但我也看不出个\n所以然来……）",
             "LocalizeJP": ""
         },
         {
@@ -9177,7 +9177,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(로봇 강아지?)",
+            "LocalizeKR": "（机器狗？）",
             "LocalizeJP": ""
         },
         {
@@ -9189,7 +9189,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(혹시……?)",
+            "LocalizeKR": "（难道说……？）",
             "LocalizeJP": ""
         },
         {
@@ -9213,7 +9213,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……변했다?)",
+            "LocalizeKR": "（……变了？）",
             "LocalizeJP": ""
         },
         {
@@ -9225,7 +9225,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(제가…… 말인가요.)",
+            "LocalizeKR": "（……我吗。）",
             "LocalizeJP": ""
         },
         {
@@ -9249,7 +9249,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "이게 그 <보안키>라는 건가.",
+            "LocalizeKR": "这就是那个所谓的\n【密钥】啊。",
             "LocalizeJP": ""
         },
         {
@@ -9261,7 +9261,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "으음…….",
+            "LocalizeKR": "呃……",
             "LocalizeJP": ""
         },
         {
@@ -9273,7 +9273,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "이건가. 그럼 준비는 다됐고……",
+            "LocalizeKR": "看来万事俱备了……",
             "LocalizeJP": ""
         },
         {
@@ -9285,7 +9285,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "슬슬 데이터 센터로 가볼까.",
+            "LocalizeKR": "该去数据中心\n转转了。",
             "LocalizeJP": ""
         },
         {
@@ -9297,7 +9297,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "역시 C&C의 리더다운 행동력이군요.",
+            "LocalizeKR": "不愧是C&C的\n队长，行动力\n就是强。",
             "LocalizeJP": ""
         },
         {
@@ -9309,7 +9309,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…늦었어.",
+            "LocalizeKR": "……来迟了一步。",
             "LocalizeJP": ""
         },
         {
@@ -9321,7 +9321,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "하, 재미있어졌잖아.",
+            "LocalizeKR": "呵，\n这下可有趣了。",
             "LocalizeJP": ""
         },
         {
@@ -9333,7 +9333,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "뭐 하는 녀석들인진 몰라도……",
+            "LocalizeKR": "不管你们在搞\n什么名堂……",
             "LocalizeJP": ""
         },
         {
@@ -9345,7 +9345,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어디 한 번 해보자고.",
+            "LocalizeKR": "尽管放马过来吧。",
             "LocalizeJP": ""
         },
         {
@@ -9369,7 +9369,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "무서운 음모가 벌어지고 있었네요…",
+            "LocalizeKR": "这背后藏着可怕的\n阴谋啊……",
             "LocalizeJP": ""
         },
         {
@@ -9393,7 +9393,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "리오가 옳아요.",
+            "LocalizeKR": "莉音说得对。",
             "LocalizeJP": ""
         },
         {
@@ -9405,7 +9405,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "계속해서 비슷한 실수를…….",
+            "LocalizeKR": "我又犯了类似的\n错误……",
             "LocalizeJP": ""
         },
         {
@@ -9429,7 +9429,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어, 저기 있다!",
+            "LocalizeKR": "啊，在那儿！",
             "LocalizeJP": ""
         },
         {
@@ -9441,7 +9441,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "지금이라도 경호를 붙어야 할까…",
+            "LocalizeKR": "现在是不是该\n安排护卫了……",
             "LocalizeJP": ""
         },
         {
@@ -9453,7 +9453,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "뭐, 별일 없지 않을까!",
+            "LocalizeKR": "哎呀，\n应该不会有事吧！",
             "LocalizeJP": ""
         },
         {
@@ -9465,7 +9465,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(방금 헤어진 참인데 갑자기 연락이라니.)",
+            "LocalizeKR": "（刚分开就突然\n联系我……）",
             "LocalizeJP": ""
         },
         {
@@ -9477,7 +9477,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(일단 조용한 곳으로 이동해야겠어요.)",
+            "LocalizeKR": "（得先找个安静的\n地方。）",
             "LocalizeJP": ""
         },
         {
@@ -9489,7 +9489,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(여기가 게임개발부실……)",
+            "LocalizeKR": "（这里就是游戏开发\n部活动室……）",
             "LocalizeJP": ""
         },
         {
@@ -9501,7 +9501,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(어쩐지 조용한 느낌인데요.)",
+            "LocalizeKR": "（怪不得感觉这么\n安静呢。）",
             "LocalizeJP": ""
         },
         {
@@ -9513,7 +9513,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(일단은… 게임개발부 부원을 찾아볼까요.)",
+            "LocalizeKR": "（先……\n找找游戏开发部的\n成员吧。）",
             "LocalizeJP": ""
         },
         {
@@ -9537,7 +9537,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "좋은 결과가 있을 것입니다!",
+            "LocalizeKR": "肯定会有好结果的！",
             "LocalizeJP": ""
         },
         {
@@ -9549,7 +9549,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(사람들이 굉장히 많군요.)",
+            "LocalizeKR": "（人可真多啊。）",
             "LocalizeJP": ""
         },
         {
@@ -9561,7 +9561,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(…일단은 아리스 씨와 합류해야겠네요.)",
+            "LocalizeKR": "（……得先和爱丽丝\n会合才行。）",
             "LocalizeJP": ""
         },
         {
@@ -9585,7 +9585,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "이 기회에 예산을 잔뜩 따는 거야!",
+            "LocalizeKR": "趁这机会多\n搞点预算！",
             "LocalizeJP": ""
         },
         {
@@ -9597,7 +9597,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "많이들 와서 즐겨주세요!",
+            "LocalizeKR": "欢迎大家来\n玩个尽兴！",
             "LocalizeJP": ""
         },
         {
@@ -9609,7 +9609,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아리스도 두근두근합니다!",
+            "LocalizeKR": "爱丽丝也兴奋得\n心怦怦跳呢！",
             "LocalizeJP": ""
         },
         {
@@ -9669,7 +9669,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "여기서 게임을 체험할 수 있다는 거지?",
+            "LocalizeKR": "在这儿能试玩\n游戏对吧？",
             "LocalizeJP": ""
         },
         {
@@ -9681,7 +9681,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음… 불안한데…",
+            "LocalizeKR": "嗯……\n有点不放心啊……",
             "LocalizeJP": ""
         },
         {
@@ -9705,7 +9705,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "드디어 대작 한번 나오나?",
+            "LocalizeKR": "终于要出大作了吗？",
             "LocalizeJP": ""
         },
         {
@@ -9741,7 +9741,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "기대된다, 기대돼!",
+            "LocalizeKR": "好期待，\n超期待的！",
             "LocalizeJP": ""
         },
         {
@@ -9777,7 +9777,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(이것 또한 조사……라 할 수 있겠죠.)",
+            "LocalizeKR": "（这也算是一种\n调查吧……）",
             "LocalizeJP": ""
         },
         {
@@ -9789,7 +9789,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(겉보기에는 평범해 보이는데……)",
+            "LocalizeKR": "（表面看着挺\n普通的……）",
             "LocalizeJP": ""
         },
         {
@@ -9801,7 +9801,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(그래도 리오의 말입니다. 뭔가 있겠죠.)",
+            "LocalizeKR": "（不过既然是\n莉音说的，肯定有\n蹊跷。）",
             "LocalizeJP": ""
         },
         {
@@ -9813,7 +9813,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "뭐, 뭐였죠 방금……?",
+            "LocalizeKR": "刚，刚才那是\n怎么回事……？",
             "LocalizeJP": ""
         },
         {
@@ -9825,7 +9825,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "이, 이게…… 게임?",
+            "LocalizeKR": "这，这真的是……\n游戏？",
             "LocalizeJP": ""
         },
         {
@@ -9837,7 +9837,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……뭔가 이상해요.",
+            "LocalizeKR": "……感觉有点\n不对劲。",
             "LocalizeJP": ""
         },
         {
@@ -9849,7 +9849,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……한 번 여쭤봐야겠군요.",
+            "LocalizeKR": "……得去问个明白。",
             "LocalizeJP": ""
         },
         {
@@ -9861,7 +9861,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "이딴 게 게임이냐!",
+            "LocalizeKR": "这算什么游戏啊！",
             "LocalizeJP": ""
         },
         {
@@ -9873,7 +9873,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "뭐 인마?",
+            "LocalizeKR": "搞什么鬼？",
             "LocalizeJP": ""
         },
         {
@@ -9909,7 +9909,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "내 인생 최악의 게임이었어…",
+            "LocalizeKR": "这简直是我玩过\n最烂的游戏了……",
             "LocalizeJP": ""
         },
         {
@@ -9921,7 +9921,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "말이 너무 심한 거 아니야?",
+            "LocalizeKR": "这话说得是不是\n太过分了？",
             "LocalizeJP": ""
         },
         {
@@ -9933,7 +9933,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으아아, 어떡하지?",
+            "LocalizeKR": "啊啊啊，\n这下怎么办？",
             "LocalizeJP": ""
         },
         {
@@ -9945,7 +9945,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "크, 큰일인데… 어떡하지?",
+            "LocalizeKR": "糟，糟了……\n怎么办？",
             "LocalizeJP": ""
         },
         {
@@ -9957,7 +9957,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으아아아! 대위기입니다!",
+            "LocalizeKR": "啊啊啊！\n这下麻烦大了！",
             "LocalizeJP": ""
         },
         {
@@ -9969,7 +9969,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "여러분, 진정하세요.",
+            "LocalizeKR": "大家先冷静一下。",
             "LocalizeJP": ""
         },
         {
@@ -9981,7 +9981,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "학우 분도 멈춰 주세요. 이건 티파티의 명입니다.",
+            "LocalizeKR": "同学们请留步。\n这是茶话会的命令。",
             "LocalizeJP": ""
         },
         {
@@ -9993,7 +9993,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "지금의 감정은 정상적인 상태가 아니에요.",
+            "LocalizeKR": "现在大家的情绪\n不太稳定。",
             "LocalizeJP": ""
         },
         {
@@ -10005,7 +10005,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "잠시 숨을 고르고, 조금 있다 다시 말씀하시죠.",
+            "LocalizeKR": "先平复一下呼吸，\n待会儿再说吧。",
             "LocalizeJP": ""
         },
         {
@@ -10017,7 +10017,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(분명 그녀라면 이 게임을 분석할 수 있겠죠.)",
+            "LocalizeKR": "（要是她在的话，\n肯定能分析出这个\n游戏的门道。）",
             "LocalizeJP": ""
         },
         {
@@ -10029,7 +10029,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……은신처로 돌아가야겠어요.)",
+            "LocalizeKR": "（得先回藏身\n处了。）",
             "LocalizeJP": ""
         },
         {
@@ -10041,7 +10041,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "이번에는 참고 넘어갈 테니까.",
+            "LocalizeKR": "这次我就先\n不追究了。",
             "LocalizeJP": ""
         },
         {
@@ -10053,7 +10053,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "……??? 누가 할 소릴?",
+            "LocalizeKR": "……？？？\n这话轮得到你来说？",
             "LocalizeJP": ""
         },
         {
@@ -10113,7 +10113,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "겨, 겨우 진정됐다…",
+            "LocalizeKR": "（总，总算是冷静\n下来了……）",
             "LocalizeJP": ""
         },
         {
@@ -10125,7 +10125,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "정말 다행입니다……",
+            "LocalizeKR": "真是万幸……",
             "LocalizeJP": ""
         },
         {
@@ -10137,7 +10137,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하아…… 큰일 날뻔했어.",
+            "LocalizeKR": "好险……\n差点就出大事了。",
             "LocalizeJP": ""
         },
         {
@@ -10149,7 +10149,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "흐음…",
+            "LocalizeKR": "嗯……",
             "LocalizeJP": ""
         },
         {
@@ -10161,7 +10161,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(여러 의미로 굉장한 게임이었네요.)",
+            "LocalizeKR": "（从各种意义上\n来说，这游戏都挺\n绝的。）",
             "LocalizeJP": ""
         },
         {
@@ -10173,7 +10173,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(리오가 게임을 추가로 분석하는 동안……)",
+            "LocalizeKR": "（在莉音进一步分析\n游戏的时候……）",
             "LocalizeJP": ""
         },
         {
@@ -10185,7 +10185,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(잠시 기다리도록 하죠.)",
+            "LocalizeKR": "（先等一会儿吧。）",
             "LocalizeJP": ""
         },
         {
@@ -10197,7 +10197,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "하…… 아직도 분이 안 풀리네.",
+            "LocalizeKR": "哈……这口气我可\n咽不下去。",
             "LocalizeJP": ""
         },
         {
@@ -10221,7 +10221,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "그래도 일은 해야겠지.",
+            "LocalizeKR": "但该干的活儿\n还是得干。",
             "LocalizeJP": ""
         },
         {
@@ -10233,7 +10233,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "여기는 사람이 별로 없네?",
+            "LocalizeKR": "这儿人怎么这么少？",
             "LocalizeJP": ""
         },
         {
@@ -10245,7 +10245,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 상체 운동을 가볍게…",
+            "LocalizeKR": "今天上肢训练就\n轻松点……",
             "LocalizeJP": ""
         },
         {
@@ -10257,7 +10257,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "대단해요, 하스미 선배!",
+            "LocalizeKR": "莲见前辈太厉害了！",
             "LocalizeJP": ""
         },
         {
@@ -10269,7 +10269,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "너무 그렇게 보지 말아줘…",
+            "LocalizeKR": "别那么盯着我\n看啦……",
             "LocalizeJP": ""
         },
         {
@@ -10281,7 +10281,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "여기는 딱히 수상한 점이 안 보이는데…",
+            "LocalizeKR": "这儿倒是看不出\n什么异常……",
             "LocalizeJP": ""
         },
         {
@@ -10293,7 +10293,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "으음, 여기도 문제는 없어 보이네.",
+            "LocalizeKR": "嗯，这儿看起来也\n没啥问题。",
             "LocalizeJP": ""
         },
         {
@@ -10305,7 +10305,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어쩐다… 차라리 물어봐야 하나?",
+            "LocalizeKR": "啧……\n要不直接问问看？",
             "LocalizeJP": ""
         },
         {
@@ -10317,7 +10317,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "녀석들이 분명해.",
+            "LocalizeKR": "肯定是这帮家伙。",
             "LocalizeJP": ""
         },
         {
@@ -10329,7 +10329,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "좋아, 이번에는 놓치지 않는다고.",
+            "LocalizeKR": "行，这次绝不会\n让她们溜了。",
             "LocalizeJP": ""
         },
         {
@@ -10341,7 +10341,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "크, 큰일 날뻔했어요…",
+            "LocalizeKR": "差，差点就出\n大事了……",
             "LocalizeJP": ""
         },
         {
@@ -10377,7 +10377,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 때린 데를 또 때리다니…",
+            "LocalizeKR": "呜呜……\n怎么专挑受伤的\n地方打啊……",
             "LocalizeJP": ""
         },
         {
@@ -10389,7 +10389,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "나, 나는 아무 것도 몰라!",
+            "LocalizeKR": "我，我什么都\n不知道！",
             "LocalizeJP": ""
         },
         {
@@ -10401,7 +10401,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…….",
+            "LocalizeKR": "……",
             "LocalizeJP": ""
         },
         {
@@ -10413,7 +10413,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "설마했는데, 정말로 흑막이 있었군요…",
+            "LocalizeKR": "万万没想到，\n背后真有黑手……",
             "LocalizeJP": ""
         },
         {
@@ -10425,7 +10425,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "준비라……",
+            "LocalizeKR": "准备……",
             "LocalizeJP": ""
         },
         {
@@ -10437,7 +10437,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "이번에도 '그걸' 챙겨볼까요.",
+            "LocalizeKR": "这次也把“那个”\n带上吧。",
             "LocalizeJP": ""
         },
         {
@@ -10449,7 +10449,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…….",
+            "LocalizeKR": "……",
             "LocalizeJP": ""
         },
         {
@@ -10461,7 +10461,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "다치면 곤란해.",
+            "LocalizeKR": "要是受伤就麻烦了。",
             "LocalizeJP": ""
         },
         {
@@ -10473,7 +10473,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "준비를 철저히 해야 할 거야.",
+            "LocalizeKR": "必须做好万全准备。",
             "LocalizeJP": ""
         },
         {
@@ -10497,7 +10497,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "지금 저쪽으로 가선 안 돼…!",
+            "LocalizeKR": "现在不能往那边\n去……！",
             "LocalizeJP": ""
         },
         {
@@ -10521,7 +10521,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "가, 갑자기 이게 무슨…",
+            "LocalizeKR": "这，这突然是\n怎么了……",
             "LocalizeJP": ""
         },
         {
@@ -10533,7 +10533,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "스, 습격이라고?",
+            "LocalizeKR": "偷袭？！",
             "LocalizeJP": ""
         },
         {
@@ -10545,7 +10545,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "그럼 우리는 어떻게 되는 거야?",
+            "LocalizeKR": "那我们怎么办？",
             "LocalizeJP": ""
         },
         {
@@ -10557,7 +10557,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아직 잔금이 남았는데…!",
+            "LocalizeKR": "尾款还没\n结清呢……！",
             "LocalizeJP": ""
         },
         {
@@ -10569,7 +10569,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "조금만 기다려 봐.",
+            "LocalizeKR": "等着。",
             "LocalizeJP": ""
         },
         {
@@ -10581,7 +10581,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "재밌는 걸 볼 수 있을 테니.",
+            "LocalizeKR": "有好戏看。",
             "LocalizeJP": ""
         },
         {
@@ -10593,7 +10593,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "지금쯤이면… 시작했으려나.",
+            "LocalizeKR": "这会儿……\n应该已经开始了吧。",
             "LocalizeJP": ""
         },
         {
@@ -10605,7 +10605,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "후우……",
+            "LocalizeKR": "呼……",
             "LocalizeJP": ""
         },
         {
@@ -10617,7 +10617,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(굉장히 길게 느껴진 하루였네요.)",
+            "LocalizeKR": "（今天真是漫长的\n一天啊。）",
             "LocalizeJP": ""
         },
         {
@@ -10629,7 +10629,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(마지막으로 상황을 정리하죠.)",
+            "LocalizeKR": "（最后再梳理一下\n情况吧。）",
             "LocalizeJP": ""
         },
         {
@@ -10665,7 +10665,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(생각보다 빠른 호출……)",
+            "LocalizeKR": "（召集来得比预想中\n快啊……）",
             "LocalizeJP": ""
         },
         {
@@ -10677,7 +10677,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(뭔가 찾아냈나 보군요.)",
+            "LocalizeKR": "（看来是查出什么\n了。）",
             "LocalizeJP": ""
         },
         {
@@ -10701,7 +10701,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "왔구나.",
+            "LocalizeKR": "来了啊。",
             "LocalizeJP": ""
         },
         {
@@ -10725,7 +10725,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "갑자기 전시 물품이 사라졌으니…",
+            "LocalizeKR": "展会物品突然\n失踪……",
             "LocalizeJP": ""
         },
         {
@@ -10737,7 +10737,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "출품자가 찾고 있진 않을까 걱정이네요.",
+            "LocalizeKR": "有点担心参展方\n会不会正在找呢。",
             "LocalizeJP": ""
         },
         {
@@ -10749,7 +10749,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아직은 시킬 일이 없어.",
+            "LocalizeKR": "暂时还没什么\n要你做的。",
             "LocalizeJP": ""
         },
         {
@@ -10761,7 +10761,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 이만 쉬도록 해.",
+            "LocalizeKR": "今天先休息吧。",
             "LocalizeJP": ""
         },
         {
@@ -10773,7 +10773,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "키가 크게 해주는 기술이라고?",
+            "LocalizeKR": "能让人长高的技术？",
             "LocalizeJP": ""
         },
         {
@@ -10785,7 +10785,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…천잰데? 안정화는 어떻게 해결했지?",
+            "LocalizeKR": "……天才啊！\n稳定性问题怎么\n解决的？",
             "LocalizeJP": ""
         },
         {
@@ -10809,7 +10809,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어디로 사라졌을까.",
+            "LocalizeKR": "跑哪儿去了呢。",
             "LocalizeJP": ""
         },
         {
@@ -10821,7 +10821,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "힘들게 제작한 물건인데…",
+            "LocalizeKR": "好不容易做出来的\n东西……",
             "LocalizeJP": ""
         },
         {
@@ -10833,7 +10833,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "그, 부분은 아직 우리도 잘……",
+            "LocalizeKR": "那个部分嘛……\n我们其实也还在\n摸索……",
             "LocalizeJP": ""
         },
         {
@@ -10845,7 +10845,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "설명이 안 되시는 건가요? 같이 알아보죠!",
+            "LocalizeKR": "您也解释不清吗？\n那我们一起研究吧！",
             "LocalizeJP": ""
         },
         {
@@ -10857,7 +10857,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "히비키! 이 부분을 잘 모르겠는데…",
+            "LocalizeKR": "阿响！\n这部分我不太懂……",
             "LocalizeJP": ""
         },
         {
@@ -10869,7 +10869,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "그 부분은 그러니까…",
+            "LocalizeKR": "这个部分嘛……",
             "LocalizeJP": ""
         },
         {
@@ -10881,7 +10881,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "후…… 뭐가 이리 일이 많냐.",
+            "LocalizeKR": "啧……\n怎么破事这么多。",
             "LocalizeJP": ""
         },
         {
@@ -10893,7 +10893,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어이, 언니 왔다-.",
+            "LocalizeKR": "你姐姐我来了——",
             "LocalizeJP": ""
         },
         {
@@ -10917,7 +10917,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "은밀하게. 알았지?",
+            "LocalizeKR": "悄悄进行。\n懂吗？",
             "LocalizeJP": ""
         },
         {
@@ -10941,7 +10941,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "주황머리 녀석한테 리더가 잡혀가다니…",
+            "LocalizeKR": "队长居然被那个\n橙毛抓走了……",
             "LocalizeJP": ""
         },
         {
@@ -10953,7 +10953,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "우린 이제 어떡하지?",
+            "LocalizeKR": "这下咱们怎么办？",
             "LocalizeJP": ""
         },
         {
@@ -10965,7 +10965,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "가만… 리더를 새로 뽑으면 되잖아?",
+            "LocalizeKR": "等等……\n咱们重选个队长\n不就行了？",
             "LocalizeJP": ""
         },
         {
@@ -10989,7 +10989,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오! 천잰데?",
+            "LocalizeKR": "我去！天才啊！",
             "LocalizeJP": ""
         },
         {
@@ -11013,7 +11013,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "…아스나?",
+            "LocalizeKR": "……明日奈？",
             "LocalizeJP": ""
         },
         {
@@ -11025,7 +11025,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어서 와.",
+            "LocalizeKR": "快进来吧。",
             "LocalizeJP": ""
         },
         {
@@ -11037,7 +11037,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하아… 정신없네.",
+            "LocalizeKR": "哈啊……够乱的。",
             "LocalizeJP": ""
         },
         {
@@ -11061,7 +11061,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "게임개발부의 헤프닝이었다니…",
+            "LocalizeKR": "游戏开发部闹出的\n乱子啊……",
             "LocalizeJP": ""
         },
         {
@@ -11073,7 +11073,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "그래도 큰일이 아니라 다행이네요.",
+            "LocalizeKR": "还好没出什么大事。",
             "LocalizeJP": ""
         },
         {
@@ -11085,7 +11085,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "완벽한 수행이었어.",
+            "LocalizeKR": "干得漂亮。",
             "LocalizeJP": ""
         },
         {
@@ -11097,7 +11097,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 여기까지야. 수고 많았어.",
+            "LocalizeKR": "今天就到这儿吧，\n辛苦各位了。",
             "LocalizeJP": ""
         },
         {
@@ -11121,7 +11121,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "에, 에헤헤…",
+            "LocalizeKR": "诶，诶嘿嘿……",
             "LocalizeJP": ""
         },
         {
@@ -11133,7 +11133,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "웃을 일이 아니잖아…!",
+            "LocalizeKR": "这有什么好笑\n的……！",
             "LocalizeJP": ""
         },
         {
@@ -11145,7 +11145,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아리스는 업데이트에 성공했습니다!",
+            "LocalizeKR": "爱丽丝升级成功啦！",
             "LocalizeJP": ""
         },
         {
@@ -11169,7 +11169,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "왔어?",
+            "LocalizeKR": "来啦？",
             "LocalizeJP": ""
         },
         {
@@ -11193,7 +11193,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "후우, 어떻게 잘 마무리 됐네요.",
+            "LocalizeKR": "呼，\n总算顺利解决了。",
             "LocalizeJP": ""
         },
         {
@@ -11205,7 +11205,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "세미나분들은…… 지금쯤 자고 있겠죠?",
+            "LocalizeKR": "研讨会的人……\n这会儿应该睡了吧？",
             "LocalizeJP": ""
         },
         {
@@ -11217,7 +11217,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "정신 없이 문제를 해결하다 보니 날이 밝았네요.",
+            "LocalizeKR": "忙得晕头转向，\n不知不觉天都亮了。",
             "LocalizeJP": ""
         },
         {
@@ -11241,7 +11241,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "으음… 시연장은 별다른 문제가 없겠죠?",
+            "LocalizeKR": "嗯……\n演示区应该没\n问题了吧？",
             "LocalizeJP": ""
         },
         {
@@ -11253,7 +11253,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 이만 쉬도록 해.",
+            "LocalizeKR": "今天先休息吧。",
             "LocalizeJP": ""
         },
         {
@@ -11265,7 +11265,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "엥? 그게 끝?!",
+            "LocalizeKR": "啥？\n这就完了？！",
             "LocalizeJP": ""
         },
         {
@@ -11289,7 +11289,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으응…?",
+            "LocalizeKR": "嗯……？",
             "LocalizeJP": ""
         },
         {
@@ -11301,7 +11301,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어제랑 뭔가 다른 것 같은데…",
+            "LocalizeKR": "感觉跟昨天不太\n一样啊……",
             "LocalizeJP": ""
         },
         {
@@ -11313,7 +11313,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음… 뭔가 재밌는 게 없으려나.",
+            "LocalizeKR": "嗯……\n有什么好玩的事吗。",
             "LocalizeJP": ""
         },
         {
@@ -11325,7 +11325,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "야, 게임개발부 부스 가봤어?",
+            "LocalizeKR": "喂，\n你去过游戏开发部的\n展位没？",
             "LocalizeJP": ""
         },
         {
@@ -11337,7 +11337,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으음…",
+            "LocalizeKR": "嗯……",
             "LocalizeJP": ""
         },
         {
@@ -11349,7 +11349,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "흐아암~ 오늘은 한가하네.",
+            "LocalizeKR": "哈啊~\n今天还挺清闲的。",
             "LocalizeJP": ""
         },
         {
@@ -11361,7 +11361,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "언니! 제대로 좀 서 있어!",
+            "LocalizeKR": "姐姐！站好了！",
             "LocalizeJP": ""
         },
         {
@@ -11373,7 +11373,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "생각보다 뭐가 많진 않은데?",
+            "LocalizeKR": "比想象中冷清嘛。",
             "LocalizeJP": ""
         },
         {
@@ -11385,7 +11385,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "위험하다고 다 치웠다나봐.",
+            "LocalizeKR": "听说危险的东西\n都被清走了。",
             "LocalizeJP": ""
         },
         {
@@ -11445,7 +11445,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "우선 도착은 했지만……",
+            "LocalizeKR": "虽然人是先\n到了……",
             "LocalizeJP": ""
         },
         {
@@ -11457,7 +11457,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(어디부터 돌아보는 게 좋을까요.)",
+            "LocalizeKR": "（该从哪儿开始\n逛呢？）",
             "LocalizeJP": ""
         },
         {
@@ -11469,7 +11469,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……가끔은 무계획도 좋겠지요.",
+            "LocalizeKR": "……偶尔随性逛逛\n也不错。",
             "LocalizeJP": ""
         },
         {
@@ -11481,7 +11481,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "더… 더 이상은…!",
+            "LocalizeKR": "不……\n不行了……！",
             "LocalizeJP": ""
         },
         {
@@ -11493,7 +11493,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "자, 자. 마지막으로 한 개만 더!",
+            "LocalizeKR": "再来，\n再来一个就好！",
             "LocalizeJP": ""
         },
         {
@@ -11505,7 +11505,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으아아… 차라리 날 죽여…",
+            "LocalizeKR": "呃啊啊……\n不如杀了我算了……",
             "LocalizeJP": ""
         },
         {
@@ -11529,7 +11529,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어, 어서오세요…",
+            "LocalizeKR": "欢，欢迎光临……",
             "LocalizeJP": ""
         },
         {
@@ -11541,7 +11541,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "호오… 과연.",
+            "LocalizeKR": "哦嚯……\n有点意思。",
             "LocalizeJP": ""
         },
         {
@@ -11565,7 +11565,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "얼마나 저러고 있는 거야?",
+            "LocalizeKR": "这到底是在闹\n什么呢？",
             "LocalizeJP": ""
         },
         {
@@ -11625,7 +11625,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(무슨 상황인 걸까요.)",
+            "LocalizeKR": "（这什么情况\n啊……）",
             "LocalizeJP": ""
         },
         {
@@ -11637,7 +11637,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……처벌? 아니, 그럴 리가……)",
+            "LocalizeKR": "（……处罚？\n不会吧，怎么可\n能……）",
             "LocalizeJP": ""
         },
         {
@@ -11649,7 +11649,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(가서 여쭤보는 것 정도는 괜찮겠지요.)",
+            "LocalizeKR": "（去问问情况总\n可以吧。）",
             "LocalizeJP": ""
         },
         {
@@ -11661,7 +11661,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……살았다.",
+            "LocalizeKR": "……得救了。",
             "LocalizeJP": ""
         },
         {
@@ -11673,7 +11673,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "어라, 저 방금…… ",
+            "LocalizeKR": "等等，\n我刚才是不是……",
             "LocalizeJP": ""
         },
         {
@@ -11685,7 +11685,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……'살았다'라고 했나요?",
+            "LocalizeKR": "说了“得救了”？",
             "LocalizeJP": ""
         },
         {
@@ -11697,7 +11697,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하스미 부장… 어디로 사라진거지?",
+            "LocalizeKR": "莲见部长……\n这是躲哪儿去了？",
             "LocalizeJP": ""
         },
         {
@@ -11709,7 +11709,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 겨우 도망쳤어…",
+            "LocalizeKR": "唉……\n总算溜出来了……",
             "LocalizeJP": ""
         },
         {
@@ -11721,7 +11721,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "그녀석은 악마야…",
+            "LocalizeKR": "那个家伙？",
             "LocalizeJP": ""
         },
         {
@@ -11733,7 +11733,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "…힘들었겠네.",
+            "LocalizeKR": "……辛苦了。",
             "LocalizeJP": ""
         },
         {
@@ -11745,7 +11745,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "쯧쯧쯧…",
+            "LocalizeKR": "啧啧啧……",
             "LocalizeJP": ""
         },
         {
@@ -11757,7 +11757,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "흠…",
+            "LocalizeKR": "嗯……",
             "LocalizeJP": ""
         },
         {
@@ -11781,7 +11781,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "하아…",
+            "LocalizeKR": "哈啊……",
             "LocalizeJP": ""
         },
         {
@@ -11793,7 +11793,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "정말이지 큰일 날 뻔했어요.",
+            "LocalizeKR": "刚才真是好险啊。",
             "LocalizeJP": ""
         },
         {
@@ -11805,7 +11805,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "대체 무슨 일이었을까요.",
+            "LocalizeKR": "这到底是怎么\n回事啊？",
             "LocalizeJP": ""
         },
         {
@@ -11817,7 +11817,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……아무리 생각해도 수상합니다.",
+            "LocalizeKR": "……怎么想都觉得\n不对劲。",
             "LocalizeJP": ""
         },
         {
@@ -11829,7 +11829,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "당분간 조심하는 게 좋곘어.",
+            "LocalizeKR": "暂时还是小心点好。",
             "LocalizeJP": ""
         },
         {
@@ -11841,7 +11841,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "후우… 모처럼 즐거웠네.",
+            "LocalizeKR": "呼……\n难得这么尽兴。",
             "LocalizeJP": ""
         },
         {
@@ -11853,7 +11853,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "정말 바람 잘 날 없는 곳이네, 여기도.",
+            "LocalizeKR": "这地方也是片刻\n不得安宁啊。",
             "LocalizeJP": ""
         },
         {
@@ -11865,7 +11865,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어떤 의미에선 우리보다 더……",
+            "LocalizeKR": "某种意义上比\n我们还……",
             "LocalizeJP": ""
         },
         {
@@ -11877,7 +11877,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "유우카 선배가 많이 화가 난 모양이던데….",
+            "LocalizeKR": "优香前辈好像特别\n生气呢……",
             "LocalizeJP": ""
         },
         {
@@ -11889,7 +11889,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "오늘은 조심해야겠다.",
+            "LocalizeKR": "今天得小心行事了。",
             "LocalizeJP": ""
         },
         {
@@ -11913,7 +11913,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "후후후, 그렇단 말이지…",
+            "LocalizeKR": "呵呵呵，\n这么说来……",
             "LocalizeJP": ""
         },
         {
@@ -11925,7 +11925,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(그럼 어디서부터 둘러볼까요……)",
+            "LocalizeKR": "（那从哪儿开始\n逛好呢……）",
             "LocalizeJP": ""
         },
         {
@@ -11937,7 +11937,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……일단 캠퍼스로 나가죠.",
+            "LocalizeKR": "……先去校园里吧。",
             "LocalizeJP": ""
         },
         {
@@ -11961,7 +11961,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "응! 오늘 완전 운이 좋은데?",
+            "LocalizeKR": "嗯！今天运气\n真不错啊！",
             "LocalizeJP": ""
         },
         {
@@ -11973,7 +11973,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음… 도대체 누가…",
+            "LocalizeKR": "嗯……\n到底是谁……",
             "LocalizeJP": ""
         },
         {
@@ -11985,7 +11985,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "어디 떨어진 동전 없나…",
+            "LocalizeKR": "看看有没有掉落的\n硬币……",
             "LocalizeJP": ""
         },
         {
@@ -12009,7 +12009,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아! 선물 사야하는데!",
+            "LocalizeKR": "哎呀！\n得买礼物了！",
             "LocalizeJP": ""
         },
         {
@@ -12021,7 +12021,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "푸하하! 그걸 이제 떠올리면 어떡해!",
+            "LocalizeKR": "噗哈哈！\n现在才想起来有\n什么用！",
             "LocalizeJP": ""
         },
         {
@@ -12033,7 +12033,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으음… 과학의 길은 심오하네…",
+            "LocalizeKR": "嗯……\n科学之路真是\n深奥啊……",
             "LocalizeJP": ""
         },
         {
@@ -12045,7 +12045,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 어디다 뒀더라…",
+            "LocalizeKR": "嗯……\n我放哪儿了来着……",
             "LocalizeJP": ""
         },
         {
@@ -12057,7 +12057,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "언니! 다 쓴 물건은 제자리에 뒀어야지!",
+            "LocalizeKR": "姐姐！用完的东西\n要放回原位啊！",
             "LocalizeJP": ""
         },
         {
@@ -12069,7 +12069,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "지, 진정하고 잘 찾아보자.",
+            "LocalizeKR": "别慌，慢慢找。",
             "LocalizeJP": ""
         },
         {
@@ -12093,7 +12093,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "깨끗해진 건 좋은 거니까요.",
+            "LocalizeKR": "收拾干净了总归是\n好事嘛。",
             "LocalizeJP": ""
         },
         {
@@ -12105,7 +12105,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(다음은 어디로 가볼까요.)",
+            "LocalizeKR": "（接下来去哪儿\n好呢。）",
             "LocalizeJP": ""
         },
         {
@@ -12117,7 +12117,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(……게임개발부?)",
+            "LocalizeKR": "（游戏开发部？）",
             "LocalizeJP": ""
         },
         {
@@ -12141,7 +12141,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "저건…….",
+            "LocalizeKR": "那个是……",
             "LocalizeJP": ""
         },
         {
@@ -12153,7 +12153,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "꽤 즐거웠네요, 게임도 재미있었고.",
+            "LocalizeKR": "挺开心的，\n游戏也很有意思。",
             "LocalizeJP": ""
         },
         {
@@ -12165,7 +12165,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "다음은……",
+            "LocalizeKR": "接下来……",
             "LocalizeJP": ""
         },
         {
@@ -12177,7 +12177,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "엔지니어부를 찾아가 보죠.",
+            "LocalizeKR": "去工程部看看吧。",
             "LocalizeJP": ""
         },
         {
@@ -12189,7 +12189,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으으… 이길 수 있었는데…",
+            "LocalizeKR": "唉……\n本来能赢的……",
             "LocalizeJP": ""
         },
         {
@@ -12201,7 +12201,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "으이그… 언니는 너무 덤벙대.",
+            "LocalizeKR": "哎呀……\n姐姐你也太毛手\n毛脚了。",
             "LocalizeJP": ""
         },
         {
@@ -12225,7 +12225,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아리스도 장인이 되고 싶습니다!",
+            "LocalizeKR": "爱丽丝也想\n成为专家！",
             "LocalizeJP": ""
         },
         {
@@ -12237,7 +12237,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(찝찝함의 근원이 이거였군요.)",
+            "LocalizeKR": "（原来不安的源头\n是这个啊。）",
             "LocalizeJP": ""
         },
         {
@@ -12249,7 +12249,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(붙잡지 못한 로봇 악어……)",
+            "LocalizeKR": "（没逮住的机器\n鳄鱼……）",
             "LocalizeJP": ""
         },
         {
@@ -12261,7 +12261,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "(어서 리오에게 알려야겠어요.)",
+            "LocalizeKR": "（得赶紧告诉莉音\n才行。）",
             "LocalizeJP": ""
         },
         {
@@ -12273,7 +12273,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "멋진 서포팅이었습니다, 리오.",
+            "LocalizeKR": "配合得漂亮，\n莉音。",
             "LocalizeJP": ""
         },
         {
@@ -12297,7 +12297,7 @@
             "MotionName": "",
             "IsInteractionDialog": true,
             "HideUI": true,
-            "LocalizeKR": "……뭔가 조용하네요.",
+            "LocalizeKR": "……怎么这么安静。",
             "LocalizeJP": ""
         },
         {
@@ -12309,7 +12309,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "쳇… 누구 때문에 고생했는데.",
+            "LocalizeKR": "啧……\n你以为是谁害得我\n这么辛苦啊。",
             "LocalizeJP": ""
         },
         {
@@ -12321,7 +12321,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아무래도 공격 기능이 조금…",
+            "LocalizeKR": "攻击功能好像\n有点……",
             "LocalizeJP": ""
         },
         {
@@ -12333,7 +12333,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "나도 그렇게 생각해.",
+            "LocalizeKR": "我也这么觉得。",
             "LocalizeJP": ""
         },
         {
@@ -12357,7 +12357,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "또 무슨 작당모의를…",
+            "LocalizeKR": "又在打什么\n鬼主意……",
             "LocalizeJP": ""
         },
         {
@@ -12381,7 +12381,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "이게 그 유명한 아방가르드군…?",
+            "LocalizeKR": "这就是传说中的\n前卫君……？",
             "LocalizeJP": ""
         },
         {
@@ -12405,7 +12405,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "들은 거랑 다른 거 같은데…",
+            "LocalizeKR": "跟听说的不太一样啊……",
             "LocalizeJP": ""
         },
         {
@@ -12417,7 +12417,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "모모톡 교환하지 않을래?",
+            "LocalizeKR": "要不要\n交换桃信？",
             "LocalizeJP": ""
         },
         {
@@ -12429,7 +12429,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "좋아!",
+            "LocalizeKR": "好耶！",
             "LocalizeJP": ""
         },
         {
@@ -12453,7 +12453,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "보고 싶을 거야…",
+            "LocalizeKR": "会想你的啦……",
             "LocalizeJP": ""
         },
         {
@@ -12477,7 +12477,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "음… 나도.",
+            "LocalizeKR": "嗯……我也是。",
             "LocalizeJP": ""
         },
         {
@@ -12489,7 +12489,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "왜? 할 말 있어?",
+            "LocalizeKR": "怎么了？\n有话要说？",
             "LocalizeJP": ""
         },
         {
@@ -12501,7 +12501,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "아, 아니, 그게…",
+            "LocalizeKR": "啊不，那个……",
             "LocalizeJP": ""
         },
         {
@@ -12513,7 +12513,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "좋은 정보 고마워!",
+            "LocalizeKR": "多谢你的情报！",
             "LocalizeJP": ""
         },
         {
@@ -12525,7 +12525,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "너야말로!",
+            "LocalizeKR": "也谢谢你！",
             "LocalizeJP": ""
         },
         {
@@ -12873,7 +12873,7 @@
             "MotionName": "",
             "IsInteractionDialog": false,
             "HideUI": false,
-            "LocalizeKR": "(지금은 다른 할 일이 있죠.)",
+            "LocalizeKR": "（现在还有别的事\n要忙呢。）",
             "LocalizeJP": ""
         },
         {

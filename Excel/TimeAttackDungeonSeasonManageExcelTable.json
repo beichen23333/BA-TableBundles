@@ -338,5 +338,15 @@
         "DifficultyGeasLength": 451137133,
         "TimeAttackDungeonRewardId": 451137116,
         "RoomLifeTimeInSeconds": 451133517
+    },
+    {
+        "Id": 451137150,
+        "StartDate": "2026-06-18 14:00:00",
+        "EndDate": "2026-06-25 03:59:59",
+        "UISlot": 451137119,
+        "DungeonId": 451135885,
+        "DifficultyGeasLength": 451137133,
+        "TimeAttackDungeonRewardId": 451137116,
+        "RoomLifeTimeInSeconds": 451133517
     }
 ]

@@ -140989,7 +140989,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -141005,7 +141005,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "혹시 괜찮으시다면, 조만간 트리니티에 방문해 주실 수 있을까요?",
+            "MessageKR": "如果方便的话，最近可以来一趟崔尼蒂吗？",
             "MessageJP": ""
         },
         {
@@ -141021,7 +141021,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님께서 다급하지 않으신 시간대로……. 부탁드릴게요.",
+            "MessageKR": "不着急，按老师方便的时间就好……麻烦你了",
             "MessageJP": ""
         },
         {
@@ -141037,7 +141037,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "당연히 괜찮지만……. 왜 그래?",
+            "MessageKR": "当然没问题……不过怎么突然问这个？",
             "MessageJP": ""
         },
         {
@@ -141053,7 +141053,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "세이아? 무슨 일 있어?",
+            "MessageKR": "圣娅？出什么事了吗？",
             "MessageJP": ""
         },
         {
@@ -141069,7 +141069,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "……죄송합니다.",
+            "MessageKR": "……对不起",
             "MessageJP": ""
         },
         {
@@ -141085,7 +141085,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그 부분은 지금은 말씀드릴 수 없어요.",
+            "MessageKR": "这个……我现在不太方便说",
             "MessageJP": ""
         },
         {
@@ -141101,7 +141101,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "또, 다른 분들께는 비밀로 부탁드립니다.",
+            "MessageKR": "另外，还请对其他人保密",
             "MessageJP": ""
         },
         {
@@ -141117,7 +141117,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오실 때를 기다리겠습니다.",
+            "MessageKR": "那我等你来",
             "MessageJP": ""
         },
         {
@@ -141133,7 +141133,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "깨어나고 보니 먼저 돌아가셨군요.",
+            "MessageKR": "醒来一看，你已经先回去了呢",
             "MessageJP": ""
         },
         {
@@ -141149,7 +141149,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오실 때도 인사드리지 못했는데",
+            "MessageKR": "你来的时候就没能打声招呼",
             "MessageJP": ""
         },
         {
@@ -141165,7 +141165,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "가실 때도 자는 모습으로 보내다니, 죄송할 따름입니다.",
+            "MessageKR": "连走的时候也在睡觉，真是不好意思",
             "MessageJP": ""
         },
         {
@@ -141181,7 +141181,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "간만에 푹 자서 좋았어.",
+            "MessageKR": "好久没睡这么香了，挺好的",
             "MessageJP": ""
         },
         {
@@ -141197,7 +141197,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "침대가 굉장히 편했어.",
+            "MessageKR": "床特别舒服",
             "MessageJP": ""
         },
         {
@@ -141213,7 +141213,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "네.",
+            "MessageKR": "嗯",
             "MessageJP": ""
         },
         {
@@ -141229,7 +141229,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럼 다음에 또",
+            "MessageKR": "那下次我会找个别的理由",
             "MessageJP": ""
         },
         {
@@ -141245,7 +141245,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "다른 변명으로, 뵙겠습니다. 선생님.",
+            "MessageKR": "再和你见面的，老师",
             "MessageJP": ""
         },
         {
@@ -141261,7 +141261,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님, 혹시 나중에 시간 괜찮으실까요?",
+            "MessageKR": "老师，待会儿有时间吗？",
             "MessageJP": ""
         },
         {
@@ -141277,7 +141277,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아무래도 선생님의 간호가 필요할 것 같아서요.",
+            "MessageKR": "感觉还是需要老师照顾",
             "MessageJP": ""
         },
         {
@@ -141293,7 +141293,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "‘아프다’고는 말하지 않는구나.",
+            "MessageKR": "你没有说“不舒服”呢",
             "MessageJP": ""
         },
         {
@@ -141309,7 +141309,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이게 새로운 ‘변명’인 거구나.",
+            "MessageKR": "这是新的“借口”吧",
             "MessageJP": ""
         },
         {
@@ -141325,7 +141325,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭐, 그렇습니다.",
+            "MessageKR": "嗯，算是吧",
             "MessageJP": ""
         },
         {
@@ -141341,7 +141341,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "네. ‘아프다’고 직접 말할 순 없으니까요.",
+            "MessageKR": "毕竟不能直接说“不舒服”",
             "MessageJP": ""
         },
         {
@@ -141357,7 +141357,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "거짓말을 할 순 없기도 하고,",
+            "MessageKR": "也不能撒谎",
             "MessageJP": ""
         },
         {
@@ -141373,7 +141373,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "‘아프다’고 말을 해버리면, 지나치게 걱정하실 것 같아서요.",
+            "MessageKR": "如果直接说“不舒服”，怕你太担心",
             "MessageJP": ""
         },
         {
@@ -141389,7 +141389,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조금 의아하고 아주 약간 불안해하는 정도.",
+            "MessageKR": "有点困惑，些许不安",
             "MessageJP": ""
         },
         {
@@ -141405,7 +141405,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그 정도가 딱 제가 바라는 온도감이라고 할 수 있겠네요.",
+            "MessageKR": "这种程度刚刚好，正是我想要的",
             "MessageJP": ""
         },
         {
@@ -141421,7 +141421,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "하지만 그마저도 이미 탄로나 버렸군요. 그러니 이제 어쩔 수 없습니다.",
+            "MessageKR": "可是连这点小巧思也露馅了。那没办法了",
             "MessageJP": ""
         },
         {
@@ -141437,7 +141437,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님.",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -141453,7 +141453,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조만간, 한가하실 때 찾아와 주세요.",
+            "MessageKR": "老师最近有空的时候，记得来看我吧",
             "MessageJP": ""
         },
         {
@@ -141469,7 +141469,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "드시고 간 디저트는 입맛에 맞으셨을지 모르겠네요.",
+            "MessageKR": "不知道我准备的甜点合不合老师的口味",
             "MessageJP": ""
         },
         {
@@ -141485,7 +141485,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나름대로 최고의 재료로 최고의 장인들께 부탁드려 만든 것이었습니다만",
+            "MessageKR": "虽说是特意用最好的材料，请顶级师傅们制作的",
             "MessageJP": ""
         },
         {
@@ -141501,7 +141501,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "정말 최고였어. 내 거랑 달리!",
+            "MessageKR": "确实很棒！跟我带去的完全不一样！",
             "MessageJP": ""
         },
         {
@@ -141517,7 +141517,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "내가 사 간 것과 너무 비교되네.",
+            "MessageKR": "比我买的那些强太多了",
             "MessageJP": ""
         },
         {
@@ -141533,7 +141533,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그런 말씀 마세요.",
+            "MessageKR": "请别这么说",
             "MessageJP": ""
         },
         {
@@ -141549,7 +141549,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "사 주신 것들도 틀림없이 최고의 디저트랍니다.",
+            "MessageKR": "你带来的甜品也无疑都是最棒的",
             "MessageJP": ""
         },
         {
@@ -141565,7 +141565,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "네.",
+            "MessageKR": "嗯",
             "MessageJP": ""
         },
         {
@@ -141581,7 +141581,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "지금 혀가, 그렇게 평가를 내리고 있네요.",
+            "MessageKR": "现在我的舌头是这么评价的",
             "MessageJP": ""
         },
         {
@@ -141597,7 +141597,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "벌써 저녁이라니",
+            "MessageKR": "已经是晚上了啊",
             "MessageJP": ""
         },
         {
@@ -141613,7 +141613,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘 하루는 정말 시간이 빨리 갔군요.",
+            "MessageKR": "今天这一天过得可真快",
             "MessageJP": ""
         },
         {
@@ -141629,7 +141629,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "일이 많았어?",
+            "MessageKR": "事情很多吗？",
             "MessageJP": ""
         },
         {
@@ -141645,7 +141645,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "바쁜 날이었어?",
+            "MessageKR": "今天忙坏了吧？",
             "MessageJP": ""
         },
         {
@@ -141661,7 +141661,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아니요. 그런 건 아니었습니다.",
+            "MessageKR": "没，那倒没有",
             "MessageJP": ""
         },
         {
@@ -141677,7 +141677,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오히려 일할 때보다 더 빠르게 갔으니까요.",
+            "MessageKR": "因为感觉时间过得比工作时还要快",
             "MessageJP": ""
         },
         {
@@ -141693,7 +141693,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "책을 볼 때에는…….",
+            "MessageKR": "读书时……",
             "MessageJP": ""
         },
         {
@@ -141709,7 +141709,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "정말 하루가 48시간이라도 부족할 것 같네요.",
+            "MessageKR": "感觉一天有48个小时也不够用呢",
             "MessageJP": ""
         },
         {
@@ -141725,7 +141725,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘 일은 정말 감사드립니다. 선생님.",
+            "MessageKR": "今天的事情真的很感谢，老师",
             "MessageJP": ""
         },
         {
@@ -141741,7 +141741,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "원래도 좋아하는 책인데, 즐거움이 배로 늘었군요.",
+            "MessageKR": "我本来就很喜欢这本书，快乐翻倍了",
             "MessageJP": ""
         },
         {
@@ -141757,7 +141757,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나도 좋았어.",
+            "MessageKR": "我也很开心",
             "MessageJP": ""
         },
         {
@@ -141773,7 +141773,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "필요하면 언제든 말해줘.",
+            "MessageKR": "需要帮忙的话随时跟我说",
             "MessageJP": ""
         },
         {
@@ -141789,7 +141789,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "네.",
+            "MessageKR": "嗯",
             "MessageJP": ""
         },
         {
@@ -141805,7 +141805,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "꼭 그렇게 하겠습니다.",
+            "MessageKR": "一定会的",
             "MessageJP": ""
         },
         {
@@ -141821,7 +141821,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -141837,7 +141837,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조만간 티파티에 오실 일이 있다고 들었어요.",
+            "MessageKR": "听说你近期要来参加茶话会",
             "MessageJP": ""
         },
         {
@@ -141853,7 +141853,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "맞아. 논의해야 할 게 좀 있어서.",
+            "MessageKR": "没错，因为有点事需要商量",
             "MessageJP": ""
         },
         {
@@ -141869,7 +141869,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "업무적인 거긴 하지만, 맞아.",
+            "MessageKR": "嗯，虽然是工作上的事",
             "MessageJP": ""
         },
         {
@@ -141885,7 +141885,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그렇군요.",
+            "MessageKR": "这样啊",
             "MessageJP": ""
         },
         {
@@ -141901,7 +141901,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 알았습니다.",
+            "MessageKR": "我知道了",
             "MessageJP": ""
         },
         {
@@ -141917,7 +141917,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "늦은 밤은 사람을 센티멘탈하게 만들지요.",
+            "MessageKR": "深夜总容易让人多愁善感",
             "MessageJP": ""
         },
         {
@@ -141933,7 +141933,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "분위기에 취해 조금 과한 행동을 한 것 같은데,",
+            "MessageKR": "好像有点沉醉在气氛中，做出了一些夸张的举动，",
             "MessageJP": ""
         },
         {
@@ -141949,7 +141949,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "혹시라도 부끄러운 모습이었다면 사과드리겠습니다.",
+            "MessageKR": "如果刚才的失态让你见笑了，我向你道歉",
             "MessageJP": ""
         },
         {
@@ -141965,7 +141965,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "절대 그렇지 않아. 엄청 좋았어.",
+            "MessageKR": "完全没有的事。我觉得特别好",
             "MessageJP": ""
         },
         {
@@ -141981,7 +141981,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "기회만 된다면 얼마든지 더 듣고 싶었어.",
+            "MessageKR": "有机会的话，我还想再多听听呢",
             "MessageJP": ""
         },
         {
@@ -141997,7 +141997,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "또 그렇게 말씀하시고",
+            "MessageKR": "又这么说",
             "MessageJP": ""
         },
         {
@@ -142013,7 +142013,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "하지만",
+            "MessageKR": "不过",
             "MessageJP": ""
         },
         {
@@ -142029,7 +142029,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "네.",
+            "MessageKR": "嗯",
             "MessageJP": ""
         },
         {
@@ -142045,7 +142045,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "저도 선생님만 계신 곳에서라면, 자주 그러고 싶어요.",
+            "MessageKR": "如果只有老师在，我也想经常这样",
             "MessageJP": ""
         },
         {
@@ -142061,7 +142061,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "주인님은 버스 자주 타?",
+            "MessageKR": "先生会经常坐公交吗？",
             "MessageJP": ""
         },
         {
@@ -142077,7 +142077,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럭저럭?",
+            "MessageKR": "算是吧？",
             "MessageJP": ""
         },
         {
@@ -142093,7 +142093,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나도나도",
+            "MessageKR": "我也是我也是呀",
             "MessageJP": ""
         },
         {
@@ -142109,7 +142109,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "등교할 때랑 하교할 때마다 타는데",
+            "MessageKR": "每次上课下课都要坐",
             "MessageJP": ""
         },
         {
@@ -142125,7 +142125,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "항상 사람이 많아",
+            "MessageKR": "经常会有很多人",
             "MessageJP": ""
         },
         {
@@ -142141,7 +142141,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그렇지 아무래도……",
+            "MessageKR": "是吧，毕竟……",
             "MessageJP": ""
         },
         {
@@ -142157,7 +142157,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그 시간대라면……",
+            "MessageKR": "通勤时间段的话……",
             "MessageJP": ""
         },
         {
@@ -142173,7 +142173,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응응",
+            "MessageKR": "嗯嗯",
             "MessageJP": ""
         },
         {
@@ -142189,7 +142189,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "역시 주인님도 아는구나 그 느낌",
+            "MessageKR": "果然先生也清楚呀，那种感觉",
             "MessageJP": ""
         },
         {
@@ -142205,7 +142205,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아",
+            "MessageKR": "啊",
             "MessageJP": ""
         },
         {
@@ -142221,7 +142221,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "내릴 때 깜빡하고 말을 못 했는데",
+            "MessageKR": "下车的时候忘记说了",
             "MessageJP": ""
         },
         {
@@ -142237,7 +142237,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님 셔츠에 내 화장품 묻었어",
+            "MessageKR": "老师的T恤上沾到了我的化妆品",
             "MessageJP": ""
         },
         {
@@ -142253,7 +142253,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아, 정말이네",
+            "MessageKR": "啊，确实啊",
             "MessageJP": ""
         },
         {
@@ -142269,7 +142269,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "역시 너무 가까웠나……",
+            "MessageKR": "因为靠太近了吗……",
             "MessageJP": ""
         },
         {
@@ -142285,7 +142285,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "미안~ 내가 너무 기대느라",
+            "MessageKR": "抱歉啦~我贴老师太紧了",
             "MessageJP": ""
         },
         {
@@ -142301,7 +142301,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그거 아스나가 세탁해 줄게",
+            "MessageKR": "衣服就交给我来洗吧",
             "MessageJP": ""
         },
         {
@@ -142317,7 +142317,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "앗 그런데",
+            "MessageKR": "啊，不过",
             "MessageJP": ""
         },
         {
@@ -142333,7 +142333,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러려면 메이드복을 입어야 하는",
+            "MessageKR": "这样的话，就得穿女仆装了吧",
             "MessageJP": ""
         },
         {
@@ -142349,7 +142349,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "흠",
+            "MessageKR": "唔",
             "MessageJP": ""
         },
         {
@@ -142365,7 +142365,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "교복이 좋아 메이드복이 좋아?",
+            "MessageKR": "是穿制服好还是女仆装好呢？",
             "MessageJP": ""
         },
         {
@@ -142381,7 +142381,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "무슨 의미인지 모르겠어……",
+            "MessageKR": "不太明白你的意思……",
             "MessageJP": ""
         },
         {
@@ -142397,7 +142397,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "곧 점심시간이네",
+            "MessageKR": "马上就到午饭时间了",
             "MessageJP": ""
         },
         {
@@ -142413,7 +142413,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이때쯤이면 배가 고파져",
+            "MessageKR": "一到这种时候肚子就好饿",
             "MessageJP": ""
         },
         {
@@ -142429,7 +142429,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나는 항상 고픈데……",
+            "MessageKR": "我总是很饿……",
             "MessageJP": ""
         },
         {
@@ -142445,7 +142445,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아하하",
+            "MessageKR": "啊哈哈",
             "MessageJP": ""
         },
         {
@@ -142461,7 +142461,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭐야 그게",
+            "MessageKR": "什么嘛",
             "MessageJP": ""
         },
         {
@@ -142477,7 +142477,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아스나는 점심 뭐 먹어?",
+            "MessageKR": "明日奈午饭吃什么？",
             "MessageJP": ""
         },
         {
@@ -142493,7 +142493,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "음~ 글쎄",
+            "MessageKR": "唔~这个嘛",
             "MessageJP": ""
         },
         {
@@ -142509,7 +142509,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "고민 중!!",
+            "MessageKR": "纠结中！！",
             "MessageJP": ""
         },
         {
@@ -142525,7 +142525,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러고 보니",
+            "MessageKR": "话说回来",
             "MessageJP": ""
         },
         {
@@ -142541,7 +142541,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "요즘 여기저기서",
+            "MessageKR": "最近好像总是",
             "MessageJP": ""
         },
         {
@@ -142557,7 +142557,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님이랑 마주치는 것 같지 않아?",
+            "MessageKR": "能在各种地方遇到老师呢？",
             "MessageJP": ""
         },
         {
@@ -142573,7 +142573,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러게 말야",
+            "MessageKR": "是啊",
             "MessageJP": ""
         },
         {
@@ -142589,7 +142589,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "어디서 마주칠지 예상이 안 돼",
+            "MessageKR": "猜不到会在哪里碰到",
             "MessageJP": ""
         },
         {
@@ -142605,7 +142605,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아하하",
+            "MessageKR": "啊哈哈",
             "MessageJP": ""
         },
         {
@@ -142621,7 +142621,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "예상치 못한 만남이라",
+            "MessageKR": "意料之外的相遇",
             "MessageJP": ""
         },
         {
@@ -142637,7 +142637,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "더 재미있지~!",
+            "MessageKR": "更有意思~！",
             "MessageJP": ""
         },
         {
@@ -142653,7 +142653,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "지금 언덕 공원인데",
+            "MessageKR": "现在在丘陵公园",
             "MessageJP": ""
         },
         {
@@ -142669,7 +142669,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님이랑 닮은 구름 있어",
+            "MessageKR": "有一片云跟老师很像呢",
             "MessageJP": ""
         },
         {
@@ -142685,7 +142685,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아하하",
+            "MessageKR": "啊哈哈",
             "MessageJP": ""
         },
         {
@@ -142701,7 +142701,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아스나는 산책 중?",
+            "MessageKR": "明日奈在散步吗？",
             "MessageJP": ""
         },
         {
@@ -142717,7 +142717,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응응",
+            "MessageKR": "嗯嗯",
             "MessageJP": ""
         },
         {
@@ -142733,7 +142733,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "어",
+            "MessageKR": "嗯？",
             "MessageJP": ""
         },
         {
@@ -142749,7 +142749,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아스나, 별일 없지?",
+            "MessageKR": "明日奈，你没事吧？",
             "MessageJP": ""
         },
         {
@@ -142765,7 +142765,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아스나?",
+            "MessageKR": "明日奈？",
             "MessageJP": ""
         },
         {
@@ -142781,7 +142781,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님~!",
+            "MessageKR": "老师~！",
             "MessageJP": ""
         },
         {
@@ -142797,7 +142797,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘 아스나 찾으러 와줘서 고마워",
+            "MessageKR": "谢谢你今天来找我呀",
             "MessageJP": ""
         },
         {
@@ -142813,7 +142813,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "핸드폰도 같이 찾아줘서 고마워",
+            "MessageKR": "也谢谢你帮忙找回了手机",
             "MessageJP": ""
         },
         {
@@ -142829,7 +142829,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응, 이렇게 모모톡할 수 있어서 다행이야",
+            "MessageKR": "嗯，能像这样用桃信联系真是太好了",
             "MessageJP": ""
         },
         {
@@ -142845,7 +142845,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "맞아맞아",
+            "MessageKR": "是啊是啊",
             "MessageJP": ""
         },
         {
@@ -142861,7 +142861,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이제 안 잃어버리게 조심해야지",
+            "MessageKR": "以后要小心点，可不能再弄丢了",
             "MessageJP": ""
         },
         {
@@ -142877,7 +142877,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님이 같이 찾아준 핸드폰이니까",
+            "MessageKR": "毕竟是老师一起帮忙找回的手机",
             "MessageJP": ""
         },
         {
@@ -142893,7 +142893,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "근데 집 오니까 엄청 졸려",
+            "MessageKR": "不过，到家之后就困得不行了",
             "MessageJP": ""
         },
         {
@@ -142909,7 +142909,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘 고생했으니까",
+            "MessageKR": "今天也辛苦了",
             "MessageJP": ""
         },
         {
@@ -142925,7 +142925,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘자, 아스나",
+            "MessageKR": "晚安，明日奈",
             "MessageJP": ""
         },
         {
@@ -142941,7 +142941,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응! 헤헤",
+            "MessageKR": "嗯！嘿嘿",
             "MessageJP": ""
         },
         {
@@ -142957,7 +142957,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님도 잘자~!!",
+            "MessageKR": "老师也晚安~！！",
             "MessageJP": ""
         },
         {
@@ -142973,7 +142973,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "임무가 끝났다",
+            "MessageKR": "任务完成了",
             "MessageJP": ""
         },
         {
@@ -142989,7 +142989,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "앞으로 며칠 동안은 휴일이지만",
+            "MessageKR": "后面几天都是休息日",
             "MessageJP": ""
         },
         {
@@ -143005,7 +143005,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "교복을 입고 지낼 것 같다",
+            "MessageKR": "看来这身制服还会再穿几天",
             "MessageJP": ""
         },
         {
@@ -143021,7 +143021,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "휴일이라니 잘됐네",
+            "MessageKR": "有休息日，真好啊",
             "MessageJP": ""
         },
         {
@@ -143037,7 +143037,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "쉬는 날엔 보통 뭘 해?",
+            "MessageKR": "休息日一般会做些什么？",
             "MessageJP": ""
         },
         {
@@ -143053,7 +143053,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "음",
+            "MessageKR": "唔",
             "MessageJP": ""
         },
         {
@@ -143069,7 +143069,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭘 하지?",
+            "MessageKR": "要做什么呢？",
             "MessageJP": ""
         },
         {
@@ -143085,7 +143085,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "……저한테 물어보셔도?",
+            "MessageKR": "……这个问题不应该问我吧？",
             "MessageJP": ""
         },
         {
@@ -143101,7 +143101,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -143117,7 +143117,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이른 시간에 연락했네?",
+            "MessageKR": "这么早，怎么了？",
             "MessageJP": ""
         },
         {
@@ -143133,7 +143133,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "음",
+            "MessageKR": "唔",
             "MessageJP": ""
         },
         {
@@ -143149,7 +143149,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "미안해",
+            "MessageKR": "对不起",
             "MessageJP": ""
         },
         {
@@ -143165,7 +143165,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그게",
+            "MessageKR": "那个",
             "MessageJP": ""
         },
         {
@@ -143181,7 +143181,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "휴일인 걸 깜빡하고 일찍 일어났거든",
+            "MessageKR": "我忘了今天是休息日，很早就起来了",
             "MessageJP": ""
         },
         {
@@ -143197,7 +143197,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "평일에 익숙해지면 종종 그렇지…….",
+            "MessageKR": "每天工作惯了，有时候就会这样……",
             "MessageJP": ""
         },
         {
@@ -143213,7 +143213,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래서 그냥 멍한 상태",
+            "MessageKR": "所以现在正在发呆",
             "MessageJP": ""
         },
         {
@@ -143229,7 +143229,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "다음은 뭘 해야 할지 막막해서…….",
+            "MessageKR": "不知道接下来要做什么……",
             "MessageJP": ""
         },
         {
@@ -143245,7 +143245,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럼 샬레에 와서 쉬는 건 어때?",
+            "MessageKR": "那要不要来沙勒休息一下？",
             "MessageJP": ""
         },
         {
@@ -143261,7 +143261,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘은 즐거웠다",
+            "MessageKR": "今天很开心",
             "MessageJP": ""
         },
         {
@@ -143277,7 +143277,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그리고",
+            "MessageKR": "还有",
             "MessageJP": ""
         },
         {
@@ -143293,7 +143293,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아까는 미안했다",
+            "MessageKR": "刚才真是对不起",
             "MessageJP": ""
         },
         {
@@ -143309,7 +143309,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님에게 내 도움이 필요치 않다고 생각하니",
+            "MessageKR": "一想到老师不需要我的帮助",
             "MessageJP": ""
         },
         {
@@ -143325,7 +143325,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조금 조급해져서",
+            "MessageKR": "我就有点着急",
             "MessageJP": ""
         },
         {
@@ -143341,7 +143341,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "카린의 휴일을 방해하고 싶지 않았어",
+            "MessageKR": "我也不想占用花凛的休息日嘛",
             "MessageJP": ""
         },
         {
@@ -143357,7 +143357,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "부담 갖지 않아도 된다",
+            "MessageKR": "不用感到有负担",
             "MessageJP": ""
         },
         {
@@ -143373,7 +143373,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님을 돕는 거라면 언제든 환영이니까",
+            "MessageKR": "只要是给老师帮忙的事，我随时欢迎",
             "MessageJP": ""
         },
         {
@@ -143389,7 +143389,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -143405,7 +143405,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "희소식이다",
+            "MessageKR": "有个好消息",
             "MessageJP": ""
         },
         {
@@ -143421,7 +143421,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "희소식?",
+            "MessageKR": "好消息？",
             "MessageJP": ""
         },
         {
@@ -143437,7 +143437,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아이디어가 떠올랐다",
+            "MessageKR": "我想到了一个点子",
             "MessageJP": ""
         },
         {
@@ -143453,7 +143453,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "특별한 휴일을 보낼 아이디어가",
+            "MessageKR": "度过特别的休息日的点子",
             "MessageJP": ""
         },
         {
@@ -143469,7 +143469,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭔지는 몰라도, 내가 힘껏 도와줄게!",
+            "MessageKR": "虽然不知道是什么，但我会尽力帮你的！",
             "MessageJP": ""
         },
         {
@@ -143485,7 +143485,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "고마워",
+            "MessageKR": "谢谢",
             "MessageJP": ""
         },
         {
@@ -143501,7 +143501,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생님의 도움은 언제나 환영이니까",
+            "MessageKR": "老师要来帮忙我随时欢迎",
             "MessageJP": ""
         },
         {
@@ -143517,7 +143517,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "지금부터 등교할 생각이라서",
+            "MessageKR": "我打算现在去上课",
             "MessageJP": ""
         },
         {
@@ -143533,7 +143533,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "함께할 생각이 있다면, 우리 집 앞으로 와주면 좋겠다",
+            "MessageKR": "想跟我一起去的话，就到我家门口来吧。",
             "MessageJP": ""
         },
         {
@@ -143549,7 +143549,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "……등교?",
+            "MessageKR": "……上课？",
             "MessageJP": ""
         },
         {
@@ -143565,7 +143565,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생.",
+            "MessageKR": "老师。",
             "MessageJP": ""
         },
         {
@@ -143581,7 +143581,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "어? 누구?",
+            "MessageKR": "嗯？谁啊？",
             "MessageJP": ""
         },
         {
@@ -143597,7 +143597,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아.",
+            "MessageKR": "啊对了。",
             "MessageJP": ""
         },
         {
@@ -143613,7 +143613,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "당장은 모르겠구나.",
+            "MessageKR": "你还不知道我是谁。",
             "MessageJP": ""
         },
         {
@@ -143629,7 +143629,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나야, 선생. 리오.",
+            "MessageKR": "是我，老师。我是莉音。",
             "MessageJP": ""
         },
         {
@@ -143645,7 +143645,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "리오?! 지금 어디야??",
+            "MessageKR": "莉音？！你现在在哪儿？？",
             "MessageJP": ""
         },
         {
@@ -143661,7 +143661,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이 번호는 임시로 만든 거야.",
+            "MessageKR": "这个号码是临时用的。",
             "MessageJP": ""
         },
         {
@@ -143677,7 +143677,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "다음에는 바뀔 테니 저장은 하지 마.",
+            "MessageKR": "下次就会换的，不用保存了。",
             "MessageJP": ""
         },
         {
@@ -143693,7 +143693,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도 되는 거야……?",
+            "MessageKR": "还能这样……？",
             "MessageJP": ""
         },
         {
@@ -143709,7 +143709,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "무슨 문제라도 있어?",
+            "MessageKR": "有什么问题吗？",
             "MessageJP": ""
         },
         {
@@ -143725,7 +143725,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이게 합리적이야. 추적당하면 안 되잖아.",
+            "MessageKR": "这样才合理。总不能被追踪到吧。",
             "MessageJP": ""
         },
         {
@@ -143741,7 +143741,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "통신사 입장도 생각해 줘……",
+            "MessageKR": "也要考虑一下通讯公司的立场吧……",
             "MessageJP": ""
         },
         {
@@ -143757,7 +143757,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "음.",
+            "MessageKR": "唔。",
             "MessageJP": ""
         },
         {
@@ -143773,7 +143773,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "거기까지는 생각 못 해봤네.",
+            "MessageKR": "这点我倒没想到。",
             "MessageJP": ""
         },
         {
@@ -143789,7 +143789,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도 달리 방법이 없었어.",
+            "MessageKR": "可实在没别的办法了。",
             "MessageJP": ""
         },
         {
@@ -143805,7 +143805,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아무튼 무슨 일이라도 있어?",
+            "MessageKR": "到底有什么事呢？",
             "MessageJP": ""
         },
         {
@@ -143821,7 +143821,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "저녁 세일 도시락을 사러 나왔는데……",
+            "MessageKR": "我出来买晚上打折的便当……",
             "MessageJP": ""
         },
         {
@@ -143837,7 +143837,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "갑자기, 마트가 당일 휴무라고 해서……",
+            "MessageKR": "结果超市突然说今天临时歇业……",
             "MessageJP": ""
         },
         {
@@ -143853,7 +143853,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생? 아직 깨어 있어?",
+            "MessageKR": "老师？你还醒着吗？",
             "MessageJP": ""
         },
         {
@@ -143869,7 +143869,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "무슨 일이야?",
+            "MessageKR": "怎么了？",
             "MessageJP": ""
         },
         {
@@ -143885,7 +143885,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생 말대로, 요리하는 아방가르드 군을 만들었는데…….",
+            "MessageKR": "照老师说的，\n试着做了个“前卫料理君”……",
             "MessageJP": ""
         },
         {
@@ -143901,7 +143901,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 작동해?",
+            "MessageKR": "运转良好吗？",
             "MessageJP": ""
         },
         {
@@ -143917,7 +143917,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 작동하긴 하는데.",
+            "MessageKR": "运转是能运转……",
             "MessageJP": ""
         },
         {
@@ -143933,7 +143933,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭔가, 선생이 만들어준 것 같은 요리가 나왔어.",
+            "MessageKR": "但不知道为什么，做出来的东西有点像老师之前做的味道。",
             "MessageJP": ""
         },
         {
@@ -143949,7 +143949,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "맛없지는 않지만, 맛있지도 않은 그런 거……",
+            "MessageKR": "就是那种说不上难吃，但也谈不上好吃的……",
             "MessageJP": ""
         },
         {
@@ -143965,7 +143965,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "몸에 좋으니까, 먹어 두자……",
+            "MessageKR": "对身体好就行，先吃着吧……",
             "MessageJP": ""
         },
         {
@@ -143981,7 +143981,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "알았어……",
+            "MessageKR": "好吧……",
             "MessageJP": ""
         },
         {
@@ -143997,7 +143997,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도 이틀에 한 번 정도는, 도시락 먹으면 안 될까?",
+            "MessageKR": "那……两天吃一次便当可以吗？",
             "MessageJP": ""
         },
         {
@@ -144013,7 +144013,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "3일",
+            "MessageKR": "三天",
             "MessageJP": ""
         },
         {
@@ -144029,7 +144029,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "알았어……",
+            "MessageKR": "好吧……",
             "MessageJP": ""
         },
         {
@@ -144045,7 +144045,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생, 있어?",
+            "MessageKR": "老师，在吗？",
             "MessageJP": ""
         },
         {
@@ -144061,7 +144061,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "알았다, 이 패턴…… 리오로군!",
+            "MessageKR": "知道啦，这个路数……是莉音吧！",
             "MessageJP": ""
         },
         {
@@ -144077,7 +144077,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응…… 맞아.",
+            "MessageKR": "嗯……没错。",
             "MessageJP": ""
         },
         {
@@ -144093,7 +144093,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조금 부탁하고 싶은 것이 있는데, 괜찮을까?",
+            "MessageKR": "有件事想拜托你，现在方便吗？",
             "MessageJP": ""
         },
         {
@@ -144109,7 +144109,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "학생의 부탁이라면야, 얼마든지.",
+            "MessageKR": "既然是学员的请求，当然没问题啦",
             "MessageJP": ""
         },
         {
@@ -144125,7 +144125,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러면.",
+            "MessageKR": "那……",
             "MessageJP": ""
         },
         {
@@ -144141,7 +144141,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나 대신 물건 좀 받아 줘.",
+            "MessageKR": "能替我收一下包裹吗？",
             "MessageJP": ""
         },
         {
@@ -144157,7 +144157,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "……뭐?",
+            "MessageKR": "……啊？",
             "MessageJP": ""
         },
         {
@@ -144173,7 +144173,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생.",
+            "MessageKR": "老师。",
             "MessageJP": ""
         },
         {
@@ -144189,7 +144189,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "부품이 도착한 김에.",
+            "MessageKR": "既然配件都到了，",
             "MessageJP": ""
         },
         {
@@ -144205,7 +144205,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "요리하는 아방가르드군을 개선해 봤는데.",
+            "MessageKR": "就试着改进了一下制作料理的前卫君。",
             "MessageJP": ""
         },
         {
@@ -144221,7 +144221,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "예전보다 좀 더, 깊은 맛이 나게 된 것 같아.",
+            "MessageKR": "感觉比以前多了一些……醇厚的味道。",
             "MessageJP": ""
         },
         {
@@ -144237,7 +144237,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그건 잘된 일이네.",
+            "MessageKR": "那真是太好了",
             "MessageJP": ""
         },
         {
@@ -144253,7 +144253,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응.",
+            "MessageKR": "嗯。",
             "MessageJP": ""
         },
         {
@@ -144269,7 +144269,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "고마워. 선생.",
+            "MessageKR": "谢谢你，老师。",
             "MessageJP": ""
         },
         {
@@ -144285,7 +144285,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "여러 가지 사정으로.",
+            "MessageKR": "前段时间事情很多",
             "MessageJP": ""
         },
         {
@@ -144301,7 +144301,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "요즘은 그렇게 바쁘지 않아져서.",
+            "MessageKR": "最近倒是没那么忙了。",
             "MessageJP": ""
         },
         {
@@ -144317,7 +144317,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "예전에 하던 걸 계속하면 어떨까, 하고",
+            "MessageKR": "我在想",
             "MessageJP": ""
         },
         {
@@ -144333,7 +144333,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "생각하고 있어.",
+            "MessageKR": "要不要重操旧业。",
             "MessageJP": ""
         },
         {
@@ -144349,7 +144349,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "예전에 하던 거?",
+            "MessageKR": "重操旧业？",
             "MessageJP": ""
         },
         {
@@ -144365,7 +144365,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "조형물 같은 걸 만드는 거.",
+            "MessageKR": "就是制作雕塑之类的。",
             "MessageJP": ""
         },
         {
@@ -144381,7 +144381,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "산업 디자인이라든가.",
+            "MessageKR": "工业设计之类的。",
             "MessageJP": ""
         },
         {
@@ -144397,7 +144397,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그렇지만 여기는 아무래도",
+            "MessageKR": "不过在这个基地，总觉得",
             "MessageJP": ""
         },
         {
@@ -144413,7 +144413,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아지트 공간이 넉넉하지 못해서 말이지.",
+            "MessageKR": "基地并不宽裕。",
             "MessageJP": ""
         },
         {
@@ -144429,7 +144429,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "환기 문제도 있고.",
+            "MessageKR": "通风也是个问题。",
             "MessageJP": ""
         },
         {
@@ -144445,7 +144445,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럼 샬레로 올래?",
+            "MessageKR": "那要不要来沙勒？",
             "MessageJP": ""
         },
         {
@@ -144461,7 +144461,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "어?",
+            "MessageKR": "啊？",
             "MessageJP": ""
         },
         {
@@ -144477,7 +144477,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도, 돼?",
+            "MessageKR": "真的吗？可以吗？",
             "MessageJP": ""
         },
         {
@@ -144493,7 +144493,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나는 괜찮은데.",
+            "MessageKR": "我不介意啊",
             "MessageJP": ""
         },
         {
@@ -144509,7 +144509,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그.",
+            "MessageKR": "那个",
             "MessageJP": ""
         },
         {
@@ -144525,7 +144525,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "고마워.",
+            "MessageKR": "谢了。",
             "MessageJP": ""
         },
         {
@@ -144541,7 +144541,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러면 예전처럼.",
+            "MessageKR": "那就像以前一样",
             "MessageJP": ""
         },
         {
@@ -144557,7 +144557,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "배달 대행, 부탁할게.",
+            "MessageKR": "代收就拜托你了。",
             "MessageJP": ""
         },
         {
@@ -144573,7 +144573,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "저, 선생?",
+            "MessageKR": "老师，那个……",
             "MessageJP": ""
         },
         {
@@ -144589,7 +144589,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "생각해 보니까.",
+            "MessageKR": "说起来……",
             "MessageJP": ""
         },
         {
@@ -144605,7 +144605,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "여러 가지로, 은혜를 갚아야 할 것 같아.",
+            "MessageKR": "我似乎欠了不少人情要还。",
             "MessageJP": ""
         },
         {
@@ -144621,7 +144621,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "안 그래도 되는데?",
+            "MessageKR": "其实不用这么在意的",
             "MessageJP": ""
         },
         {
@@ -144637,7 +144637,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "물론 선생이라면 그렇게 말할 것 같았지만.",
+            "MessageKR": "我就知道老师会这么说。",
             "MessageJP": ""
         },
         {
@@ -144653,7 +144653,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도 이른바 세간의 상식이란 것과.",
+            "MessageKR": "不过，毕竟还是要考虑到人情世故。",
             "MessageJP": ""
         },
         {
@@ -144669,7 +144669,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그리고 무엇보다 확률과 통계에 의거해.",
+            "MessageKR": "而且最重要的是，根据概率统计……",
             "MessageJP": ""
         },
         {
@@ -144685,7 +144685,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이건, 그래야 하는 일인 것 같아.",
+            "MessageKR": "这件事，我觉得还是应该做。",
             "MessageJP": ""
         },
         {
@@ -144701,7 +144701,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "리오의 확률과 통계란 건 대체 뭘까……",
+            "MessageKR": "莉音，你的概率统计到底是怎么算出来的……",
             "MessageJP": ""
         },
         {
@@ -144717,7 +144717,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아무튼.",
+            "MessageKR": "总之",
             "MessageJP": ""
         },
         {
@@ -144733,7 +144733,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생을 내 아지트에 초대해야 할 것 같아.",
+            "MessageKR": "我想邀请老师来我的秘密基地做客。",
             "MessageJP": ""
         },
         {
@@ -144749,7 +144749,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "물론 선생이 괜찮다면, 이지만.",
+            "MessageKR": "当然，这得看老师方不方便。",
             "MessageJP": ""
         },
         {
@@ -144765,7 +144765,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 들어갔어, 선생?",
+            "MessageKR": "安全到家了吗，老师？",
             "MessageJP": ""
         },
         {
@@ -144781,7 +144781,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "저기.",
+            "MessageKR": "那个……",
             "MessageJP": ""
         },
         {
@@ -144797,7 +144797,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "내가 이런 말을 해도 되는지 모르겠지만.",
+            "MessageKR": "虽然不知道这么说合不合适……",
             "MessageJP": ""
         },
         {
@@ -144813,7 +144813,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그리고 가능하면.",
+            "MessageKR": "如果可以的话……",
             "MessageJP": ""
         },
         {
@@ -144829,7 +144829,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생이 이 메시지를 지워 주면 좋겠지만.",
+            "MessageKR": "希望老师能把我下面发的信息删掉。",
             "MessageJP": ""
         },
         {
@@ -144845,7 +144845,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "모르겠어, 선생.",
+            "MessageKR": "老师，我有点搞不懂了。",
             "MessageJP": ""
         },
         {
@@ -144861,7 +144861,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이런 기분을 느끼는 건 처음이야.",
+            "MessageKR": "我第一次有这种感觉。",
             "MessageJP": ""
         },
         {
@@ -144877,7 +144877,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이걸, 뭐라고 정의할 수 있을지도 모르겠고.",
+            "MessageKR": "甚至不知道该怎么定义这种感觉。",
             "MessageJP": ""
         },
         {
@@ -144893,7 +144893,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생은 지금 내가 어떤 상태인지, 알고 있을까.",
+            "MessageKR": "老师……你能明白我现在是什么状态吗？",
             "MessageJP": ""
         },
         {
@@ -144909,7 +144909,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그러네.",
+            "MessageKR": "也对。",
             "MessageJP": ""
         },
         {
@@ -144925,7 +144925,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "근본적으로는 선생이 알든 모르든.",
+            "MessageKR": "其实老师明不明白，",
             "MessageJP": ""
         },
         {
@@ -144941,7 +144941,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "크게 상관없는 일이겠지만.",
+            "MessageKR": "大概也不重要。",
             "MessageJP": ""
         },
         {
@@ -144957,7 +144957,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래도 지금은, 왠지 모르게.",
+            "MessageKR": "但是现在……不知为何，",
             "MessageJP": ""
         },
         {
@@ -144973,7 +144973,7 @@
             "FeedbackTimeMillisec": 2500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생을 한 번 더 만나고 싶어.",
+            "MessageKR": "想再见老师一面。",
             "MessageJP": ""
         },
         {
@@ -144989,7 +144989,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그것뿐이야.",
+            "MessageKR": "仅此而已。",
             "MessageJP": ""
         },
         {
@@ -145005,7 +145005,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 자.",
+            "MessageKR": "晚安。",
             "MessageJP": ""
         },
         {
@@ -145021,7 +145021,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "잘 자, 리오.",
+            "MessageKR": "晚安，莉音。",
             "MessageJP": ""
         },
         {
@@ -145037,7 +145037,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "응.",
+            "MessageKR": "嗯。",
             "MessageJP": ""
         },
         {
@@ -145053,7 +145053,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "언제나, 고마워.",
+            "MessageKR": "一直一来……都很感谢你。",
             "MessageJP": ""
         },
         {
@@ -145069,7 +145069,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아",
+            "MessageKR": "啊",
             "MessageJP": ""
         },
         {
@@ -145085,7 +145085,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "어색해",
+            "MessageKR": "好尴尬",
             "MessageJP": ""
         },
         {
@@ -145101,7 +145101,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "적응이 안 되네",
+            "MessageKR": "真是不适应",
             "MessageJP": ""
         },
         {
@@ -145117,7 +145117,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "무슨 문제라도 있어?",
+            "MessageKR": "有什么问题吗？",
             "MessageJP": ""
         },
         {
@@ -145133,7 +145133,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭐 선생이 신경 쓸 건 아니지만",
+            "MessageKR": "倒不是什么需要老师费心的事",
             "MessageJP": ""
         },
         {
@@ -145149,7 +145149,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "음",
+            "MessageKR": "呃",
             "MessageJP": ""
         },
         {
@@ -145165,7 +145165,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "혹시 시간 있으면 잠깐 만날 수 있을까",
+            "MessageKR": "有空可以过来一趟吗",
             "MessageJP": ""
         },
         {
@@ -145181,7 +145181,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭣 좀 물어볼 게 있어서",
+            "MessageKR": "有件事要问你",
             "MessageJP": ""
         },
         {
@@ -145197,7 +145197,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘은 재밌었어, 선생!",
+            "MessageKR": "今天可真带劲，老师！",
             "MessageJP": ""
         },
         {
@@ -145213,7 +145213,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "설마 내가 말 걸기 전까지 못 알아보는 녀석들이 태반이라니",
+            "MessageKR": "没想到我不主动开口，有一大半的家伙都认不出我来",
             "MessageJP": ""
         },
         {
@@ -145229,7 +145229,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이런 경험은 처음이야",
+            "MessageKR": "这还是头一遭",
             "MessageJP": ""
         },
         {
@@ -145245,7 +145245,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "즐거워하는 것 같아 다행이네.",
+            "MessageKR": "看你这么开心我就放心了",
             "MessageJP": ""
         },
         {
@@ -145261,7 +145261,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "앞으로 휴일은 다 이런 느낌이려나?",
+            "MessageKR": "以后放假都这种感觉可还行？",
             "MessageJP": ""
         },
         {
@@ -145277,7 +145277,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "좀 재밌어지기 시작했다고?",
+            "MessageKR": "开始有点意思了",
             "MessageJP": ""
         },
         {
@@ -145293,7 +145293,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "여 선생",
+            "MessageKR": "哟，老师",
             "MessageJP": ""
         },
         {
@@ -145309,7 +145309,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "바빠?",
+            "MessageKR": "忙吗？",
             "MessageJP": ""
         },
         {
@@ -145325,7 +145325,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "오늘은 한가해.",
+            "MessageKR": "今天比较闲",
             "MessageJP": ""
         },
         {
@@ -145341,7 +145341,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그거 좋네",
+            "MessageKR": "那正好",
             "MessageJP": ""
         },
         {
@@ -145357,7 +145357,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아직 휴일도 꽤 남았단 말이지",
+            "MessageKR": "这不假期还剩好几天呢",
             "MessageJP": ""
         },
         {
@@ -145373,7 +145373,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그래서 선생만 괜찮다면",
+            "MessageKR": "所以老师方便的话",
             "MessageJP": ""
         },
         {
@@ -145389,7 +145389,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "특별한 휴일을 보내고 싶은 거야?",
+            "MessageKR": "你是想安排点特别的假期活动？",
             "MessageJP": ""
         },
         {
@@ -145405,7 +145405,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "뭐",
+            "MessageKR": "嗯",
             "MessageJP": ""
         },
         {
@@ -145421,7 +145421,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "비슷하달까",
+            "MessageKR": "差不多",
             "MessageJP": ""
         },
         {
@@ -145437,7 +145437,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아무튼 얼굴이나 보자고",
+            "MessageKR": "总之先见个面",
             "MessageJP": ""
         },
         {
@@ -145453,7 +145453,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "이제 하루밖에 안 남았어",
+            "MessageKR": "就剩一天了",
             "MessageJP": ""
         },
         {
@@ -145469,7 +145469,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "교복 입고 지내는 거",
+            "MessageKR": "穿制服的日子",
             "MessageJP": ""
         },
         {
@@ -145485,7 +145485,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럼 다시 스카잔을 입을 수 있겠네?",
+            "MessageKR": "那不就又可以穿刺绣夹克咯？",
             "MessageJP": ""
         },
         {
@@ -145501,7 +145501,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그렇지",
+            "MessageKR": "是",
             "MessageJP": ""
         },
         {
@@ -145517,7 +145517,7 @@
             "FeedbackTimeMillisec": 1500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "…….",
+            "MessageKR": "……",
             "MessageJP": ""
         },
         {
@@ -145533,7 +145533,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "은근 시원섭섭한데 이거",
+            "MessageKR": "爽是爽，但还真有点空落落的",
             "MessageJP": ""
         },
         {
@@ -145549,7 +145549,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "일상으로 돌아가기 전에 뭔가 기념이 될 만한 건 없으려나",
+            "MessageKR": "回归日常之前，总得搞点有纪念意义的吧？",
             "MessageJP": ""
         },
         {
@@ -145565,7 +145565,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "기념이 될 만한 거?",
+            "MessageKR": "纪念？",
             "MessageJP": ""
         },
         {
@@ -145581,7 +145581,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "왜 그런 거 있잖아",
+            "MessageKR": "就得整点那种压轴的",
             "MessageJP": ""
         },
         {
@@ -145597,7 +145597,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "마지막에 파바박! 이나 콰쾅! 하면서 끝나는 거",
+            "MessageKR": "最后来个“啪！”或者“轰！”",
             "MessageJP": ""
         },
         {
@@ -145613,7 +145613,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그런 게 필요해",
+            "MessageKR": "那种炸裂的收尾才行",
             "MessageJP": ""
         },
         {
@@ -145629,7 +145629,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "폭발엔딩이 필요하다고……?",
+            "MessageKR": "需要一个炸裂的收尾……？",
             "MessageJP": ""
         },
         {
@@ -145645,7 +145645,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "저기",
+            "MessageKR": "喂",
             "MessageJP": ""
         },
         {
@@ -145661,7 +145661,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생",
+            "MessageKR": "老师",
             "MessageJP": ""
         },
         {
@@ -145677,7 +145677,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아까 말한 거 말인데",
+            "MessageKR": "刚才那事儿",
             "MessageJP": ""
         },
         {
@@ -145693,7 +145693,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "나 혼자 막 쏟아낸 것 같아서",
+            "MessageKR": "是我随口说说的",
             "MessageJP": ""
         },
         {
@@ -145709,7 +145709,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그",
+            "MessageKR": "所以",
             "MessageJP": ""
         },
         {
@@ -145725,7 +145725,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "혹시 싫으면 싫다고 얘기해도 괜찮아",
+            "MessageKR": "要是你不乐意可以直说",
             "MessageJP": ""
         },
         {
@@ -145741,7 +145741,7 @@
             "FeedbackTimeMillisec": 0,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "난 어떤 모습의 네루든 환영이야.",
+            "MessageKR": "妮露什么样子我统统欢迎",
             "MessageJP": ""
         },
         {
@@ -145757,7 +145757,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "아",
+            "MessageKR": "啊",
             "MessageJP": ""
         },
         {
@@ -145773,7 +145773,7 @@
             "FeedbackTimeMillisec": 500,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "정말",
+            "MessageKR": "真是",
             "MessageJP": ""
         },
         {
@@ -145789,7 +145789,7 @@
             "FeedbackTimeMillisec": 1000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "선생은 항상 이런 식이라니까",
+            "MessageKR": "老师总是这样",
             "MessageJP": ""
         },
         {
@@ -145805,7 +145805,7 @@
             "FeedbackTimeMillisec": 2000,
             "MessageType": "Text",
             "ImagePath": "",
-            "MessageKR": "그럼 다음 휴일도 잘 부탁한다?",
+            "MessageKR": "那下次休假也拜托咯？",
             "MessageJP": ""
         },
         {

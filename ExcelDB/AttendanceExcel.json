@@ -462,6 +462,28 @@
         "DecorationGarlandImagePath": ""
     },
     {
+        "Id": 24,
+        "Type": "Event",
+        "CountdownPrefab": "",
+        "DisplayOrder": 1,
+        "AccountType": "Normal",
+        "AccountLevelLimit": 0,
+        "Title": "",
+        "InfomationLocalizeCode": "AttendanceEvent_Info_Text_01",
+        "CountRule": "Accumulation",
+        "CountReset": "User",
+        "BookSize": 20,
+        "StartDate": "2026-05-28 04:00:00",
+        "StartableEndDate": "2026-06-25 03:59:59",
+        "EndDate": "2026-07-16 03:59:59",
+        "ExpiryDate": 0,
+        "MailType": "Attendance",
+        "DialogCategory": "UIAttendanceEvent08",
+        "TitleImagePath": "Uis/01_Common/33_Attendance/ImageFont_Attend_Event20Days_1017",
+        "DecorationImagePath": "Uis/01_Common/33_Attendance/Image_Attend_Event20Days_1017",
+        "DecorationGarlandImagePath": "Uis/01_Common/33_Attendance/Attendance02_Deco_01_01"
+    },
+    {
         "Id": 8,
         "Type": "Event",
         "CountdownPrefab": "",
