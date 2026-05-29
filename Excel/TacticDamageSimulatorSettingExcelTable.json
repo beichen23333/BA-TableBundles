@@ -1,0 +1,50 @@
+[
+    {
+        "Order": 1,
+        "Repeat": 50,
+        "TestPreset": 100112,
+        "TestBattleTime": 180000,
+        "StrikerSquard": 2,
+        "SpecialSquard": 2,
+        "ReplaceCharacterCostRegen": true,
+        "ReplaceCostRegenValue": 1000,
+        "UseAutoSkill": true,
+        "OverrideStreetAdaptation": "B",
+        "OverrideOutdoorAdaptation": "B",
+        "OverrideIndoorAdaptation": "B",
+        "ApplyOverrideAdaptation": true,
+        "OverrideFavorLevel": 25,
+        "ApplyOverrideFavorLevel": true,
+        "GroundId": 11,
+        "FixedCharacter": [
+            10103,
+            13006,
+            20000,
+            20001
+        ]
+    },
+    {
+        "Order": 2,
+        "Repeat": 50,
+        "TestPreset": 100112,
+        "TestBattleTime": 180000,
+        "StrikerSquard": 2,
+        "SpecialSquard": 2,
+        "ReplaceCharacterCostRegen": true,
+        "ReplaceCostRegenValue": 1000,
+        "UseAutoSkill": true,
+        "OverrideStreetAdaptation": "B",
+        "OverrideOutdoorAdaptation": "B",
+        "OverrideIndoorAdaptation": "B",
+        "ApplyOverrideAdaptation": true,
+        "OverrideFavorLevel": 25,
+        "ApplyOverrideFavorLevel": true,
+        "GroundId": 12,
+        "FixedCharacter": [
+            10101,
+            13006,
+            20000,
+            20001
+        ]
+    }
+]

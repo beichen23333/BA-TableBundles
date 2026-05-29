@@ -1,0 +1,308 @@
+[
+    {
+        "Id": 10001,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.normal",
+        "StoreType": "GooglePlay",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 101,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 10002,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.premium",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 102,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100003,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 10003,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.premium.discount",
+        "StoreType": "GooglePlay",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 103,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100003,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50001,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.normal",
+        "StoreType": "AppStore",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 101,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 50002,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.premium",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 102,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100003,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50003,
+        "ProductId": "com.yostarjp.bluearchive.battlepass.premium.discount",
+        "StoreType": "AppStore",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 103,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100003,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 10011,
+        "ProductId": "com.yostarjp.bluearchive.r73_welcome_package_1time",
+        "StoreType": "GooglePlay",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 201,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 10012,
+        "ProductId": "com.yostarjp.bluearchive.r73_report_package_1time",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 202,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100004,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 10013,
+        "ProductId": "com.yostarjp.bluearchive.r73_skill_grow_1time",
+        "StoreType": "GooglePlay",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 203,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100004,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50011,
+        "ProductId": "com.yostarjp.bluearchive.r73_exskill_grow_1time",
+        "StoreType": "AppStore",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 201,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 50012,
+        "ProductId": "com.yostarjp.bluearchive.r73_craftpackage",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 202,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100004,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50013,
+        "ProductId": "com.yostarjp.bluearchive.r73_trinity_3000",
+        "StoreType": "AppStore",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 203,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100004,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 10021,
+        "ProductId": "com.yostarjp.bluearchive.r73_gehenna_3000",
+        "StoreType": "GooglePlay",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 301,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 10022,
+        "ProductId": "com.yostarjp.bluearchive.r73_millennium_3000",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 302,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100005,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 10023,
+        "ProductId": "com.yostarjp.bluearchive.r73_hyakkiyako_3000",
+        "StoreType": "GooglePlay",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 303,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100005,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50021,
+        "ProductId": "com.yostarjp.bluearchive.r73_weapon_grow",
+        "StoreType": "AppStore",
+        "Price": 1000,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 301,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": []
+    },
+    {
+        "Id": 50022,
+        "ProductId": "com.yostarjp.bluearchive.r73_equipmentgrowth",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 302,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100005,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    },
+    {
+        "Id": 50023,
+        "ProductId": "com.yostarjp.bluearchive.r75_newyear2024",
+        "StoreType": "AppStore",
+        "Price": 1500,
+        "PurchaseCountLimit": 1,
+        "BattlePassProductGroupId": 303,
+        "ParcelType": [
+            "Emblem",
+            "Currency"
+        ],
+        "ParcelId": [
+            5100005,
+            2
+        ],
+        "ParcelAmount": [
+            1,
+            6000
+        ]
+    }
+]

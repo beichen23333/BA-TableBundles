@@ -1,0 +1,62 @@
+[
+    {
+        "BattlePassId": 1,
+        "LimitStartTime": "2025-07-22 11:00:00",
+        "LimitEndTime": "2025-07-28 03:59:59",
+        "ExpLimitAmount": 12000
+    },
+    {
+        "BattlePassId": 1,
+        "LimitStartTime": "2025-07-28 04:00:00",
+        "LimitEndTime": "2025-08-04 03:59:59",
+        "ExpLimitAmount": 12000
+    },
+    {
+        "BattlePassId": 1,
+        "LimitStartTime": "2025-08-04 04:00:00",
+        "LimitEndTime": "2025-08-11 03:59:59",
+        "ExpLimitAmount": 12000
+    },
+    {
+        "BattlePassId": 1,
+        "LimitStartTime": "2025-08-11 04:00:00",
+        "LimitEndTime": "2025-08-18 03:59:59",
+        "ExpLimitAmount": 12000
+    },
+    {
+        "BattlePassId": 1,
+        "LimitStartTime": "2025-08-18 04:00:00",
+        "LimitEndTime": "2025-08-20 10:59:59",
+        "ExpLimitAmount": 12000
+    },
+    {
+        "BattlePassId": 2,
+        "LimitStartTime": "2026-01-20 11:00:00",
+        "LimitEndTime": "2026-01-26 03:59:59",
+        "ExpLimitAmount": 13000
+    },
+    {
+        "BattlePassId": 2,
+        "LimitStartTime": "2026-01-26 04:00:00",
+        "LimitEndTime": "2026-02-02 03:59:59",
+        "ExpLimitAmount": 13000
+    },
+    {
+        "BattlePassId": 2,
+        "LimitStartTime": "2026-02-02 04:00:00",
+        "LimitEndTime": "2026-02-09 03:59:59",
+        "ExpLimitAmount": 13000
+    },
+    {
+        "BattlePassId": 2,
+        "LimitStartTime": "2026-02-09 04:00:00",
+        "LimitEndTime": "2026-02-16 03:59:59",
+        "ExpLimitAmount": 13000
+    },
+    {
+        "BattlePassId": 2,
+        "LimitStartTime": "2026-02-16 04:00:00",
+        "LimitEndTime": "2026-02-20 10:59:59",
+        "ExpLimitAmount": 13000
+    }
+]

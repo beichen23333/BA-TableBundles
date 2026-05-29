@@ -1,0 +1,121 @@
+[
+    {
+        "EventContentId": 814,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 12200
+    },
+    {
+        "EventContentId": 701,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 22250
+    },
+    {
+        "EventContentId": 821,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 2697786302,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 102200
+    },
+    {
+        "EventContentId": 822,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 2697786302,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 103150
+    },
+    {
+        "EventContentId": 823,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 1063036484,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 0
+    },
+    {
+        "EventContentId": 824,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 2697786302,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 104100
+    },
+    {
+        "EventContentId": 843,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 104100
+    },
+    {
+        "EventContentId": 854,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 2697786302,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 90002100
+    },
+    {
+        "EventContentId": 855,
+        "SpoilerPopupTitle": 1325256133,
+        "SpoilerPopupDescription": 2697786302,
+        "PopupType": "Warning",
+        "ConditionScenarioModeId": 90002260
+    },
+    {
+        "EventContentId": 857,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 201100
+    },
+    {
+        "EventContentId": 858,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 201100
+    },
+    {
+        "EventContentId": 10814,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 12200
+    },
+    {
+        "EventContentId": 900701,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 22250
+    },
+    {
+        "EventContentId": 900814,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 12200
+    },
+    {
+        "EventContentId": 70001,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 90000160
+    },
+    {
+        "EventContentId": 70002,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 3794165922,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 90000160
+    },
+    {
+        "EventContentId": 70003,
+        "SpoilerPopupTitle": 1895026071,
+        "SpoilerPopupDescription": 2832939062,
+        "PopupType": "Default",
+        "ConditionScenarioModeId": 0
+    }
+]
