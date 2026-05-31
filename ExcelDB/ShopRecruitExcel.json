@@ -20873,6 +20873,112 @@
         "ProbabilityUrlLive": "https://m.nexon.com/probability/7552?client_id=MjcwOA&language="
     },
     {
+        "Id": 90050665,
+        "CategoryType": "NormalGacha",
+        "IsLegacy": false,
+        "OneGachaGoodsId": 90030404,
+        "TenGachaGoodsId": 90030405,
+        "GoodsDevName": "",
+        "DisplayTag": "None_",
+        "DisplayOrder": 50,
+        "GachaBannerPath": "uis/00_images/banner/Event_Banner_50001",
+        "VideoId": [
+            5002
+        ],
+        "LinkedRobbyBannerId": 653,
+        "InfoCharacterId": [],
+        "SalePeriodVisible": true,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 0,
+        "PurchaseCountResetType": "None_",
+        "IsNewbie": false,
+        "IsSelectRecruit": false,
+        "DirectPayInvisibleTokenId": 0,
+        "DirectPayAndroidShopCashId": 0,
+        "DirectPayAppleShopCashId": 0,
+        "SelectAbleGachaGroupId": 0,
+        "MaxSelectCharacterNum": 0,
+        "DirectPayOneStoreShopCashId": 0,
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7602?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7602?client_id=MjcwOA&language="
+    },
+    {
+        "Id": 90050666,
+        "CategoryType": "LimitedGacha",
+        "IsLegacy": false,
+        "OneGachaGoodsId": 90035936,
+        "TenGachaGoodsId": 90035937,
+        "GoodsDevName": "",
+        "DisplayTag": "Limited",
+        "DisplayOrder": 10,
+        "GachaBannerPath": "",
+        "VideoId": [
+            6191
+        ],
+        "LinkedRobbyBannerId": 654,
+        "InfoCharacterId": [
+            10133
+        ],
+        "SalePeriodVisible": true,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 0,
+        "PurchaseCountResetType": "None_",
+        "IsNewbie": false,
+        "IsSelectRecruit": false,
+        "DirectPayInvisibleTokenId": 0,
+        "DirectPayAndroidShopCashId": 0,
+        "DirectPayAppleShopCashId": 0,
+        "SelectAbleGachaGroupId": 0,
+        "MaxSelectCharacterNum": 0,
+        "DirectPayOneStoreShopCashId": 0,
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7603?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7603?client_id=MjcwOA&language="
+    },
+    {
+        "Id": 90050667,
+        "CategoryType": "LimitedGacha",
+        "IsLegacy": false,
+        "OneGachaGoodsId": 90035938,
+        "TenGachaGoodsId": 90035939,
+        "GoodsDevName": "",
+        "DisplayTag": "Limited",
+        "DisplayOrder": 20,
+        "GachaBannerPath": "",
+        "VideoId": [
+            6192
+        ],
+        "LinkedRobbyBannerId": 655,
+        "InfoCharacterId": [
+            20054
+        ],
+        "SalePeriodVisible": true,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 0,
+        "PurchaseCountResetType": "None_",
+        "IsNewbie": false,
+        "IsSelectRecruit": false,
+        "DirectPayInvisibleTokenId": 0,
+        "DirectPayAndroidShopCashId": 0,
+        "DirectPayAppleShopCashId": 0,
+        "SelectAbleGachaGroupId": 0,
+        "MaxSelectCharacterNum": 0,
+        "DirectPayOneStoreShopCashId": 0,
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7604?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7604?client_id=MjcwOA&language="
+    },
+    {
         "Id": 90060000,
         "CategoryType": "TicketGacha",
         "IsLegacy": false,
@@ -21024,10 +21130,10 @@
         "LinkedRobbyBannerId": 1005,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2026-04-07 11:00:00",
-        "SalePeriodTo": "2026-04-21 10:59:59",
-        "RecruitCoinId": 90070157,
-        "RecruitSellectionShopId": 90010263,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21039,8 +21145,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/7489?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/7489?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7605?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7605?client_id=MjcwOA&language="
     },
     {
         "Id": 90060005,
@@ -21058,10 +21164,10 @@
         "LinkedRobbyBannerId": 1006,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2026-04-07 11:00:00",
-        "SalePeriodTo": "2026-04-21 10:59:59",
-        "RecruitCoinId": 90070157,
-        "RecruitSellectionShopId": 90010263,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21073,8 +21179,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/7489?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/7489?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7605?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7605?client_id=MjcwOA&language="
     },
     {
         "Id": 90060006,
@@ -21364,10 +21470,10 @@
         "LinkedRobbyBannerId": 1005,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2026-04-07 11:00:00",
-        "SalePeriodTo": "2026-04-21 10:59:59",
-        "RecruitCoinId": 90070157,
-        "RecruitSellectionShopId": 90010263,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21379,8 +21485,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/7490?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/7490?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7606?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7606?client_id=MjcwOA&language="
     },
     {
         "Id": 90060095,
@@ -21398,10 +21504,10 @@
         "LinkedRobbyBannerId": 1006,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2026-04-07 11:00:00",
-        "SalePeriodTo": "2026-04-21 10:59:59",
-        "RecruitCoinId": 90070157,
-        "RecruitSellectionShopId": 90010263,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21413,8 +21519,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/7490?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/7490?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7606?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7606?client_id=MjcwOA&language="
     },
     {
         "Id": 90060096,
@@ -21636,10 +21742,10 @@
         "LinkedRobbyBannerId": 2110,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-08 11:00:00",
-        "SalePeriodTo": "2025-07-15 10:59:59",
-        "RecruitCoinId": 90070129,
-        "RecruitSellectionShopId": 90010235,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21651,8 +21757,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language="
     },
     {
         "Id": 90061101,
@@ -21670,10 +21776,10 @@
         "LinkedRobbyBannerId": 2110,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-15 11:00:00",
-        "SalePeriodTo": "2025-07-22 10:59:59",
-        "RecruitCoinId": 90070130,
-        "RecruitSellectionShopId": 90010236,
+        "SalePeriodFrom": "2025-07-22 11:00:00",
+        "SalePeriodTo": "2025-08-05 10:59:59",
+        "RecruitCoinId": 90070131,
+        "RecruitSellectionShopId": 90010237,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21685,8 +21791,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language="
     },
     {
         "Id": 90061102,
@@ -21719,8 +21825,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language="
     },
     {
         "Id": 90061103,
@@ -21753,8 +21859,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6843?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7607?client_id=MjcwOA&language="
     },
     {
         "Id": 90062000,
@@ -21908,10 +22014,10 @@
         "LinkedRobbyBannerId": 2210,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-08 11:00:00",
-        "SalePeriodTo": "2025-07-15 10:59:59",
-        "RecruitCoinId": 90070129,
-        "RecruitSellectionShopId": 90010235,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21923,8 +22029,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language="
     },
     {
         "Id": 90062101,
@@ -21942,10 +22048,10 @@
         "LinkedRobbyBannerId": 2210,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-15 11:00:00",
-        "SalePeriodTo": "2025-07-22 10:59:59",
-        "RecruitCoinId": 90070130,
-        "RecruitSellectionShopId": 90010236,
+        "SalePeriodFrom": "2025-07-22 11:00:00",
+        "SalePeriodTo": "2025-08-05 10:59:59",
+        "RecruitCoinId": 90070131,
+        "RecruitSellectionShopId": 90010237,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -21957,8 +22063,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language="
     },
     {
         "Id": 90062102,
@@ -21991,8 +22097,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language="
     },
     {
         "Id": 90062103,
@@ -22025,8 +22131,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6844?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7608?client_id=MjcwOA&language="
     },
     {
         "Id": 90063000,
@@ -22180,10 +22286,10 @@
         "LinkedRobbyBannerId": 2310,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-08 11:00:00",
-        "SalePeriodTo": "2025-07-15 10:59:59",
-        "RecruitCoinId": 90070129,
-        "RecruitSellectionShopId": 90010235,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -22195,8 +22301,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language="
     },
     {
         "Id": 90063101,
@@ -22214,10 +22320,10 @@
         "LinkedRobbyBannerId": 2310,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-15 11:00:00",
-        "SalePeriodTo": "2025-07-22 10:59:59",
-        "RecruitCoinId": 90070130,
-        "RecruitSellectionShopId": 90010236,
+        "SalePeriodFrom": "2025-07-22 11:00:00",
+        "SalePeriodTo": "2025-08-05 10:59:59",
+        "RecruitCoinId": 90070131,
+        "RecruitSellectionShopId": 90010237,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -22229,8 +22335,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language="
     },
     {
         "Id": 90063102,
@@ -22263,8 +22369,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language="
     },
     {
         "Id": 90063103,
@@ -22297,8 +22403,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6845?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7609?client_id=MjcwOA&language="
     },
     {
         "Id": 90064100,
@@ -22316,10 +22422,10 @@
         "LinkedRobbyBannerId": 2410,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-08 11:00:00",
-        "SalePeriodTo": "2025-07-15 10:59:59",
-        "RecruitCoinId": 90070129,
-        "RecruitSellectionShopId": 90010235,
+        "SalePeriodFrom": "2026-05-26 11:00:00",
+        "SalePeriodTo": "2026-06-09 10:59:59",
+        "RecruitCoinId": 90070161,
+        "RecruitSellectionShopId": 90010267,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -22331,8 +22437,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language="
     },
     {
         "Id": 90064101,
@@ -22350,10 +22456,10 @@
         "LinkedRobbyBannerId": 2410,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2025-07-15 11:00:00",
-        "SalePeriodTo": "2025-07-22 10:59:59",
-        "RecruitCoinId": 90070130,
-        "RecruitSellectionShopId": 90010236,
+        "SalePeriodFrom": "2025-07-22 11:00:00",
+        "SalePeriodTo": "2025-08-05 10:59:59",
+        "RecruitCoinId": 90070131,
+        "RecruitSellectionShopId": 90010237,
         "PurchaseCooltimeMin": 0,
         "PurchaseCountLimit": 0,
         "PurchaseCountResetType": "None_",
@@ -22365,8 +22471,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language="
     },
     {
         "Id": 90064102,
@@ -22399,8 +22505,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language="
     },
     {
         "Id": 90064103,
@@ -22433,8 +22539,8 @@
         "SelectAbleGachaGroupId": 0,
         "MaxSelectCharacterNum": 0,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/6846?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7610?client_id=MjcwOA&language="
     },
     {
         "Id": 90070000,
@@ -22690,8 +22796,8 @@
         "LinkedRobbyBannerId": 3100,
         "InfoCharacterId": [],
         "SalePeriodVisible": true,
-        "SalePeriodFrom": "2026-04-07 11:00:00",
-        "SalePeriodTo": "2026-06-02 10:59:59",
+        "SalePeriodFrom": "2026-02-12 11:00:00",
+        "SalePeriodTo": "2026-04-02 10:59:59",
         "RecruitCoinId": 0,
         "RecruitSellectionShopId": 0,
         "PurchaseCooltimeMin": 0,
@@ -23385,8 +23491,8 @@
         "SelectAbleGachaGroupId": 8000093,
         "MaxSelectCharacterNum": 1,
         "DirectPayOneStoreShopCashId": 0,
-        "ProbabilityUrlDev": "https://m.nexon.com/probability/7522?client_id=MjcwOA&language=",
-        "ProbabilityUrlLive": "https://m.nexon.com/probability/7522?client_id=MjcwOA&language="
+        "ProbabilityUrlDev": "https://m.nexon.com/probability/7170?client_id=MjcwOA&language=",
+        "ProbabilityUrlLive": "https://m.nexon.com/probability/7170?client_id=MjcwOA&language="
     },
     {
         "Id": 900900000,

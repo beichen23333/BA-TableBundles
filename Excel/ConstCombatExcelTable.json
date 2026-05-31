@@ -102,6 +102,8 @@
         "ExcessiveTouchCheckTime": -9011.27519,
         "ExcessiveTouchCheckCount": 15,
         "CampaignAlertPopupLevelGap": 15,
-        "MoveCorrectionSkipRatio": 1500
+        "MoveCorrectionSkipRatio": 1500,
+        "ObstacleColliderHeightJumpable": -9011.392870000001,
+        "ObstacleColliderHeightNotJumpable": -9011.27519
     }
 ]

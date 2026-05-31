@@ -363,8 +363,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -381,8 +381,8 @@
         ]
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -403,8 +403,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -425,8 +425,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -447,8 +447,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -469,8 +469,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -491,8 +491,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 542580510,
-        "VoiceNamePrefix": "Akari_En0004",
+        "ControllerNameHash": 3533979530,
+        "VoiceNamePrefix": "Akari_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -585,8 +585,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1793856899,
-        "VoiceNamePrefix": "Aris_En0004",
+        "ControllerNameHash": 894375616,
+        "VoiceNamePrefix": "Aris_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -603,8 +603,8 @@
         ]
     },
     {
-        "ControllerNameHash": 1793856899,
-        "VoiceNamePrefix": "Aris_En0004",
+        "ControllerNameHash": 894375616,
+        "VoiceNamePrefix": "Aris_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -621,8 +621,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1793856899,
-        "VoiceNamePrefix": "Aris_En0004",
+        "ControllerNameHash": 894375616,
+        "VoiceNamePrefix": "Aris_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -639,8 +639,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1793856899,
-        "VoiceNamePrefix": "Aris_En0004",
+        "ControllerNameHash": 894375616,
+        "VoiceNamePrefix": "Aris_EN0004",
         "StateNameHash": 3790790505,
         "StateName": "Base Layer.Normal.AttackDelay",
         "IgnoreInterruptDelay": false,
@@ -2524,6 +2524,217 @@
         "VoiceHash": []
     },
     {
+        "ControllerNameHash": 1152885309,
+        "VoiceNamePrefix": "CH0337_01_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 1152885309,
+        "VoiceNamePrefix": "CH0337_01_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.15000000596046448,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Shot_01",
+            "SFX_Common_SR_CH0337_Shot_02",
+            "SFX_Common_SR_CH0337_Shot_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1152885309,
+        "VoiceNamePrefix": "CH0337_01_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Reload_01",
+            "SFX_Common_SR_CH0337_Reload_02",
+            "SFX_Common_SR_CH0337_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1152885309,
+        "VoiceNamePrefix": "CH0337_01_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Start"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3297970235,
+        "VoiceNamePrefix": "CH0337_02_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 3297970235,
+        "VoiceNamePrefix": "CH0337_02_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.20000000298023224,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Ex_Shot_01",
+            "SFX_Common_SR_CH0337_Ex_Shot_02",
+            "SFX_Common_SR_CH0337_Ex_Shot_03",
+            "SFX_Common_SR_CH0337_Ex_Shot_04"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3297970235,
+        "VoiceNamePrefix": "CH0337_02_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Reload_01",
+            "SFX_Common_SR_CH0337_Reload_02",
+            "SFX_Common_SR_CH0337_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2887870637,
+        "VoiceNamePrefix": "CH0337_Scenario_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 2887870637,
+        "VoiceNamePrefix": "CH0337_Scenario_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.15000000596046448,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Shot_01",
+            "SFX_Common_SR_CH0337_Shot_02",
+            "SFX_Common_SR_CH0337_Shot_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2887870637,
+        "VoiceNamePrefix": "CH0337_Scenario_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Reload_01",
+            "SFX_Common_SR_CH0337_Reload_02",
+            "SFX_Common_SR_CH0337_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2887870637,
+        "VoiceNamePrefix": "CH0337_Scenario_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SR_CH0337_Start"
+        ],
+        "VoiceHash": []
+    },
+    {
         "ControllerNameHash": 3501950467,
         "VoiceNamePrefix": "Erika",
         "StateNameHash": 1047306432,
@@ -3148,8 +3359,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 143940930,
-        "VoiceNamePrefix": "Haruna_En0004",
+        "ControllerNameHash": 2057622217,
+        "VoiceNamePrefix": "Haruna_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -3166,8 +3377,8 @@
         ]
     },
     {
-        "ControllerNameHash": 143940930,
-        "VoiceNamePrefix": "Haruna_En0004",
+        "ControllerNameHash": 2057622217,
+        "VoiceNamePrefix": "Haruna_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -3188,8 +3399,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 143940930,
-        "VoiceNamePrefix": "Haruna_En0004",
+        "ControllerNameHash": 2057622217,
+        "VoiceNamePrefix": "Haruna_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -3209,8 +3420,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 143940930,
-        "VoiceNamePrefix": "Haruna_En0004",
+        "ControllerNameHash": 2057622217,
+        "VoiceNamePrefix": "Haruna_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -3231,8 +3442,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 143940930,
-        "VoiceNamePrefix": "Haruna_En0004",
+        "ControllerNameHash": 2057622217,
+        "VoiceNamePrefix": "Haruna_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -4703,8 +4914,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -4721,8 +4932,8 @@
         ]
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -4746,8 +4957,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -4768,8 +4979,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 889720587,
         "StateName": "Base Layer.Normal.AttackEnd",
         "IgnoreInterruptDelay": false,
@@ -4793,8 +5004,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -4818,8 +5029,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 1831480698,
-        "VoiceNamePrefix": "Hoshino_En0004",
+        "ControllerNameHash": 3459356938,
+        "VoiceNamePrefix": "Hoshino_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -4887,6 +5098,26 @@
         "VoiceNamePrefix": "Hoshino_Swimsuit_01",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_Reload_Normal_SSHoshino_01",
+            "SFX_Common_SG_Reload_Normal_SSHoshino_02",
+            "SFX_Common_SG_Reload_Normal_SSHoshino_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3831610811,
+        "VoiceNamePrefix": "Hoshino_Swimsuit_01",
+        "StateNameHash": 1663209987,
+        "StateName": "Base Layer.Normal.ReloadRandom",
         "IgnoreInterruptDelay": false,
         "IgnoreInterruptPlay": false,
         "IgnoreVelocity": false,
@@ -5864,8 +6095,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3660648917,
-        "VoiceNamePrefix": "Izumi_En0004",
+        "ControllerNameHash": 2061397917,
+        "VoiceNamePrefix": "Izumi_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -5882,8 +6113,8 @@
         ]
     },
     {
-        "ControllerNameHash": 3660648917,
-        "VoiceNamePrefix": "Izumi_En0004",
+        "ControllerNameHash": 2061397917,
+        "VoiceNamePrefix": "Izumi_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -5904,8 +6135,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3660648917,
-        "VoiceNamePrefix": "Izumi_En0004",
+        "ControllerNameHash": 2061397917,
+        "VoiceNamePrefix": "Izumi_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -5923,8 +6154,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3660648917,
-        "VoiceNamePrefix": "Izumi_En0004",
+        "ControllerNameHash": 2061397917,
+        "VoiceNamePrefix": "Izumi_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -5945,8 +6176,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3660648917,
-        "VoiceNamePrefix": "Izumi_En0004",
+        "ControllerNameHash": 2061397917,
+        "VoiceNamePrefix": "Izumi_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -8603,8 +8834,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 2799638270,
-        "VoiceNamePrefix": "Midori_En0004",
+        "ControllerNameHash": 890509718,
+        "VoiceNamePrefix": "Midori_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -8621,8 +8852,8 @@
         ]
     },
     {
-        "ControllerNameHash": 2799638270,
-        "VoiceNamePrefix": "Midori_En0004",
+        "ControllerNameHash": 890509718,
+        "VoiceNamePrefix": "Midori_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -8643,8 +8874,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 2799638270,
-        "VoiceNamePrefix": "Midori_En0004",
+        "ControllerNameHash": 890509718,
+        "VoiceNamePrefix": "Midori_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -8664,8 +8895,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 2799638270,
-        "VoiceNamePrefix": "Midori_En0004",
+        "ControllerNameHash": 890509718,
+        "VoiceNamePrefix": "Midori_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -8686,8 +8917,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 2799638270,
-        "VoiceNamePrefix": "Midori_En0004",
+        "ControllerNameHash": 890509718,
+        "VoiceNamePrefix": "Midori_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -9747,8 +9978,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -9765,8 +9996,8 @@
         ]
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -9787,8 +10018,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -9808,8 +10039,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -9830,8 +10061,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -9851,8 +10082,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -9873,8 +10104,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 184271198,
-        "VoiceNamePrefix": "Momoi_En0004",
+        "ControllerNameHash": 843996113,
+        "VoiceNamePrefix": "Momoi_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -11001,8 +11232,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 531754347,
-        "VoiceNamePrefix": "Nonomi_En0004",
+        "ControllerNameHash": 3169415986,
+        "VoiceNamePrefix": "Nonomi_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -11019,8 +11250,8 @@
         ]
     },
     {
-        "ControllerNameHash": 531754347,
-        "VoiceNamePrefix": "Nonomi_En0004",
+        "ControllerNameHash": 3169415986,
+        "VoiceNamePrefix": "Nonomi_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -11041,8 +11272,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 531754347,
-        "VoiceNamePrefix": "Nonomi_En0004",
+        "ControllerNameHash": 3169415986,
+        "VoiceNamePrefix": "Nonomi_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -11060,8 +11291,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 531754347,
-        "VoiceNamePrefix": "Nonomi_En0004",
+        "ControllerNameHash": 3169415986,
+        "VoiceNamePrefix": "Nonomi_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -11082,8 +11313,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 531754347,
-        "VoiceNamePrefix": "Nonomi_En0004",
+        "ControllerNameHash": 3169415986,
+        "VoiceNamePrefix": "Nonomi_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -12269,8 +12500,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -12287,8 +12518,8 @@
         ]
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12309,8 +12540,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -12331,8 +12562,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12353,8 +12584,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -12375,8 +12606,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12397,8 +12628,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 980854323,
-        "VoiceNamePrefix": "Serika_En0004",
+        "ControllerNameHash": 1857423577,
+        "VoiceNamePrefix": "Serika_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -12673,8 +12904,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
         "IgnoreInterruptDelay": false,
@@ -12691,8 +12922,8 @@
         ]
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12713,8 +12944,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -12735,8 +12966,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12757,8 +12988,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -12779,8 +13010,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -12801,8 +13032,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3180517651,
-        "VoiceNamePrefix": "Shiroko_En0004",
+        "ControllerNameHash": 570703153,
+        "VoiceNamePrefix": "Shiroko_EN0004",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -16282,7 +16513,7 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
+        "ControllerNameHash": 2333305271,
         "VoiceNamePrefix": "Yuzu",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
@@ -16300,8 +16531,8 @@
         ]
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -16320,8 +16551,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -16339,8 +16570,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 3790790505,
         "StateName": "Base Layer.Normal.AttackDelay",
         "IgnoreInterruptDelay": false,
@@ -16358,8 +16589,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -16378,8 +16609,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -16397,8 +16628,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3661794973,
-        "VoiceNamePrefix": "Yuzu_En0004_Controller",
+        "ControllerNameHash": 2333305271,
+        "VoiceNamePrefix": "Yuzu_EN0004_Controller",
         "StateNameHash": 372783027,
         "StateName": "Base Layer.Kneel.AttackDelay",
         "IgnoreInterruptDelay": false,
@@ -16566,7 +16797,7 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
+        "ControllerNameHash": 415187244,
         "VoiceNamePrefix": "Zunko",
         "StateNameHash": 1047306432,
         "StateName": "Base Layer.VitalDyingIng",
@@ -16584,8 +16815,8 @@
         ]
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 4198288525,
         "StateName": "Base Layer.Normal.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -16606,8 +16837,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 2495071527,
         "StateName": "Base Layer.Normal.Reload",
         "IgnoreInterruptDelay": false,
@@ -16628,8 +16859,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 199563541,
         "StateName": "Base Layer.Kneel.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -16650,8 +16881,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 3226339727,
         "StateName": "Base Layer.Kneel.Reload",
         "IgnoreInterruptDelay": false,
@@ -16672,8 +16903,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 1704571765,
         "StateName": "Base Layer.Stand.AttackIng",
         "IgnoreInterruptDelay": false,
@@ -16694,8 +16925,8 @@
         "VoiceHash": []
     },
     {
-        "ControllerNameHash": 3463027929,
-        "VoiceNamePrefix": "Zunko_En0004_Controller",
+        "ControllerNameHash": 415187244,
+        "VoiceNamePrefix": "Zunko_EN0004_Controller",
         "StateNameHash": 3177945297,
         "StateName": "Base Layer.Stand.Reload",
         "IgnoreInterruptDelay": false,
@@ -16713,7 +16944,9 @@
             "SFX_Common_AR_Reload_04",
             "SFX_Common_AR_Reload_05"
         ],
-        "VoiceHash": []
+        "VoiceHash": [
+            3188319397
+        ]
     },
     {
         "ControllerNameHash": 3247749632,
@@ -16881,9 +17114,7 @@
             "SFX_Common_HG_Swing_Load_03",
             "SFX_Common_HG_Swing_Load_04"
         ],
-        "VoiceHash": [
-            3188319397
-        ]
+        "VoiceHash": []
     },
     {
         "ControllerNameHash": 439907337,
@@ -22127,6 +22358,25 @@
     {
         "ControllerNameHash": 3463553165,
         "VoiceNamePrefix": "CH0245_Controller",
+        "StateNameHash": 2647513699,
+        "StateName": "Base Layer.Normal.MoveEndRootMotion",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.10000000149011612,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RL_CH0245_Normal_Move_End_01",
+            "SFX_Common_RL_CH0245_Normal_Move_End_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3463553165,
+        "VoiceNamePrefix": "CH0245_Controller",
         "StateNameHash": 1931956606,
         "StateName": "Base Layer.Kneel.AttackStart",
         "IgnoreInterruptDelay": false,
@@ -22209,6 +22459,25 @@
         "VoiceNamePrefix": "CH0245_Controller",
         "StateNameHash": 4042093241,
         "StateName": "Base Layer.Kneel.MoveEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RL_CH0245_Kneel_Move_End_01",
+            "SFX_Common_RL_CH0245_Kneel_Move_End_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3463553165,
+        "VoiceNamePrefix": "CH0245_Controller",
+        "StateNameHash": 3553195276,
+        "StateName": "Base Layer.Kneel.MoveEndRootMotion",
         "IgnoreInterruptDelay": false,
         "IgnoreInterruptPlay": false,
         "IgnoreVelocity": false,
@@ -22782,6 +23051,110 @@
             "SFX_Common_SR_CH0301_AttackDelay_01",
             "SFX_Common_SR_CH0301_AttackDelay_02",
             "SFX_Common_SR_CH0301_AttackDelay_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1260053421,
+        "VoiceNamePrefix": "CH0305",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 1260053421,
+        "VoiceNamePrefix": "CH0305",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1260053421,
+        "VoiceNamePrefix": "CH0305",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": -2,
+        "RandomPitchMax": 2,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0305_Normal_Relaod_01",
+            "SFX_Common_HG_CH0305_Normal_Relaod_02",
+            "SFX_Common_HG_CH0305_Normal_Relaod_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1260053421,
+        "VoiceNamePrefix": "CH0305",
+        "StateNameHash": 199563541,
+        "StateName": "Base Layer.Kneel.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1260053421,
+        "VoiceNamePrefix": "CH0305",
+        "StateNameHash": 3226339727,
+        "StateName": "Base Layer.Kneel.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.029999999329447746,
+        "RandomPitchMin": -2,
+        "RandomPitchMax": 2,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_Reload_01",
+            "SFX_Common_HG_Reload_02",
+            "SFX_Common_HG_Reload_03"
         ],
         "VoiceHash": []
     },
@@ -23429,6 +23802,955 @@
         "VoiceHash": []
     },
     {
+        "ControllerNameHash": 357191713,
+        "VoiceNamePrefix": "CH0331_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 357191713,
+        "VoiceNamePrefix": "CH0331_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 357191713,
+        "VoiceNamePrefix": "CH0331_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.30000001192092896,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0331_Reload_01",
+            "SFX_Common_HG_CH0331_Reload_02",
+            "SFX_Common_HG_CH0331_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 357191713,
+        "VoiceNamePrefix": "CH0331_Controller",
+        "StateNameHash": 199563541,
+        "StateName": "Base Layer.Kneel.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 357191713,
+        "VoiceNamePrefix": "CH0331_Controller",
+        "StateNameHash": 3226339727,
+        "StateName": "Base Layer.Kneel.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.30000001192092896,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0331_Reload_01",
+            "SFX_Common_HG_CH0331_Reload_02",
+            "SFX_Common_HG_CH0331_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3154907688,
+        "VoiceNamePrefix": "CH0331_Scenario_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 3154907688,
+        "VoiceNamePrefix": "CH0331_Scenario_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3154907688,
+        "VoiceNamePrefix": "CH0331_Scenario_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.30000001192092896,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0331_Reload_01",
+            "SFX_Common_HG_CH0331_Reload_02",
+            "SFX_Common_HG_CH0331_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3154907688,
+        "VoiceNamePrefix": "CH0331_Scenario_Controller",
+        "StateNameHash": 199563541,
+        "StateName": "Base Layer.Kneel.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_01",
+            "SFX_Common_HG_02",
+            "SFX_Common_HG_03",
+            "SFX_Common_HG_04",
+            "SFX_Common_HG_05",
+            "SFX_Common_HG_06"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3154907688,
+        "VoiceNamePrefix": "CH0331_Scenario_Controller",
+        "StateNameHash": 3226339727,
+        "StateName": "Base Layer.Kneel.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.30000001192092896,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0331_Reload_01",
+            "SFX_Common_HG_CH0331_Reload_02",
+            "SFX_Common_HG_CH0331_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_Shot_01",
+            "SFX_Common_HG_CH0333_Shot_02",
+            "SFX_Common_HG_CH0333_Shot_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_Reload_01",
+            "SFX_Common_HG_CH0333_Reload_02",
+            "SFX_Common_HG_CH0333_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackStart_01",
+            "SFX_Common_HG_CH0333_AttackStart_02",
+            "SFX_Common_HG_CH0333_AttackStart_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 889720587,
+        "StateName": "Base Layer.Normal.AttackEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackEnd_01",
+            "SFX_Common_HG_CH0333_AttackEnd_02",
+            "SFX_Common_HG_CH0333_AttackEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 4105304903,
+        "StateName": "Base Layer.Normal.MoveEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_NormalMoveEnd_01",
+            "SFX_Common_HG_CH0333_NormalMoveEnd_02",
+            "SFX_Common_HG_CH0333_NormalMoveEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 199563541,
+        "StateName": "Base Layer.Kneel.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_Shot_01",
+            "SFX_Common_HG_CH0333_Shot_02",
+            "SFX_Common_HG_CH0333_Shot_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 3226339727,
+        "StateName": "Base Layer.Kneel.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.25,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_KneelReload_01",
+            "SFX_Common_HG_CH0333_KneelReload_02",
+            "SFX_Common_HG_CH0333_KneelReload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 1931956606,
+        "StateName": "Base Layer.Kneel.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0.10000000149011612,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackEnd_01",
+            "SFX_Common_HG_CH0333_AttackEnd_02",
+            "SFX_Common_HG_CH0333_AttackEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 2144217603,
+        "StateName": "Base Layer.Kneel.AttackEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackStart_01",
+            "SFX_Common_HG_CH0333_AttackStart_02",
+            "SFX_Common_HG_CH0333_AttackStart_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3437496096,
+        "VoiceNamePrefix": "CH0333_Controller",
+        "StateNameHash": 4042093241,
+        "StateName": "Base Layer.Kneel.MoveEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_KneelMoveEnd_01",
+            "SFX_Common_HG_CH0333_KneelMoveEnd_02",
+            "SFX_Common_HG_CH0333_KneelMoveEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_Shot_01",
+            "SFX_Common_HG_CH0333_Shot_02",
+            "SFX_Common_HG_CH0333_Shot_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_Reload_01",
+            "SFX_Common_HG_CH0333_Reload_02",
+            "SFX_Common_HG_CH0333_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackStart_01",
+            "SFX_Common_HG_CH0333_AttackStart_02",
+            "SFX_Common_HG_CH0333_AttackStart_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 889720587,
+        "StateName": "Base Layer.Normal.AttackEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_AttackEnd_01",
+            "SFX_Common_HG_CH0333_AttackEnd_02",
+            "SFX_Common_HG_CH0333_AttackEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 717457091,
+        "VoiceNamePrefix": "CH0333_Scenario_Controller",
+        "StateNameHash": 4105304903,
+        "StateName": "Base Layer.Normal.MoveEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_HG_CH0333_NormalMoveEnd_01",
+            "SFX_Common_HG_CH0333_NormalMoveEnd_02",
+            "SFX_Common_HG_CH0333_NormalMoveEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.10000000149011612,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_AR_CH0334_Shot_01",
+            "SFX_Common_AR_CH0334_Shot_02",
+            "SFX_Common_AR_CH0334_Shot_03",
+            "SFX_Common_AR_CH0334_Shot_04"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_AR_CH0334_Reload_01",
+            "SFX_Common_AR_CH0334_Reload_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 1663209987,
+        "StateName": "Base Layer.Normal.ReloadRandom",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_AR_CH0334_Reload_01",
+            "SFX_Common_AR_CH0334_Reload_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_AR_CH0334_AttackStart_01",
+            "SFX_Common_AR_CH0334_AttackStart_02",
+            "SFX_Common_AR_CH0334_AttackStart_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 17848882,
+        "VoiceNamePrefix": "CH0334_Controller",
+        "StateNameHash": 889720587,
+        "StateName": "Base Layer.Normal.AttackEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.6000000238418579,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_AR_CH0334_AttackEnd_01",
+            "SFX_Common_AR_CH0334_AttackEnd_02",
+            "SFX_Common_AR_CH0334_AttackEnd_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1995549012,
+        "VoiceNamePrefix": "CH0334_Scenario_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1995549012,
+        "VoiceNamePrefix": "CH0334_Scenario_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.699999988079071,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Attack"
+        ],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 1995549012,
+        "VoiceNamePrefix": "CH0334_Scenario_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.5,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Reload"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 1995549012,
+        "VoiceNamePrefix": "CH0334_Scenario_Controller",
+        "StateNameHash": 3790790505,
+        "StateName": "Base Layer.Normal.AttackDelay",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Delay"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3096338463,
+        "VoiceNamePrefix": "CH0335",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 3096338463,
+        "VoiceNamePrefix": "CH0335",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.4000000059604645,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Attack"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3096338463,
+        "VoiceNamePrefix": "CH0335",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.5,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Reload"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3096338463,
+        "VoiceNamePrefix": "CH0335",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Start"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 858997011,
+        "VoiceNamePrefix": "CH0335_Scenario_01_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 858997011,
+        "VoiceNamePrefix": "CH0335_Scenario_01_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.4000000059604645,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Attack"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 858997011,
+        "VoiceNamePrefix": "CH0335_Scenario_01_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.5,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Reload"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 858997011,
+        "VoiceNamePrefix": "CH0335_Scenario_01_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Start"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3838663882,
+        "VoiceNamePrefix": "CH0335_Scenario_02_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 3838663882,
+        "VoiceNamePrefix": "CH0335_Scenario_02_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.4000000059604645,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_aris_Attack"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3838663882,
+        "VoiceNamePrefix": "CH0335_Scenario_02_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.5,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Reload"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 3838663882,
+        "VoiceNamePrefix": "CH0335_Scenario_02_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_RG_CH0335_Start"
+        ],
+        "VoiceHash": []
+    },
+    {
         "ControllerNameHash": 3123402316,
         "VoiceNamePrefix": "CH0229_Controller",
         "StateNameHash": 1047306432,
@@ -23529,6 +24851,144 @@
             "SFX_Common_HG_CH0229_Reload_01",
             "SFX_Common_HG_CH0229_Reload_02",
             "SFX_Common_HG_CH0229_Reload_03"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 1047306432,
+        "StateName": "Base Layer.VitalDyingIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 30,
+        "AudioClipPath": [],
+        "VoiceHash": [
+            3436375298
+        ]
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 4198288525,
+        "StateName": "Base Layer.Normal.AttackIng",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0.25999999046325684,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_01",
+            "SFX_Common_SG_02",
+            "SFX_Common_SG_03",
+            "SFX_Common_SG_04",
+            "SFX_Common_SG_05",
+            "SFX_Common_SG_06",
+            "SFX_Common_SG_07",
+            "SFX_Common_SG_08"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 3790790505,
+        "StateName": "Base Layer.Normal.AttackDelay",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.800000011920929,
+        "Delay": 0.20000000298023224,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_DSG_Remington_Delay_01",
+            "SFX_Common_DSG_Remington_Delay_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 2495071527,
+        "StateName": "Base Layer.Normal.Reload",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 1.0,
+        "Delay": 0,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_CH0264_Reload_01",
+            "SFX_Common_SG_CH0264_Reload_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 1198599094,
+        "StateName": "Base Layer.Normal.AttackStart",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.5,
+        "Delay": 0.10000000149011612,
+        "RandomPitchMin": -1,
+        "RandomPitchMax": 1,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_CH0264_Attack_Start_01",
+            "SFX_Common_SG_CH0264_Attack_Start_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 889720587,
+        "StateName": "Base Layer.Normal.AttackEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.30000001192092896,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_CH0264_Attack_End_01",
+            "SFX_Common_SG_CH0264_Attack_End_02"
+        ],
+        "VoiceHash": []
+    },
+    {
+        "ControllerNameHash": 2535944275,
+        "VoiceNamePrefix": "CH0264_Controller",
+        "StateNameHash": 4105304903,
+        "StateName": "Base Layer.Normal.MoveEnd",
+        "IgnoreInterruptDelay": false,
+        "IgnoreInterruptPlay": false,
+        "IgnoreVelocity": false,
+        "Volume": 0.699999988079071,
+        "Delay": 0.20000000298023224,
+        "RandomPitchMin": 0,
+        "RandomPitchMax": 0,
+        "AudioPriority": 100,
+        "AudioClipPath": [
+            "SFX_Common_SG_CH0264_Move_End_01",
+            "SFX_Common_SG_CH0264_Move_End_02"
         ],
         "VoiceHash": []
     },

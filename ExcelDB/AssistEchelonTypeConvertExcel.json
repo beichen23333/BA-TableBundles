@@ -22,5 +22,9 @@
     {
         "Contents": "ConquestManage",
         "ConvertTo": "EventContent"
+    },
+    {
+        "Contents": "PermanentRaid",
+        "ConvertTo": "Raid"
     }
 ]

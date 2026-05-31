@@ -30,5 +30,13 @@
     {
         "ContentType": "MultiFloorRaid",
         "SizeLimit": 100
+    },
+    {
+        "ContentType": "InteractiveWorldRaid",
+        "SizeLimit": 100
+    },
+    {
+        "ContentType": "PermanentRaid",
+        "SizeLimit": 30
     }
 ]

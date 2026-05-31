@@ -27,7 +27,7 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04"
+            "UI_KeyMapping_Common_BtnOK06"
         ]
     },
     {
@@ -56,7 +56,7 @@
             "Btn_Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -73,23 +73,29 @@
     {
         "PrefabName": "UICafeInfoPopup",
         "ButtonName": [
-            "Btn_Normal",
-            "FurnitureList/Btn_Ok"
+            "Btn/Btn_Normal",
+            "FurnitureList/Btn_Ok",
+            "Center/Popup",
+            "Btn_RankUp/Btn_Normal"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01",
+            "Tab_UICafeInfoPopup",
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
         "PrefabName": "UICafeStudentChangePopup",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "Btn_Ok_Y"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnCancel01",
+            "UI_KeyMapping_Common_BtnOK01"
         ]
     },
     {
@@ -127,7 +133,7 @@
             "Btn_Exit"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -202,10 +208,12 @@
     {
         "PrefabName": "UIEventBoxGacha",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "Btn_Retry"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_OnlyController"
         ]
     },
     {
@@ -214,7 +222,7 @@
             "Btn_Ok"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_OnlyController"
         ]
     },
     {
@@ -285,11 +293,20 @@
             "PositionChange"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK06",
+            "UI_KeyMapping_Common_BtnOK06_Controller",
             "UI_KeyMapping_Common_BtnOK01",
             "UI_KeyMapping_Common_BtnCancel01",
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UIFormation_KeyMapping_PositionChange"
+        ]
+    },
+    {
+        "PrefabName": "UIFormation",
+        "ButtonName": [
+            "Popup/Tab"
+        ],
+        "KeyMappingId": [
+            "Tab_UIFormation"
         ]
     },
     {
@@ -298,16 +315,20 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_OnlyController"
         ]
     },
     {
         "PrefabName": "UIFieldLobby_843",
         "ButtonName": [
-            "Btn_Start"
+            "Btn_Start",
+            "Btn_Prev",
+            "Btn_Next"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK06"
+            "UI_KeyMapping_Common_BtnOK08_Controller",
+            "UI_KeyMapping_UIFieldLobby_843_Btn_Left",
+            "UI_KeyMapping_UIFieldLobby_843_Btn_Right"
         ]
     },
     {
@@ -317,7 +338,7 @@
             "PositionChange"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UIFormation_KeyMapping_PositionChange"
         ]
     },
@@ -325,11 +346,13 @@
         "PrefabName": "UIFormation_EchelonExtension",
         "ButtonName": [
             "ActionButton",
-            "PositionChange"
+            "PositionChange",
+            "Popup/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UIFormation_KeyMapping_PositionChange"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UIFormation_KeyMapping_PositionChange",
+            "Tab_UIFormation_EchelonExtension"
         ]
     },
     {
@@ -342,14 +365,36 @@
         ]
     },
     {
+        "PrefabName": "UIFurnitureInventory",
+        "ButtonName": [
+            "Center/Popup/Base/SubTabs/Grid"
+        ],
+        "KeyMappingId": [
+            "Tab_UIFurnitureInventory"
+        ]
+    },
+    {
         "PrefabName": "UIGachaResult",
         "ButtonName": [
-            "Btn_Ok",
+            "Btn_Bottom/Btn_Ok",
             "Btn_Cancel"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_Unfocused",
             "UI_KeyMapping_Common_BtnCancel01"
+        ]
+    },
+    {
+        "PrefabName": "UIGachaResult",
+        "ButtonName": [
+            "One/Btn_Ok",
+            "Two/Btn_Ok",
+            "Btn/Btn_Ok"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01"
         ]
     },
     {
@@ -369,16 +414,18 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
         "PrefabName": "UIMiniGameShootingLobby",
         "ButtonName": [
-            "Btn_Start"
+            "Btn_Start",
+            "Btn_Skip"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
         ]
     },
     {
@@ -387,17 +434,15 @@
             "Btn_Enable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
         "PrefabName": "UIMiniGameShootingPause",
         "ButtonName": [
-            "Btn_Continue",
-            "Btn_Retreat"
+            "Btn_Continue"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnCancel01",
             "UI_KeyMapping_Common_BtnOK01"
         ]
     },
@@ -407,7 +452,7 @@
             "Btn_Select"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -416,7 +461,7 @@
             "Btn_Enter"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -455,10 +500,12 @@
     {
         "PrefabName": "UIPopup_Arena_CharEdit",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "Bg_W/FilterBtn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIPopup_Arena_CharEdit"
         ]
     },
     {
@@ -541,11 +588,13 @@
         "PrefabName": "UIPopup_AssistSetSlot",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "Bg_W/FilterBtn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnOK06",
+            "UI_KeyMapping_Common_BtnCancel03",
+            "Tab_UIPopup_AssistSetSlot"
         ]
     },
     {
@@ -603,8 +652,12 @@
     },
     {
         "PrefabName": "UIPopup_CafePreset",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "TabBG"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_CafePreset"
+        ]
     },
     {
         "PrefabName": "UIPopup_CafeTemplateApply",
@@ -656,8 +709,18 @@
     },
     {
         "PrefabName": "UIStageSelect",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "UIStageSelect/UIList/Widget/Tab/Tab_N/On",
+            "Tab_N/Off",
+            "UIStageSelect/UIList/Widget/Tab/Tab_H/On",
+            "Tab_H/Off"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_OnlyController_StageSelectTabLeft_Display",
+            "UI_KeyMapping_OnlyController_StageSelectTabLeft",
+            "UI_KeyMapping_OnlyController_StageSelectTabRight_Display",
+            "UI_KeyMapping_OnlyController_StageSelectTabRight"
+        ]
     },
     {
         "PrefabName": "UIPopup_ClientVersion",
@@ -683,18 +746,20 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04"
+            "UI_KeyMapping_Common_BtnOK04_Controller"
         ]
     },
     {
         "PrefabName": "UIPopup_Conquest_Operation_CharEdit",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "RightBg/AsistTab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnCancel01",
+            "Tab_UIPopup_Conquest_Operation_CharEdit"
         ]
     },
     {
@@ -703,7 +768,7 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -799,16 +864,18 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04"
+            "UI_KeyMapping_Common_BtnOK04_Controller"
         ]
     },
     {
         "PrefabName": "UIPopup_EliminateRaidDeck",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "Base/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01",
+            "Tab_UIPopup_EliminateRaidDeck"
         ]
     },
     {
@@ -859,7 +926,7 @@
         ]
     },
     {
-        "PrefabName": "UIPopup_MinigameRhythmPaus ",
+        "PrefabName": "UIPopup_MinigameRhythmPaus",
         "ButtonName": [
             "Btn_Ok"
         ],
@@ -870,10 +937,10 @@
     {
         "PrefabName": "UIPopup_FieldOption",
         "ButtonName": [
-            "Btn_OkBtn_Out"
+            "Btn_Lobby"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_OnlyController_OnlyFocus"
         ]
     },
     {
@@ -944,11 +1011,13 @@
         "PrefabName": "UIPopup_GachaCharList",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "Bg_W/FilterBtn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK05",
-            "UI_KeyMapping_Common_BtnCancel02"
+            "UI_KeyMapping_Common_BtnOK05_Unfocused",
+            "UI_KeyMapping_Common_BtnCancel02",
+            "Tab_UIPopup_GachaCharList"
         ]
     },
     {
@@ -988,11 +1057,13 @@
         "PrefabName": "UIPopup_GearInfo",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "Right/Tab"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnCancel01",
+            "Tab_UIPopup_GearInfo"
         ]
     },
     {
@@ -1059,11 +1130,13 @@
         "PrefabName": "UIPopup_IdCard_Edit",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "Front/Tab"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnCancel01",
+            "Tab_UIPopup_IdCard_Edit"
         ]
     },
     {
@@ -1128,7 +1201,7 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04"
+            "UI_KeyMapping_Common_BtnOK04_Controller"
         ]
     },
     {
@@ -1205,10 +1278,12 @@
     {
         "PrefabName": "UIPopup_MultiSweep",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "Preset/Btn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIPopup_MultiSweep"
         ]
     },
     {
@@ -1272,10 +1347,12 @@
     {
         "PrefabName": "UIPopup_QuickCraft",
         "ButtonName": [
-            "Btn_summit/Btn_Start"
+            "Btn_summit/Btn_Start",
+            "TopMenu/Btn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIPopup_QuickCraft"
         ]
     },
     {
@@ -1296,7 +1373,7 @@
         ],
         "KeyMappingId": [
             "UI_KeyMapping_UIPopupRaidEnter_BtnOK",
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_UIPopupRaidEnter_BtnOK",
             "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
         ]
     },
@@ -1334,12 +1411,14 @@
         "ButtonName": [
             "Btn_Ok",
             "Btn_Cancel",
-            "Btn_Reward_Normal"
+            "Btn_Reward_Normal",
+            "Popup/TabBG"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
             "UI_KeyMapping_Common_BtnCancel01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIPopup_RaidRank"
         ]
     },
     {
@@ -1377,7 +1456,7 @@
             "Btn_Ok"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK05_Controller"
         ]
     },
     {
@@ -1408,8 +1487,8 @@
             "2/BlackBg"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK05_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UI_KeyMapping_Common_BtnOK02"
         ]
     },
@@ -1463,14 +1542,16 @@
             "Btn_Next",
             "UIPopup_StageInfo_New/UIPopup_Default/BG/Btn_Arrow",
             "UIPopup_StageInfo_New/UIPopup_Default/BG/Btn_Arrow",
+            "TabWidget/Tab",
             "Btn_Sweep"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04",
+            "UI_KeyMapping_Common_BtnOK04_Controller",
             "UI_KeyMapping_Common_ArrowLeft",
             "UI_KeyMapping_Common_ArrowRight",
             "UI_KeyMapping_OnlyStageSelectNew_ArrowLeft",
             "UI_KeyMapping_OnlyStageSelectNew_ArrowRight",
+            "Tab_UIPopup_StageInfo_New",
             "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
         ]
     },
@@ -1546,6 +1627,15 @@
         ]
     },
     {
+        "PrefabName": "UIPopup_TBGIngame",
+        "ButtonName": [
+            "BtnList/Btn_OK"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01_Controller"
+        ]
+    },
+    {
         "PrefabName": "UIPopup_TermServiceInfo",
         "ButtonName": [
             "Btn_Ok"
@@ -1582,7 +1672,7 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK05_Controller"
         ]
     },
     {
@@ -1664,10 +1754,12 @@
     {
         "PrefabName": "UIPopup_WeaponGrowth",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "Target/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIPopup_WeaponGrowth"
         ]
     },
     {
@@ -1675,12 +1767,14 @@
         "ButtonName": [
             "Btn_Ok",
             "Btn_Cancel",
-            "2/BG"
+            "2/BG",
+            "Right/Tab"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
             "UI_KeyMapping_Common_BtnCancel01",
-            "UI_KeyMapping_Common_BtnOK02"
+            "UI_KeyMapping_Common_BtnOK02",
+            "Tab_UIPopup_WeaponInfo"
         ]
     },
     {
@@ -1709,7 +1803,7 @@
             "Btn_Enter"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1747,7 +1841,7 @@
             "Btn_Lvup"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1780,7 +1874,7 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1820,11 +1914,15 @@
         "PrefabName": "UIShop_Popup_Gem",
         "ButtonName": [
             "Btn_Ok",
-            "Btn_Cancel"
+            "Btn_Cancel",
+            "BG/Tab_2",
+            "BG/Tab_3"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnCancel01",
+            "Tab_UIShop_Popup_Gem_0",
+            "Tab_UIShop_Popup_Gem_1"
         ]
     },
     {
@@ -1875,7 +1973,7 @@
             "Btn_MapInfo"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1904,7 +2002,7 @@
             "Btn_Exit"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1915,7 +2013,7 @@
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -1925,7 +2023,7 @@
             "Btn_Sweep"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK04",
+            "UI_KeyMapping_Common_BtnOK04_Controller",
             "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
         ]
     },
@@ -2017,6 +2115,17 @@
         ]
     },
     {
+        "PrefabName": "UIRewardPopup",
+        "ButtonName": [
+            "UIRewardPopup/UI/FrontUI_Move/Prev_Widget",
+            "UIRewardPopup/UI/FrontUI_Move/Next_Widget"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UIRewardPopup_ArrowLeft",
+            "UI_KeyMapping_UIRewardPopup_ArrowRight"
+        ]
+    },
+    {
         "PrefabName": "UIScenarioEndReward",
         "ButtonName": [
             "BoxColider"
@@ -2037,19 +2146,46 @@
     {
         "PrefabName": "UIScenarioNew",
         "ButtonName": [
-            "ShowUIBtn"
+            "ShowUIBtn",
+            "MenuButton_Normal",
+            "MenuButton_Pressed",
+            "MenuPopup/HideBtn",
+            "MenuPopup/LogBtn",
+            "MenuPopup/SkipBtn_Bg",
+            "MenuPopup/SetBtn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_UIScenarioNew_ShowUIbtn"
+            "UI_KeyMapping_UIScenarioNew_ShowUIbtn",
+            "UI_KeyMapping_UIScenarioNew_MenuBtn",
+            "UI_KeyMapping_UIScenarioNew_MenuBtn",
+            "UI_KeyMapping_UIScenarioNew_HideUIBtn",
+            "UI_KeyMapping_UIScenarioNew_LogViewBtn",
+            "UI_KeyMapping_UIScenarioNew_SkipBtn",
+            "UI_KeyMapping_UIScenarioNew_SetBtn"
         ]
     },
     {
         "PrefabName": "UIPopup_Formation_CharEdit",
         "ButtonName": [
-            "Btn_Ok"
+            "Btn_Ok",
+            "AssistTab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK05_Controller",
+            "Tab_UIPopup_Formation_CharEdit"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_Formation_CharEdit",
+        "ButtonName": [
+            "Pin/On",
+            "Pin/Off",
+            "TopFilter/FilterBtn"
+        ],
+        "KeyMappingId": [
+            "UIPopup_Formation_CharEdit_BtnPin",
+            "UIPopup_Formation_CharEdit_BtnPin",
+            "Tab_UIPopup_Formation_CharEdit_1"
         ]
     },
     {
@@ -2064,14 +2200,29 @@
             "NormalButtonParent/Btn_Recruitment (1)",
             "NormalButtonParent/Btn_Recruitment",
             "UICharacterDetail/Inventory_ListControl/Arrow_L",
-            "UICharacterDetail/Inventory_ListControl/Arrow_R"
+            "UICharacterDetail/Inventory_ListControl/Arrow_R",
+            "Active/CharacterTab",
+            "Disable/CharacterTab_Disable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK05",
-            "UI_KeyMapping_Common_BtnOK02",
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK05_Controller",
+            "UI_KeyMapping_Common_BtnOK02_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UI_KeyMapping_CharacterDetail_ArrowLeft",
-            "UI_KeyMapping_CharacterDetail_ArrowRight"
+            "UI_KeyMapping_CharacterDetail_ArrowRight",
+            "Tab_UICharacterDetail",
+            "Tab_UICharacterDetail_1"
+        ]
+    },
+    {
+        "PrefabName": "UICharacterDetail",
+        "ButtonName": [
+            "UICharacterDetail/Inventory_ListControl/LeftInfo/CharInfo/Char_Target/Pin/Pin_On",
+            "UICharacterDetail/Inventory_ListControl/LeftInfo/CharInfo/Char_Target/Pin/Pin_Off"
+        ],
+        "KeyMappingId": [
+            "UICharacterDetail_BtnPin",
+            "UICharacterDetail_BtnPin"
         ]
     },
     {
@@ -2082,18 +2233,20 @@
             "Btn_Start"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
         "PrefabName": "UICraftDurationList",
         "ButtonName": [
-            "Btn_GetAll"
+            "Btn_GetAll",
+            "Btn_NodeConfirm"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2102,7 +2255,7 @@
             "Btn_Enter"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2112,7 +2265,7 @@
             "Btn_Sweep"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UIPopup_StageInfo_KeyMapping_Btn_Sweep"
         ]
     },
@@ -2144,11 +2297,13 @@
         "PrefabName": "UIClanLobby",
         "ButtonName": [
             "Btn/Btn_Ok",
-            "Btn/Btn_Cancel"
+            "Btn/Btn_Cancel",
+            "Tab_Normal"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK03",
-            "UI_KeyMapping_Common_BtnCancel01"
+            "UI_KeyMapping_Common_BtnCancel01",
+            "Tab_UIClanLobby"
         ]
     },
     {
@@ -2181,16 +2336,18 @@
             "FullCollier"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK02"
+            "UI_KeyMapping_All_TouchScreen"
         ]
     },
     {
         "PrefabName": "UIMission",
         "ButtonName": [
-            "Btn_ReceiveAll"
+            "Btn_ReceiveAll",
+            "Right/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIMission"
         ]
     },
     {
@@ -2199,7 +2356,7 @@
             "Btn_ReceiveAll"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2208,7 +2365,7 @@
             "Btn_ReceiveAll"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2217,7 +2374,7 @@
             "ReceiveAll/Btn"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2232,10 +2389,12 @@
     {
         "PrefabName": "UIGuideMission",
         "ButtonName": [
-            "Btn_ReceiveAll"
+            "Btn_ReceiveAll",
+            "Center/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIGuideMission"
         ]
     },
     {
@@ -2264,7 +2423,7 @@
             "Btn_OK/Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK07"
+            "UI_KeyMapping_Common_BtnOK07_Controller"
         ]
     },
     {
@@ -2273,16 +2432,27 @@
             "Btn_CardSelect_All/Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK08"
+            "UI_KeyMapping_Common_BtnOK08_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIEventTreasureShop_842",
+        "ButtonName": [
+            "Btn_CardSelect_All/Normal"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK08_Controller"
         ]
     },
     {
         "PrefabName": "UISeasonalEvent",
         "ButtonName": [
-            "Btn_ReceiveAll"
+            "Btn_ReceiveAll",
+            "Right/Tab"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UISeasonalEvent"
         ]
     },
     {
@@ -2302,40 +2472,59 @@
             "Btn_Prev",
             "Btn_Next",
             "Btn_UIHideOn",
-            "Btn_UIHideOff",
+            "Btn_UIHideOff"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UICafeGift_ArrowLeft",
+            "UI_KeyMapping_UICafeGift_ArrowRight",
+            "UI_KeyMapping_UICafe_UIHide",
+            "UI_KeyMapping_UICafe_UIHide"
+        ]
+    },
+    {
+        "PrefabName": "UICafe",
+        "ButtonName": [
             "EditModeClose",
             "Menu/Btn_Edit",
             "Menu/Btn_Info",
-            "Menu/Btn_Storage",
+            "Menu/Btn_Storage"
+        ],
+        "KeyMappingId": [
+            "UICafe_KeyMapping_EditModeClose",
+            "UICafe_KeyMapping_Menu_Btn_Edit",
+            "UICafe_KeyMapping_Menu_Btn_Info",
+            "UICafe_KeyMapping_Menu_Btn_Storage"
+        ]
+    },
+    {
+        "PrefabName": "UICafe",
+        "ButtonName": [
             "Edit/Btn_Cancel",
             "Btn_Rotate/On",
             "Edit/Btn_Confirm"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_ArrowLeft_isUsed",
-            "UI_KeyMapping_Common_ArrowRight_isUsed",
-            "UI_KeyMapping_UICafe_UIHide",
-            "UI_KeyMapping_UICafe_UIHide",
-            "UICafe_KeyMapping_EditModeClose",
-            "UICafe_KeyMapping_Menu_Btn_Edit",
-            "UICafe_KeyMapping_Menu_Btn_Info",
-            "UICafe_KeyMapping_Menu_Btn_Storage",
             "UICafe_KeyMapping_Edit_Btn_Cancel",
             "UICafe_KeyMapping_Edit_Btn_Rotate",
             "UICafe_KeyMapping_Edit_Btn_Confirm"
         ]
     },
     {
+        "PrefabName": "UICafe",
+        "ButtonName": [
+            "GiftList/Btn_Close"
+        ],
+        "KeyMappingId": [
+            "UICafe_KeyMapping_GiftModeClose"
+        ]
+    },
+    {
         "PrefabName": "UIInformationPopup",
         "ButtonName": [
             "Btn_Prev",
-            "Btn_Next",
-            "UIInformationPopup/Center/Popup",
-            "UIInformationPopup/Center/Popup"
+            "Btn_Next"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_ArrowLeft",
-            "UI_KeyMapping_Common_ArrowRight",
             "UI_KeyMapping_OnlyUIInformationPopup_ArrowLeft",
             "UI_KeyMapping_OnlyUIInformationPopup_ArrowRight"
         ]
@@ -2431,17 +2620,27 @@
         "PrefabName": "UILobby",
         "ButtonName": [
             "UILobby/Front/Btn_Arrow/Pos_prev/Btn_prev",
-            "UILobby/Front/Btn_Arrow/Pos_Next/Btn_Next"
+            "UILobby/Front/Btn_Arrow/Pos_Next/Btn_Next",
+            "UILobby/Front/Right/Btn_Screen_On",
+            "UILobby/Front/Right/ScreenshotMode/ModeInformation/Btn_Screen_Off"
         ],
         "KeyMappingId": [
             "UI_KeyMapping_Common_ArrowLeft_isUsed",
-            "UI_KeyMapping_Common_ArrowRight_isUsed"
+            "UI_KeyMapping_Common_ArrowRight_isUsed",
+            "UI_KeyMapping_UILobby_Screen",
+            "UI_KeyMapping_UILobby_Screen"
         ]
     },
     {
         "PrefabName": "UICharacterVisualMode",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "Btn_ShowUI",
+            "Btn_HideUI"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UICharacterVisualMode_UIHIde",
+            "UI_KeyMapping_UICharacterVisualMode_UIHIde"
+        ]
     },
     {
         "PrefabName": "UIEventTreasureShop_60000",
@@ -2449,7 +2648,7 @@
             "Btn_CardSelect_All/Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK08"
+            "UI_KeyMapping_Common_BtnOK08_Controller"
         ]
     },
     {
@@ -2458,18 +2657,20 @@
             "Btn_OK/Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK07"
+            "UI_KeyMapping_Common_BtnOK07_Controller"
         ]
     },
     {
         "PrefabName": "UIBattlePass",
         "ButtonName": [
             "BottomWidget/RewardBtn",
-            "RightBottomWidget/RewardBtn"
+            "RightBottomWidget/RewardBtn",
+            "RightTopWidget/TabGrid"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIBattlePass_Mission"
         ]
     },
     {
@@ -2484,12 +2685,23 @@
         ]
     },
     {
+        "PrefabName": "UICharacterSelectPopup",
+        "ButtonName": [
+            "Btn_Section/Btn_Ok",
+            "Btn_Cancel"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK05",
+            "UI_KeyMapping_Common_BtnCancel02"
+        ]
+    },
+    {
         "PrefabName": "UICardGame_CardReward",
         "ButtonName": [
             "Btn_Enable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2500,9 +2712,9 @@
             "Btn_EnableShift/Bg"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01",
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2522,7 +2734,7 @@
             "Btn_Enable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2542,7 +2754,7 @@
             "Btn_Enable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2552,7 +2764,7 @@
             "Btn_Cancel"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
             "UI_KeyMapping_Common_BtnCancel01"
         ]
     },
@@ -2600,7 +2812,7 @@
             "Btn_Enable"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK06"
+            "UI_KeyMapping_Common_BtnOK06_Controller"
         ]
     },
     {
@@ -2620,7 +2832,7 @@
             "Btn_CardSelect_All/Normal"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK08"
+            "UI_KeyMapping_Common_BtnOK08_Controller"
         ]
     },
     {
@@ -2629,7 +2841,7 @@
             "Btn_Sweep"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2643,12 +2855,8 @@
     },
     {
         "PrefabName": "UIPopup_LevelReward",
-        "ButtonName": [
-            "Btn_OK"
-        ],
-        "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
-        ]
+        "ButtonName": [],
+        "KeyMappingId": []
     },
     {
         "PrefabName": "UIMinigameMission",
@@ -2656,45 +2864,289 @@
             "Btn_ReceiveAll"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
         "PrefabName": "UIBattle",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "BtnPause/Btn"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Battle_MenuBtn"
+        ]
     },
     {
         "PrefabName": "UIFieldHUD",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "MasteryInfo/Btn_MasteryInfo",
+            "Btn_WorldMapGroup/Btn_WorldMap",
+            "Btn_Detail_Group/Btn_Detail",
+            "Btn_Inventory",
+            "Btn_FieldExit"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UIFieldInteraction_InfoBtn",
+            "UI_KeyMapping_UIFieldInteraction_MapBtn",
+            "UI_KeyMapping_UIFieldInteraction_MemoBtn",
+            "UI_KeyMapping_UIFieldInteraction_InventroyBtn",
+            "UI_KeyMapping_UIFieldInteraction_ExitBtn"
+        ]
     },
     {
         "PrefabName": "UIFieldHUD_843",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "MasteryInfo/Btn_MasteryInfo",
+            "Btn_WorldMapGroup/Btn_WorldMap",
+            "Btn_Detail_Group/Btn_Detail",
+            "Btn_Inventory",
+            "Btn_FieldExit",
+            "Btn_EndEpisode"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UIFieldInteraction843_InfoBtn",
+            "UI_KeyMapping_UIFieldInteraction843_MapBtn",
+            "UI_KeyMapping_UIFieldInteraction843_MemoBtn",
+            "UI_KeyMapping_UIFieldInteraction843_InventroyBtn",
+            "UI_KeyMapping_UIFieldInteraction843_ExitBtn",
+            "UI_KeyMapping_UIFieldInteraction843_EndEpisode"
+        ]
     },
     {
         "PrefabName": "UIUndercoverMain",
         "ButtonName": [
-            "ActionBar/Btn_Action"
+            "ActionBar/Btn_Action",
+            "QuestList/Btn_Detail",
+            "Btn_Inventory",
+            "Btn_Exit"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_UIUndercoverMain_HIdeUIBtnAction"
+            "UI_KeyMapping_UIUndercoverMain_HIdeUIBtnAction",
+            "UI_KeyMapping_UIUndercoverMain_MemoBtn",
+            "UI_KeyMapping_UIUndercoverMain_InventroyBtn",
+            "UI_KeyMapping_UIUndercoverMain_ExitBtn"
         ]
     },
     {
         "PrefabName": "UIEnemyInfoPopup",
-        "ButtonName": [],
-        "KeyMappingId": []
+        "ButtonName": [
+            "Popup/Tab"
+        ],
+        "KeyMappingId": [
+            "Tab_UIEnemyInfoPopup"
+        ]
+    },
+    {
+        "PrefabName": "UIGroupBuffPopup",
+        "ButtonName": [
+            "Tab_Lobby"
+        ],
+        "KeyMappingId": [
+            "Tab_UIGroupBuffPopup"
+        ]
     },
     {
         "PrefabName": "UIGuideMission_Scenario",
         "ButtonName": [
-            "Btn_ReceiveAll"
+            "Btn_ReceiveAll",
+            "Center/Tab"
         ],
         "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "Tab_UIGuideMission_Scenario"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_CafeTravelSocialList",
+        "ButtonName": [
+            "Base/Tab"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_CafeTravelSocialList"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_CVCollection",
+        "ButtonName": [
+            "Tab_Type02",
+            "Tab_Type03"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_CVCollection",
+            "Tab_UIPopup_CVCollection"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_Formation_Preset",
+        "ButtonName": [
+            "TopMenu/Btn"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_Formation_Preset"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_RoadPuzzleRewardInfo",
+        "ButtonName": [
+            "TabBG"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_RoadPuzzleRewardInfo"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_UserInfo",
+        "ButtonName": [
+            "Popup/Front"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_UserInfo"
+        ]
+    },
+    {
+        "PrefabName": "UIShop",
+        "ButtonName": [
+            "ResourceSection/TabSet",
+            "Btn_BuyAll_Enable",
+            "UpdateBtn"
+        ],
+        "KeyMappingId": [
+            "Tab_UIShop",
+            "UI_KeyMapping_Common_BtnOK01_Controller",
+            "UIShop_KeyMapping_UpdateBtn"
+        ]
+    },
+    {
+        "PrefabName": "UISpecialOperationLobby",
+        "ButtonName": [
+            "Tab/Tab_2",
+            "Tab/Tab_3"
+        ],
+        "KeyMappingId": [
+            "Tab_UISpecialOperationLobby_0",
+            "Tab_UISpecialOperationLobby_1"
+        ]
+    },
+    {
+        "PrefabName": "UITrophyCollectionInfoPopup",
+        "ButtonName": [
+            "Popup/Tab"
+        ],
+        "KeyMappingId": [
+            "Tab_UITrophyCollectionInfoPopup"
+        ]
+    },
+    {
+        "PrefabName": "UIFieldWorldMap",
+        "ButtonName": [
+            "Btn_Tab_Combat"
+        ],
+        "KeyMappingId": [
+            "Tab_UIFieldWorldMap"
+        ]
+    },
+    {
+        "PrefabName": "UIFieldWorldMap_843",
+        "ButtonName": [
+            "Btn_Tab_Combat"
+        ],
+        "KeyMappingId": [
+            "Tab_UIFieldWorldMap_843"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_Dreammaker_RewardInfo",
+        "ButtonName": [
+            "Popup/Tab"
+        ],
+        "KeyMappingId": [
+            "Tab_UIPopup_Dreammaker_RewardInfo"
+        ]
+    },
+    {
+        "PrefabName": "UIEventTreasureRewardListPopup",
+        "ButtonName": [
+            "TabBG"
+        ],
+        "KeyMappingId": [
+            "Tab_UIEventTreasureRewardListPopup"
+        ]
+    },
+    {
+        "PrefabName": "UIMinigameDefense_StageList_838",
+        "ButtonName": [
+            "DifficultBtn"
+        ],
+        "KeyMappingId": [
+            "Tab_UIMinigameDefense_StageList_838"
+        ]
+    },
+    {
+        "PrefabName": "UICharacterCollection",
+        "ButtonName": [
+            "TopMenu/FilterBtn"
+        ],
+        "KeyMappingId": [
+            "Tab_UICharacterCollection"
+        ]
+    },
+    {
+        "PrefabName": "UIEventBonusChar",
+        "ButtonName": [
+            "Bg_W/FilterBtn"
+        ],
+        "KeyMappingId": [
+            "Tab_UIEventBonusChar"
+        ]
+    },
+    {
+        "PrefabName": "UIScenarioMode_MainVolume",
+        "ButtonName": [
+            "FinalGaugeComplete/Btn_Normal",
+            "TopLeft/Btn_Return"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UIScenarioMode_ModeSelect_Final",
+            "UI_KeyMapping_UIScenarioMode_ModeSelect_FinalReturn"
+        ]
+    },
+    {
+        "PrefabName": "UITutorialFailure",
+        "ButtonName": [
+            "UITutorialFailure/BackUI/FrontUI_Move/Prev_Widget",
+            "UITutorialFailure/BackUI/FrontUI_Move/Next_Widget",
+            "Btn_Ok"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UITutorialFailure_ArrowLeft",
+            "UI_KeyMapping_UITutorialFailure_ArrowRight",
             "UI_KeyMapping_Common_BtnOK01"
+        ]
+    },
+    {
+        "PrefabName": "UIReturnParcels",
+        "ButtonName": [
+            "UIReturnParcels/BackUI/FrontUI_Move/Prev_Widget",
+            "UIReturnParcels/BackUI/FrontUI_Move/Next_Widget"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UITutorialFailure_ArrowLeft",
+            "UI_KeyMapping_UITutorialFailure_ArrowRight"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_TutorialFailure",
+        "ButtonName": [
+            "Btn_prev",
+            "Btn_Next",
+            "UIPopup_TutorialFailure/BackUI/Btn_Arrow",
+            "UIPopup_TutorialFailure/BackUI/Btn_Arrow"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_ArrowLeft",
+            "UI_KeyMapping_Common_ArrowRight",
+            "UI_KeyMapping_TutorialFailure_ArrowLeft",
+            "UI_KeyMapping_TutorialFailure_ArrowRight"
         ]
     },
     {
@@ -2703,7 +3155,7 @@
             "Container/Btn_Open"
         ],
         "KeyMappingId": [
-            "UI_KeyMapping_Common_BtnOK01"
+            "UI_KeyMapping_Common_BtnOK01_Controller"
         ]
     },
     {
@@ -2741,6 +3193,385 @@
         "KeyMappingId": [
             "UI_KeyMapping_Common_BtnOK01",
             "UI_KeyMapping_Common_BtnCancel01"
+        ]
+    },
+    {
+        "PrefabName": "UIAttendance",
+        "ButtonName": [
+            "UIAttendance/ReplaySet",
+            "UIAttendance/ReplaySet",
+            "ReplaySet/Arrow_L",
+            "ReplaySet/Arrow_R"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Gacha_ArrowLeft",
+            "UI_KeyMapping_Gacha_ArrowRight",
+            "UI_KeyMapping_Common_ArrowLeft",
+            "UI_KeyMapping_Common_ArrowRight"
+        ]
+    },
+    {
+        "PrefabName": "UIEventLobby",
+        "ButtonName": [
+            "MapBg/Tab",
+            "Tab/Tab_2",
+            "Tab/Tab_3"
+        ],
+        "KeyMappingId": [
+            "Tab_UIEventLobby",
+            "Tab_UIEventLobby_1",
+            "Tab_UIEventLobby_1"
+        ]
+    },
+    {
+        "PrefabName": "UIEventLobby",
+        "ButtonName": [
+            "Btn_Up_Wrapper/Able"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_ArenaRank",
+        "ButtonName": [
+            "Label_Locale_Tab_1",
+            "Label_Locale_Tab_2",
+            "UIPopup_ArenaRank/Center/Popup/Base/BG",
+            "UIPopup_ArenaRank/Center/Popup/Base/BG"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_OnlyController_ArenaRankLeft_Hidden",
+            "UI_KeyMapping_OnlyController_ArenaRankRight_Hidden",
+            "UI_KeyMapping_OnlyController_ArenaRankLeft_Display",
+            "UI_KeyMapping_OnlyController_ArenaRankRight_Display"
+        ]
+    },
+    {
+        "PrefabName": "UIStageMissionPopup",
+        "ButtonName": [
+            "UIStageMissionPopup/UI /FrontUI_Move/Prev_Widget",
+            "IStageMissionPopup/UI /FrontUI_Move/Next_Widget"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_UIRewardPopup_ArrowLeft",
+            "UI_KeyMapping_UIRewardPopup_ArrowRight"
+        ]
+    },
+    {
+        "PrefabName": "UIInteractiveWorldRaidLobby",
+        "ButtonName": [
+            "Btn_Hide",
+            "Btn_Screen_Off"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_WorldRaid_UIHIde",
+            "UI_KeyMapping_WorldRaid_UIHIde"
+        ]
+    },
+    {
+        "PrefabName": "UIInteractiveWorldRaidLobby",
+        "ButtonName": [
+            "Btn_Camera"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_WorldRaid_LobbyCamera"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_InteractiveWorldRaidBuyTicket",
+        "ButtonName": [
+            "Btn_Ok",
+            "Btn_Back"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnCancel01"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_System_InteractiveWorldRaid",
+        "ButtonName": [
+            "Btn_Ok",
+            "Btn_Back"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01",
+            "UI_KeyMapping_Common_BtnCancel01"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_InteractiveWorldRaidArcade",
+        "ButtonName": [
+            "Btn_Play"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIInteractiveWorldRaid2DUI",
+        "ButtonName": [
+            "Btn_Start"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK12_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIInteractiveWorldRaidDifficultyUI",
+        "ButtonName": [
+            "Btn_Ok"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK12_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIPopup_BattlePlayGuide",
+        "ButtonName": [
+            "Btn_Prev",
+            "Btn_Next"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_ArrowLeft_isUsed",
+            "UI_KeyMapping_Common_ArrowRight_isUsed"
+        ]
+    },
+    {
+        "PrefabName": "UIMiniGameShootingLobby_WorldRaid_854",
+        "ButtonName": [
+            "Left_Bottom_Target/DifficultBtn",
+            "Btn_Start"
+        ],
+        "KeyMappingId": [
+            "Tab_UIMiniGameShootingLobby_WorldRaid_854",
+            "UI_KeyMapping_Common_BtnOK01_Controller"
+        ]
+    },
+    {
+        "PrefabName": "UIMinigameShooting",
+        "ButtonName": [
+            "RightTop/Btn"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_ShootingGame_Btn_Pause"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "AlreadyPlacedRailStyle/Rotation_L"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Rotation_L"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "AlreadyPlacedRailStyle/Save"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Save"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "AlreadyPlacedRailStyle/Cancel"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Cancel"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "AlreadyPlacedRailStyle/SwapRail"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_SwapRail"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "UISwapTargetTile/Cancel"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Cancel"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "UISwapTargetTile/Rotation_L"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Rotation_L"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "UISwapTargetTile/Save"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Save"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "PlaceRailStyle/Rotation_L"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Rotation_L"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "PlaceRailStyle/PlaceRail"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Save"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "PlaceRailStyle/Cancel"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Cancel"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "UISwapSourceTile/Cancel"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Cancel"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "Top/Btn_Home"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_Home"
+        ]
+    },
+    {
+        "PrefabName": "UIRoadPuzzle_WorldRaid_854",
+        "ButtonName": [
+            "Btn_TrainStart"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_RoadGame_Btn_TrainStart"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_InGame_HUD",
+        "ButtonName": [
+            "Btn_Log"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Battle_Log"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Lobby_WorldRaid_854",
+        "ButtonName": [
+            "Right_Bottom_Target/Btn_Newgame"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Newgame"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Lobby_WorldRaid_854",
+        "ButtonName": [
+            "Right_Bottom_Target/Btn_Continue"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Continue"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Lobby_WorldRaid_854",
+        "ButtonName": [
+            "Left_Bottom_Target/Btn_Shop"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Shop"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Shop",
+        "ButtonName": [
+            "PerkOnOffButton"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_PerkOnOff"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_MyDeck",
+        "ButtonName": [
+            "SortGroup/Btn_SortOption/Bg"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_SortOption"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_MyDeck",
+        "ButtonName": [
+            "SortGroup/Btn_Sort/Bg"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Sort"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Map",
+        "ButtonName": [
+            "RightTop/Widget/Menu/Btn_Home"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Home"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Map",
+        "ButtonName": [
+            "RightBottom/Widget/Menu/Btn_Reset"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Reset"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Map",
+        "ButtonName": [
+            "RightBottom/Widget/Menu/Btn_Reslut"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Reslut"
+        ]
+    },
+    {
+        "PrefabName": "UICardGame_Rest",
+        "ButtonName": [
+            "BtnPass"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_CardGame_Btn_Rest_Pass"
         ]
     }
 ]

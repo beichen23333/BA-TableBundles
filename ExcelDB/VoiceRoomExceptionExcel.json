@@ -33,5 +33,10 @@
         "CostumeUniqueId": 2005101,
         "LinkedCharacterVoicePrintType": "Add",
         "LinkedCostumeUniqueId": 4001501
+    },
+    {
+        "CostumeUniqueId": 2005401,
+        "LinkedCharacterVoicePrintType": "Add",
+        "LinkedCostumeUniqueId": 3000501
     }
 ]

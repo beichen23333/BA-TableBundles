@@ -1,9 +1,21 @@
 [
     {
-        "DragSensitivity": 5891.774920000001,
+        "DragSensitivity": 5885.15092,
         "PcInformationGroupID": 900000001,
+        "PcControllerInformationGroupID": 900000002,
         "ScrollWheelFactor": 5875.48116,
-        "RemoveKeycodeWord": "Left|Right|Alpha",
-        "TutorialDialogTouchKey": "UI_KeyMapping_All_TouchScreen"
+        "RemoveKeycodeWord": "Alpha",
+        "TutorialDialogTouchKey": "UI_KeyMapping_All_TouchScreenTutorial",
+        "ControllerCursorFactorSlow": 500,
+        "ControllerCursorFactor": 850,
+        "ControllerCursorFactorFast": 1800,
+        "VibrationSec": 5876.22004,
+        "VibrationPower": 5876.150600000001,
+        "ControllerScrollWheelFactor": 5876.15956,
+        "ControllerZoomSensitivity": 5876.15956,
+        "ControllerDpadMoveCheckRangeX": 5904.929480000001,
+        "ControllerDpadMoveCheckRangeY": 5904.929480000001,
+        "ControllerCursorClickScale": 5876.41492,
+        "ControllerScrollSensitivity": 5875.878600000001
     }
 ]
