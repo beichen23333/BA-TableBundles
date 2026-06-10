@@ -18992,6 +18992,70 @@
         "LocalizeJP": "私なんかがこれをいただく資格なんて……\nい、いえ……先生が決めたことです。ありがとうございます！"
     },
     {
+        "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "블루…… 아카이브.",
+        "LocalizeJP": "ブルー……アーカイブ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "시원한 바다에서, 모두와 잊지 못할 추억을 만들고 싶어.\n물론 선생님도 함께야. 같이 해줄 거지?",
+        "LocalizeJP": "こうして海に来たんだもの……みんなと忘れられない思い出を作りたいんだ。\n先生も、一緒に……付き合ってくれる？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어디가 가장\n시원할까?",
+        "LocalizeJP": "一番涼しいのはどこだろう……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "단합대회…… 기대돼.",
+        "LocalizeJP": "親睦会……楽しみ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "부장다운 모습……\n보여주고 싶어.",
+        "LocalizeJP": "委員長らしいところを……見せたいな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "눈에 띄는 건\n곤란한데…….",
+        "LocalizeJP": "あんまり、目立ちたくないな……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "오늘의 추억을,\n잊지 말자.",
+        "LocalizeJP": "今日の思い出、大切にしたい。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "나는 아직 부족한 것투성이.\n그럼에도, 이 백련을 쥐려고 해.\n그건…… 백화요란의 부장을 연기하려는 것이 아니야.\n스스로의 마음과 마주하기 위해서야.",
+        "LocalizeJP": "私はまだまだ足りないことだらけ。\nそれでも、この百蓮を持ち続けたいと思う。\nそれは……百花繚乱の委員長を演じるためじゃない。\n――自分自身の心と向き合うために。"
+    },
+    {
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
         "CharacterId": 10014,
         "Duration": 0,
@@ -51990,5 +52054,125 @@
         "Separate": false,
         "LocalizeKR": "무슨 내용이었을까요?",
         "LocalizeJP": "どんな内容だったんでしょう？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님, 우리들의 활약을\n지켜봐 줄래?",
+        "LocalizeJP": "先生、私たちの活躍を見届けてくれる？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "후후, 내 오른손의 힘을\n모두에게 보여줄게.",
+        "LocalizeJP": "ふふっ、今まで封じてた力、見せてあげる。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "아직 여유 있어.\n마음을 가다듬고 가자.",
+        "LocalizeJP": "まだ余裕はあるけど、気を抜かずにいこう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "마지막 스퍼트를 낼 때네.",
+        "LocalizeJP": "ラストスパートだね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "모두, 힘을 내줘.",
+        "LocalizeJP": "みんな、頑張ろう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님,\n마지막까지 고마워.",
+        "LocalizeJP": "先生、最後までありがとう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다음에도 같이 즐기자.",
+        "LocalizeJP": "次も一緒に楽しもうね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "축제의 열기 때문일까?",
+        "LocalizeJP": "お祭り、大盛り上がりだね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "마음이 달아오르는\n것이 느껴져.",
+        "LocalizeJP": "こっちまで熱くなってくる。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "햇볕이 강하니……\n자외선 대책을\n제대로 세워야 해.",
+        "LocalizeJP": "日差しが強い……ちゃんと紫外線対策しないと。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "피부가 타는 건 화상이래.",
+        "LocalizeJP": "日焼けって火傷なんだって。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "내가……\n신경 쓰이는 거야?",
+        "LocalizeJP": "私が……気になるの？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "미안해.\n눈에 잘 띄는 모습이라서.",
+        "LocalizeJP": "ごめんなさい。目立ってしまって。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "축제에서 먹는\n닭꼬치는 각별해.",
+        "LocalizeJP": "お祭りで食べる焼き鳥って、特別な感じがする。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님도\n그렇게 생각하지?",
+        "LocalizeJP": "先生もそう思わない？"
     }
 ]

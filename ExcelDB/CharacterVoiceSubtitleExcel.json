@@ -59078,5 +59078,261 @@
         "Separate": false,
         "LocalizeKR": "예! 전부 쓰레기통에 처박았습니다!",
         "LocalizeJP": "はい！ゴミはゴミ箱にぶち込みました！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선행에 감사를.",
+        "LocalizeJP": "気遣ってくれてありがとう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "예상했어.",
+        "LocalizeJP": "分かってたよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "더위엔 약하지만, 힘낼게.",
+        "LocalizeJP": "暑いのは苦手だけど……頑張るね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "눈부신 활약을 보여줄게.",
+        "LocalizeJP": "私の活躍を、見ていて、先生。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "신중하게 가자.",
+        "LocalizeJP": "慎重に進もう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다들, 따라오고 있어?",
+        "LocalizeJP": "みんな、ついてきてる？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이것이…… 우정.",
+        "LocalizeJP": "これが……友達。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "가겠어.",
+        "LocalizeJP": "行くよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "응, 우리들의 승리.",
+        "LocalizeJP": "うん、私たちの勝ち。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이것이, 백화요란의 힘.",
+        "LocalizeJP": "これが、百花繚乱の力。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CommonSkill",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "진검승부.",
+        "LocalizeJP": "真剣勝負。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이것이 여름의 바다…….",
+        "LocalizeJP": "これが夏の海……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "바람이 시원해…….",
+        "LocalizeJP": "風が気持ちいい……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_3",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "새하얀 파도…… 좋다.",
+        "LocalizeJP": "白い波……綺麗。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "눈부시게 했구나.",
+        "LocalizeJP": "眩しかったかな？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "너무 빛나버렸을까.",
+        "LocalizeJP": "輝きすぎちゃったかな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "의도한 건 아니었는데.",
+        "LocalizeJP": "狙ったわけじゃないんだけど……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "가겠어. 백련과 함께.",
+        "LocalizeJP": "うん、百蓮も持ったよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "오른손, 지금이라면 괜찮아. 맡겨줘.",
+        "LocalizeJP": "右腕、今なら大丈夫。任せて。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_Select",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님의 선택을…… 따를게.",
+        "LocalizeJP": "先生がそうしたいなら……従うよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이것으로…… 오른팔의 봉인이 하나 풀렸어.",
+        "LocalizeJP": "これで……右腕の封印が1つ解けた。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "그래. 나에게도 성장의 가능성이 남아 있었던 거야.",
+        "LocalizeJP": "そっか。私にもまだ伸びしろがあったんだね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_3",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "황혼에서 되찾은, 내 힘…… 보여줄게.",
+        "LocalizeJP": "黄昏から取り戻した、私の力……見せてあげる。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_4",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "고마워, 선생님. 덕분에 내 안의 꽃망울이 피어났어.",
+        "LocalizeJP": "つぼみが開いたような感じがする。\nありがとう、先生のおかげだよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "눈이 녹아 사라지면 봄이 찾아오듯…….\n황량했던 내 마음에도 봄이 온 모양이야.",
+        "LocalizeJP": "雪が解けたら、春が訪れるように……。\n荒れ果てた私の心にも、芽吹きの時が来たみたい。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "역시 선생님은 상냥하구나.\n나도, 그 상냥함을 닮고 싶어.",
+        "LocalizeJP": "やっぱり優しいね。\n私も、いつか先生みたいになりたいな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "언제나 날 믿어줘서 고마워.\n나도 항상…… 선생님을 믿어.",
+        "LocalizeJP": "いつも信じてくれてありがとう。\n……先生のこと、頼りにしてるよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "외모 외엔 장점이 별로 없는 나지만……\n선생님의 곁에 있어도 괜찮겠지?",
+        "LocalizeJP": "美人なこと以外、特に取り柄がないんだけど……\n先生のそばにいても……いいかな？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "내가 누구인지, 모두에게 알리겠어.",
+        "LocalizeJP": "私が誰なのか、みんなに伝えるの。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "승리로 이끌게.",
+        "LocalizeJP": "勝利へ導くね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님의 믿음에 보답해서 다행이야.",
+        "LocalizeJP": "先生の期待に応えられたなら、良かった。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10142,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "나는 더 이상…… 누군가의 '대신'이 아니야.",
+        "LocalizeJP": "私はもう……誰かの「代わり」じゃない。"
     }
 ]

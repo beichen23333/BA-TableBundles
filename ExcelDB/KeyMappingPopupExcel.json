@@ -267,6 +267,15 @@
         ]
     },
     {
+        "PrefabName": "UIFieldDateResult_90101000",
+        "ButtonName": [
+            "Btn_Exit"
+        ],
+        "KeyMappingId": [
+            "UI_KeyMapping_Common_BtnOK01"
+        ]
+    },
+    {
         "PrefabName": "UIFormation",
         "ButtonName": [
             "ActionButton",

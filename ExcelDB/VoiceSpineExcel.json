@@ -33980,5 +33980,161 @@
         "SoundVolume": [
             1.0
         ]
+    },
+    {
+        "UniqueId": 2615,
+        "Id": 2454262936,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_1_1"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2616,
+        "Id": 1928941630,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_1_2"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2617,
+        "Id": 622234804,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_2_1"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2618,
+        "Id": 3747647809,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_2_2"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2619,
+        "Id": 240954040,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_2_3"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2620,
+        "Id": 995083248,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_3_1"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2621,
+        "Id": 1262177718,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_3_2"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2622,
+        "Id": 3834759405,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_4_1"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2623,
+        "Id": 2332658674,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_4_2"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2624,
+        "Id": 4130063691,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_5"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2625,
+        "Id": 3924977294,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_6_1"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 2626,
+        "Id": 2409176109,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_JP/JP_CH0303/CH0303_MemorialLobby_6_2"
+        ],
+        "SoundVolume": [
+            1.0
+        ]
     }
 ]

@@ -10205,7 +10205,9 @@
             "Gm",
             "gc",
             "Hf",
-            "HG"
+            "HG",
+            "IQ",
+            "Iq"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 20,
@@ -11265,7 +11267,9 @@
             "hl",
             "hM",
             "II",
-            "Ii"
+            "Ii",
+            "IQ",
+            "Iq"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 50,
@@ -21207,7 +21211,7 @@
         "LocalizeEtcId": 783220009,
         "ItemCategory": "SecretStone",
         "Quality": 9,
-        "Icon": "",
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0303",
         "SpriteName": "",
         "StackableMax": 999999,
         "StackableFunction": 0,

@@ -3469,5 +3469,18 @@
         "BGMId": 265,
         "AudioClipJp": "",
         "AudioClipKr": ""
+    },
+    {
+        "Id": 10142,
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 4223972392,
+        "CharacterId": 10142,
+        "PrefabName": "LobbyCH0303",
+        "MemoryLobbyCategory": "UILobbySpecial",
+        "SlotTextureName": "",
+        "RewardTextureName": "UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0303_01",
+        "BGMId": 300,
+        "AudioClipJp": "",
+        "AudioClipKr": ""
     }
 ]

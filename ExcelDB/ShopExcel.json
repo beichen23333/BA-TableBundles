@@ -128729,6 +128729,50 @@
         "ShopUpdateGroupId": 0
     },
     {
+        "Id": 10631,
+        "LocalizeEtcId": 3308377822,
+        "CategoryType": "RecruitSellection",
+        "IsLegacy": false,
+        "UseBigPopup": false,
+        "GoodsId": [
+            10915,
+            10916,
+            10917
+        ],
+        "DisplayOrder": 1,
+        "SalePeriodFrom": "",
+        "SalePeriodTo": "",
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 0,
+        "PurchaseCountResetType": "None_",
+        "BuyReportEventName": "",
+        "RestrictBuyWhenInventoryFull": false,
+        "DisplayTag": "None_",
+        "ShopUpdateGroupId": 0
+    },
+    {
+        "Id": 10632,
+        "LocalizeEtcId": 3308377822,
+        "CategoryType": "RecruitSellection",
+        "IsLegacy": false,
+        "UseBigPopup": false,
+        "GoodsId": [
+            10918,
+            10919,
+            10920
+        ],
+        "DisplayOrder": 1,
+        "SalePeriodFrom": "",
+        "SalePeriodTo": "",
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 0,
+        "PurchaseCountResetType": "None_",
+        "BuyReportEventName": "",
+        "RestrictBuyWhenInventoryFull": false,
+        "DisplayTag": "None_",
+        "ShopUpdateGroupId": 0
+    },
+    {
         "Id": 17000,
         "LocalizeEtcId": 376882766,
         "CategoryType": "RecruitSellection",
@@ -134084,6 +134128,26 @@
         "UseBigPopup": false,
         "GoodsId": [
             20262
+        ],
+        "DisplayOrder": 999,
+        "SalePeriodFrom": "",
+        "SalePeriodTo": "",
+        "PurchaseCooltimeMin": 0,
+        "PurchaseCountLimit": 900,
+        "PurchaseCountResetType": "None_",
+        "BuyReportEventName": "",
+        "RestrictBuyWhenInventoryFull": false,
+        "DisplayTag": "None_",
+        "ShopUpdateGroupId": 0
+    },
+    {
+        "Id": 20263,
+        "LocalizeEtcId": 783220009,
+        "CategoryType": "SecretStone",
+        "IsLegacy": false,
+        "UseBigPopup": false,
+        "GoodsId": [
+            20263
         ],
         "DisplayOrder": 999,
         "SalePeriodFrom": "",
