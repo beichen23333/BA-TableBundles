@@ -348,5 +348,25 @@
         "DifficultyGeasLength": 451137133,
         "TimeAttackDungeonRewardId": 451137116,
         "RoomLifeTimeInSeconds": 451133517
+    },
+    {
+        "Id": 451137145,
+        "StartDate": "2026-07-09 14:00:00",
+        "EndDate": "2026-07-16 03:59:59",
+        "UISlot": 451137116,
+        "DungeonId": 451133949,
+        "DifficultyGeasLength": 451137133,
+        "TimeAttackDungeonRewardId": 451137116,
+        "RoomLifeTimeInSeconds": 451133517
+    },
+    {
+        "Id": 451137144,
+        "StartDate": "2026-08-06 14:00:00",
+        "EndDate": "2026-08-13 03:59:59",
+        "UISlot": 451137118,
+        "DungeonId": 451134949,
+        "DifficultyGeasLength": 451137133,
+        "TimeAttackDungeonRewardId": 451137116,
+        "RoomLifeTimeInSeconds": 451133517
     }
 ]

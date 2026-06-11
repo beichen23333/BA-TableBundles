@@ -430,5 +430,21 @@
         "HardCampaignStageIdLength": 1348014506,
         "VeryHardCampaignStageIdLength": 1348014518,
         "IsTacticSkip": true
+    },
+    {
+        "Id": 1348014366,
+        "Name": "CHAPTER_28",
+        "NormalImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_28_Normal",
+        "HardImagePath": "UIs/01_Common/13_CampaignImage/Campaign_Image_28_Hard",
+        "Order": 1348014466,
+        "PreChapterIdLength": 1348014342,
+        "ChapterRewardId": 1348014505,
+        "ChapterHardRewardId": 1348014502,
+        "ChapterVeryHardRewardId": 1348014494,
+        "NormalCampaignStageIdLength": 1348014586,
+        "NormalExtraStageIdLength": 1348014534,
+        "HardCampaignStageIdLength": 1348014506,
+        "VeryHardCampaignStageIdLength": 1348014518,
+        "IsTacticSkip": true
     }
 ]

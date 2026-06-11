@@ -1347,8 +1347,8 @@
         {
             "CharacterId": 10113,
             "IgnoreIfUnobtained": true,
-            "IgnoreIfUnobtainedStartDate": "2025-02-25 11:00:00",
-            "IgnoreIfUnobtainedEndDate": "2025-02-26 10:59:59",
+            "IgnoreIfUnobtainedStartDate": "2026-06-11 14:00:00",
+            "IgnoreIfUnobtainedEndDate": "2026-07-02 13:59:59",
             "BubbleTypeLength": 88,
             "BubbleDurationLength": 56,
             "FavorEmoticonRewardParcelType": "FavorExp",
@@ -1359,8 +1359,8 @@
         {
             "CharacterId": 10114,
             "IgnoreIfUnobtained": true,
-            "IgnoreIfUnobtainedStartDate": "2025-02-25 11:00:00",
-            "IgnoreIfUnobtainedEndDate": "2025-02-26 10:59:59",
+            "IgnoreIfUnobtainedStartDate": "2026-06-11 14:00:00",
+            "IgnoreIfUnobtainedEndDate": "2026-07-02 13:59:59",
             "BubbleTypeLength": 88,
             "BubbleDurationLength": 56,
             "FavorEmoticonRewardParcelType": "FavorExp",
@@ -2247,8 +2247,8 @@
         {
             "CharacterId": 20042,
             "IgnoreIfUnobtained": true,
-            "IgnoreIfUnobtainedStartDate": "2025-01-19 11:00:00",
-            "IgnoreIfUnobtainedEndDate": "2025-02-12 10:59:59",
+            "IgnoreIfUnobtainedStartDate": "2026-06-11 14:00:00",
+            "IgnoreIfUnobtainedEndDate": "2026-06-18 13:59:59",
             "BubbleTypeLength": 88,
             "BubbleDurationLength": 56,
             "FavorEmoticonRewardParcelType": "FavorExp",

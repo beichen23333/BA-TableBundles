@@ -5482,6 +5482,222 @@
             "RewardParcelAmount": 70
         },
         {
+            "Id": 610,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5003950,
+            "PickupCharacterId": 10056,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10056,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 611,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900980,
+            "PickupCharacterId": 10056,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10056,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 612,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5003960,
+            "PickupCharacterId": 20021,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20021,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 613,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900980,
+            "PickupCharacterId": 20021,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20021,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 614,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5003980,
+            "PickupCharacterId": 20042,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20042,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 615,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900990,
+            "PickupCharacterId": 20042,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20042,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 616,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5003990,
+            "PickupCharacterId": 10085,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10085,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 617,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900990,
+            "PickupCharacterId": 10085,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10085,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 618,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004000,
+            "PickupCharacterId": 10084,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10084,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 619,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900990,
+            "PickupCharacterId": 10084,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10084,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 620,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004010,
+            "PickupCharacterId": 20032,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20032,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 621,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1900990,
+            "PickupCharacterId": 20032,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20032,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 622,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004030,
+            "PickupCharacterId": 10113,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10113,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 623,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 10113,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10113,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 624,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004040,
+            "PickupCharacterId": 10114,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10114,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 625,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 10114,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10114,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 626,
+            "ShopCategoryType": 2.6624670822171524e-44,
+            "ShopId": 5004050,
+            "PickupCharacterId": 10026,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10026,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 627,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 10026,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10026,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 628,
+            "ShopCategoryType": 2.6624670822171524e-44,
+            "ShopId": 5004060,
+            "PickupCharacterId": 10027,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10027,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 629,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 10027,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10027,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 630,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004070,
+            "PickupCharacterId": 10028,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10028,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 631,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 10028,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 10028,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 632,
+            "ShopCategoryType": 7.006492321624085e-45,
+            "ShopId": 5004080,
+            "PickupCharacterId": 20019,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20019,
+            "RewardParcelAmount": 70
+        },
+        {
+            "Id": 633,
+            "ShopCategoryType": 1.6815581571897805e-44,
+            "ShopId": 1901000,
+            "PickupCharacterId": 20019,
+            "RewardParcelType": "Item",
+            "RewardParcelId": 20019,
+            "RewardParcelAmount": 70
+        },
+        {
             "Id": 100000,
             "ShopCategoryType": 3.2229864679470793e-44,
             "ShopId": 7000000,

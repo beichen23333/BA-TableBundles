@@ -160,6 +160,1494 @@
         "LocalizeJP": ""
     },
     {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "新的任务，以及新的环境……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……来吧，我们开始吧，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师，能帮帮我吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哎呀，就算是超级天才·清纯系·病弱美少女，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "也是需要帮助的呀？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您来了呀，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这里就是我们的新基地了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "已确认条件增加。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "究竟能压制多少变量呢……\n我们谨慎行事吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "情报当然是多多益善……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但一次性给太多的话，反而会让人困扰呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "有点累了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这种时候要是能有纵容我撒娇的老师该多好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "身为顶尖黑客兼顶级美少女的我",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "居然缺少最佳搭档，这可是重大事态。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以想请老师当我的……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "没什么……\n请忘记我刚才的话吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "可以认为……\n我们正在步入新的局面吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师好。\n新据点还满意吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "要做的事情变多了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "一件件来吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎，老师。\n有什么需要尽管开口。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "日鞠部长好像很忙的样子。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……不过看她挺开心的，应该没问题吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "觉得冷就过来吧，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这样彼此效率都会更高吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "气温和身体状况息息相关。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以我很中意这个舒适的环境。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "辛苦了，老师。\n能让我看看那个吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "有老师在，作战成功率就会上升。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……我的状态也会变好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我一直在等您，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不论在何种地形或气候条件下，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我都承诺为您提供完美的协助。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "请放心交给我吧……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不然……我会很失落的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "让您久等了，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "没关系，我没有闹别扭。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "也完全没有想过等您回来后就再也不让您离开我身边这种事，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以请放心吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "上有天，下有地，中间还有飞鸟马时所向披靡。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……没什么特别的含义，就是随口说说。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "总有人问我“不冷吗？”",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "虽然我每次都回答“没关系”，\n但其实很冷的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以老师，请给我温暖吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我的任务是基地管理和警戒。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "换句话说就是跟在老师身边行动。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……您说这逻辑很奇怪？\n老师，您还差得远呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我就直截了当地说吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "现在老师必须专注于我。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "理由很简单，\n因为这里只有我和老师两个人。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师，把手伸过来，\n我来帮您取暖。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……！……您的手……居然不冰……？！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啧……\n早知道应该把您的手套藏起来的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师收集来的物资，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "会在这里进行分析。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎回来，老师。\n哎，可让我好等呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "样本的收集还顺利吗？\n拜托您了，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "感谢您一直以来的配合，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "究竟会得到什么样的情报呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "托您的福，调查进展顺利。\n不过，这个现象……还真是耐人寻味呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哈啊，没想到连分析都跟不上了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "真是奢侈的烦恼啊。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "新的探索总是令人愉悦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "如果还有老师相伴……\n就更完美了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "分析完毕。\n请随意取用吧，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "解析结果还满意吗？\n呵呵，欢迎下次再来哦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我为老师精心准备了分析报告。\n来，请收下吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……公，公私当然要分明啦，这还用说。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师负责收集样本，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我们进行分析后回传结果……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这就是所谓的“以物易物”呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "多谢您的每一次惠顾。\n超级天才·清纯系·病弱美少女的一日店铺服务……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您感觉如何？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这里是……\n用来分析老师收集来的东西的地方，大概吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "因为样本的数量远远超出了预期，拜托啦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来得正好，老师也明白效率是很重要的了吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嗯？什么事？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……只是叫叫看？\n为什么……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……算了，随老师高兴就好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "用这个那样，据说就会出现某种结果。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……我也不太懂，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "反正部长是这么解释的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "分析期间没什么事可做。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……可以坐在老师腿上吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我的体温会成为多余的变量，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以让我分析期间不要靠近……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "虽然道理我都懂，但总觉得有点失落。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我很喜欢这个地方……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "能把实验室的一部分搬到这里来吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来，给你。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy1",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……这种行为，应该叫做“以物易物”吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy2",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "结果出来了。你想要哪个？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嗯，那个看起来不错。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "真希望实验结果能再丰富些。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……你说这样已经足够了？哦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不太懂，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 20032,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "希望这个能帮到老师吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您回来了啊。\n那么，请把采集到的样本交到这边来吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "分析需要大量“物质”。\n也就是说，该老师出场了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师，要喝杯茶吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这是用冰川融水沏的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……说不定能尝到……远古的味道呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "以前，莉音大人也做过类似的实验。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这次的任务让我有点怀念。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师偷走了很重要的东西……\n那就是……我的心。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……请不要这么慌张。\n我只是随口说说而已，嗯。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……您说希望我做“那个动作”？\n真的可以吗……？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "明白了……蹦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "正在分析样本。\n也就是说，我现在很闲。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……该做什么，\n老师应该明白吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "无论发生什么，我都会保护老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "因为这就是我在这里的全部意义。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy1",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "明智的选择。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy2",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我也觉得那个很好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师请随意取用这里的物品，\n只要能帮到您就好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "既然是老师的选择，\n必定有其价值。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "当然，远不及我就是了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 10062,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这就为您准备，请稍等片刻。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我稍微调整了一下分析的方向。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "偶然与必然，绝对论与相对论……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "都是很有魅力的题材呢。\n您不这么认为吗，老师？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师要不要也来试试运气？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "根据占星术显示，\n今天的幸运色是……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Enter3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……咦？您说不用了……？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "概率和统计决定了大部分事物。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "占星术自不必说，“抽奖”……也不例外。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我反对“一切都应该被控制”这种说法。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我认为，与尚未见过的世界相遇",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "才是真正有价值的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "未知的领域……\n总是令人心驰神往。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "即便科学已经解开了诸多谜题，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "未知的领域依然存在。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle4",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……否则，这世界该多无趣啊。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不知不觉间，我们已经抵达了目标地点。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_Idle5",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "而后……我们必将见证更高远目标的诞生。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "恭喜您，老师。\n虽然早就能预见到这个结果，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但真正体会到成果的瞬间，\n还是值得高兴的吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize2",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哎呀，这就是所谓的“中奖”了吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "从统计学来看，虽然这是理所当然的结果，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但从中感受到喜悦是我们的自由……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaPrize3",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "真了不起，老师。我也很高兴。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaFinish1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "能感受到“特别”，\n正是因为存在“普通”。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaFinish1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "所以请好好珍惜“普通”吧，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventBoxGachaShop_BoxGachaFinish1",
+        "CharacterId": 20020,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……顺便也请珍惜某位正在受苦的超级天才·清纯系·病弱美少女哦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "虽然算是中途加入的……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "还请多多指教了，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来得正好啊，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这真是再合理不过的行为了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这里就是日鞠的……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Enter3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不，是我们的基地啊。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "还是觉得没什么真实感。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "居然能和老师这样……\n一起执行作战任务。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这话由我来说可能有点奇怪……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但大家都对我太不见外了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "倒也不是说讨厌这样……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "除了工程领域……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "抱歉，其他方面我还不太了解。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "是叫我吗，老师？\n只是随便叫叫？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这种不合理的行为，\n最好还是克制一下。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "那个……倒也不是讨厌……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我曾经认为自己必须通晓一切。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但现在……\n我意识到自己还有很多东西需要学习。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventLobby_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好神奇。\n某种意义上可以说是多亏了老师吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我已经从日鞠那里完成交接了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "简单来说……\n就是在各地陆续发现了",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "由无名之神力量形成的神秘物质。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我们需要收集样本。\n而且看来还能用这些物质进行补给。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Enter3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "你来了，老师。\n样本的数量大概有多少？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "感谢你的协助。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我正在分析那些神秘物质。\n已经从中提取出一些成果了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "说起来，这个设备散热也太厉害了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "艾米可能会有点吃不消。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我对这个设备的工作原理没有异议。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "很意外吗？呵呵，\n该认可的地方我还是会认可的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "只是，设计希望能再……\n改进一下。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "找我说话，也不会有什么改变哦。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嗯？可以看出我的表情变了？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Idle5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……明白了。\n难怪大家说老师有时有点坏心眼……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy1",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这是这次的分析结果。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎光临，想买些什么呢？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy2",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……我只是模仿一下。\n刚才的请忘掉吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "据说在很久以前，\n人们就是这样以物易物的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy3",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "从某种意义上来说，\n有种回到过去的感觉呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy4",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这个结果看起来很合理。\n选得不错。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIMiniEventShop_Buy5",
+        "CharacterId": 20041,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "结果出来了。\n选哪个，就交给老师来决定吧。",
+        "LocalizeJP": ""
+    },
+    {
         "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
         "CharacterId": 10010,
         "Duration": 0,
@@ -13541,6 +15029,198 @@
         "Duration": 0,
         "Separate": false,
         "LocalizeKR": "仔细想想其实也没什么，\n但总觉得有点不一样呢。\n……嗯，不过无所谓！\n反正老师和我谁跟谁嘛！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "蔚蓝档案……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呜呜，竟然要去露营……\n明明是休息日，又要出去吗……？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "今天真不想出门……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊，我有了个很棒的灵感！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "把之前从千寻前辈那借来的一次性床具铺到这里怎么样？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这个名字怪怪的WIFI是怎么回事……？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "（这里也能安装BOOM吗？……干脆来挑战一下吧！）",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这把机枪虽然改造得很厉害，但带上登山的话也太重了……\n是不是该轻装上阵比较好？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "蔚蓝、档案。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您好，老师。\n我是歌赫娜学院急救医学部的冰室濑名。\n今天正好休息，要不要一起过？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这里看起来很安全。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "虽然很悠闲，但还是不能松懈。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师能一起来就好了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这些家具的摆放……\n实在让我很在意。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "越是这种地方，越要注意尸体……\n呃不，伤员的出现。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "即使是休息日，整理装备也是很重要的。\n尸体……急救伤员可不会等我们。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "蔚~蓝~档案！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CharacterGet_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎光临！老师！\n选好吃什么了就叫我噢！\n我会尽全力为老师准备！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哇啊！好棒的咖啡厅噢！\n作为服务生，可得好好学习一下……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好华丽的装修啊……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "（啊，这个菜谱，肯定是……！）",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "动线可以先这样，然后再这样……\n学到了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Cafe_Idle5",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "服务员竟然在咖啡厅休息，\n真是太讽刺了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_WeaponGet_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "从某种角度说，服务生应该也是需要配枪的吧？\n虽然这在基沃托斯是理所当然的……\n不过除了这个，还可以对付一些蛮横的客人，\n或者让突然暴走的食材安静下来……",
         "LocalizeJP": ""
     },
     {
@@ -28169,6 +29849,142 @@
     },
     {
         "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好无聊……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "早知道就带个游戏机来了……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好想感受到电波……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "用大自然当作画布，画点什么吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "（啊，那幅壁画……我忘记擦掉了。）",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "（算了，不会有什么事的！）",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嗯，真是次不错的经历呢，\n比想象中好多了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "尤其是晚上吃的水煮锅真的超棒的……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "带上手机的话，再来一次也可以。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "当，当然，\n不是喜欢上露营了的意思……！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呜呜……年底有好多有趣的节目，\n可是却没办法看直播……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "千寻前辈也太过分了！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊，那片云……\n总觉得和服务器的电脑长得有点像呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呜呜，双手好久没离开过键盘了，\n现在感觉好闲啊，受不了了——",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哎老师，你有没有什么可以用手玩的玩具之类？\n哪怕是根橡皮筋也好啊！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "原来老师很享受露营啊。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 20042,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "那，我也努力打起精神吧！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
         "CharacterId": 10086,
         "Duration": 0,
         "Separate": false,
@@ -35493,6 +37309,694 @@
         "Duration": 0,
         "Separate": false,
         "LocalizeKR": "眨眼工夫就解决了呀。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎来到歌赫娜，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "愿您能度过一段平安的时光。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我是真心的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师，您来了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "虽然今天休息，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但我始终不会放松警惕。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这还真是具有趣的尸体……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "失礼了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "既荒唐又让人好奇……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "抱歉，又失礼了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "看样子情况变得危急了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "理性地说，\n我希望当前的状况能快点结束。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "但又会想着，\n能多看到些有趣的场面就好了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "刚才是开玩笑的，请相信我。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "危机已解除。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师也辛苦了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "无论是不是休假，\n急救医学部的职责都不会改变。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这里是我的学院，\n也是发生过很多事情的地方。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……综合来看，\n算是个相当令我愉快的地方了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这身衣服适合我吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "听到我这么问，您觉得很新鲜？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这话是我从同事推荐的杂志上读到的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "能给老师带来新鲜的感觉，是我的荣幸。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您如果下次休假有来歌赫娜的打算，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "请提前联系我，感激不尽。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这样对您来说最安全。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "欢迎来到歌赫娜学院，老师！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "希望您能度过一段愉快……\n又安全的时光！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哇！老师来啦！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "怎，怎么样？\n这身衣服……合适吗……？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊啊……呜呜呜……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "小松饼……\n都怪我……我必须想想办法！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不管怎么说，\n歌赫娜学院也是我学习的地方！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我不会就这么坐视不管的！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "刚才真是吓死我了……\n谢谢您，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "只要有老师在，\n我就觉得什么都能搞定！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "因为要在咖啡厅打工，\n所以试着穿了身适合的制服。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "要不，稍微休息一下……\n怎么样？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "咖啡厅的兼职工作\n很新鲜也很有趣。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不过，要想锻炼厨艺，",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "还是供餐部更好。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊哈哈哈！\n老师，您真是！好痒啊！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "……呼，谢谢您。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "心情放松了一些。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Enter1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "等您很久啦，老师！\n请到这边来！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Enter2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "有什么需要吗，客人？\n给您拿一份菜单看看吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呵呵，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Enter3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "请逛够了再走吧！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "常有人说我手脚麻利呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "看来供餐部的经验真的很有用！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊，老师？您叫我吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "只要您叫我……\n不管有没有事情……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我都很开心！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Buy1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您是说那一款呀！\n请稍等片刻！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Buy2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我也觉得这是个不错的选择！\n马上为您准备。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Buy3",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "库存很充足。请放心！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventShop_Buy4",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "有什么不周到的地方，\n请随时告诉我！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您好，老师。我是冰室濑名。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "永远无法预知下一秒会发生什么——",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这点倒是和急诊有些相似。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "快请进，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "愿幸运与健康常伴您左右。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "还有什么需要帮忙的吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Enter3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我会协助您到最后的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师喜欢“偶然”吗？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我是挺喜欢的。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "比起祈求幸运，\n做好应对不幸的准备才是上策。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "预防也是急救医学中重要的一环。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_Idle2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "请交给我吧。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "恭喜您，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这奖品看起来很不错呢。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize2",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "原来如此，\n这就是特等奖的奖品啊。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaPrize3",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "可以让我也看看吗？\n有点好奇。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaFinish1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您真厉害，老师。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventBoxGachaShop_BoxGachaFinish1",
+        "CharacterId": 10113,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "真是辛苦了。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Enter1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "咖啡厅的食材准备也很重要！\n和供餐部的工作有共通之处。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Enter2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我喜欢努力做好份内的事情。\n不知怎么的，总会特别有成就感。",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "点单，给客人上菜……",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Idle1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这些事对现在的我来说，\n应该就是“使命”吧？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Idle2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您叫我了吗，老师？\n请问有什么需要？",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Buy1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "太厉害了，老师！\n这个给您，请收下吧！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Buy2",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "功夫不负有心人……\n真是一句很棒的话！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "今天也辛苦啦！",
+        "LocalizeJP": ""
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_UIEventMission_Interaction1",
+        "CharacterId": 10114,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "很开心能帮到老师！",
         "LocalizeJP": ""
     }
 ]
