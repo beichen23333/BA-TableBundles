@@ -1125,5 +1125,149 @@
         "ConditionType": "None_",
         "ConditionParameter": [],
         "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 126,
+        "EventContentId": 80001,
+        "CharacterId": 10115,
+        "ConditionScenarioGroupId": 80000126,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 127,
+        "EventContentId": 80001,
+        "CharacterId": 10117,
+        "ConditionScenarioGroupId": 80000127,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 128,
+        "EventContentId": 80001,
+        "CharacterId": 10118,
+        "ConditionScenarioGroupId": 80000128,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 129,
+        "EventContentId": 80001,
+        "CharacterId": 16017,
+        "ConditionScenarioGroupId": 80000129,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 130,
+        "EventContentId": 80001,
+        "CharacterId": 10119,
+        "ConditionScenarioGroupId": 80000130,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 131,
+        "EventContentId": 80001,
+        "CharacterId": 20046,
+        "ConditionScenarioGroupId": 80000131,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 132,
+        "EventContentId": 80001,
+        "CharacterId": 10125,
+        "ConditionScenarioGroupId": 80000132,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 133,
+        "EventContentId": 80001,
+        "CharacterId": 10126,
+        "ConditionScenarioGroupId": 80000133,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 134,
+        "EventContentId": 80001,
+        "CharacterId": 10127,
+        "ConditionScenarioGroupId": 80000134,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 135,
+        "EventContentId": 80001,
+        "CharacterId": 10128,
+        "ConditionScenarioGroupId": 80000135,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 136,
+        "EventContentId": 80001,
+        "CharacterId": 20050,
+        "ConditionScenarioGroupId": 80000136,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 137,
+        "EventContentId": 80001,
+        "CharacterId": 16018,
+        "ConditionScenarioGroupId": 80000137,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 138,
+        "EventContentId": 80001,
+        "CharacterId": 10130,
+        "ConditionScenarioGroupId": 80000138,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 139,
+        "EventContentId": 80001,
+        "CharacterId": 10131,
+        "ConditionScenarioGroupId": 80000139,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 140,
+        "EventContentId": 80001,
+        "CharacterId": 20052,
+        "ConditionScenarioGroupId": 80000140,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
+    },
+    {
+        "Id": 141,
+        "EventContentId": 80001,
+        "CharacterId": 10135,
+        "ConditionScenarioGroupId": 80000141,
+        "ConditionType": "None_",
+        "ConditionParameter": [],
+        "ConditionPrintType": "None_"
     }
 ]
