@@ -67691,7 +67691,7 @@
     },
     {
         "Id": 8591310,
-        "Name": "EVENT_859_Normal_MainGround_Stage07",
+        "Name": "EVENT_859_Normal_MainGround_Stage10",
         "EventContentId": 859,
         "StageDifficulty": "Normal",
         "StageNumber": "10",
@@ -67738,7 +67738,7 @@
     },
     {
         "Id": 8591311,
-        "Name": "EVENT_859_Normal_MainGround_Stage08",
+        "Name": "EVENT_859_Normal_MainGround_Stage11",
         "EventContentId": 859,
         "StageDifficulty": "Normal",
         "StageNumber": "11",
@@ -67785,7 +67785,7 @@
     },
     {
         "Id": 8591312,
-        "Name": "EVENT_859_Normal_MainGround_Stage09",
+        "Name": "EVENT_859_Normal_MainGround_Stage12",
         "EventContentId": 859,
         "StageDifficulty": "Normal",
         "StageNumber": "12",

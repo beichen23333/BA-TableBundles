@@ -8,3 +8,5 @@ ExcelDB/ScenarioScriptExcel.json filter=lfs diff=lfs merge=lfs -text
 .git/objects/pack/pack-fe75aa270554915ba15a4b6c3f81c26dceda51e9.pack filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/91/a8/91a882b30377ece39f00d0bfb604bb85f9f065fe91223d38a7efa7417b2b3e6e filter=lfs diff=lfs merge=lfs -text
 .git/objects/pack/pack-b336431b34e26a198b64540de0d7044da60f545d.pack filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/40/cb/40cb0794e02a78e122c772886b50e4b1ca82f60883b2791f28042984c6f9e97e filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-d55b0b563e1a58ff8f3b03423008bf877321d17b.pack filter=lfs diff=lfs merge=lfs -text
