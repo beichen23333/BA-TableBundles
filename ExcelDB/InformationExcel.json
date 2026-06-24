@@ -1127,6 +1127,14 @@
         "UIName": []
     },
     {
+        "GroupID": 117001,
+        "PageName": "UIInformationPopup_Cafe22",
+        "IsPcBuild": false,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "TutorialParentName": [],
+        "UIName": []
+    },
+    {
         "GroupID": 118001,
         "PageName": "UIInformationPopup_Academy01",
         "IsPcBuild": false,
@@ -2065,6 +2073,14 @@
     {
         "GroupID": 141001,
         "PageName": "UIInformationPopup_ClueSearch04",
+        "IsPcBuild": false,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "TutorialParentName": [],
+        "UIName": []
+    },
+    {
+        "GroupID": 150001,
+        "PageName": "UIInformationPopup_CharacterDetail04",
         "IsPcBuild": false,
         "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
         "TutorialParentName": [],

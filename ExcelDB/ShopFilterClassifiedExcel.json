@@ -5560,6 +5560,22 @@
         "GoodsId": 20263
     },
     {
+        "Id": 20264,
+        "CategoryType": "SecretStone",
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": "Shanhaijing",
+        "GoodsId": 20264
+    },
+    {
+        "Id": 20265,
+        "CategoryType": "SecretStone",
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": "Shanhaijing",
+        "GoodsId": 20265
+    },
+    {
         "Id": 50000,
         "CategoryType": "SecretStoneGrowth",
         "ConsumeParcelType": "Item",
@@ -7094,6 +7110,14 @@
         "ConsumeParcelId": 18,
         "ShopFilterType": "SecretStone",
         "GoodsId": 80077
+    },
+    {
+        "Id": 80078,
+        "CategoryType": "MasterCoin",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 18,
+        "ShopFilterType": "SecretStone",
+        "GoodsId": 80078
     },
     {
         "Id": 90000,
@@ -17630,5 +17654,13 @@
         "ConsumeParcelId": 4,
         "ShopFilterType": "Furniture",
         "GoodsId": 172238
+    },
+    {
+        "Id": 172239,
+        "CategoryType": "GemWeekly",
+        "ConsumeParcelType": "Currency",
+        "ConsumeParcelId": 4,
+        "ShopFilterType": "Furniture",
+        "GoodsId": 172239
     }
 ]

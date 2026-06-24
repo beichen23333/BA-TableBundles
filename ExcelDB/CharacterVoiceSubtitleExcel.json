@@ -55412,7 +55412,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "패배는――\n결정 사항이야.",
+        "LocalizeKR": "패배는―― 결정 사항이야.",
         "LocalizeJP": "敗北は――\n決定事項よ。"
     },
     {
@@ -55420,7 +55420,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "스캔 시작.\n훤히 보이네.",
+        "LocalizeKR": "스캔 시작. 훤히 보이네.",
         "LocalizeJP": "スキャン開始。\nお見通しよ。"
     },
     {
@@ -55428,7 +55428,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "가설의 미래를.\n합리적 현실로.",
+        "LocalizeKR": "가설의 미래를. 합리적 현실로.",
         "LocalizeJP": "仮説の未来を――\n合理的な現実に。"
     },
     {
@@ -55484,7 +55484,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "장비 업그레이드에 성공했어.\n선생님 덕분이야.",
+        "LocalizeKR": "장비 업그레이드에 성공했어. 선생님 덕분이야.",
         "LocalizeJP": "装備のアップグレードに成功したわ。\n先生のおかげよ。"
     },
     {
@@ -55492,7 +55492,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "우리는 상호 보완적 관계.\n그렇게 해석해도 괜찮을까?",
+        "LocalizeKR": "우리는 상호 보완적 관계. 그렇게 해석해도 괜찮을까?",
         "LocalizeJP": "私たちは相互補完的関係。\nそう解釈して良いのかしら？"
     },
     {
@@ -55500,7 +55500,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "나에게 이런 리소스를 투자했다는 건…….\n그래. 그렇구나.",
+        "LocalizeKR": "나에게 이런 리소스를 투자했다는 건……. 그래. 그렇구나.",
         "LocalizeJP": "私にこれだけのリソースを投じるなんて……\nええ、その意味は理解しているわ。"
     },
     {
@@ -55508,7 +55508,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님 덕분에…… '감사'라는 감정을 깨달았어.\n……할 말은 그것뿐이야.",
+        "LocalizeKR": "선생님 덕분에…… '감사'라는 감정을 깨달았어. ……할 말은 그것뿐이야.",
         "LocalizeJP": "先生のおかげで……「感謝」という感情に気づけたの。\n……話は、それだけよ。"
     },
     {
@@ -55516,7 +55516,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "갑자기 몸이 뜨거워졌는데…….\n슈트의 보온 기능탓, 이려나.",
+        "LocalizeKR": "갑자기 몸이 뜨거워졌는데……. 슈트의 보온 기능탓, 이려나.",
         "LocalizeJP": "突然、体が火照ってきたのだけれど……。\nスーツの保温機能のせい、かしら。"
     },
     {
@@ -55532,7 +55532,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이 대화에서 느껴지는 기시감은……\n개념 공간에서 시뮬레이션해서……인 걸지도 모르겠네.",
+        "LocalizeKR": "이 대화에서 느껴지는 기시감은…… 개념 공간에서 시뮬레이션해서……인 걸지도 모르겠네.",
         "LocalizeJP": "このやり取りに感じる既視感は……\n概念空間でシミュレーションしていたから……かもしれないわね。"
     },
     {
@@ -55540,7 +55540,7 @@
         "CharacterVoiceGroupId": 10133,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님은 슈트 쪽이 좋은, 거야?\n……아니, 질문에 깊은 뜻은…… 없어.",
+        "LocalizeKR": "선생님은 슈트 쪽이 좋은, 거야? ……아니, 질문에 깊은 뜻은…… 없어.",
         "LocalizeJP": "先生はスーツ姿のほうが好き、なのかしら？\n……いえ、質問に深い意味は……ないわ。"
     },
     {
@@ -55660,7 +55660,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "어떤 상황이라도 성장할 수 있다고……\n선생님이시라면, 그렇게 말씀하실 것 같네요.",
+        "LocalizeKR": "어떤 상황이라도 성장할 수 있다고…… 선생님이시라면, 그렇게 말씀하실 것 같네요.",
         "LocalizeJP": "どんな状況であれ成長できる……\n先生は、そうおっしゃるのでしょうね。"
     },
     {
@@ -55676,7 +55676,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "알고 있습니다. 선생님.\n긴장을 풀어서는 안 되겠지요.\n그렇다고 너무 얼어붙어도 곤란하겠지만요.",
+        "LocalizeKR": "알고 있습니다. 선생님. 긴장을 풀어서는 안 되겠지요.\n그렇다고 너무 얼어붙어도 곤란하겠지만요.",
         "LocalizeJP": "分かっています、先生。\n気を抜いてはいけませんが、\nかといって緊張しすぎるのも、良くありませんね。"
     },
     {
@@ -55684,7 +55684,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "성장이란, 기뻐할 일이라는 것…… 네, 이해는 하고 있어요.\n동시에, 선생님이 저를 위해 얼마나 노력해 주셨을까, 하는 생각이 들기도 해요.\n너무, 무리는 하지 말아주세요.",
+        "LocalizeKR": "성장이란, 기뻐할 일이라는 것…… 네, 이해는 하고 있어요.\n동시에, 선생님이 저를 위해 얼마나 노력해 주셨을까, 하는 생각이 들기도 해요. 너무, 무리는 하지 말아주세요.",
         "LocalizeJP": "成長とは、喜ばしいことである……そう、理解はしているのですが。\n同時に、先生がどれほど私のためにリソースを割いてくださったのかと思いを馳せるのです。\n無理だけは、しないでくださいね。"
     },
     {
@@ -55692,7 +55692,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "제 새로운 슈트는 어떠신가요~? 어울리나요~?\n물론 그렇겠죠!",
+        "LocalizeKR": "제 새로운 슈트는 어떠신가요~? 어울리나요~? 물론 그렇겠죠!",
         "LocalizeJP": "私の新しいスーツ、いかがでしょうか？\n……似合ってる？ええ、そうでしょうとも。"
     },
     {
@@ -55700,7 +55700,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "사람은 혼자서 살아갈 수 없다는 말이 있죠.\n최근, 그 말의 의미를 저도 실감하고 있답니다.\n……선생님은 설마 저를 혼자 두시지 않겠죠?",
+        "LocalizeKR": "사람은 혼자서 살아갈 수 없다는 말이 있죠. 최근, 그 말의 의미를 저도 실감하고 있답니다.\n……선생님은 설마 저를 혼자 두시지 않겠죠?",
         "LocalizeJP": "人は、一人では生きていけない……とよく言われます。\n最近、その言葉の意味を私も実感しているところでして。\n……先生はまさか、私を一人になんてしませんよね？"
     },
     {
@@ -55708,7 +55708,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님과 만나서 일어난 일들은,\n<전지>인 저에게도 예측할 수 없는 것들뿐이었어요.\n그리고…… 분명, 앞으로도요.",
+        "LocalizeKR": "선생님과 만나서 일어난 일들은, <전지>인 저에게도 예측할 수 없는 것들뿐이었어요.\n그리고…… 분명, 앞으로도요.",
         "LocalizeJP": "先生と出会ってから起きたことは、\n「全知」の学位を持つこの私でも予測できないものばかりでした。\nそして……きっと、これからも。"
     },
     {
@@ -55716,7 +55716,7 @@
         "CharacterVoiceGroupId": 20054,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "조금만, 약한 소리를 해도 될까요……?\n곁에 있어 주세요. 지금뿐이라도 좋으니까요.\n감사합니다. 선생님.\n기쁘네요. 진심으로.",
+        "LocalizeKR": "조금만, 약한 소리를 해도 될까요……? 곁에 있어 주세요.\n지금뿐이라도 좋으니까요. 감사합니다. 선생님. 기쁘네요. 진심으로.",
         "LocalizeJP": "少しだけ、弱音を吐いてもよろしいですか……？\nそばにいてください、今だけで構いませんから。\nありがとうございます、先生。\n……とても、嬉しいです。"
     },
     {
@@ -55756,7 +55756,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "어쩔 수 없네요.\n선생님이 부탁했으니, 뭐.",
+        "LocalizeKR": "어쩔 수 없네요. 선생님이 부탁했으니, 뭐.",
         "LocalizeJP": "先生の頼みなら……仕方ありませんね。"
     },
     {
@@ -55884,7 +55884,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "꺄앗……?!\n이, 이러면 재미있나요?!",
+        "LocalizeKR": "꺄앗……?! 이, 이러면 재미있나요?!",
         "LocalizeJP": "ひゃあっ……！？\n何が楽しいんですか！？"
     },
     {
@@ -55892,7 +55892,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "……강해졌네요. 네.\n알고 있습니다. 선생님 덕분이라는 걸, 부정하지는 않겠어요.\n그러니까 저는 계속 싸울 거예요.",
+        "LocalizeKR": "……강해졌네요. 네. 알고 있습니다.\n선생님 덕분이라는 걸, 부정하지는 않겠어요. 그러니까 저는 계속 싸울 거예요.",
         "LocalizeJP": "……強くなったんですね。\nええ、分かっていますよ。\nこれが先生のおかげだということは否定しません。\nですので、これからも私は戦い続けます。"
     },
     {
@@ -55900,7 +55900,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "저항하려면, 나아가야겠죠.\n예전에는 그것까지도 혼자서 해야 한다고 생각했지만……\n결국 사람은, 혼자서는 살아갈 수 없는 법이니까요.",
+        "LocalizeKR": "저항하려면, 나아가야겠죠.\n예전에는 그것까지도 혼자서 해야 한다고 생각했지만…… 결국 사람은, 혼자서는 살아갈 수 없는 법이니까요.",
         "LocalizeJP": "抵抗するためには前に進まないと。\n今まではそれも、一人でやらなければと思っていたのですが……\n結局、人は一人では生きていけないのだと理解しました。"
     },
     {
@@ -55908,7 +55908,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "정말, 말씀드렸잖아요. 감사한다고요.\n네? 그 말 지금 막 들었다고요?\n어쨌든 들었으니까 됐잖아요!",
+        "LocalizeKR": "정말, 말씀드렸잖아요. 감사한다고요. 네?\n그 말 지금 막 들었다고요? 어쨌든 들었으니까 됐잖아요!",
         "LocalizeJP": "もう、言ったじゃありませんか。ありがとう、って。\nえっ？今初めて聞いた……？\nともかく今言ったのですからもういいでしょう！？"
     },
     {
@@ -55916,7 +55916,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "그, 그러니까……\n딱 한 번만 말할 테니까, 잘 들어요!\n이것도 모두, 선생님 덕분이에요. 감사, 합니다……",
+        "LocalizeKR": "그, 그러니까…… 딱 한 번만 말할 테니까, 잘 들어요!\n이것도 모두, 선생님 덕분이에요. 감사, 합니다……",
         "LocalizeJP": "だ、だから……\n一回しか言わないのでちゃんと聞いてくださいね！\nこれも全部、先生のおかげです……ありがとう、ございます。"
     },
     {
@@ -55924,7 +55924,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "뭐…… 뭔가요! 저는 아무것도 말 안 할 테니까요!\n으윽…… 알았어요……\n서, 선생님이 싫은 건 아니에요. 이제 됐나요?",
+        "LocalizeKR": "뭐…… 뭔가요! 저는 아무것도 말 안 할 테니까요!\n으윽…… 알았어요…… 서, 선생님이 싫은 건 아니에요. 이제 됐나요?",
         "LocalizeJP": "な、何ですか？特に言うことはありませんが……？\nっ……分かりました……。\nせ、先生のこと、嫌いではありません……もう、いいですか！？"
     },
     {
@@ -55932,7 +55932,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "왜 또 풀 죽어 있고 그래요?\n네? 저한테 미움받는 것 같아서 그렇다고요?\n저, 저는 그런 뜻이 아니라……\n……기운 차리실 때까지, 같이 있어 드리면 되죠……?",
+        "LocalizeKR": "왜 또 풀 죽어 있고 그래요? 네? 저한테 미움받는 것 같아서 그렇다고요?\n저, 저는 그런 뜻이 아니라…… ……기운 차리실 때까지, 같이 있어 드리면 되죠……?",
         "LocalizeJP": "そんなに暗い顔してどうかしましたか？\nえっ？私に嫌われてる……？\nわ、私は別にそういう意味で言ったわけでは……\n……もう。元気になるまでそばにいてあげますから。"
     },
     {
@@ -55940,7 +55940,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "예? 그렇게까지 말한다면\n이제부터 저에게 아무것도 안 하겠다고요……?\n제, 제가 언제 그랬는데요! 저는 그냥……!\n아!!! 또 놀리는 거죠?!?!",
+        "LocalizeKR": "예? 그렇게까지 말한다면 이제부터 저에게 아무것도 안 하겠다고요……?\n제, 제가 언제 그랬는데요! 저는 그냥……! 아!!! 또 놀리는 거죠?!?!",
         "LocalizeJP": "えっ？そう言うなら\nもう何もしてあげない……？\nい、いつ私がそんなことを……！私はただ……！\nって、あっ！？またからかってるんですよね！？"
     },
     {
@@ -55948,7 +55948,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "스읍- 하아……\n크, 큰맘 먹고 말해 드리는 거니까 말이죠! 잘 들어요!\n……너무 위험한 일은, 하지 마세요.\n선생님이 없어지는 건…… 저도, 싫으니까요……",
+        "LocalizeKR": "스읍- 하아…… 크, 큰맘 먹고 말해 드리는 거니까 말이죠! 잘 들어요!\n……너무 위험한 일은, 하지 마세요. 선생님이 없어지는 건…… 저도, 싫으니까요……",
         "LocalizeJP": "すぅ……はぁ……。\nこ、こういう言葉は、滅多に言いませんから、ちゃんと聞いてくださいね！？\n……あまり、危険なことはしないでください。\n先生が居なくなるのは……私も嫌ですから。"
     },
     {
@@ -55980,7 +55980,7 @@
         "CharacterVoiceGroupId": 10135,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "간단했네요. 뭐 또 없어요?\n나중에 귀찮아지기 싫을 뿐이니까 말이죠!",
+        "LocalizeKR": "간단했네요. 뭐 또 없어요? 나중에 귀찮아지기 싫을 뿐이니까 말이죠!",
         "LocalizeJP": "簡単でしたね。他にやることは？\nいえ、後でやるのが面倒なだけです。\nやる気を出したわけではありません。"
     },
     {
@@ -56020,7 +56020,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "스테이지 클리어!\n이동합니다!",
+        "LocalizeKR": "스테이지 클리어! 이동합니다!",
         "LocalizeJP": "ステージクリア！移動します！"
     },
     {
@@ -56052,7 +56052,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "상황 종료…….\n선생님! 아리스 어땠습니까?",
+        "LocalizeKR": "상황 종료……. 선생님! 아리스 어땠습니까?",
         "LocalizeJP": "オールクリア……先生！どうでしたか？"
     },
     {
@@ -56060,7 +56060,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "착륙 승인 확인……\n다녀왔습니다!",
+        "LocalizeKR": "착륙 승인 확인…… 다녀왔습니다!",
         "LocalizeJP": "着陸許可を確認……ただいま戻りました！"
     },
     {
@@ -56196,7 +56196,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님은 언제나 아리스를 지켜줬습니다.\n이제는 아리스가 선생님을 지키겠습니다.",
+        "LocalizeKR": "선생님은 언제나 아리스를 지켜줬습니다. 이제는 아리스가 선생님을 지키겠습니다.",
         "LocalizeJP": "先生は、いつだってアリスを守ってくれました。\n今度は、アリスが先生を守る番です。"
     },
     {
@@ -56204,7 +56204,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "아리스는 더 많이 배우고 싶습니다!\n더 많이 알고 싶습니다!",
+        "LocalizeKR": "아리스는 더 많이 배우고 싶습니다! 더 많이 알고 싶습니다!",
         "LocalizeJP": "アリスはもっとたくさん学びたいです！\nもっと、色んなことを知りたいです！"
     },
     {
@@ -56212,7 +56212,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이 세상에는 아리스보다 강한 모험가가 잔뜩 있습니다!\n아리스는 더 강해지고 싶습니다!",
+        "LocalizeKR": "이 세상에는 아리스보다 강한 모험가가 잔뜩 있습니다! 아리스는 더 강해지고 싶습니다!",
         "LocalizeJP": "この世界には、アリスよりも強い冒険者がたくさんいます。\nだから、アリスはもっと強くなりたいんです！"
     },
     {
@@ -56220,7 +56220,7 @@
         "CharacterVoiceGroupId": 10134,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "어떤 세계에서도 용사는 마왕과 싸웁니다.\n그렇지만, 싸우지 않는 방법은 없는 걸까요?",
+        "LocalizeKR": "어떤 세계에서도 용사는 마왕과 싸웁니다. 그렇지만, 싸우지 않는 방법은 없는 걸까요?",
         "LocalizeJP": "どんな世界でも、勇者は魔王と戦うものです。\nでも……戦わずに済む方法は、ないんでしょうか？"
     },
     {
@@ -56460,7 +56460,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "아스마 토키, 레벨 업입니다.\n선생님을 향한 마음도 레벨 업입니다.\n그러니 저에 대한 선생님의 마음도 레벨 업입니다.",
+        "LocalizeKR": "아스마 토키, 레벨 업입니다. 선생님을 향한 마음도 레벨 업입니다.\n그러니 저에 대한 선생님의 마음도 레벨 업입니다.",
         "LocalizeJP": "飛鳥馬トキ、レベルアップです。\n先生への想いもレベルアップしました。\n裏返せば、私への先生の想いもレベルアップです。"
     },
     {
@@ -56468,7 +56468,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이걸로 더 강해졌습니다.\n……잘 생각해 보니, 아직인 것 같습니다.\n그러니, 좀 더 함께 있어 주세요.",
+        "LocalizeKR": "이걸로 더 강해졌습니다. ……잘 생각해 보니, 아직인 것 같습니다.\n그러니, 좀 더 함께 있어 주세요.",
         "LocalizeJP": "これでもっと強くなりました。\n……よく考えてみたら、まだまだな気がします。\nですので、もう少し一緒にいてください。"
     },
     {
@@ -56476,7 +56476,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "사람은 강해지는 것만으로는 성장할 수 없습니다.\n그러니, 서로 의지해야 하는 겁니다.\n……저는 언제나 준비되어 있습니다. 선생님.",
+        "LocalizeKR": "사람은 강해지는 것만으로는 성장할 수 없습니다.\n그러니, 서로 의지해야 하는 겁니다. ……저는 언제나 준비되어 있습니다. 선생님.",
         "LocalizeJP": "人は、強くなるだけでは成長できません。\nだからこそ、互いに寄り添い合うべきなのです。\n……私はいつでも準備ができていますよ。先生。"
     },
     {
@@ -56484,7 +56484,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "성장한 저는, 퍼펙트 토키입니다.\n……아니요, 정정하겠습니다.\n선생님이 곁에 계실 때 한정으로, 그렇습니다.",
+        "LocalizeKR": "성장한 저는, 퍼펙트 토키입니다. ……아니요, 정정하겠습니다.\n선생님이 곁에 계실 때 한정으로, 그렇습니다.",
         "LocalizeJP": "成長を遂げた私は、パーフェクトトキです。\n……いえ、訂正します。\n先生がそばにいるとき限定です。"
     },
     {
@@ -56492,7 +56492,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "그렇군요.\n이걸로 선생님 안의 제 존재감이, 한층 커진 거군요.\n……반대라고요? 그럴 리 없습니다.",
+        "LocalizeKR": "그렇군요. 이걸로 선생님 안의 제 존재감이, 한층 커진 거군요.\n……반대라고요? 그럴 리 없습니다.",
         "LocalizeJP": "なるほど。\nこれで、先生の中の私の存在感が、一段と増したのですね。\n……逆？そんなはずありません。"
     },
     {
@@ -56500,7 +56500,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "걱정하지 마세요. 선생님.\n행운의 메이드 에이전트 정찰대인 제가 있는 한.\n우리의 앞길에는 어떤 방해물도 없을 겁니다.",
+        "LocalizeKR": "걱정하지 마세요. 선생님. 행운의 메이드 에이전트 정찰대인 제가 있는 한.\n우리의 앞길에는 어떤 방해물도 없을 겁니다.",
         "LocalizeJP": "ご心配なく。\n幸運のメイド・エージェント・リコンがついている以上、\n私たちの進む先に邪魔は入りません。"
     },
     {
@@ -56516,7 +56516,7 @@
         "CharacterVoiceGroupId": 16019,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님, 춥지 않으신가요?\n저는 조금…… 아뇨, 정말 춥습니다.\n그러니 더 가까이 와주세요.",
+        "LocalizeKR": "선생님, 춥지 않으신가요? 저는 조금…… 아뇨, 정말 춥습니다.\n그러니 더 가까이 와주세요.",
         "LocalizeJP": "先生、寒くありませんか？\n私は少し……いえ、とても寒いです。\nですので、もう少し近くに来てください。"
     },
     {
@@ -56644,7 +56644,7 @@
         "CharacterVoiceGroupId": 20055,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "더, 더 강해져야 해요……!\n어, 언제 사출될지 모르니까, 흐우우…….",
+        "LocalizeKR": "더, 더 강해져야 해요……! 어, 언제 사출될지 모르니까, 흐우우…….",
         "LocalizeJP": "もっと、もっと強くならないと……！\nい、いつ呼び出されるか、分からないですし……うぅぅ……。"
     },
     {
@@ -56652,7 +56652,7 @@
         "CharacterVoiceGroupId": 20055,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "두렵지만, 떨리지는 않아요.\n이게…… 용기일까요……?",
+        "LocalizeKR": "두렵지만, 떨리지는 않아요. 이게…… 용기일까요……?",
         "LocalizeJP": "怖いけど……緊張は、していません……。\nこれが、勇気の力、なのでしょうか……？"
     },
     {
@@ -56660,7 +56660,7 @@
         "CharacterVoiceGroupId": 20055,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "나아갈 수 없다 해도,\n물러나지는 않을 거예요……!",
+        "LocalizeKR": "나아갈 수 없다 해도, 물러나지는 않을 거예요……!",
         "LocalizeJP": "たとえ前に進めなくても、\n絶対に退いたり、しません……！"
     },
     {
@@ -56692,7 +56692,7 @@
         "CharacterVoiceGroupId": 20055,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "바깥은 여전히 조금 두렵지만, \n그래도, 그곳에 선생님이 계신다면…… 저는…….",
+        "LocalizeKR": "바깥은 여전히 조금 두렵지만, 그래도, 그곳에 선생님이 계신다면…… 저는…….",
         "LocalizeJP": "外はやっぱり怖いけど……\nでも、そこに先生がいるならわたし……。"
     },
     {
@@ -56796,7 +56796,7 @@
         "CharacterVoiceGroupId": 20056,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이제 아무것도 무섭지 않다고요!\n……아니, 다 그렇다는 건 아니고!",
+        "LocalizeKR": "이제 아무것도 무섭지 않다고요! ……아니, 다 그렇다는 건 아니고!",
         "LocalizeJP": "もう怖いものなんてなーい！\nあ、いえ、全部ってわけじゃないですけど、まぁ……。"
     },
     {
@@ -56804,7 +56804,7 @@
         "CharacterVoiceGroupId": 20056,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이, 이렇게 다 주신다고요……?\n이, 이러면 선생님한테 대체 뭐가 남죠……?",
+        "LocalizeKR": "이, 이렇게 다 주신다고요……? 이, 이러면 선생님한테 대체 뭐가 남죠……?",
         "LocalizeJP": "こ、こんなにもらっちゃって本当に大丈夫なんですか！？\nせ、先生ちゃんと手元に残ってます？"
     },
     {
@@ -56812,7 +56812,7 @@
         "CharacterVoiceGroupId": 20056,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선물이라니……! \n……오늘 무슨 날인가요?",
+        "LocalizeKR": "선물이라니……! ……오늘 무슨 날인가요?",
         "LocalizeJP": "えっ？\n今日って何かの記念日でしたっけ？"
     },
     {
@@ -56820,7 +56820,7 @@
         "CharacterVoiceGroupId": 20056,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님만은 풀 수 있겠죠.\n제 마음의 비밀번호를……!",
+        "LocalizeKR": "선생님만은 풀 수 있겠죠. 제 마음의 비밀번호를……!",
         "LocalizeJP": "先生は当然、私の心のパスワードなんて\n分かってると思いますけど？聞きます？"
     },
     {
@@ -56828,7 +56828,7 @@
         "CharacterVoiceGroupId": 20056,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이, 이렇게까지……!\n무, 물론 당연히 좋지만요!",
+        "LocalizeKR": "이, 이렇게까지……! 무, 물론 당연히 좋지만요!",
         "LocalizeJP": "こ、こんなにしてもらっていいんですか！？\nいや、すごく嬉しいですけど……！"
     },
     {
@@ -56996,7 +56996,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "선생님의 하트에 록 온.\n……역시, 익숙하지 않네.",
+        "LocalizeKR": "선생님의 하트에 록 온. ……역시, 익숙하지 않네.",
         "LocalizeJP": "先生のハートにロックオン。\n……やっぱ、あんま慣れないね。"
     },
     {
@@ -57020,7 +57020,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "고마워, 선생님.\n덕분에, 강해질 수 있었어.",
+        "LocalizeKR": "고마워, 선생님. 덕분에, 강해질 수 있었어.",
         "LocalizeJP": "ありがとう、先生。\nおかげで私、強くなれた。"
     },
     {
@@ -57028,7 +57028,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "나도 조금은 변한 걸까?\n사람은 결국, 서로를 바라보며 변해 가는 것이니까.",
+        "LocalizeKR": "나도 조금은 변한 걸까? 사람은 결국, 서로를 바라보며 변해 가는 것이니까.",
         "LocalizeJP": "変われたのかな？\n接することで変わっていく、とはいうけど。"
     },
     {
@@ -57036,7 +57036,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "요즘 드는 생각인데.\n나는 조금, 멋대로인 부분이 있는 것 같아.\n그러니까…… 선생님이 나를 쭉 지켜봐 주는 게\n보다 효율적인 일이 아닐까?",
+        "LocalizeKR": "요즘 드는 생각인데. 나는 조금, 멋대로인 부분이 있는 것 같아.\n그러니까…… 선생님이 나를 쭉 지켜봐 주는 게 보다 효율적인 일이 아닐까?",
         "LocalizeJP": "その……今さら、かもしれないけど。\nマイペースすぎるっていう自覚はあるの。\nだから、いきすぎないように、先生に見守っててほしいな。"
     },
     {
@@ -57044,7 +57044,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "조금 더 이쪽으로 와.\n봐, 붙으니까 딱 좋아졌어.\n서로의 체온을 나누는 거, 효율적이지?",
+        "LocalizeKR": "조금 더 이쪽으로 와. 봐, 붙으니까 딱 좋아졌어. 서로의 체온을 나누는 거, 효율적이지?",
         "LocalizeJP": "もうちょっとこっち、来て。\nほら、くっついたらちょうどよくなった。\n互いの体温を分け合うのって、効率的でしょ？"
     },
     {
@@ -57052,7 +57052,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "다시 돌아보면, 세계에는 신비한 것들이 참 많지.\n하지만 나에게 가장 신비했던 것은……\n선생님, 이려나.\n후후. 선생님은 정말로, 재미있으니까.",
+        "LocalizeKR": "다시 돌아보면, 세계에는 신비한 것들이 참 많지.\n하지만 나에게 가장 신비했던 것은…… 선생님, 이려나. 후후. 선생님은 정말로, 재미있으니까.",
         "LocalizeJP": "改めて振り返ると、不思議でいっぱいだなぁって思うんだ。\nその中でも私にとって一番不思議な存在は……先生、かな。\nふふ、先生って本当に面白いから。"
     },
     {
@@ -57060,7 +57060,7 @@
         "CharacterVoiceGroupId": 10136,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "무슨 일이 있으면, 나를 찾아 줘.\n무조건, 내가 지킬 테니까.\n어떤 대가를 치르더라도, 상관없어.",
+        "LocalizeKR": "무슨 일이 있으면, 나를 찾아 줘.\n무조건, 내가 지킬 테니까. 어떤 대가를 치르더라도, 상관없어.",
         "LocalizeJP": "何かあったらすぐ呼んで。\n絶対、私が守るから。\nそのためなら……どんな代償を支払うことになっても、構わないよ。"
     },
     {
@@ -57228,7 +57228,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "꼬우면 경찰 하든지!",
+        "LocalizeKR": "꼬우면 경찰 하던지!",
         "LocalizeJP": "文句があるなら、ヴァルキューレに入ることだね。"
     },
     {
@@ -57236,7 +57236,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "네네, 하겠슴다-\n아휴, 아휴우…….",
+        "LocalizeKR": "네네, 하겠슴다- 아휴, 아휴우…….",
         "LocalizeJP": "はいはい、やりますよーっと。\nはぁ、めんど……。"
     },
     {
@@ -57260,7 +57260,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "더 강해졌슴다! 물어줄 병원비도 늘겠지 말임다.",
+        "LocalizeKR": "더 강해졌슴다! 물어줄 병원비도 늘겠지말임다.",
         "LocalizeJP": "強くなったっす！\n……病院送りの人数が増えそうっすね。"
     },
     {
@@ -57276,7 +57276,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "승진임까? 대환영임다!\n언제 강등될지 모르니까요!",
+        "LocalizeKR": "승진임까? 대환영임다! 언제 강등될지 모르니까요!",
         "LocalizeJP": "昇進っすか？大歓迎っす！\nいつ降格しちゃうか分かりませんし！"
     },
     {
@@ -57292,7 +57292,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "뭡니까, 선생님은 제가 좋으심까?\n엥-? 다른 상냥한 애들도 많잖슴까?",
+        "LocalizeKR": "뭡니까, 선생님은 제가 좋으심까? 엥-? 다른 상냥한 애들도 많잖슴까?",
         "LocalizeJP": "なんすか先生、あたしのこと好きなんすか？\nえー？もっと優しい子とかいっぱい居るのに？"
     },
     {
@@ -57300,7 +57300,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "저도…… 일단 여자아임다…….\n나름 섬세하단 말임다?",
+        "LocalizeKR": "저도…… 일단 여자아임다……. 나름 섬세하단 말임다?",
         "LocalizeJP": "あの……あたしも一応女の子なんで……。\nこう見えて繊細なんすよ？"
     },
     {
@@ -57316,7 +57316,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "항상…… 감사함다. 아, 그러니까…… 여러 가지로요.",
+        "LocalizeKR": "항상…… 감사함다. 아, 그러니까……여러 가지로요.",
         "LocalizeJP": "いつも……ありがとうございます……\nあ、や、その……色々と。"
     },
     {
@@ -57340,7 +57340,7 @@
         "CharacterVoiceGroupId": 10137,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이 정도 피해는 허용 범위 내임다!",
+        "LocalizeKR": "이 정도 피해는 허용범위 내임다!",
         "LocalizeJP": "多少の被害は許容範囲内っす！"
     },
     {
@@ -57388,7 +57388,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "유령이든 뭐든 나오라고!\n없다고 증명해 줄 테니까!",
+        "LocalizeKR": "유령이든 뭐든 나오라고! 없다고 증명해 줄 테니까!",
         "LocalizeJP": "幽霊でも何でも出てきなさいよ！\nいないって証明してやるんだから！"
     },
     {
@@ -57396,7 +57396,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이 앞은, 뭔가 이상한 일이 일어나진…… 않겠지?",
+        "LocalizeKR": "이 앞은, 뭔가 이상한 일이 일어나진……않겠지?",
         "LocalizeJP": "この先って、なんか変なこと起きたり……しないよね？"
     },
     {
@@ -57524,7 +57524,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이런 곳에서 만족하지 않아.\n계속 성장하는 거야.\n키보토스 최고의 패션 디자이너가 되는 그날까지!",
+        "LocalizeKR": "이런 곳에서 만족하지 않아. 계속 성장하는 거야.\n키보토스 최고의 패션 디자이너가 되는 그날까지!",
         "LocalizeJP": "こんなところで満足なんかしない。私はずっと成長を続けるの。\nキヴォトス最高のファッションデザイナーになる、その日まで！"
     },
     {
@@ -57532,7 +57532,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "앗! 좋은 디자인이 떠올랐어!\n나중에 선생님한테도 보여줄게.",
+        "LocalizeKR": "앗! 좋은 디자인이 떠올랐어! 나중에 선생님한테도 보여줄게.",
         "LocalizeJP": "あっ！いいデザイン思いついた！\n後で先生にも見せてあげるわね。"
     },
     {
@@ -57540,7 +57540,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이렇게 한 걸음씩 나아가다 보면…….\n언젠가 나도……!",
+        "LocalizeKR": "이렇게 한 걸음씩 나아가다 보면……. 언젠가 나도……!",
         "LocalizeJP": "こんな風に一歩ずつ進んでいけば……\nいつか私も……！"
     },
     {
@@ -57548,7 +57548,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "왜, 왜지……? 뭔가 머릿속이 상쾌해졌어…….\n설마 이것도 오컬트……?",
+        "LocalizeKR": "왜, 왜지……? 뭔가 머릿속이 상쾌해졌어……. 설마 이것도 오컬트……?",
         "LocalizeJP": "な、何で……？なんか、頭の中がスッキリしてる……。\nもしかして、これもオカルト……？"
     },
     {
@@ -57556,7 +57556,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "나, 난 운명 같은 거 안 믿어!\n진짜라니까!",
+        "LocalizeKR": "나, 난 운명 같은 거 안 믿어! 진짜라니까!",
         "LocalizeJP": "わ、私は運命とか信じてないの！\n本当だってば！"
     },
     {
@@ -57564,7 +57564,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "어, 어떻게 내가 좋아하는 걸 아는 거야?\n텔레파시…… 같은 건, 아니지?",
+        "LocalizeKR": "어, 어떻게 내가 좋아하는 걸 아는 거야? 텔레파시……같은 건, 아니지?",
         "LocalizeJP": "なっ、何で私の好きなもの知ってるの？\nテレパシー……とかじゃ、ないよね？"
     },
     {
@@ -57572,7 +57572,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "뭔가…… 이상한 주문에 걸린 느낌이야.\n난 오컬트 같은 거 안 믿는데…….",
+        "LocalizeKR": "뭔가…… 이상한 주문에 걸린 느낌이야. 난 오컬트 같은 거 안 믿는데…….",
         "LocalizeJP": "なんか……呪文をかけられたみたい……。\nオカルトなんて、信じてないのに……。"
     },
     {
@@ -57580,7 +57580,7 @@
         "CharacterVoiceGroupId": 10138,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "이런 식으로 대해지는 거, 싫진, 않지만…….\n으으~~~!",
+        "LocalizeKR": "이런 식으로 대해지는 거, 싫진, 않지만……. 으으~~~!",
         "LocalizeJP": "そういう風に接されるの、嫌、じゃないけど……。\nうぅ～～～……！"
     },
     {
@@ -57692,7 +57692,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "새삼스럽지만 이렇게 부르는 것도 신선하네요.\n……선생님?",
+        "LocalizeKR": "새삼스럽지만 이렇게 부르는 것도 신선하네요. ……선생님?",
         "LocalizeJP": "改まってこうお呼びするのも新鮮ですね。\n……先生？"
     },
     {
@@ -57700,7 +57700,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "메이드로서, 모든 일에 능숙해야 하겠지요.\n학생으로서도 마찬가지고요.",
+        "LocalizeKR": "메이드로서, 모든 일에 능숙해야 하겠지요. 학생으로서도 마찬가지고요.",
         "LocalizeJP": "完璧なメイドとして、文武両道でなければなりません。\n生徒としても同じく。"
     },
     {
@@ -57708,7 +57708,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "언제나 지켜봐 주셔서 감사합니다.\n스승의 은혜는, 갚아야 하는 것일 텐데요.",
+        "LocalizeKR": "언제나 지켜봐 주셔서 감사합니다. 스승의 은혜는, 갚아야 하는 것일 텐데요.",
         "LocalizeJP": "いつも気にかけてくださりありがとうございます。\nご主人様に応えられるよう、尽力いたします。"
     },
     {
@@ -57716,7 +57716,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "모든 것은 매일의 노력이겠지요.\n만약, 그 일상을 선생님이 함께 해주신다면……\n어쩌면, 다른 미래가 기다리고 있을지도 모르겠네요.",
+        "LocalizeKR": "모든 것은 매일의 노력이겠지요.\n만약, 그 일상을 선생님이 함께 해주신다면…… 어쩌면면, 다른 미래가 기다리고 있을지도 모르겠네요.",
         "LocalizeJP": "すべては毎日の積み重ね。\nもしも、その日常を先生が共にしてくださるとしたら……\nあるいは、異なる未来が待ち受けているのかもしれません。"
     },
     {
@@ -57732,7 +57732,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "가끔, 그런 생각을 해요.\n선생님과 조금, 다른 방식으로 만났더라면 어땠을까……\n가령 '동급생'이라든가……\n후후. 그래도 선생님은, '선생님'이었을 것 같지만요.",
+        "LocalizeKR": "가끔, 그런 생각을 해요. 선생님과 조금, 다른 방식으로 만났더라면 어땠을까…… 가령 '동급생'이라던가…… 후후.\n그래도 선생님은, '선생님'이었을 것 같지만요.",
         "LocalizeJP": "ときどき、想像してしまうのです。\nもしも先生と違う出会い方をしていたら、と。\n例えば……「同級生」だったのなら……。\nふふっ、ですが……やはり先生は「先生」なのでしょうね。"
     },
     {
@@ -57740,7 +57740,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "학생이 교복을 입는 건 당연한 일이겠지요.\n그래도, 어울린다는 말은 언제 들어도 기쁘니까요?",
+        "LocalizeKR": "학생이 교복을 입는건 당연한 일이겠지요. 그래도, 어울린다는 말은 언제 들어도 기쁘니까요?",
         "LocalizeJP": "制服を着るのは当たり前です。\nですが、似合うと言っていただけるのはいつでも嬉しいのですよ？"
     },
     {
@@ -57748,7 +57748,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "늘 감사드립니다. 선생님. 그리고……\n그리고……\n제법 결심했는데, 의외로 말하기 어렵네요. 그렇지만……\n언제나, 저기, 네. 경애하고, 있답니다.",
+        "LocalizeKR": "늘 감사드립니다. 선생님. 그리고…… 그리고…… 제법 결심했는데, 의외로 말하기 어렵네요.\n그렇지만…… 언제나, 저기, 네. 경애하고, 있답니다.",
         "LocalizeJP": "いつもありがとうございます、先生。\nそして……そして……。\nふぅ、覚悟したつもりでしたが、意外と難しいものですね。\nいえ、ですから、その……お、お慕い申して……おります……。"
     },
     {
@@ -57756,7 +57756,7 @@
         "CharacterVoiceGroupId": 20057,
         "Duration": 0,
         "Separate": false,
-        "LocalizeKR": "방과 후, 빈 교실이 있는데…… \n그곳으로 와 주실 수 있으실까요?\n후훗. 농담이에요.\n……지금은요.",
+        "LocalizeKR": "방과 후, 빈 교실이 있는데…… 그곳으로 와 주실 수 있으실까요?\n후훗. 농담이에요. ……지금은요.",
         "LocalizeJP": "放課後、誰も来ない教室があるのですが……\nお誘いしたら、先生は来てくださるのでしょうか？\n……ふふっ。冗談です。今は、まだ。"
     },
     {
@@ -59334,5 +59334,813 @@
         "Separate": false,
         "LocalizeKR": "나는 더 이상…… 누군가의 '대신'이 아니야.",
         "LocalizeJP": "私はもう……誰かの「代わり」じゃない。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다음에도 잘 부탁하마.",
+        "LocalizeJP": "次もよろしく頼むぞ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "잠시 몸을 피하겠다.",
+        "LocalizeJP": "少々、身を隠そうか。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "더 정진하거라.",
+        "LocalizeJP": "精進が足りぬな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "여름이니 말이지.\n내 모습, 잘 봐 두도록 하거라.",
+        "LocalizeJP": "夏の妾を目に焼き付けておくんじゃぞ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "놀 때는 전력으로. 당연하지 않은가.",
+        "LocalizeJP": "遊ぶのなら全力で。当然じゃろう？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "자리를 옮겨 볼까.",
+        "LocalizeJP": "場所を移そうかの。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다음은 무엇이냐?",
+        "LocalizeJP": "次はどこじゃ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "감사를 표하마.",
+        "LocalizeJP": "感謝する。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저기가 좋겠구나.",
+        "LocalizeJP": "移動しようか。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "잘 보았는가, 선생?\n그러면 이제, 포상을 요구하고 싶다만?",
+        "LocalizeJP": "見ていたのじゃろう？先生。\nほれ……頑張った生徒には、褒美が必要じゃろう？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "피서지의 여름 공기도 나쁘지 않구나.\n이제 선생도 함께, 어떠한가?",
+        "LocalizeJP": "避暑もたまには良いものじゃな。\nさて先生……この後の予定は空いてるかえ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CommonSkill",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "무엄하구나.",
+        "LocalizeJP": "無礼者。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어라……?\n읏……!\n하아……",
+        "LocalizeJP": "おや……？\nっ……！？\nはぁ……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "호오……\n꺄앗?!\n사고로다……",
+        "LocalizeJP": "ほう……。\nひゃあっ！？\nこれは、事故じゃ……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_3",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "후후……\n뭣이?!\n여름, 인가……",
+        "LocalizeJP": "ふふ……。\nなっ！？\n……夏じゃのう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "시원해지기는 했구나……",
+        "LocalizeJP": "たしかに涼しくはなったが……はぁ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "못된 자가 있었던 모양이구나.",
+        "LocalizeJP": "不届き者がいたようじゃな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이 정도는 기분 나쁘지 않다.",
+        "LocalizeJP": "この程度で気を悪くはせぬよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "여름, 피서……\n그렇다 해도, 소홀히 할 수 없는 것이 있다.",
+        "LocalizeJP": "やれやれ……。\n穏やかに過ごしたいのじゃが。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "흐음, 나와 시간을 보내고 싶은가?\n나는 선생과 그리하고 싶은데 말이다.",
+        "LocalizeJP": "ふむ、妾と過ごしたいのかえ？\nふふっ、元よりそのつもりじゃよ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_Select",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어떤가. 잘 어울리는가?\n후훗. 천천히 보아도 좋다.",
+        "LocalizeJP": "どうじゃ？似合っておるかの？\nふふっ、ゆっくり見ていくと良い。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "내일이라는 것은 좋은 것이지.\n음. 휴가만큼이나 말이다.",
+        "LocalizeJP": "明日があるというのは喜ばしいものじゃ。\nうむ、休暇と同じくらいにはな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "여백이 있기에 사람은 성장할 수 있는 법.\n좋은 일이다.",
+        "LocalizeJP": "余白があるからこそ、人は成長できる。\n良いことじゃな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_3",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "알고 있는가, 선생?\n이것도 모두, 선생이 지켜보아 준 덕분이다.\n선생에게는, 어떤 감사를 표해도 항상 모자라구나.",
+        "LocalizeJP": "其方が見ていてくれたから……\nここまで来ることができた。\n感謝してもしきれぬよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_4",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님! 키키, 성장했어요!\n후후. 놀랐는가, 선생?\n방금 것은 둘만의 비밀로 하자꾸나.",
+        "LocalizeJP": "キキ、せいちょーう！\nふふっ驚いたかの？先生。\nこれは二人だけの秘密、じゃぞ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "잎새에 가린 꽃은 봄 갔어도 남아 있고,\n엷은 구름 스민 햇살 빗속에도 환하구나.\n뻔한 비유이겠다만, 꽃과 햇살이 누구를 뜻할지……\n그대는 알 수 있겠는가? 후후.",
+        "LocalizeJP": "新葉、陰、涼多し……春去りて来幾日ぞ\n夏雲忽にして嵯峨たり\nふふ……其方はこの意味、分かるかのう？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "외모는 내면의 가장 바깥 부분이라고도 하지 않는가?\n옷차림이란 시간과 장소에 어울려야 하는 법.\n후훗…… 그렇다. 그러니 이것을 \n그대 앞에서 입고 있는 것이지.",
+        "LocalizeJP": "外見は内面の一番外側、とも言うじゃろう？\n時と場に相応しい格好をせねばならぬ。\nふふっ……そうさな。\nだから、これを其方の前で着ておるのじゃよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "일생의 벗과 함께라면, \n천 겁의 불도 두렵지 않다고 하던가……\n그러니 쭉 같이 있어 주었으면 한다, 선생.",
+        "LocalizeJP": "生涯の友となら、どこへ行こうとも怖くないというじゃろう？\nじゃから……妾と、どこまでも共にいてくれぬか？先生。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "있잖아요, 선생님. 키키는요……\n선생님이 세상에서 제일 좋아요!\n후후. 그런 표정 짓지 말거라.\n슬슬 익숙해질 때가 되지 않았는가.",
+        "LocalizeJP": "キキね……。\n世界で一番、先生が好き！\nふふっ。そんな顔をするでない。\nそろそろ慣れてきたのではないかえ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어디, 길을 찾아보도록 하자.",
+        "LocalizeJP": "ふむ、道を探していこうか。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "나무 그늘은 없는가?",
+        "LocalizeJP": "木陰はないかのう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "오늘은 휴가라고 하지 않았느냐.",
+        "LocalizeJP": "はぁ……休暇に来たはずなのじゃが。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10145,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "나름의 여흥이었다.",
+        "LocalizeJP": "いい余興じゃったな。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "고마워요~",
+        "LocalizeJP": "ありがとうございます。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Covered_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "잠시, 숨을게요.",
+        "LocalizeJP": "少し隠れます。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "조금 더 노력하세요.",
+        "LocalizeJP": "もうちょっと頑張らないといけませんよ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_In_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "발밑을 조심해 주세요",
+        "LocalizeJP": "足元にはちゃんと気をつけるんですよ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_In_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "천천히 따라오세요~",
+        "LocalizeJP": "はぐれないようついてきてくださいね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Move_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다음에는 무엇이 있을까요?",
+        "LocalizeJP": "次は何が待っているのでしょう？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Move_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저기랍니다.",
+        "LocalizeJP": "あそこですね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "휴우. 감사합니다.",
+        "LocalizeJP": "ふうっ。助かりました。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저쪽으로 갈까요?",
+        "LocalizeJP": "あちらへ移動しましょうか。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "오늘은 정말 좋은 날이네요.",
+        "LocalizeJP": "ええ、とても良い日でした。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "여러분과 놀 수 있어서…... 즐거웠어요.",
+        "LocalizeJP": "みなさんと遊ぶことができて……楽しかったです。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_CommonSkill",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어머나. 우후후.",
+        "LocalizeJP": "あらまあ……ふふっ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "후훗.\n어머?\n문제 해결, 이네요.",
+        "LocalizeJP": "ふふっ。\nあら？\n問題解決、ですね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "좋네요~\n어?\n계속 갈까요?",
+        "LocalizeJP": "楽しいです。\nあっ？\n続けましょう。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_3",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "히얏!\n저건……?\n우후후.",
+        "LocalizeJP": "ひゃっ！\nあれは……？\nうふふ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어머나, 어머나.",
+        "LocalizeJP": "あら、あら。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "조심해야겠네요~",
+        "LocalizeJP": "気をつけるんですよ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "아무 일도 없었죠?",
+        "LocalizeJP": "何かありましたか？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Formation_In_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "안전사고에는 조심해야 해요.",
+        "LocalizeJP": "怪我に気をつけて遊びましょうね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Formation_In_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "무슨 일이 있으면, 꼭 이야기해 주세요?",
+        "LocalizeJP": "何かあったら、すぐに言うんですよ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Formation_Select",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어머나, 높이높이…… 인가요? 후훗.",
+        "LocalizeJP": "あら……高い高い、してくださるんですか？ふふっ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Formchange",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어머나, 잠시만 기다려 주세요.",
+        "LocalizeJP": "あら、少々お待ちくださいね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Growup_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "성장이란 뜻깊은 일이죠.\n특히 아이들의 성장을 지켜보는 일은요.\n네? 선생님도 저를 똑같은 마음으로……?\n아, 아이참…… 선생님도……",
+        "LocalizeJP": "子どもたちの成長を見守っていると、とても心が温かくなるんです。\nえっ？先生も同じ気持ちで私のことを……？\nも、もう……ありがとうございます。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Growup_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "더 나은 사람이 되는 것……\n그건 정말 중요한 일이라고 생각해요.\n그러니까 저도…… \n선생님이 지켜봐 주시는 것이, 정말 기쁘답니다.",
+        "LocalizeJP": "成長を続けようと努力することは、大切です。\nですから、私も……こうして、先生が見守ってくださることがとても嬉しいんです。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Growup_3",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저도 아직…… 자랄 수 있을까요?\n그런 의미에서 저는, 선생님 앞에서라면.\n여전히…… 아이일지도 모르겠네요.",
+        "LocalizeJP": "私でもまだ成長できるのでしょうか……？\nその……私も、他の子みたいに甘えたくなってしまいます。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Growup_4",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "매화원의 교관은…… 아이들을 지켜보는 입장이에요.\n그래서…… 이렇게 제가 학생 입장이 되는 건, \n왠지 쑥스럽네요.",
+        "LocalizeJP": "梅花園の教官は……子供たちを見守る立場にあります。\nだから……こんな風に自分が生徒の立場になるのは、なんだか照れくさいですね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "여름 과일을 여러 가지 준비해 보았답니다.\n특별히 드시고 싶은 게 있으신가요?\n모두…… 선생님을 위한 것이니까요.",
+        "LocalizeJP": "トロピカルフルーツをご用意しました。\nなにか食べたいものはありますか？\n全部、先生の分ですからお好きなものをどうぞ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "혹시, 선생님? \n아무도 없는 곳에서 우리 둘만 있을 수 있다면……\n선생님은 뭘 하고 싶으신가요?\n사실 저는…… 생각해 둔 것이 있거든요……?",
+        "LocalizeJP": "もしも、私と二人きりになれたとしたら……。\n先生は何をしたいですか？\n私……やりたいことが、あるんです。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "의외로 여름 물가에서 감기에 걸리는 경우가 있답니다.\n그래도 걱정하지 마세요.\n제가 돌보아 드릴 테니까요.",
+        "LocalizeJP": "夏といえども油断してはいけません。\n夏風邪が一番怖いんですからね。\n先生が風邪を引いてしまった時は……私が看病してさしあげますけど"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "추억이란 즐겁고, 아름답고……\n때로는, 쓸쓸하게 느껴지는 것이기도 하죠.\n아름다운 채로 있어 주길 바라지만요.",
+        "LocalizeJP": "思い出とは、楽しくて、美しくて……。\n時に、物寂しく感じるものでもあります。\n美しいままであってほしいと、願っているのですけどね。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Tactic_In_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "걱정하지 마세요. 제가 있으니까요.",
+        "LocalizeJP": "大丈夫です、私がついていますから。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Tactic_In_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저를 믿어 주세요, 선생님.",
+        "LocalizeJP": "私を信じてください。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "자, 여러분. 잘 따라오셔야 해요?",
+        "LocalizeJP": "さあ、みなさん。ちゃんとついてきてくださいね？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_Shun_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10143,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다들, 너무 서두르지 말고요.",
+        "LocalizeJP": "あまり慌てないでくださいね～"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "감사합니다!",
+        "LocalizeJP": "ありがとうございます！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Covered_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "숨을 테니까요!",
+        "LocalizeJP": "隠れます！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "끄떡없어요!",
+        "LocalizeJP": "ちょちょいのちょい、です！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_In_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "그러면, 여러분! 잘 부탁드리겠습니다!",
+        "LocalizeJP": "みなさん、よろしくお願いします！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_In_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "제가 앞장서 볼게요!",
+        "LocalizeJP": "私が先頭に立ちますね！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Move_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "다음은 뭘까요?",
+        "LocalizeJP": "次は何でしょうか？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Move_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저기군요!",
+        "LocalizeJP": "あそこですね！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "덕분에 괜찮아졌어요!",
+        "LocalizeJP": "元気になりました！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저쪽으로 갈게요!",
+        "LocalizeJP": "あっちに行きましょう！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이겼어요! 보고 계셨나요, 선생님?",
+        "LocalizeJP": "勝ちました！先生が見ていてくれたおかげです！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "에헤헤. 해냈답니다! 칭찬해 주세요!",
+        "LocalizeJP": "えへへ。やりました！褒めてください！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_CommonSkill",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "자아…… 어떠세요?",
+        "LocalizeJP": "さて……どうですか！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "아우우우……\n선생님~!",
+        "LocalizeJP": "んん……。\n先生～！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "아야야……\n도와주세요~!",
+        "LocalizeJP": "あいたた……。\n助けてくださ～い！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_3",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "우우웅……\n안아 주세요~!",
+        "LocalizeJP": "うぅーん……。\n抱っこしてください～！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "힘낼게요!",
+        "LocalizeJP": "頑張りますねっ！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "영~차!",
+        "LocalizeJP": "よいしょ！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "갈게요!",
+        "LocalizeJP": "行きますよ！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Formation_In_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님과 놀러 가는 거네요♪",
+        "LocalizeJP": "先生とおでかけ！ですね♪"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Formation_In_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "에헤헤. 정말 기대돼요♪",
+        "LocalizeJP": "えへへっ、とっても楽しみです♪"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Formation_Select",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "와와와?!\n떨어질 뻔했네요…… 에헤헤.",
+        "LocalizeJP": "わわわっ！？\n落ちちゃうかと思いました……えへへ。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Formchange",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "짜잔! 슈에링이에요!",
+        "LocalizeJP": "じゃじゃーん！シュエリンです！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Growup_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "저, 자랐어요!\n어…… 그런데 그건 좋은 걸까요……?",
+        "LocalizeJP": "私、成長したみたいです！\nえっと……いいこと、なんですよね？あれ？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Growup_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "이 모습이 되면, 여러 생각이 들어요. \n몸은 커졌는데, 정말 성장한 것일까요……\n앗, 너무 감상적으로 되어버렸네요!\n방금 건 못 들은 걸로 해주세요……",
+        "LocalizeJP": "この姿になると、色々なことを考えちゃいます。\n身体は大きくなったけれど、果たして成長しているのか……\nあっ、なんだか感傷的になっちゃいましたね！\n今のは聞かなかったことに……。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Growup_3",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "지금의 저는, 기간 한정 비눗방울 같은 존재……\n그래서 더욱, 이 시간을 소중히 하고 싶어요.\n선생님과 이렇게 지내는 시간은, \n무엇과도 바꿀 수 없는 보물이니까요.",
+        "LocalizeJP": "今の私は、期間限定の泡沫……。\nだからこそ、この時間を大切にしたいんです。\n先生とこうやって過ごす瞬間は、かけがえのない宝物ですから。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Growup_4",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "우…… 뭔가, 또 커져 버린 느낌이에요……\n어라? 저 뭔가, 이상한 말을 한 걸까요?",
+        "LocalizeJP": "む……なんだか、また大きくなった気がします……。\n……えっ私、何か変なこと言いました？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "과일이 먹고 싶어졌어요……\n선생님은 어떤 과일이 좋으세요?",
+        "LocalizeJP": "トロピカルフルーツが食べたくなってきました……\n先生はどんなフルーツが好きですか？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "선생님은 뭘 하면서 놀고 싶으세요?\n저는요…… 어부바를 해주시면 좋을 것 같아요!\n그리고…… 에헤헷. 비밀이에요!",
+        "LocalizeJP": "先生は何をして遊びたいですか？\n私は……おんぶしてもらいたいです！\nそれから……えへへっ、秘密です！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "어렸을 때, 물놀이에 너무 열중하다가 \n여름 감기에 걸린 적이 있었어요.\n……지금도 작은 상태이긴 하네요.\n어쨌든! 선생님도 감기, 조심하세요!",
+        "LocalizeJP": "小さい頃、水遊びに熱中しすぎて夏風邪を引いちゃったことがあるんです。\n……って、「今」も小さかったですね。\nとにかく！先生も夏風邪には注意するんですよ！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "지금 제가 경험하고 있는 것은, \n옛날에 있던 일을 덮어씌우고 있는 것일까요?\n하지만 분명, 다르다고 생각해요.\n지금 이 모든 시간이, 새로운 추억이 되고 있으니까요!",
+        "LocalizeJP": "今の私が経験する出来事は、過去の上書きになるんでしょうか？\nでもきっと、違いますよね。\nだって、こうして過ごしている全ての時間が、新しい思い出になっているんですから。"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Tactic_In_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "작아도, 할 수 있어요!",
+        "LocalizeJP": "小さくても、できるんですよ！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Tactic_In_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "맡겨만 주세요!",
+        "LocalizeJP": "任せてください！"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "에헤헤. 보셨죠? 선생님?",
+        "LocalizeJP": "えへへ、先生、見てました？"
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formchange_ShunSmall_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10144,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "그러면, 다녀오겠습니다!",
+        "LocalizeJP": "いってきます！"
     }
 ]

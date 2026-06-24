@@ -643,201 +643,11 @@
         "AlertPopupId": 0,
         "ShiftingCraftRecipe": 0
     },
-    {
-        "Id": 40,
-        "GroupId": 40,
-        "Rarity": "N",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 451238291,
-        "ItemCategory": "Material",
-        "Quality": 1,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Cafe_2_Rank_0",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "Hx"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 0,
-        "CraftQualityTier1": 0,
-        "CraftQualityTier2": 0,
-        "ShiftingCraftQuality": 0,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 20,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
-    {
-        "Id": 41,
-        "GroupId": 41,
-        "Rarity": "R",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 3865547625,
-        "ItemCategory": "Material",
-        "Quality": 2,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Cafe_2_Rank_1",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "Hx"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 0,
-        "CraftQualityTier1": 0,
-        "CraftQualityTier2": 0,
-        "ShiftingCraftQuality": 0,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 20,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
-    {
-        "Id": 42,
-        "GroupId": 42,
-        "Rarity": "SR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 1194413183,
-        "ItemCategory": "Material",
-        "Quality": 3,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Cafe_2_Rank_2",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "Hx"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 0,
-        "CraftQualityTier1": 0,
-        "CraftQualityTier2": 0,
-        "ShiftingCraftQuality": 0,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 20,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
-    {
-        "Id": 43,
-        "GroupId": 43,
-        "Rarity": "SSR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 1594225776,
-        "ItemCategory": "Material",
-        "Quality": 4,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Cafe_2_Rank_3",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "Hx"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 0,
-        "CraftQualityTier1": 0,
-        "CraftQualityTier2": 0,
-        "ShiftingCraftQuality": 0,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 20,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
-    {
-        "Id": 49,
-        "GroupId": 49,
-        "Rarity": "SSR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 2652272944,
-        "ItemCategory": "Material",
-        "Quality": 9,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Cafe_2_Rank_9",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "Hx"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 0,
-        "CraftQualityTier1": 0,
-        "CraftQualityTier2": 0,
-        "ShiftingCraftQuality": 0,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 20,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
+    {},
+    {},
+    {},
+    {},
+    {},
     {
         "Id": 60,
         "GroupId": 60,
@@ -1311,10 +1121,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 101,
@@ -1357,10 +1167,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 102,
@@ -1402,10 +1212,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 103,
@@ -1446,10 +1256,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 110,
@@ -1492,10 +1302,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 111,
@@ -1538,10 +1348,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 112,
@@ -1583,10 +1393,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 113,
@@ -1627,10 +1437,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 120,
@@ -1673,10 +1483,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 121,
@@ -1719,10 +1529,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 122,
@@ -1764,10 +1574,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 123,
@@ -1808,10 +1618,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 130,
@@ -1854,10 +1664,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 131,
@@ -1900,10 +1710,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 132,
@@ -1945,10 +1755,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 133,
@@ -1989,10 +1799,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 140,
@@ -2035,10 +1845,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 141,
@@ -2081,10 +1891,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 142,
@@ -2126,10 +1936,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 143,
@@ -2170,10 +1980,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 150,
@@ -2216,10 +2026,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 151,
@@ -2262,10 +2072,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 152,
@@ -2307,10 +2117,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 153,
@@ -2351,10 +2161,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 160,
@@ -2397,10 +2207,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 161,
@@ -2443,10 +2253,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 162,
@@ -2488,10 +2298,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 163,
@@ -2532,10 +2342,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 170,
@@ -2578,10 +2388,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 171,
@@ -2624,10 +2434,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 172,
@@ -2669,10 +2479,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 173,
@@ -2713,10 +2523,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 180,
@@ -2759,10 +2569,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 181,
@@ -2805,10 +2615,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 182,
@@ -2850,10 +2660,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 183,
@@ -2894,10 +2704,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 190,
@@ -2940,10 +2750,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 191,
@@ -2986,10 +2796,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 192,
@@ -3031,10 +2841,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 193,
@@ -3075,10 +2885,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 200,
@@ -3120,10 +2930,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 201,
@@ -3165,10 +2975,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 202,
@@ -3210,10 +3020,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 203,
@@ -3254,10 +3064,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 210,
@@ -3299,10 +3109,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 211,
@@ -3344,10 +3154,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 212,
@@ -3389,10 +3199,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 213,
@@ -3433,10 +3243,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 220,
@@ -3478,10 +3288,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 221,
@@ -3523,10 +3333,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 222,
@@ -3568,10 +3378,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 223,
@@ -3612,10 +3422,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 230,
@@ -3657,10 +3467,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 231,
@@ -3702,10 +3512,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 232,
@@ -3747,10 +3557,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 233,
@@ -3791,10 +3601,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 240,
@@ -3836,10 +3646,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 241,
@@ -3881,10 +3691,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 242,
@@ -3926,10 +3736,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 243,
@@ -3970,10 +3780,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 250,
@@ -4015,10 +3825,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 251,
@@ -4060,10 +3870,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 252,
@@ -4105,10 +3915,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 253,
@@ -4149,10 +3959,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 260,
@@ -4194,10 +4004,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 261,
@@ -4239,10 +4049,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 262,
@@ -4284,10 +4094,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 263,
@@ -4328,10 +4138,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 270,
@@ -4373,10 +4183,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 271,
@@ -4418,10 +4228,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 272,
@@ -4463,10 +4273,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 273,
@@ -4507,10 +4317,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 280,
@@ -4552,10 +4362,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 281,
@@ -4597,10 +4407,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 282,
@@ -4642,10 +4452,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 283,
@@ -4686,10 +4496,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 290,
@@ -4731,10 +4541,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 21
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 291,
@@ -4776,10 +4586,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 22
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 292,
@@ -4821,10 +4631,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 23
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 293,
@@ -4865,134 +4675,14 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 24
-    },
-    {
-        "Id": 2000,
-        "GroupId": 2000,
-        "Rarity": "SR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 3821935965,
-        "ItemCategory": "Material",
-        "Quality": 3,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_WorkBook_PotentialMaxHP",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "k",
-            "M",
-            "cs"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 20,
-        "CraftQualityTier1": 20,
-        "CraftQualityTier2": 20,
-        "ShiftingCraftQuality": 50,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 30,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
         "ShiftingCraftRecipe": 0
     },
-    {
-        "Id": 2001,
-        "GroupId": 2001,
-        "Rarity": "SR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 2843714273,
-        "ItemCategory": "Material",
-        "Quality": 3,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_WorkBook_PotentialAttack",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "k",
-            "M",
-            "cs"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 20,
-        "CraftQualityTier1": 20,
-        "CraftQualityTier2": 20,
-        "ShiftingCraftQuality": 50,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 30,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
-    {
-        "Id": 2002,
-        "GroupId": 2002,
-        "Rarity": "SR",
-        "ProductionStep": "Release",
-        "LocalizeEtcId": 4148561598,
-        "ItemCategory": "Material",
-        "Quality": 3,
-        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_WorkBook_PotentialHealPower",
-        "SpriteName": "",
-        "StackableMax": 999999,
-        "StackableFunction": 0,
-        "ImmediateUse": false,
-        "UsingResultParcelType": "None_",
-        "UsingResultId": 0,
-        "UsingResultAmount": 0,
-        "MailType": "System",
-        "ExpiryChangeParcelType": "None_",
-        "ExpiryChangeId": 0,
-        "ExpiryChangeAmount": 0,
-        "CanTierUpgrade": false,
-        "TierUpgradeRecipeCraftId": 0,
-        "Tags": [
-            "k",
-            "M",
-            "cs"
-        ],
-        "IsCollaboration": false,
-        "CraftQualityTier0": 20,
-        "CraftQualityTier1": 20,
-        "CraftQualityTier2": 20,
-        "ShiftingCraftQuality": 50,
-        "MaxGiftTags": 0,
-        "ShopCategory": [],
-        "ExpirationDateTime": "",
-        "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 30,
-        "GachaTicket": "None_",
-        "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 0
-    },
+    {},
+    {},
+    {},
     {
         "Id": 3000,
         "GroupId": 3000,
@@ -5035,10 +4725,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3001,
@@ -5082,10 +4772,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3002,
@@ -5129,10 +4819,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3003,
@@ -5176,10 +4866,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3010,
@@ -5222,10 +4912,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3011,
@@ -5268,10 +4958,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3012,
@@ -5314,10 +5004,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3013,
@@ -5360,10 +5050,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3020,
@@ -5406,10 +5096,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3021,
@@ -5452,10 +5142,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3022,
@@ -5498,10 +5188,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3023,
@@ -5544,10 +5234,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3030,
@@ -5590,10 +5280,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3031,
@@ -5636,10 +5326,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3032,
@@ -5682,10 +5372,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3033,
@@ -5728,10 +5418,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3040,
@@ -5775,10 +5465,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3041,
@@ -5822,10 +5512,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3042,
@@ -5869,10 +5559,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3043,
@@ -5916,10 +5606,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3050,
@@ -5962,10 +5652,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3051,
@@ -6008,10 +5698,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3052,
@@ -6054,10 +5744,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3053,
@@ -6100,10 +5790,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3060,
@@ -6146,10 +5836,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3061,
@@ -6192,10 +5882,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3062,
@@ -6238,10 +5928,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3063,
@@ -6284,10 +5974,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3070,
@@ -6330,10 +6020,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3071,
@@ -6376,10 +6066,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3072,
@@ -6422,10 +6112,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3073,
@@ -6468,10 +6158,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3080,
@@ -6515,10 +6205,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3081,
@@ -6562,10 +6252,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3082,
@@ -6609,10 +6299,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3083,
@@ -6656,10 +6346,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3090,
@@ -6702,10 +6392,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3091,
@@ -6748,10 +6438,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3092,
@@ -6794,10 +6484,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3093,
@@ -6840,10 +6530,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3100,
@@ -6886,10 +6576,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 25
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3101,
@@ -6932,10 +6622,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 26
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3102,
@@ -6978,10 +6668,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 27
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 3103,
@@ -7024,10 +6714,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 28
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4000,
@@ -7071,10 +6761,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4001,
@@ -7118,10 +6808,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4002,
@@ -7165,10 +6855,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4003,
@@ -7212,10 +6902,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4010,
@@ -7258,10 +6948,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4011,
@@ -7304,10 +6994,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4012,
@@ -7350,10 +7040,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4013,
@@ -7396,10 +7086,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4020,
@@ -7442,10 +7132,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4021,
@@ -7488,10 +7178,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4022,
@@ -7534,10 +7224,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4023,
@@ -7580,10 +7270,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4030,
@@ -7626,10 +7316,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4031,
@@ -7672,10 +7362,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4032,
@@ -7718,10 +7408,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4033,
@@ -7764,10 +7454,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4040,
@@ -7811,10 +7501,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4041,
@@ -7858,10 +7548,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4042,
@@ -7905,10 +7595,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4043,
@@ -7952,10 +7642,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4050,
@@ -7998,10 +7688,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4051,
@@ -8044,10 +7734,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4052,
@@ -8090,10 +7780,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4053,
@@ -8136,10 +7826,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4060,
@@ -8182,10 +7872,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4061,
@@ -8228,10 +7918,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4062,
@@ -8274,10 +7964,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4063,
@@ -8320,10 +8010,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4070,
@@ -8366,10 +8056,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4071,
@@ -8412,10 +8102,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4072,
@@ -8458,10 +8148,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4073,
@@ -8504,10 +8194,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4080,
@@ -8551,10 +8241,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4081,
@@ -8598,10 +8288,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4082,
@@ -8645,10 +8335,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4083,
@@ -8692,10 +8382,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4090,
@@ -8738,10 +8428,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4091,
@@ -8784,10 +8474,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4092,
@@ -8830,10 +8520,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4093,
@@ -8876,10 +8566,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4100,
@@ -8922,10 +8612,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 29
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4101,
@@ -8968,10 +8658,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 30
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4102,
@@ -9014,10 +8704,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 31
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 4103,
@@ -9060,10 +8750,10 @@
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
-        "ShortcutTypeId": 10,
-        "GachaTicket": "None_",
+        "ShortcutTypeId": 0,
+        "GachaTicket": "SelectPickup",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 32
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 5000,
@@ -10302,7 +9992,9 @@
             "BP",
             "BX",
             "Ec",
-            "eB"
+            "eB",
+            "IS",
+            "Is"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 20,
@@ -10596,7 +10288,9 @@
             "Hg",
             "HH",
             "hk",
-            "hL"
+            "hL",
+            "IT",
+            "It"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 20,
@@ -11011,7 +10705,9 @@
             "ht",
             "hU",
             "IH",
-            "Ih"
+            "Ih",
+            "IT",
+            "It"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 50,
@@ -11345,7 +11041,9 @@
             "gp",
             "gQ",
             "hy",
-            "hZ"
+            "hZ",
+            "IS",
+            "Is"
         ],
         "IsCollaboration": false,
         "CraftQualityTier0": 50,
@@ -11888,8 +11586,8 @@
         "ExpirationDateTime": "2021-12-31 12:00:00",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 240518168577,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -11925,8 +11623,8 @@
         "ExpirationDateTime": "2021-12-31 12:00:00",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "ThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 240518168578,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -11962,8 +11660,8 @@
         "ExpirationDateTime": "2021-12-31 12:00:00",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "TwoStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 240518168579,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12001,8 +11699,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 257698037761,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12040,8 +11738,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "ThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 257698037762,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12079,8 +11777,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "TwoStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 257698037763,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12118,8 +11816,8 @@
         "ExpirationDateTime": "2022-08-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12157,8 +11855,8 @@
         "ExpirationDateTime": "2023-01-24 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12196,8 +11894,8 @@
         "ExpirationDateTime": "2023-05-24 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12235,8 +11933,8 @@
         "ExpirationDateTime": "2023-08-23 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12274,8 +11972,8 @@
         "ExpirationDateTime": "2024-01-24 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12313,8 +12011,8 @@
         "ExpirationDateTime": "2024-05-22 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12352,8 +12050,8 @@
         "ExpirationDateTime": "2024-08-21 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12391,8 +12089,8 @@
         "ExpirationDateTime": "2025-01-20 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12430,8 +12128,8 @@
         "ExpirationDateTime": "2025-05-21 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12469,8 +12167,8 @@
         "ExpirationDateTime": "2025-08-20 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12508,8 +12206,8 @@
         "ExpirationDateTime": "2025-11-19 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12547,8 +12245,8 @@
         "ExpirationDateTime": "2026-01-20 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901889,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12586,8 +12284,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "ThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901890,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12625,8 +12323,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "ThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901890,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12664,8 +12362,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "TwoStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901891,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12703,8 +12401,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "TwoStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901891,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12742,8 +12440,8 @@
         "ExpirationDateTime": "2025-07-22 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "NormalOnce",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901893,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12781,8 +12479,8 @@
         "ExpirationDateTime": "2025-07-22 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "NormalOnce",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901893,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12820,8 +12518,8 @@
         "ExpirationDateTime": "2022-08-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12861,8 +12559,8 @@
         "ExpirationDateTime": "2023-07-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12900,8 +12598,8 @@
         "ExpirationDateTime": "2023-08-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12939,8 +12637,8 @@
         "ExpirationDateTime": "2024-07-03 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -12978,8 +12676,8 @@
         "ExpirationDateTime": "2023-09-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13017,8 +12715,8 @@
         "ExpirationDateTime": "2023-10-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13056,8 +12754,8 @@
         "ExpirationDateTime": "2023-11-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13095,8 +12793,8 @@
         "ExpirationDateTime": "2023-12-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13134,8 +12832,8 @@
         "ExpirationDateTime": "2024-01-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13173,8 +12871,8 @@
         "ExpirationDateTime": "2024-02-29 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13212,8 +12910,8 @@
         "ExpirationDateTime": "2024-03-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13251,8 +12949,8 @@
         "ExpirationDateTime": "2024-04-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13290,8 +12988,8 @@
         "ExpirationDateTime": "2024-05-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13329,8 +13027,8 @@
         "ExpirationDateTime": "2024-06-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13368,8 +13066,8 @@
         "ExpirationDateTime": "2024-07-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13407,8 +13105,8 @@
         "ExpirationDateTime": "2024-08-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13446,8 +13144,8 @@
         "ExpirationDateTime": "2024-09-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13485,8 +13183,8 @@
         "ExpirationDateTime": "2024-10-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13524,8 +13222,8 @@
         "ExpirationDateTime": "2024-11-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13563,8 +13261,8 @@
         "ExpirationDateTime": "2024-12-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13602,8 +13300,8 @@
         "ExpirationDateTime": "2025-01-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13641,8 +13339,8 @@
         "ExpirationDateTime": "2025-02-28 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13680,8 +13378,8 @@
         "ExpirationDateTime": "2025-03-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13719,8 +13417,8 @@
         "ExpirationDateTime": "2025-04-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13758,8 +13456,8 @@
         "ExpirationDateTime": "2025-05-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13797,8 +13495,8 @@
         "ExpirationDateTime": "2025-06-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13836,8 +13534,8 @@
         "ExpirationDateTime": "2025-07-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13875,8 +13573,8 @@
         "ExpirationDateTime": "2025-08-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13914,8 +13612,8 @@
         "ExpirationDateTime": "2025-09-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13953,8 +13651,8 @@
         "ExpirationDateTime": "2025-10-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -13992,8 +13690,8 @@
         "ExpirationDateTime": "2025-11-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14031,8 +13729,8 @@
         "ExpirationDateTime": "2025-12-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14070,8 +13768,8 @@
         "ExpirationDateTime": "2026-01-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14109,8 +13807,8 @@
         "ExpirationDateTime": "2026-02-28 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14148,8 +13846,8 @@
         "ExpirationDateTime": "2026-04-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14187,8 +13885,8 @@
         "ExpirationDateTime": "2026-05-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14226,8 +13924,8 @@
         "ExpirationDateTime": "2026-06-30 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14265,8 +13963,47 @@
         "ExpirationDateTime": "2026-07-31 23:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 6538,
+        "GroupId": 6538,
+        "Rarity": "SSR",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 153578446,
+        "ItemCategory": "Material",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_Normal_10",
+        "SpriteName": "Currency_Icon_RecruitTicket_Normal_10",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [
+            "Hx"
+        ],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-08-31 23:59:59",
+        "ExpirationNotifyDateIn": 3,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14304,8 +14041,8 @@
         "ExpirationDateTime": "2023-02-22 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackagePropertyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901895,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14343,8 +14080,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackagePropertyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901895,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14382,8 +14119,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackagePropertyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901895,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14421,8 +14158,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackagePropertyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901895,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14460,8 +14197,8 @@
         "ExpirationDateTime": "2024-02-21 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageAcademyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901897,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14499,8 +14236,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageAcademyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901897,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14538,8 +14275,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageAcademyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901897,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14577,8 +14314,8 @@
         "ExpirationDateTime": "2099-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageAcademyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901897,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14616,8 +14353,8 @@
         "ExpirationDateTime": "2025-07-02 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14655,8 +14392,8 @@
         "ExpirationDateTime": "2025-02-26 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14694,8 +14431,8 @@
         "ExpirationDateTime": "2026-07-01 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14733,8 +14470,8 @@
         "ExpirationDateTime": "2025-12-31 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14772,8 +14509,8 @@
         "ExpirationDateTime": "2026-03-25 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14811,8 +14548,8 @@
         "ExpirationDateTime": "2026-07-01 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901892,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14850,8 +14587,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectPickupOnce",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 274877906955,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14889,8 +14626,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectPickup",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 274877906954,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14928,8 +14665,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "NormalOnce",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 257698037765,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -14967,8 +14704,8 @@
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "Normal",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 257698037764,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15084,8 +14821,8 @@
         "ExpirationDateTime": "2025-02-26 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackagePropertyThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901895,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15123,8 +14860,8 @@
         "ExpirationDateTime": "2025-08-20 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageLimitedThreeStar",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901900,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15162,8 +14899,8 @@
         "ExpirationDateTime": "2026-02-12 10:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar_R88_Explosion",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901901,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15201,8 +14938,8 @@
         "ExpirationDateTime": "2026-02-12 10:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar_R88_Pierce",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901903,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15240,8 +14977,8 @@
         "ExpirationDateTime": "2026-02-12 10:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar_R88_Mystic",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901902,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15279,8 +15016,8 @@
         "ExpirationDateTime": "2026-02-12 10:59:59",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "PackageThreeStar_R88_Sonic",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901904,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -15366,7 +15103,7 @@
         "ShortcutTypeId": 0,
         "GachaTicket": "None_",
         "AlertPopupId": 0,
-        "ShiftingCraftRecipe": 41
+        "ShiftingCraftRecipe": 0
     },
     {
         "Id": 10000,
@@ -21245,6 +20982,88 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 10143,
+        "GroupId": 10143,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 4161546442,
+        "ItemCategory": "SecretStone",
+        "Quality": 9,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0355",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [
+            "J"
+        ],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [
+            "SecretStone"
+        ],
+        "ExpirationDateTime": "",
+        "ExpirationNotifyDateIn": 0,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 10145,
+        "GroupId": 10145,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 211216920,
+        "ItemCategory": "SecretStone",
+        "Quality": 9,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_SecretStone_CH0356",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [
+            "J"
+        ],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [
+            "SecretStone"
+        ],
+        "ExpirationDateTime": "",
+        "ExpirationNotifyDateIn": 0,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 13000,
         "GroupId": 13000,
         "Rarity": "N",
@@ -22518,7 +22337,8 @@
         "ShiftingCraftQuality": 0,
         "MaxGiftTags": 0,
         "ShopCategory": [
-            "SecretStone"
+            "SecretStone",
+            "MasterCoin"
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
@@ -36157,9 +35977,305 @@
         "ShiftingCraftQuality": 0,
         "MaxGiftTags": 0,
         "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-08 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70194,
+        "GroupId": 70194,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-22 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70195,
+        "GroupId": 70195,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-29 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70196,
+        "GroupId": 70196,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
         "ExpirationDateTime": "2099-12-31 23:59:59",
         "ExpirationNotifyDateIn": 1,
         "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70197,
+        "GroupId": 70197,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2099-12-31 23:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70198,
+        "GroupId": 70198,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2099-12-31 23:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70199,
+        "GroupId": 70199,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2099-12-31 23:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 70200,
+        "GroupId": 70200,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2099-12-31 23:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 76000,
+        "GroupId": 76000,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 1336178018,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_4",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2099-12-31 03:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 96757023244545,
         "GachaTicket": "None_",
         "AlertPopupId": 0,
         "ShiftingCraftRecipe": 0
@@ -46962,6 +47078,191 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 80840,
+        "GroupId": 80840,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 1853999145,
+        "ItemCategory": "Coin",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S62",
+        "SpriteName": "Common_Icon_Event_Token_0_S62",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-15 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 80841,
+        "GroupId": 80841,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 1412138912,
+        "ItemCategory": "Coin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S62",
+        "SpriteName": "Common_Icon_Event_Token_1_S62",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-15 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 80842,
+        "GroupId": 80842,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3483202906,
+        "ItemCategory": "Coin",
+        "Quality": 3,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S62",
+        "SpriteName": "Common_Icon_Event_Token_2_S62",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-15 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 80843,
+        "GroupId": 80843,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2079974644,
+        "ItemCategory": "Coin",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S62",
+        "SpriteName": "Common_Icon_Event_Token_3_S62",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-15 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 80850,
+        "GroupId": 80850,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 4287098248,
+        "ItemCategory": "Coin",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_60000",
+        "SpriteName": "Common_Icon_Event_Token_0_60000",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-08-05 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 85000,
         "GroupId": 85000,
         "Rarity": "N",
@@ -53313,6 +53614,154 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 85410,
+        "GroupId": 85410,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2663393436,
+        "ItemCategory": "Coin",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S48",
+        "SpriteName": "Common_Icon_Event_Token_0_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-29 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85411,
+        "GroupId": 85411,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2161564079,
+        "ItemCategory": "Coin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S48",
+        "SpriteName": "Common_Icon_Event_Token_1_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-29 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85412,
+        "GroupId": 85412,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 926350146,
+        "ItemCategory": "Coin",
+        "Quality": 3,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S48",
+        "SpriteName": "Common_Icon_Event_Token_2_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-29 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85413,
+        "GroupId": 85413,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3050818841,
+        "ItemCategory": "Coin",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S48",
+        "SpriteName": "Common_Icon_Event_Token_3_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-07-29 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 90000,
         "GroupId": 90000,
         "Rarity": "N",
@@ -55181,6 +55630,43 @@
         "ImmediateUse": true,
         "UsingResultParcelType": "GachaGroup",
         "UsingResultId": 310290,
+        "UsingResultAmount": 1,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "",
+        "ExpirationNotifyDateIn": 0,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 100048,
+        "GroupId": 100048,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 749870951,
+        "ItemCategory": "Consumable",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Equipment_Random_Useall",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": true,
+        "UsingResultParcelType": "GachaGroup",
+        "UsingResultId": 310300,
         "UsingResultAmount": 1,
         "MailType": "System",
         "ExpiryChangeParcelType": "None_",
@@ -66710,8 +67196,8 @@
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
         "GachaTicket": "None_",
-        "AlertPopupId": 1,
-        "ShiftingCraftRecipe": 0
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 1
     },
     {
         "Id": 200001,
@@ -66786,8 +67272,8 @@
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
         "GachaTicket": "None_",
-        "AlertPopupId": 1,
-        "ShiftingCraftRecipe": 0
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 1
     },
     {
         "Id": 200003,
@@ -67081,8 +67567,8 @@
         "ExpirationDateTime": "2022-08-31 11:00:00",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectRecruit",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 343597383686,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -67118,8 +67604,8 @@
         "ExpirationDateTime": "2024-07-03 11:00:00",
         "ExpirationNotifyDateIn": 0,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectRecruit",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 343597383686,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -67155,8 +67641,8 @@
         "ExpirationDateTime": "2025-07-02 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectRecruit",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901894,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -67192,8 +67678,8 @@
         "ExpirationDateTime": "2026-07-01 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectRecruit",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901894,
         "ShiftingCraftRecipe": 0
     },
     {
@@ -67229,8 +67715,45 @@
         "ExpirationDateTime": "2026-01-27 11:00:00",
         "ExpirationNotifyDateIn": 3,
         "ShortcutTypeId": 0,
-        "GachaTicket": "SelectRecruit",
-        "AlertPopupId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901894,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 12000101,
+        "GroupId": 12000101,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 269685803,
+        "ItemCategory": "Consumable",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitTicket_SelectPickup_Selection",
+        "SpriteName": "Currency_Icon_RecruitTicket_SelectPickup_Selection",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "Recipe",
+        "UsingResultId": 2000101,
+        "UsingResultAmount": 1,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-08-05 11:00:00",
+        "ExpirationNotifyDateIn": 3,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 12884901894,
         "ShiftingCraftRecipe": 0
     },
     {

@@ -364,5 +364,17 @@
         "AdditionalSkillGroupId": "EN0022Original02SteelPincerPassive01_Torment",
         "ShowSkillSlot": "Passive",
         "DisplayIconBg": false
+    },
+    {
+        "GroupId": 1014520000,
+        "AdditionalSkillGroupId": "CH0356Ex02",
+        "ShowSkillSlot": "Ex",
+        "DisplayIconBg": true
+    },
+    {
+        "GroupId": 1014320000,
+        "AdditionalSkillGroupId": "CH0355_01Ex02",
+        "ShowSkillSlot": "Ex",
+        "DisplayIconBg": true
     }
 ]

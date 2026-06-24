@@ -7851,6 +7851,396 @@
         ]
     },
     {
+        "Id": 1702,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_shanhaijing_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4070,
+            4071,
+            4072,
+            4073,
+            3070,
+            3071,
+            3072,
+            3073,
+            230,
+            231,
+            232,
+            233,
+            160,
+            161,
+            162,
+            163
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 1703,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_gehenna_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            100,
+            101,
+            102,
+            103,
+            140,
+            141,
+            142,
+            143
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 1704,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_millennium_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            250,
+            251,
+            252,
+            253,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 1705,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_trinity_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            130,
+            131,
+            132,
+            133,
+            120,
+            121,
+            122,
+            123
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 1706,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_favor_starup_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            23,
+            100008
+        ],
+        "ParcelAmount": [
+            1200,
+            50,
+            15
+        ]
+    },
+    {
+        "Id": 1707,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_archive_select_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            12000101
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 1708,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_shun_swimsuits_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            501000,
+            506000,
+            508000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
+        "Id": 1709,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_kisaki_swimsuits_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            502000,
+            506000,
+            509000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
         "Id": 5000,
         "ProductId": "com.yostarjp.bluearchive.aokiseki120",
         "StoreType": "AppStore",
@@ -15702,6 +16092,396 @@
         ]
     },
     {
+        "Id": 5702,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_shanhaijing_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4070,
+            4071,
+            4072,
+            4073,
+            3070,
+            3071,
+            3072,
+            3073,
+            230,
+            231,
+            232,
+            233,
+            160,
+            161,
+            162,
+            163
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 5703,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_gehenna_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            100,
+            101,
+            102,
+            103,
+            140,
+            141,
+            142,
+            143
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 5704,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_millennium_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            250,
+            251,
+            252,
+            253,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 5705,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_trinity_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            130,
+            131,
+            132,
+            133,
+            120,
+            121,
+            122,
+            123
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 5706,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_favor_starup_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            23,
+            100008
+        ],
+        "ParcelAmount": [
+            1200,
+            50,
+            15
+        ]
+    },
+    {
+        "Id": 5707,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_archive_select_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            12000101
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 5708,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_shun_swimsuits_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            501000,
+            506000,
+            508000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
+        "Id": 5709,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_kisaki_swimsuits_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            502000,
+            506000,
+            509000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
         "Id": 101000,
         "ProductId": "com.yostarjp.bluearchive.aokiseki120",
         "StoreType": "PaymentCenter",
@@ -18249,6 +19029,396 @@
         ]
     },
     {
+        "Id": 101702,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_shanhaijing_3000",
+        "StoreType": "PaymentCenter",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4070,
+            4071,
+            4072,
+            4073,
+            3070,
+            3071,
+            3072,
+            3073,
+            230,
+            231,
+            232,
+            233,
+            160,
+            161,
+            162,
+            163
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 101703,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_gehenna_3000",
+        "StoreType": "PaymentCenter",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            100,
+            101,
+            102,
+            103,
+            140,
+            141,
+            142,
+            143
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 101704,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_millennium_3000",
+        "StoreType": "PaymentCenter",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            250,
+            251,
+            252,
+            253,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 101705,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_trinity_3000",
+        "StoreType": "PaymentCenter",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            130,
+            131,
+            132,
+            133,
+            120,
+            121,
+            122,
+            123
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 101706,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_favor_starup_3000",
+        "StoreType": "PaymentCenter",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            23,
+            100008
+        ],
+        "ParcelAmount": [
+            1200,
+            50,
+            15
+        ]
+    },
+    {
+        "Id": 101707,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_archive_select_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            12000101
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 101708,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_shun_swimsuits_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            501000,
+            506000,
+            508000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
+        "Id": 101709,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_kisaki_swimsuits_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            502000,
+            506000,
+            509000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
         "Id": 105000,
         "ProductId": "com.yostarjp.bluearchive.aokiseki120",
         "StoreType": "PCStore",
@@ -18390,6 +19560,153 @@
         "ParcelAmount": [
             4000,
             800
+        ]
+    },
+    {
+        "Id": 105100,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit120",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            64,
+            40
+        ]
+    },
+    {
+        "Id": 105101,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit490",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            192,
+            120
+        ]
+    },
+    {
+        "Id": 105102,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit980",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            400,
+            255
+        ]
+    },
+    {
+        "Id": 105103,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit1480",
+        "StoreType": "PCStore",
+        "Price": 1500,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            600,
+            385
+        ]
+    },
+    {
+        "Id": 105104,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit2940",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            1200,
+            770
+        ]
+    },
+    {
+        "Id": 105105,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            1960,
+            1265
+        ]
+    },
+    {
+        "Id": 105106,
+        "ProductId": "com.yostarjp.bluearchive.aokisekilimit10000",
+        "StoreType": "PCStore",
+        "Price": 10000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            4000,
+            2600
         ]
     },
     {
@@ -18582,6 +19899,138 @@
         ]
     },
     {
+        "Id": 105500,
+        "ProductId": "com.yostarjp.bluearchive.packagebeginner120",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            13008,
+            10
+        ],
+        "ParcelAmount": [
+            64,
+            40,
+            20
+        ]
+    },
+    {
+        "Id": 105501,
+        "ProductId": "com.yostarjp.bluearchive.packagegrowth980",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            10,
+            11,
+            12,
+            150000
+        ],
+        "ParcelAmount": [
+            400,
+            28,
+            250000,
+            20,
+            15,
+            10,
+            10
+        ]
+    },
+    {
+        "Id": 105502,
+        "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1480",
+        "StoreType": "PCStore",
+        "Price": 1480,
+        "PriceReference": "",
+        "PurchasePeriodType": "Month",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            3,
+            90,
+            91,
+            92,
+            100000
+        ],
+        "ParcelAmount": [
+            592,
+            68,
+            10,
+            10,
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "Id": 105503,
+        "ProductId": "com.yostarjp.bluearchive.packagemonthlycraft1960",
+        "StoreType": "PCStore",
+        "Price": 1960,
+        "PriceReference": "",
+        "PurchasePeriodType": "Month",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            3,
+            90,
+            91,
+            92,
+            100001
+        ],
+        "ParcelAmount": [
+            784,
+            106,
+            10,
+            15,
+            10,
+            5,
+            1
+        ]
+    },
+    {
         "Id": 105504,
         "ProductId": "com.yostarjp.bluearchive.aokisekispecial120",
         "StoreType": "PCStore",
@@ -18600,6 +20049,666 @@
         "ParcelAmount": [
             64,
             466
+        ]
+    },
+    {
+        "Id": 105505,
+        "ProductId": "com.yostarjp.bluearchive.halfanniversarythreestar2940",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6000
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            1
+        ]
+    },
+    {
+        "Id": 105506,
+        "ProductId": "com.yostarjp.bluearchive.halfanniversary980",
+        "StoreType": "PCStore",
+        "Price": 980,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150000,
+            150001,
+            150008,
+            150009,
+            10,
+            1
+        ],
+        "ParcelAmount": [
+            392,
+            28,
+            50,
+            10,
+            70,
+            10,
+            150,
+            250000
+        ]
+    },
+    {
+        "Id": 105507,
+        "ProductId": "com.yostarjp.bluearchive.halfanniversary2940",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150001,
+            150002,
+            150009,
+            150010,
+            11,
+            1
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            40,
+            20,
+            40,
+            5,
+            100,
+            1000000
+        ]
+    },
+    {
+        "Id": 105508,
+        "ProductId": "com.yostarjp.bluearchive.halfanniversary4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150004,
+            150005,
+            150006,
+            150008,
+            150009,
+            150010,
+            12,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            30,
+            30,
+            12,
+            45,
+            35,
+            10,
+            50,
+            3000000
+        ]
+    },
+    {
+        "Id": 105509,
+        "ProductId": "com.yostarjp.bluearchive.packageweeklyequipment980",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150028,
+            150029,
+            1,
+            2
+        ],
+        "ParcelAmount": [
+            400,
+            100000,
+            25,
+            20,
+            30,
+            20
+        ]
+    },
+    {
+        "Id": 105510,
+        "ProductId": "com.yostarjp.bluearchive.packageweeklyequipment1960",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150028,
+            150029,
+            150030,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            20,
+            25,
+            30,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105511,
+        "ProductId": "com.yostarjp.bluearchive.1st980",
+        "StoreType": "PCStore",
+        "Price": 980,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150000,
+            150001,
+            150008,
+            150009,
+            10,
+            1
+        ],
+        "ParcelAmount": [
+            392,
+            28,
+            50,
+            10,
+            70,
+            10,
+            150,
+            250000
+        ]
+    },
+    {
+        "Id": 105512,
+        "ProductId": "com.yostarjp.bluearchive.1st2940",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150001,
+            150002,
+            150009,
+            150010,
+            11,
+            1
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            40,
+            20,
+            40,
+            5,
+            100,
+            1000000
+        ]
+    },
+    {
+        "Id": 105513,
+        "ProductId": "com.yostarjp.bluearchive.1st4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150004,
+            150005,
+            150006,
+            150008,
+            150009,
+            150010,
+            12,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            30,
+            30,
+            12,
+            45,
+            35,
+            10,
+            50,
+            3000000
+        ]
+    },
+    {
+        "Id": 105514,
+        "ProductId": "com.yostarjp.bluearchive.startdash1",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            11000000
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 105515,
+        "ProductId": "com.yostarjp.bluearchive.equipment1960.type.c",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150030,
+            150031,
+            1,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            35,
+            35,
+            50,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105516,
+        "ProductId": "com.yostarjp.bluearchive.equipment1960.type.d",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150031,
+            150032,
+            1,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            35,
+            35,
+            50,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105517,
+        "ProductId": "com.yostarjp.bluearchive.1.5threestars",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6100
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            1
+        ]
+    },
+    {
+        "Id": 105518,
+        "ProductId": "com.yostarjp.bluearchive.1.5threestars.select",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            12000000,
+            6500
+        ],
+        "ParcelAmount": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 105519,
+        "ProductId": "com.yostarjp.bluearchive.1.5anniverary980",
+        "StoreType": "PCStore",
+        "Price": 980,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150000,
+            150001,
+            150008,
+            150009,
+            10,
+            1
+        ],
+        "ParcelAmount": [
+            392,
+            28,
+            50,
+            10,
+            70,
+            10,
+            250,
+            400000
+        ]
+    },
+    {
+        "Id": 105520,
+        "ProductId": "com.yostarjp.bluearchive.1.5anniverary2940",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150001,
+            150002,
+            150009,
+            150010,
+            11,
+            1
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            40,
+            20,
+            40,
+            5,
+            150,
+            1500000
+        ]
+    },
+    {
+        "Id": 105521,
+        "ProductId": "com.yostarjp.bluearchive.1.5anniverary4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150004,
+            150005,
+            150006,
+            150008,
+            150009,
+            150010,
+            12,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            30,
+            30,
+            12,
+            45,
+            35,
+            10,
+            75,
+            5000000
+        ]
+    },
+    {
+        "Id": 105522,
+        "ProductId": "com.yostarjp.bluearchive.weapon2940",
+        "StoreType": "PCStore",
+        "Price": 2940,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            23,
+            43,
+            1
+        ],
+        "ParcelAmount": [
+            1176,
+            174,
+            50,
+            20,
+            8000000
+        ]
+    },
+    {
+        "Id": 105523,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            100,
+            60,
+            40,
+            20,
+            2500000
         ]
     },
     {
@@ -18678,6 +20787,1383 @@
         ]
     },
     {
+        "Id": 105526,
+        "ProductId": "com.yostarjp.bluearchive.trinity_a",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            160,
+            161,
+            162,
+            163,
+            200,
+            201,
+            202,
+            203
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105527,
+        "ProductId": "com.yostarjp.bluearchive.gehena_a",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            120,
+            121,
+            122,
+            123,
+            140,
+            141,
+            142,
+            143
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105528,
+        "ProductId": "com.yostarjp.bluearchive.millenium_a",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            170,
+            171,
+            172,
+            173,
+            100,
+            101,
+            102,
+            103
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105529,
+        "ProductId": "com.yostarjp.bluearchive.trinity_2",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            190,
+            191,
+            192,
+            193,
+            110,
+            111,
+            112,
+            113
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105530,
+        "ProductId": "com.yostarjp.bluearchive.gehena_2",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            180,
+            181,
+            182,
+            183,
+            210,
+            211,
+            212,
+            213
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105531,
+        "ProductId": "com.yostarjp.bluearchive.millenium_2",
+        "StoreType": "PCStore",
+        "Price": 8000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            150,
+            151,
+            152,
+            153,
+            130,
+            131,
+            132,
+            133
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            75,
+            75,
+            60,
+            30,
+            30,
+            30,
+            8,
+            150,
+            125,
+            100,
+            45,
+            150,
+            125,
+            100,
+            45
+        ]
+    },
+    {
+        "Id": 105532,
+        "ProductId": "com.yostarjp.bluearchive.newyear2022",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            1,
+            6101,
+            3,
+            12,
+            100008
+        ],
+        "ParcelAmount": [
+            5000000,
+            1,
+            150,
+            150,
+            15
+        ]
+    },
+    {
+        "Id": 105533,
+        "ProductId": "com.yostarjp.bluearchive.weapon_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            23,
+            43,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            50,
+            20,
+            8000000
+        ]
+    },
+    {
+        "Id": 105534,
+        "ProductId": "com.yostarjp.bluearchive.exskill_grow",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150005,
+            150006,
+            150007,
+            150009,
+            150010,
+            150011,
+            12,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            18,
+            30,
+            8,
+            25,
+            30,
+            8,
+            75,
+            6500000
+        ]
+    },
+    {
+        "Id": 105535,
+        "ProductId": "com.yostarjp.bluearchive.skill_grow",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150002,
+            150003,
+            150010,
+            150011,
+            12,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            35,
+            60,
+            65,
+            35,
+            75,
+            6500000
+        ]
+    },
+    {
+        "Id": 105536,
+        "ProductId": "com.yostarjp.bluearchive.ooparts_a",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150008,
+            150009,
+            1
+        ],
+        "ParcelAmount": [
+            400,
+            70,
+            10,
+            1000000
+        ]
+    },
+    {
+        "Id": 105537,
+        "ProductId": "com.yostarjp.bluearchive.ooparts_b",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150009,
+            150010,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            40,
+            5,
+            5000000
+        ]
+    },
+    {
+        "Id": 105538,
+        "ProductId": "com.yostarjp.bluearchive.ooparts_c",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150009,
+            150010,
+            150011,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            45,
+            35,
+            10,
+            10000000
+        ]
+    },
+    {
+        "Id": 105539,
+        "ProductId": "com.yostarjp.bluearchive.threestar_by_atktype",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6600
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105540,
+        "ProductId": "com.yostarjp.bluearchive.equipment1960.type.e",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150032,
+            150033,
+            1,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            35,
+            35,
+            50,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105541,
+        "ProductId": "com.yostarjp.bluearchive.furniture_package202305",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            150038,
+            150039,
+            150040
+        ],
+        "ParcelAmount": [
+            40,
+            10,
+            3
+        ]
+    },
+    {
+        "Id": 105542,
+        "ProductId": "com.yostarjp.bluearchive.trinity_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            160,
+            161,
+            162,
+            163,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105543,
+        "ProductId": "com.yostarjp.bluearchive.gehena_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            130,
+            131,
+            132,
+            133,
+            210,
+            211,
+            212,
+            213
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105544,
+        "ProductId": "com.yostarjp.bluearchive.millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            100,
+            101,
+            102,
+            103,
+            170,
+            171,
+            172,
+            173
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105545,
+        "ProductId": "com.yostarjp.bluearchive.hyakkiyako_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4000,
+            4001,
+            4002,
+            4003,
+            3000,
+            3001,
+            3002,
+            3003,
+            110,
+            111,
+            112,
+            113,
+            240,
+            241,
+            242,
+            243
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105546,
+        "ProductId": "com.yostarjp.bluearchive.2023gw_threestars",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6102
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105547,
+        "ProductId": "com.yostarjp.bluearchive.2.5threestars2",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6103
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105548,
+        "ProductId": "com.yostarjp.bluearchive.2.5threestars.select",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            12000001,
+            6503
+        ],
+        "ParcelAmount": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 105549,
+        "ProductId": "com.yostarjp.bluearchive.2.5creditpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            15000000
+        ]
+    },
+    {
+        "Id": 105550,
+        "ProductId": "com.yostarjp.bluearchive.2.5presentpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            100008,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105551,
+        "ProductId": "com.yostarjp.bluearchive.2.5packagegrowth4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            10,
+            11,
+            12,
+            13,
+            1,
+            2,
+            3,
+            4,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            120,
+            135,
+            150,
+            150,
+            120,
+            120,
+            300,
+            200,
+            100,
+            50,
+            150,
+            90,
+            45,
+            30,
+            10000000
+        ]
+    },
+    {
+        "Id": 105552,
+        "ProductId": "com.yostarjp.bluearchive.r61_skill_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150000,
+            150001,
+            150002,
+            150003,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            75,
+            65,
+            45,
+            35,
+            5000000
+        ]
+    },
+    {
+        "Id": 105553,
+        "ProductId": "com.yostarjp.bluearchive.r61_exskill_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150004,
+            150005,
+            150006,
+            150007,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            30,
+            30,
+            10,
+            6,
+            5000000
+        ]
+    },
+    {
+        "Id": 105554,
+        "ProductId": "com.yostarjp.bluearchive.r61_ooparts_a",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150008,
+            150009,
+            1
+        ],
+        "ParcelAmount": [
+            400,
+            70,
+            10,
+            1000000
+        ]
+    },
+    {
+        "Id": 105555,
+        "ProductId": "com.yostarjp.bluearchive.r61_ooparts_b",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150009,
+            150010,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            40,
+            5,
+            5000000
+        ]
+    },
+    {
+        "Id": 105556,
+        "ProductId": "com.yostarjp.bluearchive.r61_ooparts_c",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            150009,
+            150010,
+            150011,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            45,
+            35,
+            10,
+            10000000
+        ]
+    },
+    {
+        "Id": 105557,
+        "ProductId": "com.yostarjp.bluearchive.r61_furniture",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            150038,
+            150039,
+            150040
+        ],
+        "ParcelAmount": [
+            40,
+            10,
+            3
+        ]
+    },
+    {
+        "Id": 105558,
+        "ProductId": "com.yostarjp.bluearchive.r61_presentpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            100008,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105559,
+        "ProductId": "com.yostarjp.bluearchive.newyear2023",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            1,
+            6104,
+            3,
+            12,
+            100008
+        ],
+        "ParcelAmount": [
+            5000000,
+            1,
+            150,
+            150,
+            15
+        ]
+    },
+    {
         "Id": 105560,
         "ProductId": "com.yostarjp.bluearchive.startdash2",
         "StoreType": "PCStore",
@@ -18693,6 +22179,432 @@
         ],
         "ParcelAmount": [
             1
+        ]
+    },
+    {
+        "Id": 105561,
+        "ProductId": "com.yostarjp.bluearchive.equipment1960.type.f",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150033,
+            150041,
+            1,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            35,
+            35,
+            50,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105562,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage_lite",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            192,
+            600000,
+            100,
+            20,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105563,
+        "ProductId": "com.yostarjp.bluearchive.packagegrowth980_r64renew",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            10,
+            11,
+            12,
+            150000,
+            150001,
+            150008
+        ],
+        "ParcelAmount": [
+            400,
+            28,
+            600000,
+            100,
+            50,
+            15,
+            50,
+            10,
+            20
+        ]
+    },
+    {
+        "Id": 105564,
+        "ProductId": "com.yostarjp.bluearchive.3rdcraftpackage",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            80,
+            81,
+            82,
+            83,
+            90,
+            91,
+            92
+        ],
+        "ParcelAmount": [
+            1200,
+            20,
+            25,
+            25,
+            25,
+            2,
+            25,
+            20,
+            15
+        ]
+    },
+    {
+        "Id": 105565,
+        "ProductId": "com.yostarjp.bluearchive.3rdpackagegrowth4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            1,
+            10,
+            11,
+            12,
+            13,
+            1,
+            2,
+            3,
+            4,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033
+        ],
+        "ParcelAmount": [
+            1200,
+            10000000,
+            300,
+            200,
+            100,
+            50,
+            150,
+            90,
+            45,
+            30,
+            120,
+            135,
+            150,
+            150,
+            120,
+            120
+        ]
+    },
+    {
+        "Id": 105566,
+        "ProductId": "com.yostarjp.bluearchive.threestar_by_school",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6700
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105567,
+        "ProductId": "com.yostarjp.bluearchive.r64_skill_grow",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150002,
+            150003,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            35,
+            60,
+            65,
+            35,
+            75
+        ]
+    },
+    {
+        "Id": 105568,
+        "ProductId": "com.yostarjp.bluearchive.r64_exskill_grow",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150005,
+            150006,
+            150007,
+            150009,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            18,
+            30,
+            8,
+            25,
+            30,
+            8,
+            75
+        ]
+    },
+    {
+        "Id": 105569,
+        "ProductId": "com.yostarjp.bluearchive.r64_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105570,
+        "ProductId": "com.yostarjp.bluearchive.r64_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
+        ]
+    },
+    {
+        "Id": 105571,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage_r66renew",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            2500000,
+            200,
+            100,
+            55,
+            25
+        ]
+    },
+    {
+        "Id": 105572,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage_lite_r66renew",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            192,
+            600000,
+            150,
+            45,
+            10,
+            5
         ]
     },
     {
@@ -18762,6 +22674,702 @@
         ]
     },
     {
+        "Id": 105575,
+        "ProductId": "com.yostarjp.bluearchive.2024gw_threestars",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6105
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105576,
+        "ProductId": "com.yostarjp.bluearchive.2024gw_presentpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            5997,
+            100008
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105577,
+        "ProductId": "com.yostarjp.bluearchive.furniture_package2024gw",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            150038,
+            150039,
+            150040
+        ],
+        "ParcelAmount": [
+            40,
+            10,
+            3
+        ]
+    },
+    {
+        "Id": 105578,
+        "ProductId": "com.yostarjp.bluearchive.trinity_3000_2024gw",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            240,
+            241,
+            242,
+            243,
+            280,
+            281,
+            282,
+            283
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105579,
+        "ProductId": "com.yostarjp.bluearchive.gehena_3000_2024gw",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            130,
+            131,
+            132,
+            133,
+            290,
+            291,
+            292,
+            293
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105580,
+        "ProductId": "com.yostarjp.bluearchive.millennium_3000_2024gw",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            110,
+            111,
+            112,
+            113,
+            220,
+            221,
+            222,
+            223
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105581,
+        "ProductId": "com.yostarjp.bluearchive.hyakkiyako_3000_2024gw",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4000,
+            4001,
+            4002,
+            4003,
+            3000,
+            3001,
+            3002,
+            3003,
+            250,
+            251,
+            252,
+            253,
+            270,
+            271,
+            272,
+            273
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105582,
+        "ProductId": "com.yostarjp.bluearchive.2024gw_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105583,
+        "ProductId": "com.yostarjp.bluearchive.2024gw_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
+        ]
+    },
+    {
+        "Id": 105584,
+        "ProductId": "com.yostarjp.bluearchive.2024gw_equipmentgrowth",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ParcelAmount": [
+            1200,
+            10000000,
+            250,
+            100,
+            75,
+            40
+        ]
+    },
+    {
+        "Id": 105585,
+        "ProductId": "com.yostarjp.bluearchive.3.5threestars",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6106
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105586,
+        "ProductId": "com.yostarjp.bluearchive.3.5threestars.select",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            12000002,
+            6800
+        ],
+        "ParcelAmount": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 105587,
+        "ProductId": "com.yostarjp.bluearchive.3.5presentpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            100008,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105588,
+        "ProductId": "com.yostarjp.bluearchive.3.5creditpackage",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            20000000
+        ]
+    },
+    {
+        "Id": 105589,
+        "ProductId": "com.yostarjp.bluearchive.3.5packagegrowth4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            1,
+            10,
+            11,
+            12,
+            13,
+            1,
+            2,
+            3,
+            4,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033
+        ],
+        "ParcelAmount": [
+            1200,
+            10000000,
+            300,
+            200,
+            100,
+            50,
+            150,
+            90,
+            45,
+            30,
+            120,
+            135,
+            150,
+            150,
+            120,
+            120
+        ]
+    },
+    {
+        "Id": 105590,
+        "ProductId": "com.yostarjp.bluearchive.r70_skill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150002,
+            150003,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            35,
+            60,
+            65,
+            35,
+            75
+        ]
+    },
+    {
+        "Id": 105591,
+        "ProductId": "com.yostarjp.bluearchive.r70_exskill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150005,
+            150006,
+            150007,
+            150009,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            18,
+            30,
+            8,
+            25,
+            30,
+            8,
+            75
+        ]
+    },
+    {
+        "Id": 105592,
+        "ProductId": "com.yostarjp.bluearchive.r70_skill_grow_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            150000,
+            150001,
+            150002
+        ],
+        "ParcelAmount": [
+            192,
+            25,
+            25,
+            15
+        ]
+    },
+    {
+        "Id": 105593,
+        "ProductId": "com.yostarjp.bluearchive.r70_exskill_grow_1000",
+        "StoreType": "PCStore",
+        "Price": 1000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150004,
+            150005
+        ],
+        "ParcelAmount": [
+            400,
+            2500000,
+            30,
+            15
+        ]
+    },
+    {
         "Id": 105594,
         "ProductId": "com.yostarjp.bluearchive.star1furniture_160",
         "StoreType": "PCStore",
@@ -18780,6 +23388,42 @@
         "ParcelAmount": [
             64,
             10
+        ]
+    },
+    {
+        "Id": 105595,
+        "ProductId": "com.yostarjp.bluearchive.r70_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105596,
+        "ProductId": "com.yostarjp.bluearchive.r70_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
         ]
     },
     {
@@ -18891,6 +23535,1155 @@
         ]
     },
     {
+        "Id": 105601,
+        "ProductId": "com.yostarjp.bluearchive.r73_craftpackage",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            80,
+            81,
+            82,
+            83,
+            90,
+            91,
+            92
+        ],
+        "ParcelAmount": [
+            1200,
+            20,
+            25,
+            25,
+            25,
+            2,
+            25,
+            20,
+            15
+        ]
+    },
+    {
+        "Id": 105602,
+        "ProductId": "com.yostarjp.bluearchive.r73_trinity_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            150,
+            151,
+            152,
+            153,
+            260,
+            261,
+            262,
+            263
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105603,
+        "ProductId": "com.yostarjp.bluearchive.r73_gehenna_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            140,
+            141,
+            142,
+            143,
+            250,
+            251,
+            252,
+            253
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105604,
+        "ProductId": "com.yostarjp.bluearchive.r73_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            200,
+            201,
+            202,
+            203,
+            280,
+            281,
+            282,
+            283
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105605,
+        "ProductId": "com.yostarjp.bluearchive.r73_hyakkiyako_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4000,
+            4001,
+            4002,
+            4003,
+            3000,
+            3001,
+            3002,
+            3003,
+            180,
+            181,
+            182,
+            183,
+            230,
+            231,
+            232,
+            233
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105606,
+        "ProductId": "com.yostarjp.bluearchive.r73_weapon_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            23,
+            43,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            50,
+            20,
+            8000000
+        ]
+    },
+    {
+        "Id": 105607,
+        "ProductId": "com.yostarjp.bluearchive.r73_equipmentgrowth",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            40,
+            45,
+            50,
+            55,
+            55,
+            40,
+            40
+        ]
+    },
+    {
+        "Id": 105608,
+        "ProductId": "com.yostarjp.bluearchive.r75_newyear2024",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            1,
+            6107,
+            3,
+            12,
+            100008
+        ],
+        "ParcelAmount": [
+            5000000,
+            1,
+            200,
+            200,
+            15
+        ]
+    },
+    {
+        "Id": 105609,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_report_package_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            500,
+            250,
+            175,
+            75
+        ]
+    },
+    {
+        "Id": 105610,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_creditpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            20000000
+        ]
+    },
+    {
+        "Id": 105611,
+        "ProductId": "com.yostarjp.bluearchive.r76_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            40,
+            45,
+            50,
+            55,
+            55,
+            40,
+            40
+        ]
+    },
+    {
+        "Id": 105612,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            100008,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105613,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_threestar_by_atktype_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6801,
+            8100
+        ],
+        "ParcelAmount": [
+            1200,
+            55,
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 105614,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_skill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150002,
+            150003,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            35,
+            60,
+            65,
+            35,
+            75
+        ]
+    },
+    {
+        "Id": 105615,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_exskill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150005,
+            150006,
+            150007,
+            150009,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            18,
+            30,
+            8,
+            25,
+            30,
+            8,
+            75
+        ]
+    },
+    {
+        "Id": 105616,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105617,
+        "ProductId": "com.yostarjp.bluearchive.r76_4th_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
+        ]
+    },
+    {
+        "Id": 105618,
+        "ProductId": "com.yostarjp.bluearchive.equipment1960.type.g",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            150041,
+            150045,
+            1,
+            2,
+            3
+        ],
+        "ParcelAmount": [
+            800,
+            300000,
+            35,
+            35,
+            50,
+            40,
+            30
+        ]
+    },
+    {
+        "Id": 105619,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_threestars",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6108
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105620,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            5997,
+            100008
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105621,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_furniture_package_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            150038,
+            150039,
+            150040
+        ],
+        "ParcelAmount": [
+            40,
+            10,
+            3
+        ]
+    },
+    {
+        "Id": 105622,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_trinity_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            290,
+            291,
+            292,
+            293,
+            260,
+            261,
+            262,
+            263
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105623,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_gehenna_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            240,
+            241,
+            242,
+            243,
+            270,
+            271,
+            272,
+            273
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105624,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            120,
+            121,
+            122,
+            123,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105625,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_highlander_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4090,
+            4091,
+            4092,
+            4093,
+            3090,
+            3091,
+            3092,
+            3093,
+            130,
+            131,
+            132,
+            133,
+            250,
+            251,
+            252,
+            253
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105626,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105627,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
+        ]
+    },
+    {
+        "Id": 105628,
+        "ProductId": "com.yostarjp.bluearchive.r79_2025gw_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041,
+            150045
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            15,
+            20,
+            30,
+            35,
+            40,
+            40,
+            40,
+            50
+        ]
+    },
+    {
+        "Id": 105629,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5threestars_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6109
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
         "Id": 105630,
         "ProductId": "com.yostarjp.bluearchive.r82_4.5threestars.select_3000",
         "StoreType": "PCStore",
@@ -18909,6 +24702,294 @@
         "ParcelAmount": [
             1,
             1
+        ]
+    },
+    {
+        "Id": 105631,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            5997,
+            100008
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105632,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_report_package_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            500,
+            250,
+            175,
+            75
+        ]
+    },
+    {
+        "Id": 105633,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_creditpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            20000000
+        ]
+    },
+    {
+        "Id": 105634,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041,
+            150045
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            15,
+            20,
+            30,
+            35,
+            40,
+            40,
+            40,
+            50
+        ]
+    },
+    {
+        "Id": 105635,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_skill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150002,
+            150003,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            35,
+            60,
+            65,
+            35,
+            75
+        ]
+    },
+    {
+        "Id": 105636,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_exskill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            1,
+            150005,
+            150006,
+            150007,
+            150009,
+            150010,
+            150011,
+            12
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            6500000,
+            18,
+            30,
+            8,
+            25,
+            30,
+            8,
+            75
+        ]
+    },
+    {
+        "Id": 105637,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_limitedthreestars_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            8200
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 105638,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage_r82renew",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            2500000,
+            300,
+            150,
+            55,
+            25
+        ]
+    },
+    {
+        "Id": 105639,
+        "ProductId": "com.yostarjp.bluearchive.weeklyreportpackage_lite_r82renew",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "Week",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            1,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            192,
+            600000,
+            200,
+            50,
+            10,
+            5
         ]
     },
     {
@@ -19062,6 +25143,513 @@
         ]
     },
     {
+        "Id": 105669,
+        "ProductId": "com.yostarjp.bluearchive.r83_202508_wildhunt_3000_2",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4100,
+            4101,
+            4102,
+            4103,
+            3100,
+            3101,
+            3102,
+            3103,
+            150,
+            151,
+            152,
+            153,
+            270,
+            271,
+            272,
+            273
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105670,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_threestars",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            6110
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            1
+        ]
+    },
+    {
+        "Id": 105671,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            5997,
+            100008
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105672,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_trinity_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            170,
+            171,
+            172,
+            173,
+            210,
+            211,
+            212,
+            213
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105673,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_gehenna_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            240,
+            241,
+            242,
+            243,
+            180,
+            181,
+            182,
+            183
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105674,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            190,
+            191,
+            192,
+            193,
+            230,
+            231,
+            232,
+            233
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105646,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_wildhunt_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4100,
+            4101,
+            4102,
+            4103,
+            3100,
+            3101,
+            3102,
+            3103,
+            100,
+            101,
+            102,
+            103,
+            220,
+            221,
+            222,
+            223
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105647,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105648,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
+        ]
+    },
+    {
+        "Id": 105649,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041,
+            150045
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            15,
+            20,
+            30,
+            35,
+            40,
+            40,
+            40,
+            50
+        ]
+    },
+    {
+        "Id": 105650,
+        "ProductId": "com.yostarjp.bluearchive.r85_202510_weapon_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            23,
+            43,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            50,
+            20,
+            8000000
+        ]
+    },
+    {
+        "Id": 105651,
+        "ProductId": "com.yostarjp.bluearchive.r86_202511_archive_select",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            12000100
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
         "Id": 105653,
         "ProductId": "com.yostarjp.bluearchive.r87_newyear2025",
         "StoreType": "PCStore",
@@ -19089,6 +25677,345 @@
             200,
             200,
             15
+        ]
+    },
+    {
+        "Id": 105654,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_report_package_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            500,
+            250,
+            175,
+            75
+        ]
+    },
+    {
+        "Id": 105655,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_creditpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            20000000
+        ]
+    },
+    {
+        "Id": 105656,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041,
+            150045
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            15,
+            20,
+            30,
+            35,
+            40,
+            40,
+            40,
+            50
+        ]
+    },
+    {
+        "Id": 105657,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            5997,
+            100008
+        ],
+        "ParcelAmount": [
+            800,
+            5,
+            5
+        ]
+    },
+    {
+        "Id": 105658,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_skill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150000,
+            150001,
+            150002,
+            150003,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            75,
+            75,
+            75,
+            60,
+            10000000
+        ]
+    },
+    {
+        "Id": 105659,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_exskill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150004,
+            150005,
+            150006,
+            150007,
+            1
+        ],
+        "ParcelAmount": [
+            1960,
+            340,
+            30,
+            30,
+            30,
+            8,
+            10000000
+        ]
+    },
+    {
+        "Id": 105660,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_wbselect_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            150047,
+            150008,
+            150009
+        ],
+        "ParcelAmount": [
+            1960,
+            70,
+            75,
+            25
+        ]
+    },
+    {
+        "Id": 105661,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_threestar_explosive_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            8300
+        ],
+        "ParcelAmount": [
+            800,
+            1
+        ]
+    },
+    {
+        "Id": 105662,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_threestar_penetration_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            8301
+        ],
+        "ParcelAmount": [
+            800,
+            1
+        ]
+    },
+    {
+        "Id": 105663,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_threestar_mystic_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            8302
+        ],
+        "ParcelAmount": [
+            800,
+            1
+        ]
+    },
+    {
+        "Id": 105664,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_threestar_sonic_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            8303
+        ],
+        "ParcelAmount": [
+            800,
+            1
+        ]
+    },
+    {
+        "Id": 105665,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_ap_160",
+        "StoreType": "PCStore",
+        "Price": 160,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            280
+        ]
+    },
+    {
+        "Id": 105666,
+        "ProductId": "com.yostarjp.bluearchive.r88_5th_ap_480",
+        "StoreType": "PCStore",
+        "Price": 480,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            5
+        ],
+        "ParcelAmount": [
+            900
         ]
     },
     {
@@ -19164,6 +26091,102 @@
             10,
             5,
             1
+        ]
+    },
+    {
+        "Id": 105676,
+        "ProductId": "com.yostarjp.bluearchive.r89_202602_weapon_grow",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            23,
+            43,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            50,
+            20,
+            8000000
+        ]
+    },
+    {
+        "Id": 105677,
+        "ProductId": "com.yostarjp.bluearchive.r89_202602_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            190,
+            191,
+            192,
+            193,
+            290,
+            291,
+            292,
+            293
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
         ]
     },
     {
@@ -19920,6 +26943,720 @@
             15000000,
             50,
             20
+        ]
+    },
+    {
+        "Id": 105695,
+        "ProductId": "com.yostarjp.bluearchive.r89_202602_equipmentgrowth_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            3,
+            150028,
+            150029,
+            150030,
+            150031,
+            150032,
+            150033,
+            150041,
+            150045
+        ],
+        "ParcelAmount": [
+            1200,
+            175,
+            15,
+            20,
+            30,
+            35,
+            40,
+            40,
+            40,
+            50
+        ]
+    },
+    {
+        "Id": 105696,
+        "ProductId": "com.yostarjp.bluearchive.r89_202602_report_package_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            500,
+            250,
+            175,
+            75
+        ]
+    },
+    {
+        "Id": 105697,
+        "ProductId": "com.yostarjp.bluearchive.r90_202603_report_package_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            10,
+            11,
+            12,
+            13
+        ],
+        "ParcelAmount": [
+            800,
+            500,
+            250,
+            175,
+            75
+        ]
+    },
+    {
+        "Id": 105698,
+        "ProductId": "com.yostarjp.bluearchive.r90_202603_creditpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            1
+        ],
+        "ParcelAmount": [
+            800,
+            20000000
+        ]
+    },
+    {
+        "Id": 105699,
+        "ProductId": "com.yostarjp.bluearchive.r90_202603_valkyrie_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4080,
+            4081,
+            4082,
+            4083,
+            3080,
+            3081,
+            3082,
+            3083,
+            120,
+            121,
+            122,
+            123,
+            260,
+            261,
+            262,
+            263
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105700,
+        "ProductId": "com.yostarjp.bluearchive.r90_202603_wildhunt_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4100,
+            4101,
+            4102,
+            4103,
+            3100,
+            3101,
+            3102,
+            3103,
+            100,
+            101,
+            102,
+            103,
+            250,
+            251,
+            252,
+            253
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105701,
+        "ProductId": "com.yostarjp.bluearchive.r90_202603_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            110,
+            111,
+            112,
+            113,
+            290,
+            291,
+            292,
+            293
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105702,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_shanhaijing_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4070,
+            4071,
+            4072,
+            4073,
+            3070,
+            3071,
+            3072,
+            3073,
+            230,
+            231,
+            232,
+            233,
+            160,
+            161,
+            162,
+            163
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105703,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_gehenna_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4030,
+            4031,
+            4032,
+            4033,
+            3030,
+            3031,
+            3032,
+            3033,
+            100,
+            101,
+            102,
+            103,
+            140,
+            141,
+            142,
+            143
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105704,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_millennium_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4050,
+            4051,
+            4052,
+            4053,
+            3050,
+            3051,
+            3052,
+            3053,
+            250,
+            251,
+            252,
+            253,
+            190,
+            191,
+            192,
+            193
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105705,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_trinity_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            3,
+            4020,
+            4021,
+            4022,
+            4023,
+            3020,
+            3021,
+            3022,
+            3023,
+            130,
+            131,
+            132,
+            133,
+            120,
+            121,
+            122,
+            123
+        ],
+        "ParcelAmount": [
+            400,
+            30,
+            30,
+            30,
+            20,
+            12,
+            12,
+            12,
+            3,
+            55,
+            45,
+            40,
+            15,
+            55,
+            45,
+            40,
+            15
+        ]
+    },
+    {
+        "Id": 105706,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_favor_starup_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 3,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            23,
+            100008
+        ],
+        "ParcelAmount": [
+            1200,
+            50,
+            15
+        ]
+    },
+    {
+        "Id": 105707,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_archive_select_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            12000101
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 105708,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_shun_swimsuits_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            501000,
+            506000,
+            508000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
+        ]
+    },
+    {
+        "Id": 105709,
+        "ProductId": "com.yostarjp.bluearchive.r93_202606_support_kisaki_swimsuits_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            12,
+            13,
+            3,
+            4,
+            502000,
+            506000,
+            509000,
+            1
+        ],
+        "ParcelAmount": [
+            1200,
+            225,
+            80,
+            215,
+            75,
+            8175,
+            8175,
+            8175,
+            15000000
         ]
     },
     {

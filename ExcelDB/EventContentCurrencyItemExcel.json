@@ -1596,6 +1596,36 @@
         "UseShortCutContentType": "Shop"
     },
     {
+        "EventContentId": 859,
+        "EventContentItemType": "EventToken1",
+        "ItemUniqueId": 80840,
+        "UseShortCutContentType": "CardShop"
+    },
+    {
+        "EventContentId": 859,
+        "EventContentItemType": "EventToken2",
+        "ItemUniqueId": 80841,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 859,
+        "EventContentItemType": "EventToken3",
+        "ItemUniqueId": 80842,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 859,
+        "EventContentItemType": "EventToken4",
+        "ItemUniqueId": 80843,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 60019,
+        "EventContentItemType": "EventToken1",
+        "ItemUniqueId": 80850,
+        "UseShortCutContentType": "Shop"
+    },
+    {
         "EventContentId": 80000,
         "EventContentItemType": "EventToken1",
         "ItemUniqueId": 80560,
@@ -2673,6 +2703,30 @@
         "EventContentId": 10847,
         "EventContentItemType": "EventToken4",
         "ItemUniqueId": 85403,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 10846,
+        "EventContentItemType": "EventToken1",
+        "ItemUniqueId": 85410,
+        "UseShortCutContentType": "MiniGameRoad"
+    },
+    {
+        "EventContentId": 10846,
+        "EventContentItemType": "EventToken2",
+        "ItemUniqueId": 85411,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 10846,
+        "EventContentItemType": "EventToken3",
+        "ItemUniqueId": 85412,
+        "UseShortCutContentType": "Shop"
+    },
+    {
+        "EventContentId": 10846,
+        "EventContentItemType": "EventToken4",
+        "ItemUniqueId": 85413,
         "UseShortCutContentType": "Shop"
     },
     {

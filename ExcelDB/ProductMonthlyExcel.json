@@ -978,6 +978,84 @@
         ]
     },
     {
+        "Id": 100500,
+        "ProductId": "com.yostarjp.bluearchive.monthlypass980",
+        "StoreType": "PCStore",
+        "Price": 980,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            392
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            9,
+            12,
+            13
+        ],
+        "DailyParcelAmount": [
+            40,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "Id": 100501,
+        "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
+        "StoreType": "PCStore",
+        "Price": 490,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            196
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            9,
+            12,
+            13
+        ],
+        "DailyParcelAmount": [
+            20,
+            1,
+            1,
+            1
+        ]
+    },
+    {
         "Id": 100502,
         "ProductId": "com.yostarjp.bluearchive.twoweekappass490",
         "StoreType": "PCStore",
@@ -1077,6 +1155,66 @@
             20,
             3,
             3
+        ]
+    },
+    {
+        "Id": 100505,
+        "ProductId": "com.yostarjp.bluearchive.3.5_daily_ap130",
+        "StoreType": "PCStore",
+        "Price": 260,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            104
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            130
+        ]
+    },
+    {
+        "Id": 100506,
+        "ProductId": "com.yostarjp.bluearchive.r82_4.5_daily_ap160_320",
+        "StoreType": "PCStore",
+        "Price": 320,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            128
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            160
         ]
     },
     {

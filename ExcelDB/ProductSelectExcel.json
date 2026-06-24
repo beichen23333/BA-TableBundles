@@ -184,6 +184,52 @@
         ]
     },
     {
+        "Id": 105652,
+        "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
+        "ProductId": "com.yostarjp.bluearchive.r86_202511_eleph_select_normal",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            6803
+        ],
+        "ParcelAmount": [
+            1
+        ],
+        "ProductSelectionSlot": [
+            1000
+        ]
+    },
+    {
+        "Id": 105678,
+        "ProductSelectSubType": "Select",
+        "AutoSelectPopupType": "None_",
+        "ProductId": "com.yostarjp.bluearchive.r89_202602_eleph_select_normal_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item"
+        ],
+        "ParcelId": [
+            6804
+        ],
+        "ParcelAmount": [
+            1
+        ],
+        "ProductSelectionSlot": [
+            1001
+        ]
+    },
+    {
         "Id": 105683,
         "ProductSelectSubType": "AutoSelect",
         "AutoSelectPopupType": "FavorItem",

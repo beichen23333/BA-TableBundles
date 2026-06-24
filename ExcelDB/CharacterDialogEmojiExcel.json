@@ -5174,7 +5174,7 @@
         "Duration": 0,
         "DurationAdd": 1000,
         "HideUI": false,
-        "LocalizeKR": "수집한 예언자의\n코어를, 여기에서\n분석하도록 할게.",
+        "LocalizeKR": "예언자의 코어는,\n여기에서\n분석하도록 할게.",
         "LocalizeJP": "預言者の\nコアは、ここで\n分析しましょう。",
         "VoiceId": [
             2790149723
@@ -7750,7 +7750,7 @@
         "Duration": 0,
         "DurationAdd": 1000,
         "HideUI": false,
-        "LocalizeKR": "현실이란 건,\n가끔 망겜이라니까……",
+        "LocalizeKR": "현실이란 건,\n망겜이라니까……",
         "LocalizeJP": "現実が詰みゲー\nだよぉ……。",
         "VoiceId": [
             1777709450
