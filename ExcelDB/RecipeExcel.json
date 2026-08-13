@@ -23304,6 +23304,16 @@
         "ResultAmountMax": []
     },
     {
+        "Id": 10091400,
+        "RecipeType": "EquipmentTierUp",
+        "RecipeIngredientId": 10091400,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
         "Id": 10092000,
         "RecipeType": "CharacterTranscendence",
         "RecipeIngredientId": 10092000,
@@ -23697,6 +23707,16 @@
         "Id": 10093303,
         "RecipeType": "WeaponTranscendence",
         "RecipeIngredientId": 10093303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10093400,
+        "RecipeType": "EquipmentTierUp",
+        "RecipeIngredientId": 10093400,
         "RecipeSelectionGroupId": 0,
         "ParcelType": [],
         "ParcelId": [],
@@ -32104,6 +32124,406 @@
         "ResultAmountMax": []
     },
     {
+        "Id": 10137000,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10137000,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137001,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10137001,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137002,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10137002,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137003,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10137003,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137100,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137100,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137101,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137101,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137102,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137102,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137103,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137103,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137200,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137200,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137201,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137201,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137202,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137202,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137203,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137203,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137204,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137204,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137205,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137205,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137206,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137206,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137207,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10137207,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137300,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10137300,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137301,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10137301,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137302,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10137302,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10137303,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10137303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138000,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10138000,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138001,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10138001,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138002,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10138002,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138003,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 10138003,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138100,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138100,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138101,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138101,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138102,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138102,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138103,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138103,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138200,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138200,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138201,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138201,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138202,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138202,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138203,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138203,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138204,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138204,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138205,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138205,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138206,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138206,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138207,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 10138207,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138300,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10138300,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138301,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10138301,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138302,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10138302,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 10138303,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 10138303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
         "Id": 13000000,
         "RecipeType": "CharacterTranscendence",
         "RecipeIngredientId": 13000000,
@@ -35577,6 +35997,16 @@
         "Id": 16001303,
         "RecipeType": "WeaponTranscendence",
         "RecipeIngredientId": 16001303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 16001400,
+        "RecipeType": "EquipmentTierUp",
+        "RecipeIngredientId": 16001400,
         "RecipeSelectionGroupId": 0,
         "ParcelType": [],
         "ParcelId": [],
@@ -43094,6 +43524,16 @@
         "ResultAmountMax": []
     },
     {
+        "Id": 20018400,
+        "RecipeType": "EquipmentTierUp",
+        "RecipeIngredientId": 20018400,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
         "Id": 20019000,
         "RecipeType": "CharacterTranscendence",
         "RecipeIngredientId": 20019000,
@@ -50307,6 +50747,406 @@
         "Id": 20055303,
         "RecipeType": "WeaponTranscendence",
         "RecipeIngredientId": 20055303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056000,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20056000,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056001,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20056001,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056002,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20056002,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056003,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20056003,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056100,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056100,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056101,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056101,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056102,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056102,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056103,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056103,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056200,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056200,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056201,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056201,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056202,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056202,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056203,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056203,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056204,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056204,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056205,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056205,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056206,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056206,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056207,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20056207,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056300,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20056300,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056301,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20056301,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056302,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20056302,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20056303,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20056303,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057000,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20057000,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057001,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20057001,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057002,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20057002,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057003,
+        "RecipeType": "CharacterTranscendence",
+        "RecipeIngredientId": 20057003,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057100,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057100,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057101,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057101,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057102,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057102,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057103,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057103,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057200,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057200,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057201,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057201,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057202,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057202,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057203,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057203,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057204,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057204,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057205,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057205,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057206,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057206,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057207,
+        "RecipeType": "SkillLevelUp",
+        "RecipeIngredientId": 20057207,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057300,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20057300,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057301,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20057301,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057302,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20057302,
+        "RecipeSelectionGroupId": 0,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ResultAmountMin": [],
+        "ResultAmountMax": []
+    },
+    {
+        "Id": 20057303,
+        "RecipeType": "WeaponTranscendence",
+        "RecipeIngredientId": 20057303,
         "RecipeSelectionGroupId": 0,
         "ParcelType": [],
         "ParcelId": [],
