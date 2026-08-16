@@ -1,798 +1,201 @@
 [
-    {
-        "Level": 2,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 3,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 4,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 5,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 6,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 7,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 8,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 9,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 10,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 11,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 12,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 13,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 14,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 15,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 16,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 17,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 18,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 19,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 20,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 21,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 22,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 23,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 24,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 25,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 26,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 27,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 28,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 29,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 30,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 31,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 32,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 33,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 34,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 35,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 36,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 37,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 38,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 39,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 40,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 41,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 42,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 43,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 44,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 45,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 46,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 47,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 48,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 49,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 50,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 51,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 52,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 53,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 54,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 55,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 56,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 57,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 58,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 59,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 60,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 61,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 62,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 63,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 64,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 65,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 66,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 67,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 68,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 69,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 70,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 71,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 72,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 73,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 74,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 75,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 76,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 77,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 78,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 79,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 80,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 81,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 82,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 83,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 84,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 85,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 86,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 87,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 88,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 89,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 90,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 91,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 92,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 93,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 94,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 95,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 96,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 97,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 98,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 99,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 100,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 101,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 102,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 103,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 104,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 105,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 106,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 107,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 108,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 109,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 110,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 111,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 112,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 113,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 114,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 115,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 116,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 117,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 118,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 119,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 120,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 121,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 122,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 123,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 124,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 125,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 126,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 127,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 128,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 129,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 130,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 131,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 132,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 133,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 134,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 135,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 136,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 137,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 138,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 139,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 140,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 141,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 142,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 143,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 144,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 145,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 146,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 147,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 148,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 149,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 150,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 151,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 152,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 153,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 154,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 155,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 156,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 157,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 158,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 159,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 160,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 161,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 162,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 163,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 164,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 165,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 166,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 167,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 168,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 169,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 170,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 171,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 172,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 173,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 174,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 175,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 176,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 177,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 178,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 179,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 180,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 181,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 182,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 183,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 184,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 185,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 186,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 187,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 188,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 189,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 190,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 191,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 192,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 193,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 194,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 195,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 196,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 197,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 198,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 199,
-        "StatTypeIndexLength": 16
-    },
-    {
-        "Level": 200,
-        "StatTypeIndexLength": 16
-    }
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
 ]

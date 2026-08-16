@@ -1,42 +1,10 @@
 [
-    {
-        "EventContentId": 836,
-        "EndingId": 100,
-        "LocalizeEtcId": 2268915105,
-        "DreamMakerEndingRewardType": "FirstEndingReward",
-        "DreamMakerEndingType": "Special",
-        "RewardParcelTypeLength": 116,
-        "RewardParcelIdLength": 80,
-        "RewardParcelAmountLength": 44
-    },
-    {
-        "EventContentId": 836,
-        "EndingId": 200,
-        "LocalizeEtcId": 2489425889,
-        "DreamMakerEndingRewardType": "FirstEndingReward",
-        "DreamMakerEndingType": "Normal",
-        "RewardParcelTypeLength": 116,
-        "RewardParcelIdLength": 80,
-        "RewardParcelAmountLength": 44
-    },
-    {
-        "EventContentId": 836,
-        "EndingId": 100,
-        "LocalizeEtcId": 2105554898,
-        "DreamMakerEndingRewardType": "LoopEndingReward",
-        "DreamMakerEndingType": "Special",
-        "RewardParcelTypeLength": 96,
-        "RewardParcelIdLength": 72,
-        "RewardParcelAmountLength": 44
-    },
-    {
-        "EventContentId": 836,
-        "EndingId": 200,
-        "LocalizeEtcId": 575508963,
-        "DreamMakerEndingRewardType": "LoopEndingReward",
-        "DreamMakerEndingType": "Normal",
-        "RewardParcelTypeLength": 96,
-        "RewardParcelIdLength": 72,
-        "RewardParcelAmountLength": 44
-    }
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
 ]
