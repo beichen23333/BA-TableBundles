@@ -2,7 +2,7 @@
     {
         "DragSensitivity": 5891.774920000001,
         "ScrollWheelFactor": 5875.48116,
-        "RemoveKeycodeWord": "Left|Right|Alpha",
+        "RemoveKeycodeWord": "Alpha",
         "TutorialDialogTouchKey": "UI_KeyMapping_All_TouchScreen"
     }
 ]
