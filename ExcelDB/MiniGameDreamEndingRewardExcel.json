@@ -1,10 +1,190 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "EventContentId": 836,
+        "EndingId": 100,
+        "LocalizeEtcId": 2268915105,
+        "DreamMakerEndingRewardType": "FirstEndingReward",
+        "DreamMakerEndingType": "Special",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015,
+            0
+        ],
+        "RewardParcelAmount": [
+            7500000,
+            0,
+            30,
+            0
+        ]
+    },
+    {
+        "EventContentId": 836,
+        "EndingId": 200,
+        "LocalizeEtcId": 2489425889,
+        "DreamMakerEndingRewardType": "FirstEndingReward",
+        "DreamMakerEndingType": "Normal",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015,
+            0
+        ],
+        "RewardParcelAmount": [
+            5000000,
+            0,
+            15,
+            0
+        ]
+    },
+    {
+        "EventContentId": 836,
+        "EndingId": 100,
+        "LocalizeEtcId": 2105554898,
+        "DreamMakerEndingRewardType": "LoopEndingReward",
+        "DreamMakerEndingType": "Special",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015
+        ],
+        "RewardParcelAmount": [
+            750000,
+            0,
+            5
+        ]
+    },
+    {
+        "EventContentId": 836,
+        "EndingId": 200,
+        "LocalizeEtcId": 575508963,
+        "DreamMakerEndingRewardType": "LoopEndingReward",
+        "DreamMakerEndingType": "Normal",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015
+        ],
+        "RewardParcelAmount": [
+            500000,
+            0,
+            5
+        ]
+    },
+    {
+        "EventContentId": 10836,
+        "EndingId": 10100,
+        "LocalizeEtcId": 2268915105,
+        "DreamMakerEndingRewardType": "FirstEndingReward",
+        "DreamMakerEndingType": "Special",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015,
+            0
+        ],
+        "RewardParcelAmount": [
+            7500000,
+            0,
+            30,
+            0
+        ]
+    },
+    {
+        "EventContentId": 10836,
+        "EndingId": 10200,
+        "LocalizeEtcId": 2489425889,
+        "DreamMakerEndingRewardType": "FirstEndingReward",
+        "DreamMakerEndingType": "Normal",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015,
+            0
+        ],
+        "RewardParcelAmount": [
+            5000000,
+            0,
+            15,
+            0
+        ]
+    },
+    {
+        "EventContentId": 10836,
+        "EndingId": 10100,
+        "LocalizeEtcId": 2105554898,
+        "DreamMakerEndingRewardType": "LoopEndingReward",
+        "DreamMakerEndingType": "Special",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015
+        ],
+        "RewardParcelAmount": [
+            750000,
+            0,
+            5
+        ]
+    },
+    {
+        "EventContentId": 10836,
+        "EndingId": 10200,
+        "LocalizeEtcId": 575508963,
+        "DreamMakerEndingRewardType": "LoopEndingReward",
+        "DreamMakerEndingType": "Normal",
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "RewardParcelId": [
+            1,
+            0,
+            16015
+        ],
+        "RewardParcelAmount": [
+            500000,
+            0,
+            5
+        ]
+    }
 ]

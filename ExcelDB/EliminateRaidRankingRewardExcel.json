@@ -1,78 +1,3478 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 401,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 7000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100023,
+            0,
+            100022,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 402,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 7001,
+        "RankEndTw": 40000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100022,
+            0,
+            100021
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 403,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 40001,
+        "RankEndTw": 80000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100021,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 404,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 80001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100020
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1201,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 7000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6504,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100503
+        ],
+        "RewardParcelUniqueName": [
+            "R58 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1202,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 7001,
+        "RankEndTw": 40000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6504,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R58 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1203,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 40001,
+        "RankEndTw": 80000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6504,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R58 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1204,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 80001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6504,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R58 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 411,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006528,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100023
+        ],
+        "RewardParcelUniqueName": [
+            "R82 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 412,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006528,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R82 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 413,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006528,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R82 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 414,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006528,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R82 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1111,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100423,
+            0,
+            100422,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1112,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100422,
+            0,
+            100421
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1113,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100421,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1114,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100420
+        ],
+        "RewardParcelUniqueName": [
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1211,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006535,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100503
+        ],
+        "RewardParcelUniqueName": [
+            "R90 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1212,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006535,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R90 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1213,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006535,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R90 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1214,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006535,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R90 대결전 상점 보상용 기간제 모집 티켓_10회 (9월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 811,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006527,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100403
+        ],
+        "RewardParcelUniqueName": [
+            "R81 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 812,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006527,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R81 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 813,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006527,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R81 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 814,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006527,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R81 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1311,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006507,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100623
+        ],
+        "RewardParcelUniqueName": [
+            "R61 대결전 상점 보상용 기간제 모집 티켓_10회 (12월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1312,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006507,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R61 대결전 상점 보상용 기간제 모집 티켓_10회 (12월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1313,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006507,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R61 대결전 상점 보상용 기간제 모집 티켓_10회 (12월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1314,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006507,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R61 대결전 상점 보상용 기간제 모집 티켓_10회 (12월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1711,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006516,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100703
+        ],
+        "RewardParcelUniqueName": [
+            "R70 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1712,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006516,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R70 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1713,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006516,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R70 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1714,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006516,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R70 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 311,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006533,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100223
+        ],
+        "RewardParcelUniqueName": [
+            "R87 대결전 상점 보상용 기간제 모집 티켓_10회 (2월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 312,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006533,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R87 대결전 상점 보상용 기간제 모집 티켓_10회 (2월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 313,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006533,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R87 대결전 상점 보상용 기간제 모집 티켓_10회 (2월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 314,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006533,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R87 대결전 상점 보상용 기간제 모집 티켓_10회 (2월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1611,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006522,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100813
+        ],
+        "RewardParcelUniqueName": [
+            "R76 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1612,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006522,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R76 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1613,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006522,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R76 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1614,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006522,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R76 대결전 상점 보상용 기간제 모집 티켓_10회 (3월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1811,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006534,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100323
+        ],
+        "RewardParcelUniqueName": [
+            "R89 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1812,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006534,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R89 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1813,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006534,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R89 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1814,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006534,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R89 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1911,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006537,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100903
+        ],
+        "RewardParcelUniqueName": [
+            "R92 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1912,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006537,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R92 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1913,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006537,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R92 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1914,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006537,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R92 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2011,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006536,
+            0,
+            70,
+            0,
+            71,
+            0,
+            101023
+        ],
+        "RewardParcelUniqueName": [
+            "R91 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2012,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006536,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R91 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2013,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006536,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R91 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2014,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006536,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R91 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2111,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006529,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100103
+        ],
+        "RewardParcelUniqueName": [
+            "R83 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2112,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006529,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R83 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2113,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006529,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R83 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2114,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006529,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R83 대결전 상점 보상용 기간제 모집 티켓_10회 (10월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1111,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006532,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100423
+        ],
+        "RewardParcelUniqueName": [
+            "R86 대결전 상점 보상용 기간제 모집 티켓_10회 (1월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1112,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006532,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R86 대결전 상점 보상용 기간제 모집 티켓_10회 (1월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1113,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006532,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R86 대결전 상점 보상용 기간제 모집 티켓_10회 (1월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1114,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006532,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R86 대결전 상점 보상용 기간제 모집 티켓_10회 (1월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 111,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006523,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100003
+        ],
+        "RewardParcelUniqueName": [
+            "R77 대결전 상점 보상용 기간제 모집 티켓_10회 (4월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 112,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006523,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R77 대결전 상점 보상용 기간제 모집 티켓_10회 (4월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 113,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006523,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R77 대결전 상점 보상용 기간제 모집 티켓_10회 (4월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 114,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006523,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R77 대결전 상점 보상용 기간제 모집 티켓_10회 (4월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2211,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006524,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100113
+        ],
+        "RewardParcelUniqueName": [
+            "R78 대결전 상점 보상용 기간제 모집 티켓_10회 (5월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2212,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006524,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R78 대결전 상점 보상용 기간제 모집 티켓_10회 (5월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2213,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006524,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R78 대결전 상점 보상용 기간제 모집 티켓_10회 (5월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2214,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006524,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R78 대결전 상점 보상용 기간제 모집 티켓_10회 (5월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 611,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006530,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100213
+        ],
+        "RewardParcelUniqueName": [
+            "R84 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 612,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006530,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R84 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 613,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006530,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R84 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 614,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006530,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R84 대결전 상점 보상용 기간제 모집 티켓_10회 (11월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2310,
+        "Id": 2311,
+        "RankStart": 1,
+        "RankEnd": 12000,
+        "RankStartTw": 1,
+        "RankEndTw": 10000,
+        "RankStartAsia": 1,
+        "RankEndAsia": 10000,
+        "RankStartNa": 1,
+        "RankEndNa": 5000,
+        "RankStartGlobal": 1,
+        "RankEndGlobal": 2000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006538,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100613
+        ],
+        "RewardParcelUniqueName": [
+            "R93 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2310,
+        "Id": 2312,
+        "RankStart": 12001,
+        "RankEnd": 55000,
+        "RankStartTw": 10001,
+        "RankEndTw": 50000,
+        "RankStartAsia": 10001,
+        "RankEndAsia": 50000,
+        "RankStartNa": 5001,
+        "RankEndNa": 25000,
+        "RankStartGlobal": 2001,
+        "RankEndGlobal": 10000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006538,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R93 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2310,
+        "Id": 2313,
+        "RankStart": 55001,
+        "RankEnd": 100000,
+        "RankStartTw": 50001,
+        "RankEndTw": 100000,
+        "RankStartAsia": 50001,
+        "RankEndAsia": 100000,
+        "RankStartNa": 25001,
+        "RankEndNa": 50000,
+        "RankStartGlobal": 10001,
+        "RankEndGlobal": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006538,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelUniqueName": [
+            "R93 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2310,
+        "Id": 2314,
+        "RankStart": 100001,
+        "RankEnd": 0,
+        "RankStartTw": 100001,
+        "RankEndTw": 0,
+        "RankStartAsia": 100001,
+        "RankEndAsia": 0,
+        "RankStartNa": 50001,
+        "RankEndNa": 0,
+        "RankStartGlobal": 20001,
+        "RankEndGlobal": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            90006538,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelUniqueName": [
+            "R93 대결전 상점 보상용 기간제 모집 티켓_10회 (8월말 만료)",
+            "EliminateRaidCoin",
+            "EliminateRaidCoin_High",
+            "Furnitures"
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    }
 ]

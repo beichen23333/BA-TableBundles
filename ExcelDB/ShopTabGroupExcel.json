@@ -1,12 +1,83 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 1,
+        "ShopGroupType": "General",
+        "DisplayOrder": 1,
+        "ShopCategoryTypes": [
+            0.0
+        ]
+    },
+    {
+        "Id": 2,
+        "ShopGroupType": "SecretStone",
+        "DisplayOrder": 3,
+        "ShopCategoryTypes": [
+            1.401298464324817e-45
+        ]
+    },
+    {
+        "Id": 3,
+        "ShopGroupType": "Raid",
+        "DisplayOrder": 5,
+        "ShopCategoryTypes": [
+            2.802596928649634e-45
+        ]
+    },
+    {
+        "Id": 4,
+        "ShopGroupType": "EliminateRaid",
+        "DisplayOrder": 6,
+        "ShopCategoryTypes": [
+            4.624284932271896e-44
+        ]
+    },
+    {
+        "Id": 5,
+        "ShopGroupType": "Arena",
+        "DisplayOrder": 7,
+        "ShopCategoryTypes": [
+            1.401298464324817e-44
+        ]
+    },
+    {
+        "Id": 6,
+        "ShopGroupType": "SecretStoneGrowth",
+        "DisplayOrder": 4,
+        "ShopCategoryTypes": [
+            2.942726775082116e-44
+        ]
+    },
+    {
+        "Id": 7,
+        "ShopGroupType": "TimeAttack",
+        "DisplayOrder": 8,
+        "ShopCategoryTypes": [
+            3.5032461608120427e-44
+        ]
+    },
+    {
+        "Id": 8,
+        "ShopGroupType": "MasterCoin",
+        "DisplayOrder": 10,
+        "ShopCategoryTypes": [
+            2.802596928649634e-44
+        ]
+    },
+    {
+        "Id": 9,
+        "ShopGroupType": "Gem",
+        "DisplayOrder": 2,
+        "ShopCategoryTypes": [
+            5.044674471569341e-44,
+            5.184804318001823e-44
+        ]
+    },
+    {
+        "Id": 10,
+        "ShopGroupType": "Chaser",
+        "DisplayOrder": 9,
+        "ShopCategoryTypes": [
+            3.6433760072445244e-44
+        ]
+    }
 ]

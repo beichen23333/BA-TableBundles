@@ -1,6 +1,45 @@
 [
-    {},
-    {},
-    {},
-    {}
+    {
+        "GroupId": 10002,
+        "IsWhiteList": false,
+        "CharacterId": [],
+        "PersonalityId": [],
+        "WeaponType": "SMG",
+        "School": "None_",
+        "Club": "None_",
+        "Role": 0.0
+    },
+    {
+        "GroupId": 10002,
+        "IsWhiteList": false,
+        "CharacterId": [],
+        "PersonalityId": [],
+        "WeaponType": "SG",
+        "School": "None_",
+        "Club": "None_",
+        "Role": 0.0
+    },
+    {
+        "GroupId": 10003,
+        "IsWhiteList": false,
+        "CharacterId": [],
+        "PersonalityId": [],
+        "WeaponType": "None_",
+        "School": "None_",
+        "Club": "None_",
+        "Role": 2.802596928649634e-45
+    },
+    {
+        "GroupId": 99999,
+        "IsWhiteList": false,
+        "CharacterId": [
+            13010,
+            0
+        ],
+        "PersonalityId": [],
+        "WeaponType": "None_",
+        "School": "None_",
+        "Club": "None_",
+        "Role": 0.0
+    }
 ]
