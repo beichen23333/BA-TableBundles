@@ -1,12 +1,133 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 1,
+        "FreeRecruitPeriodFrom": "2022-01-26 04:00:00",
+        "FreeRecruitPeriodTo": "2022-02-09 03:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50121,
+            0,
+            50122,
+            0
+        ]
+    },
+    {
+        "Id": 2,
+        "FreeRecruitPeriodFrom": "2022-07-25 11:00:00",
+        "FreeRecruitPeriodTo": "2022-08-03 11:00:00",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50192,
+            0,
+            50193
+        ]
+    },
+    {
+        "Id": 3,
+        "FreeRecruitPeriodFrom": "2023-01-31 11:00:00",
+        "FreeRecruitPeriodTo": "2023-02-10 03:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50292,
+            0,
+            50293
+        ]
+    },
+    {
+        "Id": 4,
+        "FreeRecruitPeriodFrom": "2023-07-24 11:00:00",
+        "FreeRecruitPeriodTo": "2023-08-02 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50383,
+            0,
+            50384
+        ]
+    },
+    {
+        "Id": 5,
+        "FreeRecruitPeriodFrom": "2024-01-24 11:00:00",
+        "FreeRecruitPeriodTo": "2024-01-31 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50490,
+            0,
+            50491,
+            0
+        ]
+    },
+    {
+        "Id": 6,
+        "FreeRecruitPeriodFrom": "2024-07-29 11:00:00",
+        "FreeRecruitPeriodTo": "2024-08-07 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50604,
+            0,
+            50605
+        ]
+    },
+    {
+        "Id": 7,
+        "FreeRecruitPeriodFrom": "2025-01-20 11:00:00",
+        "FreeRecruitPeriodTo": "2025-01-27 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50710,
+            0,
+            50711
+        ]
+    },
+    {
+        "Id": 8,
+        "FreeRecruitPeriodFrom": "2025-07-22 11:00:00",
+        "FreeRecruitPeriodTo": "2025-07-30 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50810,
+            0,
+            50811
+        ]
+    },
+    {
+        "Id": 9,
+        "FreeRecruitPeriodFrom": "2026-01-20 11:00:00",
+        "FreeRecruitPeriodTo": "2026-01-29 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            50920,
+            0,
+            50921
+        ]
+    },
+    {
+        "Id": 10,
+        "FreeRecruitPeriodFrom": "2026-07-29 11:00:00",
+        "FreeRecruitPeriodTo": "2026-08-05 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            51040,
+            0
+        ]
+    }
 ]

@@ -1,22 +1,344 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 85400000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85400001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": [
+            30002
+        ]
+    },
+    {
+        "Id": 85400002,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004
+        ]
+    },
+    {
+        "Id": 85400003,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0,
+            8540100,
+            0,
+            8540200,
+            0,
+            8540300
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0,
+            30005,
+            0,
+            30007,
+            0,
+            30009,
+            0,
+            30011
+        ]
+    },
+    {
+        "Id": 85400004,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0,
+            8540100,
+            0,
+            8540200,
+            0,
+            8540300,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0,
+            30005,
+            0,
+            30007,
+            0,
+            30009,
+            0,
+            30011,
+            0,
+            30012
+        ]
+    },
+    {
+        "Id": 85400005,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0,
+            8540100,
+            0,
+            8540200,
+            0,
+            8540300,
+            0
+        ],
+        "EventContentStageId": [
+            8541301,
+            0
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0,
+            30005,
+            0,
+            30007,
+            0,
+            30009,
+            0,
+            30011,
+            0,
+            30012
+        ]
+    },
+    {
+        "Id": 85400006,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85400007,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85400008,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85400009,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85400010,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85400011,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85400,
+        "ScenarioModeId": 90002090,
+        "IAWorldRaidGroupId": [
+            8540000,
+            0
+        ],
+        "EventContentStageId": [
+            8541301
+        ],
+        "EventContentScenarioId": [
+            30002,
+            0,
+            30004,
+            0
+        ]
+    },
+    {
+        "Id": 85401000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "ScenarioModeId": 90002100,
+        "IAWorldRaidGroupId": [],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85401001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "ScenarioModeId": 90002100,
+        "IAWorldRaidGroupId": [
+            8540800
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85401002,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85401,
+        "ScenarioModeId": 90002100,
+        "IAWorldRaidGroupId": [
+            8540800,
+            0
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": [
+            30026
+        ]
+    },
+    {
+        "Id": 85402000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "ScenarioModeId": 90002210,
+        "IAWorldRaidGroupId": [],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85402001,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "ScenarioModeId": 90002210,
+        "IAWorldRaidGroupId": [
+            8541000
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85402002,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "ScenarioModeId": 90002210,
+        "IAWorldRaidGroupId": [
+            8541000,
+            0
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": [
+            30029
+        ]
+    },
+    {
+        "Id": 85402099,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85402,
+        "ScenarioModeId": 90002260,
+        "IAWorldRaidGroupId": [
+            8541000,
+            0
+        ],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    },
+    {
+        "Id": 85403000,
+        "WorldRaidSeasonId": 854,
+        "WorldRaidPhaseId": 85403,
+        "ScenarioModeId": 90002260,
+        "IAWorldRaidGroupId": [],
+        "EventContentStageId": [],
+        "EventContentScenarioId": []
+    }
 ]

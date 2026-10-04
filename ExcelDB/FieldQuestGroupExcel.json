@@ -1,13 +1,79 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 91104001,
+        "SkipFromInteractionId": 506943348,
+        "SkipToInteractionId": 506943548,
+        "NextSceneId": 420169418,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91104002,
+        "SkipFromInteractionId": 506953348,
+        "SkipToInteractionId": 506953748,
+        "NextSceneId": 420169418,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91104003,
+        "SkipFromInteractionId": 506963348,
+        "SkipToInteractionId": 506963748,
+        "NextSceneId": 420169428,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91104004,
+        "SkipFromInteractionId": 506973348,
+        "SkipToInteractionId": 0,
+        "NextSceneId": 420169428,
+        "SkipResultUI": false
+    },
+    {
+        "Id": 91106001,
+        "SkipFromInteractionId": 526943348,
+        "SkipToInteractionId": 526943548,
+        "NextSceneId": 420171418,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91106002,
+        "SkipFromInteractionId": 526953348,
+        "SkipToInteractionId": 526953548,
+        "NextSceneId": 420171418,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91106003,
+        "SkipFromInteractionId": 526963348,
+        "SkipToInteractionId": 526963548,
+        "NextSceneId": 420171428,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91106004,
+        "SkipFromInteractionId": 526973348,
+        "SkipToInteractionId": 0,
+        "NextSceneId": 420171428,
+        "SkipResultUI": false
+    },
+    {
+        "Id": 91108001,
+        "SkipFromInteractionId": 546943348,
+        "SkipToInteractionId": 546943548,
+        "NextSceneId": 420173428,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91108002,
+        "SkipFromInteractionId": 546953348,
+        "SkipToInteractionId": 546954048,
+        "NextSceneId": 420173438,
+        "SkipResultUI": true
+    },
+    {
+        "Id": 91108003,
+        "SkipFromInteractionId": 546963348,
+        "SkipToInteractionId": 0,
+        "NextSceneId": 420173438,
+        "SkipResultUI": false
+    }
 ]

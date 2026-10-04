@@ -1,12 +1,152 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 51001,
+        "DevName": "마코토(수영복) 특별 성장 패키지",
+        "CharacterId": 10146,
+        "IllustOffsetX": -0.6399999856948853,
+        "IllustOffsetY": -2.4600000381469727,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 3151297090,
+        "ShopCashIds": [
+            3010001,
+            0,
+            3050001
+        ]
+    },
+    {
+        "Id": 51002,
+        "DevName": "사츠키(수영복) 특별 성장 패키지",
+        "CharacterId": 10147,
+        "IllustOffsetX": 0.3700000047683716,
+        "IllustOffsetY": -2.640000104904175,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 2471156658,
+        "ShopCashIds": [
+            3010002,
+            0,
+            3050002
+        ]
+    },
+    {
+        "Id": 51003,
+        "DevName": "이로하(수영복) 특별 성장 패키지",
+        "CharacterId": 10148,
+        "IllustOffsetX": -0.2800000011920929,
+        "IllustOffsetY": -1.7200000286102295,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 1576663544,
+        "ShopCashIds": [
+            3010003,
+            0,
+            3050003
+        ]
+    },
+    {
+        "Id": 51004,
+        "DevName": "이부키(수영복) 특별 성장 패키지",
+        "CharacterId": 20060,
+        "IllustOffsetX": -1.2300000190734863,
+        "IllustOffsetY": -1.2899999618530273,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 1556992528,
+        "ShopCashIds": [
+            3010004,
+            0,
+            3050004
+        ]
+    },
+    {
+        "Id": 51005,
+        "DevName": "리오 특별 성장 패키지",
+        "CharacterId": 20041,
+        "IllustOffsetX": -0.36000001430511475,
+        "IllustOffsetY": -2.5999999046325684,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 2038193380,
+        "ShopCashIds": [
+            3010005,
+            0,
+            3050005
+        ]
+    },
+    {
+        "Id": 51006,
+        "DevName": "네루(교복) 특별 성장 패키지",
+        "CharacterId": 10111,
+        "IllustOffsetX": -0.4099999964237213,
+        "IllustOffsetY": -1.7999999523162842,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 2047153050,
+        "ShopCashIds": [
+            3010006,
+            0,
+            3050006
+        ]
+    },
+    {
+        "Id": 51007,
+        "DevName": "세나(사복) 특별 성장 패키지",
+        "CharacterId": 10113,
+        "IllustOffsetX": 0.36000001430511475,
+        "IllustOffsetY": -2.0799999237060547,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 943575134,
+        "ShopCashIds": [
+            3010007,
+            0,
+            3050007
+        ]
+    },
+    {
+        "Id": 51008,
+        "DevName": "주리(아르바이트) 특별 성장 패키지",
+        "CharacterId": 10114,
+        "IllustOffsetX": -0.7599999904632568,
+        "IllustOffsetY": -2.490000009536743,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 529251151,
+        "ShopCashIds": [
+            3010008,
+            0,
+            3050008
+        ]
+    },
+    {
+        "Id": 51009,
+        "DevName": "나구사 특별 성장 패키지",
+        "CharacterId": 10119,
+        "IllustOffsetX": -0.3700000047683716,
+        "IllustOffsetY": -2.3399999141693115,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 2809141377,
+        "ShopCashIds": [
+            3010009,
+            0,
+            3050009
+        ]
+    },
+    {
+        "Id": 51010,
+        "DevName": "니야 특별 성장 패키지",
+        "CharacterId": 20046,
+        "IllustOffsetX": -0.7200000286102295,
+        "IllustOffsetY": -2.4100000858306885,
+        "IllustScale": 1.0,
+        "TitleImagePath": "uis/00_images/PickupFirst/ImgFont_PickupFirst",
+        "LocalizeEtcId": 2590831107,
+        "ShopCashIds": [
+            3010010,
+            0,
+            3050010
+        ]
+    }
 ]

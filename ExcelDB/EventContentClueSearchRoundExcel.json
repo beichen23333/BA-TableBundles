@@ -1,16 +1,504 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "EventContentId": 857,
+        "Round": 1,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857101,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            3,
+            0
+        ],
+        "HintlocalizeId": 219556715,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 2,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857102,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            5,
+            7
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80805
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            3
+        ],
+        "HintlocalizeId": 355554038,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 3,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857103,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            2,
+            0,
+            3,
+            0
+        ],
+        "HintlocalizeId": 719135237,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 4,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857104,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            4,
+            0,
+            2,
+            0
+        ],
+        "HintlocalizeId": 2905334414,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 5,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857105,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0,
+            80807
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            4,
+            0,
+            5
+        ],
+        "HintlocalizeId": 603323594,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 6,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857106,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0,
+            80807
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            3,
+            0,
+            4,
+            0,
+            3
+        ],
+        "HintlocalizeId": 2700496673,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 857,
+        "Round": 7,
+        "IsLoop": true,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_02_857",
+        "Localizeld": 2972407314,
+        "RewardId": 857107,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80804,
+            0,
+            80805,
+            0,
+            80806,
+            0,
+            80807
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            4,
+            0,
+            3,
+            0,
+            4
+        ],
+        "HintlocalizeId": 2918534615,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 1,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863101,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            3,
+            0
+        ],
+        "HintlocalizeId": 219556715,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 2,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863102,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            5,
+            7
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            3
+        ],
+        "HintlocalizeId": 355554038,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 3,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_00_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863103,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            2,
+            0,
+            3,
+            0
+        ],
+        "HintlocalizeId": 719135237,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 4,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863104,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            4,
+            0,
+            2,
+            0
+        ],
+        "HintlocalizeId": 2905334414,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 5,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863105,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0,
+            80897
+        ],
+        "ClueCostAmount": [
+            3,
+            0,
+            3,
+            0,
+            4,
+            0,
+            5
+        ],
+        "HintlocalizeId": 603323594,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 6,
+        "IsLoop": false,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_01_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863106,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0,
+            80897
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            3,
+            0,
+            4,
+            0,
+            3
+        ],
+        "HintlocalizeId": 2700496673,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    },
+    {
+        "EventContentId": 863,
+        "Round": 7,
+        "IsLoop": true,
+        "TargetImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_ClueTarget_02_857",
+        "Localizeld": 2972407314,
+        "RewardId": 863107,
+        "ClueSlotNumber": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "ClueId": [
+            80894,
+            0,
+            80895,
+            0,
+            80896,
+            0,
+            80897
+        ],
+        "ClueCostAmount": [
+            4,
+            0,
+            4,
+            0,
+            3,
+            0,
+            3
+        ],
+        "HintlocalizeId": 2918534615,
+        "ClearlocalizeId": 287485655,
+        "ClearPageImagePath": "UIs/01_Common/27_EventContent/ClueSearch/857/Img_ClueSearch_BgComplete_857"
+    }
 ]

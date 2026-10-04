@@ -1,80 +1,2912 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "StageId": 30101,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 1,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 10,
+        "StageRewardId": 30101,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30102,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 2,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 15,
+        "StageRewardId": 30102,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30103,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 3,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 20,
+        "StageRewardId": 30103,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30104,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 4,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 30,
+        "StageRewardId": 30104,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30105,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 5,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 40,
+        "StageRewardId": 30105,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30106,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 6,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 50,
+        "StageRewardId": 30106,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30107,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 7,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 60,
+        "StageRewardId": 30107,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30108,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 8,
+        "BattleDuration": 300000,
+        "PrevStageId": 30107,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 70,
+        "StageRewardId": 30108,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30109,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 9,
+        "BattleDuration": 300000,
+        "PrevStageId": 30108,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 73,
+        "StageRewardId": 30109,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30110,
+        "WeekDungeonType": 1.401298464324817e-45,
+        "Difficulty": 10,
+        "BattleDuration": 300000,
+        "PrevStageId": 30109,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 301000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 75,
+        "StageRewardId": 30110,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            6,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30201,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 1,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 10,
+        "StageRewardId": 30201,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30202,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 2,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 15,
+        "StageRewardId": 30202,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30203,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 3,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 20,
+        "StageRewardId": 30203,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30204,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 4,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 30,
+        "StageRewardId": 30204,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30205,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 5,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 40,
+        "StageRewardId": 30205,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30206,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 6,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 50,
+        "StageRewardId": 30206,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30207,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 7,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 60,
+        "StageRewardId": 30207,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30208,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 8,
+        "BattleDuration": 300000,
+        "PrevStageId": 30207,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 70,
+        "StageRewardId": 30208,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30209,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 9,
+        "BattleDuration": 300000,
+        "PrevStageId": 30208,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 73,
+        "StageRewardId": 30209,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30210,
+        "WeekDungeonType": 2.802596928649634e-45,
+        "Difficulty": 10,
+        "BattleDuration": 300000,
+        "PrevStageId": 30209,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 302000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Outdoor",
+        "RecommandLevel": 75,
+        "StageRewardId": 30210,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            4,
+            0,
+            9
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30301,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 1,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 10,
+        "StageRewardId": 30301,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30302,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 2,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 15,
+        "StageRewardId": 30302,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30303,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 3,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 20,
+        "StageRewardId": 30303,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30304,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 4,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 30,
+        "StageRewardId": 30304,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30305,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 5,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 40,
+        "StageRewardId": 30305,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30306,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 6,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 50,
+        "StageRewardId": 30306,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30307,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 7,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 60,
+        "StageRewardId": 30307,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30308,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 8,
+        "BattleDuration": 300000,
+        "PrevStageId": 30307,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 70,
+        "StageRewardId": 30308,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30309,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 9,
+        "BattleDuration": 300000,
+        "PrevStageId": 30308,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 73,
+        "StageRewardId": 30309,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30310,
+        "WeekDungeonType": 4.203895392974451e-45,
+        "Difficulty": 10,
+        "BattleDuration": 300000,
+        "PrevStageId": 30309,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 303000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 75,
+        "StageRewardId": 30310,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            7,
+            0
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30401,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 1,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 10,
+        "StageRewardId": 30401,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30402,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 2,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 15,
+        "StageRewardId": 30402,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30403,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 3,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 20,
+        "StageRewardId": 30403,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30404,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 4,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 30,
+        "StageRewardId": 30404,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30405,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 5,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 40,
+        "StageRewardId": 30405,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30406,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 6,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 50,
+        "StageRewardId": 30406,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30407,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 7,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 60,
+        "StageRewardId": 30407,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30408,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 8,
+        "BattleDuration": 300000,
+        "PrevStageId": 30407,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 70,
+        "StageRewardId": 30408,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30409,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 9,
+        "BattleDuration": 300000,
+        "PrevStageId": 30408,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 73,
+        "StageRewardId": 30409,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30410,
+        "WeekDungeonType": 8.407790785948902e-45,
+        "Difficulty": 10,
+        "BattleDuration": 300000,
+        "PrevStageId": 30409,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 304000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 75,
+        "StageRewardId": 30410,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            2,
+            0,
+            8
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30501,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 1,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 10,
+        "StageRewardId": 30501,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30502,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 2,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 15,
+        "StageRewardId": 30502,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30503,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 3,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 20,
+        "StageRewardId": 30503,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30504,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 4,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 30,
+        "StageRewardId": 30504,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30505,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 5,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 40,
+        "StageRewardId": 30505,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30506,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 6,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 50,
+        "StageRewardId": 30506,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30507,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 7,
+        "BattleDuration": 300000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 60,
+        "StageRewardId": 30507,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30508,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 8,
+        "BattleDuration": 300000,
+        "PrevStageId": 30507,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 70,
+        "StageRewardId": 30508,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30509,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 9,
+        "BattleDuration": 300000,
+        "PrevStageId": 30508,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 73,
+        "StageRewardId": 30509,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 30510,
+        "WeekDungeonType": 9.80908925027372e-45,
+        "Difficulty": 10,
+        "BattleDuration": 300000,
+        "PrevStageId": 30509,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            22
+        ],
+        "StageEnterCostAmount": [
+            1
+        ],
+        "GroundId": 305000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            150
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 75,
+        "StageRewardId": 30510,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [
+            1,
+            0,
+            3
+        ],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31101,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 1,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            5
+        ],
+        "GroundId": 311000001,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 5,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31102,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 2,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            10
+        ],
+        "GroundId": 311000002,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 20,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31103,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 3,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            15
+        ],
+        "GroundId": 311000003,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 30,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31104,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 4,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            20
+        ],
+        "GroundId": 311000004,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 40,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31105,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 5,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            25
+        ],
+        "GroundId": 311000005,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 50,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31106,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 6,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            30
+        ],
+        "GroundId": 311000006,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 55,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31107,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 7,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            35
+        ],
+        "GroundId": 311000007,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 60,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31108,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 8,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000008,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 65,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31109,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 9,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000009,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 73,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31110,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 10,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000010,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 78,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31111,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 11,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000011,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 80,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31112,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 12,
+        "BattleDuration": 180000,
+        "PrevStageId": 31111,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000012,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 85,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31113,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 13,
+        "BattleDuration": 180000,
+        "PrevStageId": 31112,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000013,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 86,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 31114,
+        "WeekDungeonType": 5.605193857299268e-45,
+        "Difficulty": 14,
+        "BattleDuration": 180000,
+        "PrevStageId": 31113,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 311000014,
+        "StarGoal": [
+            "GetBoxes",
+            "GetBoxes",
+            "GetBoxes"
+        ],
+        "StarGoalAmount": [
+            1,
+            4,
+            5
+        ],
+        "StageTopography": "Street",
+        "RecommandLevel": 87,
+        "StageRewardId": 0,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32101,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 1,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            5
+        ],
+        "GroundId": 321000001,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 5,
+        "StageRewardId": 32101,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32102,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 2,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            10
+        ],
+        "GroundId": 321000002,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 20,
+        "StageRewardId": 32102,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32103,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 3,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            15
+        ],
+        "GroundId": 321000003,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 30,
+        "StageRewardId": 32103,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32104,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 4,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            20
+        ],
+        "GroundId": 321000004,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 40,
+        "StageRewardId": 32104,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32105,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 5,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            25
+        ],
+        "GroundId": 321000005,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 50,
+        "StageRewardId": 32105,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32106,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 6,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            30
+        ],
+        "GroundId": 321000006,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 55,
+        "StageRewardId": 32106,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32107,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 7,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            35
+        ],
+        "GroundId": 321000007,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 60,
+        "StageRewardId": 32107,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32108,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 8,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000008,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 65,
+        "StageRewardId": 32108,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32109,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 9,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000009,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 73,
+        "StageRewardId": 32109,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32110,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 10,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000010,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 78,
+        "StageRewardId": 32110,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32111,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 11,
+        "BattleDuration": 180000,
+        "PrevStageId": 0,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000011,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 80,
+        "StageRewardId": 32111,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32112,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 12,
+        "BattleDuration": 180000,
+        "PrevStageId": 32111,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000012,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 85,
+        "StageRewardId": 32112,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32113,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 13,
+        "BattleDuration": 180000,
+        "PrevStageId": 32112,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000013,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 86,
+        "StageRewardId": 32113,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    },
+    {
+        "StageId": 32114,
+        "WeekDungeonType": 7.006492321624085e-45,
+        "Difficulty": 14,
+        "BattleDuration": 180000,
+        "PrevStageId": 32113,
+        "StageEnterCostType": [
+            "Currency"
+        ],
+        "StageEnterCostId": [
+            5
+        ],
+        "StageEnterCostAmount": [
+            40
+        ],
+        "GroundId": 321000014,
+        "StarGoal": [
+            "Clear",
+            "AllAlive",
+            "ClearTimeInSec"
+        ],
+        "StarGoalAmount": [
+            1,
+            1,
+            120
+        ],
+        "StageTopography": "Indoor",
+        "RecommandLevel": 87,
+        "StageRewardId": 32114,
+        "PlayTimeLimitInSeconds": 86400,
+        "BattleRewardExp": 0,
+        "BattleRewardPlayerExp": 0,
+        "GroupBuffID": [],
+        "EchelonExtensionType": "Base"
+    }
 ]

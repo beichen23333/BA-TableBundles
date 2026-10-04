@@ -1,3 +1,15 @@
 [
-    {}
+    {
+        "Id": 100,
+        "NodeIndex": 0,
+        "IsUnlock": true,
+        "PreNodeIndex": [],
+        "GradeType": "Start",
+        "LocalizeEtcId": "",
+        "Recipe": 0,
+        "MaxLevel": 0,
+        "LearnSkillSlot": "",
+        "StatType": [],
+        "StatValue": []
+    }
 ]

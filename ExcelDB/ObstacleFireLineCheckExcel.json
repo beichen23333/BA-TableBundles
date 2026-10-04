@@ -1,3 +1,8 @@
 [
-    {}
+    {
+        "MyObstacleFireLineCheck": false,
+        "AllyObstacleFireLineCheck": false,
+        "EnemyObstacleFireLineCheck": false,
+        "EmptyObstacleFireLineCheck": true
+    }
 ]
