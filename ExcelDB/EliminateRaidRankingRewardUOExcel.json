@@ -1,76 +1,2252 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 401,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100023,
+            0,
+            100022,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 402,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100022,
+            0,
+            100021
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 403,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100021,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 400,
+        "Id": 404,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100020
+        ],
+        "RewardParcelAmount": [
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1000,
+        "Id": 1004,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100510
+        ],
+        "RewardParcelAmount": [
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1100,
+        "Id": 1101,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100423,
+            0,
+            100422,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1100,
+        "Id": 1102,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100422,
+            0,
+            100421
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1100,
+        "Id": 1103,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100421,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1100,
+        "Id": 1104,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            100420
+        ],
+        "RewardParcelAmount": [
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1201,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6507,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100503
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1202,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6507,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1203,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6507,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1200,
+        "Id": 1204,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6507,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 111,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100003
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 112,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 113,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 110,
+        "Id": 114,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 311,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6509,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100223
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 312,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6509,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 313,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6509,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 310,
+        "Id": 314,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6509,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 411,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6520,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100023
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 412,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6520,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 413,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6520,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 410,
+        "Id": 414,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6520,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 611,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100213
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 612,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 613,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 610,
+        "Id": 614,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 811,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6525,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100403
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 812,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6525,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 813,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6525,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 810,
+        "Id": 814,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6525,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1111,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100423
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1112,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1113,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1110,
+        "Id": 1114,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1211,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6518,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100503
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1212,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6518,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1213,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6518,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1210,
+        "Id": 1214,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6518,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1311,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100623
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1312,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1313,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1310,
+        "Id": 1314,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6521,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1611,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6522,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100813
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1612,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6522,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1613,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6522,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1610,
+        "Id": 1614,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6522,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1711,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6516,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100703
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1712,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6516,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1713,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6516,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1710,
+        "Id": 1714,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6516,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1811,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6524,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100323
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1812,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6524,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1813,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6524,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1810,
+        "Id": 1814,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6524,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1911,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6515,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100903
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1912,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6515,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1913,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6515,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 1910,
+        "Id": 1914,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6515,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2011,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71,
+            0,
+            101023
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2012,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2013,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2010,
+        "Id": 2014,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2111,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100103
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2112,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2113,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2110,
+        "Id": 2114,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6519,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2211,
+        "RankStart": 1,
+        "RankEnd": 8000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100113
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2212,
+        "RankStart": 8001,
+        "RankEnd": 48000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            500,
+            0,
+            250,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2213,
+        "RankStart": 48001,
+        "RankEnd": 96000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0,
+            71
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            425,
+            0,
+            200
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2210,
+        "Id": 2214,
+        "RankStart": 96001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6523,
+            0,
+            70,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            325,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 10000,
+        "Id": 10001,
+        "RankStart": 1,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            6533,
+            0,
+            70,
+            0,
+            71,
+            0,
+            100223
+        ],
+        "RewardParcelAmount": [
+            1,
+            0,
+            575,
+            0,
+            300,
+            0,
+            1
+        ]
+    }
 ]

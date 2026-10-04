@@ -1,38 +1,1286 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 100,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass50",
+        "StoreType": "GooglePlay",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "Id": 101,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass25",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 102,
+        "ProductId": "com.yostarcn.bluearchive.twoweekappass25",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Biweekly",
+        "MonthlyDays": 14,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            150
+        ]
+    },
+    {
+        "Id": 103,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass50",
+        "StoreType": "GooglePlay",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 104,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass25",
+        "StoreType": "GooglePlay",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 105,
+        "ProductId": "com.yostarcn.bluearchive.appackage_weekly",
+        "StoreType": "GooglePlay",
+        "Price": 1200,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            104
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            130
+        ]
+    },
+    {
+        "Id": 197,
+        "ProductId": "com.yostarcn.bluearchive.bundlemonthly",
+        "StoreType": "GooglePlay",
+        "Price": 6600,
+        "PriceReference": "",
+        "ProductTagType": "BundleMonthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency",
+            "Emblem"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            592,
+            0
+        ],
+        "EnterCostReduceGroupId": 102,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            60,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 198,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass3",
+        "StoreType": "GooglePlay",
+        "Price": 300,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            20
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 199,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass6",
+        "StoreType": "GooglePlay",
+        "Price": 600,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            45
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 500,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass50",
+        "StoreType": "AppStore",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "Id": 501,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass25",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 502,
+        "ProductId": "com.yostarcn.bluearchive.twoweekappass25",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Biweekly",
+        "MonthlyDays": 14,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            150
+        ]
+    },
+    {
+        "Id": 503,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass50",
+        "StoreType": "AppStore",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 504,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass25",
+        "StoreType": "AppStore",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 505,
+        "ProductId": "com.yostarcn.bluearchive.appackage_weekly",
+        "StoreType": "AppStore",
+        "Price": 1200,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            104
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            130
+        ]
+    },
+    {
+        "Id": 597,
+        "ProductId": "com.yostarcn.bluearchive.bundlemonthly",
+        "StoreType": "AppStore",
+        "Price": 6600,
+        "PriceReference": "",
+        "ProductTagType": "BundleMonthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency",
+            "Emblem"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            592,
+            0
+        ],
+        "EnterCostReduceGroupId": 102,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            60,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 598,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass3",
+        "StoreType": "AppStore",
+        "Price": 300,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            20
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 599,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass6",
+        "StoreType": "AppStore",
+        "Price": 600,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            45
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 800,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass50",
+        "StoreType": "Harmony",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "Id": 801,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass25",
+        "StoreType": "Harmony",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 802,
+        "ProductId": "com.yostarcn.bluearchive.twoweekappass25",
+        "StoreType": "Harmony",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Biweekly",
+        "MonthlyDays": 14,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            150
+        ]
+    },
+    {
+        "Id": 803,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass50",
+        "StoreType": "Harmony",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 804,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass25",
+        "StoreType": "Harmony",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 805,
+        "ProductId": "com.yostarcn.bluearchive.appackage_weekly",
+        "StoreType": "Harmony",
+        "Price": 1200,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            104
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            130
+        ]
+    },
+    {
+        "Id": 897,
+        "ProductId": "com.yostarcn.bluearchive.bundlemonthly",
+        "StoreType": "Harmony",
+        "Price": 6600,
+        "PriceReference": "",
+        "ProductTagType": "BundleMonthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency",
+            "Emblem"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            592,
+            0
+        ],
+        "EnterCostReduceGroupId": 102,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            60,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 898,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass3",
+        "StoreType": "Harmony",
+        "Price": 300,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            20
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 899,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass6",
+        "StoreType": "Harmony",
+        "Price": 600,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            45
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 10100,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass50",
+        "StoreType": "PaymentCenter",
+        "Price": 5000,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "Id": 10101,
+        "ProductId": "com.yostarcn.bluearchive.monthlypass25",
+        "StoreType": "PaymentCenter",
+        "Price": 2500,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 10102,
+        "ProductId": "com.yostarcn.bluearchive.twoweekappass25",
+        "StoreType": "PaymentCenter",
+        "Price": 2380,
+        "PriceReference": "",
+        "ProductTagType": "Biweekly",
+        "MonthlyDays": 14,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            150
+        ]
+    },
+    {
+        "Id": 10103,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass50",
+        "StoreType": "PaymentCenter",
+        "Price": 4750,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            400
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    },
+    {
+        "Id": 10104,
+        "ProductId": "com.yostarcn.bluearchive.newmonthlypass25",
+        "StoreType": "PaymentCenter",
+        "Price": 2380,
+        "PriceReference": "",
+        "ProductTagType": "Monthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            192
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 10105,
+        "ProductId": "com.yostarcn.bluearchive.appackage_weekly",
+        "StoreType": "PaymentCenter",
+        "Price": 1100,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            104
+        ],
+        "EnterCostReduceGroupId": 0,
+        "DailyParcelType": [
+            "Currency"
+        ],
+        "DailyParcelId": [
+            5
+        ],
+        "DailyParcelAmount": [
+            130
+        ]
+    },
+    {
+        "Id": 10197,
+        "ProductId": "com.yostarcn.bluearchive.bundlemonthly",
+        "StoreType": "PaymentCenter",
+        "Price": 6270,
+        "PriceReference": "",
+        "ProductTagType": "BundleMonthly",
+        "MonthlyDays": 30,
+        "UseMonthlyProductCheck": true,
+        "PurchaseCountLimit": 0,
+        "ParcelType": [
+            "Currency",
+            "Emblem"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            592,
+            0
+        ],
+        "EnterCostReduceGroupId": 102,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            60,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 10198,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass3",
+        "StoreType": "PaymentCenter",
+        "Price": 290,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            20
+        ],
+        "EnterCostReduceGroupId": 101,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            20,
+            0,
+            3
+        ]
+    },
+    {
+        "Id": 10199,
+        "ProductId": "com.yostarcn.bluearchive.7days_monthlypass6",
+        "StoreType": "PaymentCenter",
+        "Price": 570,
+        "PriceReference": "",
+        "ProductTagType": "Weekly",
+        "MonthlyDays": 7,
+        "UseMonthlyProductCheck": false,
+        "PurchaseCountLimit": 1,
+        "ParcelType": [
+            "Currency"
+        ],
+        "ParcelId": [
+            2
+        ],
+        "ParcelAmount": [
+            45
+        ],
+        "EnterCostReduceGroupId": 100,
+        "DailyParcelType": [
+            "Currency",
+            "Currency",
+            "Currency"
+        ],
+        "DailyParcelId": [
+            3,
+            0,
+            22
+        ],
+        "DailyParcelAmount": [
+            40,
+            0,
+            6
+        ]
+    }
 ]

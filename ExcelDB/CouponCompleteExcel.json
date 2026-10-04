@@ -1,3 +1,25 @@
 [
-    {}
+    {
+        "GroupId": 1,
+        "GiftId": [
+            100155,
+            0,
+            100156,
+            0
+        ],
+        "Comment": "动画蓝光礼盒特典纪念礼物（全卷）",
+        "ExpiredDay": 14,
+        "RewardParcelType": [
+            "Item",
+            "MemoryLobby"
+        ],
+        "RewardParcelId": [
+            30000004,
+            0
+        ],
+        "RewardParcelAmount": [
+            1,
+            0
+        ]
+    }
 ]

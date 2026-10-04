@@ -1,5 +1,35 @@
 [
-    {},
-    {},
-    {}
+    {
+        "NodeTier": 0,
+        "Tag": [
+            "CraftCommitment"
+        ]
+    },
+    {
+        "NodeTier": 1,
+        "Tag": [
+            "CraftCommitment",
+            "CraftItem",
+            "ExpendableItem",
+            "CraftMaterial_Furniture",
+            "FavorItem"
+        ]
+    },
+    {
+        "NodeTier": 2,
+        "Tag": [
+            "CraftCommitment",
+            "CraftItem",
+            "CraftMaterial_SecretStone",
+            "MaterialItemSR",
+            "MaterialItemSSR",
+            "CDItemSR",
+            "CDItemSSR",
+            "BookItemSR",
+            "BookItemSSR",
+            "CraftMaterial_FurnitureSR",
+            "CraftMaterial_FurnitureSSR",
+            "FavorItem"
+        ]
+    }
 ]

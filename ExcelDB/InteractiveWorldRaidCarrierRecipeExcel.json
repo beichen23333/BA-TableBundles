@@ -1,27 +1,292 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "SkillId": -499343920,
+        "SkillSlot": "ExSkill01",
+        "Level": 1,
+        "RecipeIngredientId": [
+            80741
+        ]
+    },
+    {
+        "SkillId": -499343919,
+        "SkillSlot": "ExSkill01",
+        "Level": 2,
+        "RecipeIngredientId": [
+            80750
+        ]
+    },
+    {
+        "SkillId": -499343918,
+        "SkillSlot": "ExSkill01",
+        "Level": 3,
+        "RecipeIngredientId": [
+            80751
+        ]
+    },
+    {
+        "SkillId": -499343917,
+        "SkillSlot": "ExSkill01",
+        "Level": 4,
+        "RecipeIngredientId": [
+            80752
+        ]
+    },
+    {
+        "SkillId": -499343916,
+        "SkillSlot": "ExSkill01",
+        "Level": 5,
+        "RecipeIngredientId": [
+            80753
+        ]
+    },
+    {
+        "SkillId": -499343820,
+        "SkillSlot": "ExSkill02",
+        "Level": 1,
+        "RecipeIngredientId": [
+            80742
+        ]
+    },
+    {
+        "SkillId": -499343819,
+        "SkillSlot": "ExSkill02",
+        "Level": 2,
+        "RecipeIngredientId": [
+            80750
+        ]
+    },
+    {
+        "SkillId": -499343818,
+        "SkillSlot": "ExSkill02",
+        "Level": 3,
+        "RecipeIngredientId": [
+            80751
+        ]
+    },
+    {
+        "SkillId": -499343817,
+        "SkillSlot": "ExSkill02",
+        "Level": 4,
+        "RecipeIngredientId": [
+            80752
+        ]
+    },
+    {
+        "SkillId": -499343816,
+        "SkillSlot": "ExSkill02",
+        "Level": 5,
+        "RecipeIngredientId": [
+            80753
+        ]
+    },
+    {
+        "SkillId": -499343720,
+        "SkillSlot": "ExSkill03",
+        "Level": 1,
+        "RecipeIngredientId": [
+            80743
+        ]
+    },
+    {
+        "SkillId": -499343719,
+        "SkillSlot": "ExSkill03",
+        "Level": 2,
+        "RecipeIngredientId": [
+            80750
+        ]
+    },
+    {
+        "SkillId": -499343718,
+        "SkillSlot": "ExSkill03",
+        "Level": 3,
+        "RecipeIngredientId": [
+            80751
+        ]
+    },
+    {
+        "SkillId": -499343717,
+        "SkillSlot": "ExSkill03",
+        "Level": 4,
+        "RecipeIngredientId": [
+            80752
+        ]
+    },
+    {
+        "SkillId": -499343716,
+        "SkillSlot": "ExSkill03",
+        "Level": 5,
+        "RecipeIngredientId": [
+            80753
+        ]
+    },
+    {
+        "SkillId": -499341920,
+        "SkillSlot": "Passive01",
+        "Level": 1,
+        "RecipeIngredientId": [
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0,
+            80744,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341919,
+        "SkillSlot": "Passive01",
+        "Level": 2,
+        "RecipeIngredientId": [
+            80741,
+            0,
+            80740,
+            0,
+            80742,
+            0,
+            80743,
+            0,
+            80744,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341918,
+        "SkillSlot": "Passive01",
+        "Level": 3,
+        "RecipeIngredientId": [
+            80742,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80743,
+            0,
+            80744,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341917,
+        "SkillSlot": "Passive01",
+        "Level": 4,
+        "RecipeIngredientId": [
+            80743,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80744,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341916,
+        "SkillSlot": "Passive01",
+        "Level": 5,
+        "RecipeIngredientId": [
+            80744,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341915,
+        "SkillSlot": "Passive01",
+        "Level": 6,
+        "RecipeIngredientId": [
+            80745,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341914,
+        "SkillSlot": "Passive01",
+        "Level": 7,
+        "RecipeIngredientId": [
+            80746,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341913,
+        "SkillSlot": "Passive01",
+        "Level": 8,
+        "RecipeIngredientId": [
+            80747,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341912,
+        "SkillSlot": "Passive01",
+        "Level": 9,
+        "RecipeIngredientId": [
+            80748,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    },
+    {
+        "SkillId": -499341911,
+        "SkillSlot": "Passive01",
+        "Level": 10,
+        "RecipeIngredientId": [
+            80749,
+            0,
+            80740,
+            0,
+            80741,
+            0,
+            80742,
+            0,
+            80743,
+            0
+        ]
+    }
 ]

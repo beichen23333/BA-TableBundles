@@ -1,6 +1,50 @@
 [
-    {},
-    {},
-    {},
-    {}
+    {
+        "Id": 1010001,
+        "ProductId": "com.yostarcn.bluearchive.DailyReportPack",
+        "StoreType": "GooglePlay",
+        "Price": 9800,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    },
+    {
+        "Id": 1050001,
+        "ProductId": "com.yostarcn.bluearchive.DailyReportPack",
+        "StoreType": "AppStore",
+        "Price": 9800,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    },
+    {
+        "Id": 1080001,
+        "ProductId": "com.yostarcn.bluearchive.DailyReportPack",
+        "StoreType": "Harmony",
+        "Price": 9800,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    },
+    {
+        "Id": 1110001,
+        "ProductId": "com.yostarcn.bluearchive.DailyReportPack",
+        "StoreType": "PaymentCenter",
+        "Price": 9310,
+        "PurchaseCountLimit": 1,
+        "RewardId": 9010001,
+        "ParcelType": [],
+        "ParcelId": [],
+        "ParcelAmount": [],
+        "TitleImagePath": ""
+    }
 ]

@@ -1,11 +1,74 @@
 [
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "UniqueId": 1,
+        "SeasonStartDate": "2021-12-15 14:30:00",
+        "SeasonEndDate": "2023-10-26 14:00:00",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 0,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 2,
+        "SeasonStartDate": "2023-10-26 14:10:00",
+        "SeasonEndDate": "2024-03-14 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 1,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 3,
+        "SeasonStartDate": "2024-03-14 14:10:00",
+        "SeasonEndDate": "2024-08-22 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 2,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 4,
+        "SeasonStartDate": "2024-08-22 14:10:00",
+        "SeasonEndDate": "2025-01-23 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 3,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 5,
+        "SeasonStartDate": "2025-01-23 14:10:00",
+        "SeasonEndDate": "2025-07-03 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 4,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 6,
+        "SeasonStartDate": "2025-07-03 14:10:00",
+        "SeasonEndDate": "2025-12-04 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 5,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 7,
+        "SeasonStartDate": "2025-12-04 14:10:00",
+        "SeasonEndDate": "2026-04-09 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 6,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 8,
+        "SeasonStartDate": "2026-04-09 14:10:00",
+        "SeasonEndDate": "2026-08-13 13:59:59",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 7,
+        "InformationGroupId": 0
+    },
+    {
+        "UniqueId": 9,
+        "SeasonStartDate": "2026-08-13 14:10:00",
+        "SeasonEndDate": "2100-01-01 14:00:00",
+        "SeasonGroupLimit": 15000,
+        "PrevSeasonId": 8,
+        "InformationGroupId": 0
+    }
 ]
