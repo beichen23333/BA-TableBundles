@@ -1,0 +1,34 @@
+[
+    {
+        "GroundId": 2072880425,
+        "FixedEchelonId": 2057264657
+    },
+    {
+        "GroundId": 2072880425,
+        "FixedEchelonId": 2062522685
+    },
+    {
+        "GroundId": 2072880517,
+        "FixedEchelonId": 2057264657
+    },
+    {
+        "GroundId": 2072880517,
+        "FixedEchelonId": 2062522685
+    },
+    {
+        "GroundId": 2072880609,
+        "FixedEchelonId": 2057264657
+    },
+    {
+        "GroundId": 2072880609,
+        "FixedEchelonId": 2062522685
+    },
+    {
+        "GroundId": 2072880253,
+        "FixedEchelonId": 2057264657
+    },
+    {
+        "GroundId": 2072880253,
+        "FixedEchelonId": 2062522685
+    }
+]

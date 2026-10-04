@@ -1,0 +1,54 @@
+[
+    {
+        "GroupId": 23600527,
+        "SelectionGroup": 23600517,
+        "BGMId": 23600738,
+        "Sound": "",
+        "Transition": 23600517,
+        "BGName": 421018790,
+        "BGEffect": 23600517,
+        "PopupFileName": "",
+        "ScriptKr": "#na;이펙트 확인",
+        "TextJp": "",
+        "VoiceId": ""
+    },
+    {
+        "GroupId": 23600527,
+        "SelectionGroup": 23600517,
+        "BGMId": 23600517,
+        "Sound": "",
+        "Transition": 23600517,
+        "BGName": 23600517,
+        "BGEffect": 838622796,
+        "PopupFileName": "",
+        "ScriptKr": "3;세리카;12;눈감음",
+        "TextJp": "",
+        "VoiceId": ""
+    },
+    {
+        "GroupId": 23600527,
+        "SelectionGroup": 23600517,
+        "BGMId": 23600517,
+        "Sound": "",
+        "Transition": 23600517,
+        "BGName": 23600517,
+        "BGEffect": 632243508,
+        "PopupFileName": "",
+        "ScriptKr": "3;세리카;12;간식비",
+        "TextJp": "",
+        "VoiceId": ""
+    },
+    {
+        "GroupId": 23600527,
+        "SelectionGroup": 23600517,
+        "BGMId": 23600517,
+        "Sound": "",
+        "Transition": 23600517,
+        "BGName": 1024057091,
+        "BGEffect": 23600517,
+        "PopupFileName": "",
+        "ScriptKr": "#na;아로나;테스트 종료",
+        "TextJp": "",
+        "VoiceId": ""
+    }
+]

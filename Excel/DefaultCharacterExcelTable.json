@@ -1,0 +1,58 @@
+[
+    {
+        "CharacterId": 1855076412,
+        "FavoriteCharacter": false,
+        "Level": 1855064815,
+        "Exp": 1855064814,
+        "FavorExp": 1855064814,
+        "FavorRank": 1855064815,
+        "StarGrade": 1855064812,
+        "ExSkillLevel": 1855064815,
+        "PassiveSkillLevel": 1855064815,
+        "ExtraPassiveSkillLevel": 1855064815,
+        "CommonSkillLevel": 1855064815,
+        "LeaderSkillLevel": 1855064815
+    },
+    {
+        "CharacterId": 1855075437,
+        "FavoriteCharacter": false,
+        "Level": 1855064815,
+        "Exp": 1855064814,
+        "FavorExp": 1855064814,
+        "FavorRank": 1855064815,
+        "StarGrade": 1855064815,
+        "ExSkillLevel": 1855064815,
+        "PassiveSkillLevel": 1855064815,
+        "ExtraPassiveSkillLevel": 1855064815,
+        "CommonSkillLevel": 1855064815,
+        "LeaderSkillLevel": 1855064815
+    },
+    {
+        "CharacterId": 1855076389,
+        "FavoriteCharacter": true,
+        "Level": 1855064815,
+        "Exp": 1855064814,
+        "FavorExp": 1855064814,
+        "FavorRank": 1855064815,
+        "StarGrade": 1855064812,
+        "ExSkillLevel": 1855064815,
+        "PassiveSkillLevel": 1855064815,
+        "ExtraPassiveSkillLevel": 1855064815,
+        "CommonSkillLevel": 1855064815,
+        "LeaderSkillLevel": 1855064815
+    },
+    {
+        "CharacterId": 1855090558,
+        "FavoriteCharacter": false,
+        "Level": 1855064815,
+        "Exp": 1855064814,
+        "FavorExp": 1855064814,
+        "FavorRank": 1855064815,
+        "StarGrade": 1855064815,
+        "ExSkillLevel": 1855064815,
+        "PassiveSkillLevel": 1855064815,
+        "ExtraPassiveSkillLevel": 1855064815,
+        "CommonSkillLevel": 1855064815,
+        "LeaderSkillLevel": 1855064815
+    }
+]

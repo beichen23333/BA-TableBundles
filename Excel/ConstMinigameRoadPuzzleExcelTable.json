@@ -1,0 +1,18 @@
+[
+    {
+        "RoadPuzzleMapBoundaryOffsetLeft": -10109.67437,
+        "RoadPuzzleMapBoundaryOffsetRight": -10109.67437,
+        "RoadPuzzleMapBoundaryOffsetTop": 10109.674490000001,
+        "RoadPuzzleMapBoundaryOffsetBottom": 10109.674490000001,
+        "RoadPuzzleMapCenterOffsetX": 10109.67437,
+        "RoadPuzzleMapCenterOffsetY": 10109.67437,
+        "CameraAngle": -10109.67444,
+        "CameraZoomMax": 10109.67429,
+        "CameraZoomMin": 10109.67432,
+        "CameraZoomDefault": 10109.67429,
+        "StageLoadingProgressTime": 10109.67438,
+        "TileRotationDegree": 1010967437,
+        "StartStageIndex": 1010967436,
+        "LoopStageIndex": 1010967434
+    }
+]
