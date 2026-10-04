@@ -1,0 +1,50 @@
+[
+    {
+        "GroundId": 847230101,
+        "FixedEchelonId": 9991
+    },
+    {
+        "GroundId": 847230201,
+        "FixedEchelonId": 9991
+    },
+    {
+        "GroundId": 847230301,
+        "FixedEchelonId": 9991
+    },
+    {
+        "GroundId": 847230401,
+        "FixedEchelonId": 9991
+    },
+    {
+        "GroundId": 847230501,
+        "FixedEchelonId": 9992
+    },
+    {
+        "GroundId": 847230601,
+        "FixedEchelonId": 9992
+    },
+    {
+        "GroundId": 847230701,
+        "FixedEchelonId": 9992
+    },
+    {
+        "GroundId": 847230801,
+        "FixedEchelonId": 9992
+    },
+    {
+        "GroundId": 847230901,
+        "FixedEchelonId": 9993
+    },
+    {
+        "GroundId": 847231001,
+        "FixedEchelonId": 9993
+    },
+    {
+        "GroundId": 847231101,
+        "FixedEchelonId": 9993
+    },
+    {
+        "GroundId": 847231201,
+        "FixedEchelonId": 9993
+    }
+]

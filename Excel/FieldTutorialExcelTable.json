@@ -1,0 +1,92 @@
+[
+    {
+        "SeasonId": 833,
+        "TutorialType": [
+            "QuestHUD",
+            "WorldMapHUD",
+            "MasteryHUD"
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            1695721576,
+            1993516122,
+            1695921576
+        ]
+    },
+    {
+        "SeasonId": 10833,
+        "TutorialType": [
+            "QuestHUD",
+            "WorldMapHUD",
+            "MasteryHUD"
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            1695721576,
+            1993516122,
+            1695921576
+        ]
+    },
+    {
+        "SeasonId": 900833,
+        "TutorialType": [
+            "QuestHUD",
+            "WorldMapHUD",
+            "MasteryHUD"
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            1695721576,
+            1993516122,
+            1695921576
+        ]
+    },
+    {
+        "SeasonId": 843,
+        "TutorialType": [
+            "QuestHUD",
+            "WorldMapHUD",
+            "MasteryHUD"
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            -1599245620,
+            1993516122,
+            -1599245420
+        ]
+    },
+    {
+        "SeasonId": 10843,
+        "TutorialType": [
+            "QuestHUD",
+            "WorldMapHUD",
+            "MasteryHUD"
+        ],
+        "ConditionType": [
+            "Interaction",
+            "Interaction",
+            "Interaction"
+        ],
+        "ConditionId": [
+            -1599245620,
+            1993516122,
+            -1599245420
+        ]
+    }
+]
