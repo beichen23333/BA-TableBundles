@@ -6559,46 +6559,6 @@
         "ShopUpdateGroupId": 0
     },
     {
-        "Id": 20264,
-        "LocalizeEtcId": 4161546442,
-        "CategoryType": 1.401298464324817e-45,
-        "IsLegacy": false,
-        "UseBigPopup": false,
-        "GoodsId": [
-            20264
-        ],
-        "DisplayOrder": 999,
-        "SalePeriodFrom": "",
-        "SalePeriodTo": "",
-        "PurchaseCooltimeMin": 0,
-        "PurchaseCountLimit": 900,
-        "PurchaseCountResetType": "None_",
-        "BuyReportEventName": "",
-        "RestrictBuyWhenInventoryFull": false,
-        "DisplayTag": "None_",
-        "ShopUpdateGroupId": 0
-    },
-    {
-        "Id": 20265,
-        "LocalizeEtcId": 211216920,
-        "CategoryType": 1.401298464324817e-45,
-        "IsLegacy": false,
-        "UseBigPopup": false,
-        "GoodsId": [
-            20265
-        ],
-        "DisplayOrder": 999,
-        "SalePeriodFrom": "",
-        "SalePeriodTo": "",
-        "PurchaseCooltimeMin": 0,
-        "PurchaseCountLimit": 900,
-        "PurchaseCountResetType": "None_",
-        "BuyReportEventName": "",
-        "RestrictBuyWhenInventoryFull": false,
-        "DisplayTag": "None_",
-        "ShopUpdateGroupId": 0
-    },
-    {
         "Id": 50000,
         "LocalizeEtcId": 753025034,
         "CategoryType": 2.942726775082116e-44,
@@ -130204,49 +130164,6 @@
             90010559,
             0,
             90010560
-        ],
-        "DisplayOrder": 1,
-        "SalePeriodFrom": "",
-        "SalePeriodTo": "",
-        "PurchaseCooltimeMin": 0,
-        "PurchaseCountLimit": 0,
-        "PurchaseCountResetType": "None_",
-        "BuyReportEventName": "",
-        "RestrictBuyWhenInventoryFull": false,
-        "DisplayTag": "None_",
-        "ShopUpdateGroupId": 0
-    },
-    {
-        "Id": 90010281,
-        "LocalizeEtcId": 3308377822,
-        "CategoryType": 1.6815581571897805e-44,
-        "IsLegacy": false,
-        "UseBigPopup": false,
-        "GoodsId": [
-            90010562,
-            0
-        ],
-        "DisplayOrder": 1,
-        "SalePeriodFrom": "",
-        "SalePeriodTo": "",
-        "PurchaseCooltimeMin": 0,
-        "PurchaseCountLimit": 0,
-        "PurchaseCountResetType": "None_",
-        "BuyReportEventName": "",
-        "RestrictBuyWhenInventoryFull": false,
-        "DisplayTag": "None_",
-        "ShopUpdateGroupId": 0
-    },
-    {
-        "Id": 90016000,
-        "LocalizeEtcId": 1336178018,
-        "CategoryType": 1.6815581571897805e-44,
-        "IsLegacy": false,
-        "UseBigPopup": true,
-        "GoodsId": [
-            900101900,
-            0,
-            900101901
         ],
         "DisplayOrder": 1,
         "SalePeriodFrom": "",
