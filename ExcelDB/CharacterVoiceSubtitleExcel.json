@@ -58012,5 +58012,752 @@
         "LocalizeKR": "好啦，下一个下一个！",
         "LocalizeJP": "",
         "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "感谢您的辅助魔法！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "屏障魔法！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "魔法闪避！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来，要我施展哪种魔法呢？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "前往阿尔卡那指引的地方……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "今天的指引……就是这里！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "只要有魔法，哪里都能去！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呀吼，魔力涌现！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呦呼呼！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "不愧是大师！出色的指挥！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呦呼呼，这就是胜利的魔法！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CommonSkill",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "阿，阿布拉卡达布拉……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "抽到了。最好的牌……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "让你看看，魔法的力量吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_3",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "愿阿尔卡那给于给予指引！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "星辰啊……闪耀吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "阿尔卡那呀……\n化作决胜王牌吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "神圣的波动……\n在此降临……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "没有我的魔法就开始不了吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来，一起创造奇迹吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_Select",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "快看！飞行魔法成功啦！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "哦……能感觉到魔力在涌上来！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "您激发出了我的潜在魔力呀！大师！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_3",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "希望我的画技也能变得这么娴熟……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_4",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我会勤加练习！\n无论是魔力……还是画技！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这是……大师对我的心意？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "突然心跳加速了……？！\n大，大师……您使用了魅惑魔法吗？！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "大，大师……这种心情……\n占卜里也从未遇到过……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "大师的话语蕴藏着神奇的魔力……\n让我来借助这股魔力，完成画作吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我的魔法加上大师的指挥，定能所向披靡！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来，请欣赏我惊人的魔法吧！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "呦呼……这次的结果，我早已在占卜中预见！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10125,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "请期待下一个魔法吧！呦呼呼。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻，谢谢。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "略略~",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "让你见识一下……我的炼金术吧。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_In_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "命运……指引着我们。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "那个方向……也能感受到命运。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "像幽灵一样……静悄悄地……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "身体……暖和起来了。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "通——过。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻，这也是命运。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "只有相信神秘学的人，才会赢哦。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CommonSkill",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "砰~",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "来一杯……怎么样？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这个……很推荐哦。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_3",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我保证，是对身体有益的哦……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻……是这样啊……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "明明很好喝诶……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嗯，那我来喝下它吧……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "果然，还是，需要我呀……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "在前世……你也曾选择了我呢。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_Select",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "咿嘻嘻……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "要是个子也能长高……就好了。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "灵魂正在起舞呢……嘻嘻。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_3",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "炼金术的可能性……又扩展了。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_4",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "新的实验……要不要尝试一下呢？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "啊啊，老师！庚~真的好开心啊！\n……这怎么样？嘻嘻。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻……老师……\n还是和“那时候”一样呢。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我，我只有老师了……\n这不是在表演哦，是事实。\n谢，谢谢……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻……咿嘻咿嘻嘻……！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我会……像前世那样守护着你的。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我的手虽然冰冷……可思绪却很火热呢。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "是和“那时候”一样的结果呢……嘻嘻。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+        "CharacterVoiceGroupId": 10126,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "嘻嘻，这场胜利……也是命中注定的。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_CommonSkill",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我，我只是以防万一才带来的！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_1",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我看看……\n哇？！\n还好……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_2",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这样的话……\n啊？！\n呼……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_3",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好了吗……？\n不行！\n还好没事……",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "水流向大海。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "水弹，发射。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "沉下去吧。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_1",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "大海……好无聊。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_In_2",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "唉……老师会负责的对吧？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Formation_Select",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "知道了。事已至此，\n我就陪老师玩玩吧。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_1",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "好无聊。\n你要负责让我开心起来。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_2",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "反正是老师把我变成这样的。\n你想想办法吧？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_3",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "这样好像也不错……\n算了，刚才的话收回。忘了吧。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Growup_4",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "怎么用那种表情看我。\n我可没在享受。真的。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "等一下，不要看我。\n才不是因为害羞，绝对不是！",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "我承认，行了吧？\n不好是不好……不过也还不算太坏。",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "老师，如果……我是说如果，\n明天真的没有那么糟糕的话……\n你能一直证明给我看吗？",
+        "LocalizeJP": "",
+        "DurationCN": 0
+    },
+    {
+        "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+        "CharacterVoiceGroupId": 20049,
+        "Duration": 0,
+        "Separate": false,
+        "LocalizeKR": "反正老师把我变成这样，\n也不会负责一辈子吧。\n嗯？你说什么都愿意做？\n你知道自己刚才说了什么吗？！",
+        "LocalizeJP": "",
+        "DurationCN": 0
     }
 ]

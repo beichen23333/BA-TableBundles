@@ -13944,6 +13944,78 @@
         "GachaPeriodCN": "2026/10/08 14:00~2026/10/22  13:59截止"
     },
     {
+        "GachaShopId": 5004570,
+        "TabNameKr": "长期招募",
+        "TabNameJp": "",
+        "TitleNameKr": "长期招募",
+        "TitleNameJp": "",
+        "SubTitleKr": "来招募更多个性迥异的成员吧！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
+        "GachaShopId": 5004580,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "康娜（泳装）（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
+        "GachaShopId": 5004590,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "吹雪（泳装）（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
+        "GachaShopId": 5004600,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "宫子（泳装）（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
+        "GachaShopId": 5004610,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "咲（泳装）（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
+        "GachaShopId": 5004620,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "萌绘（泳装）（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
         "GachaShopId": 6000000,
         "TabNameKr": "3★必得",
         "TabNameJp": "",
@@ -14407,7 +14479,7 @@
         "TitleNameJp": "",
         "SubTitleKr": "购买3★成员自选券后，可以选择成员进行招募。",
         "SubTitleJp": "",
-        "GachaDescriptionKr": "购买后将获得1张10次招募券和1张3★成员自选券。\n该商品每个帐号只能购买1次。\n※选择已拥有的成员后，可以获得神名精髓与该成员的神名文字\n可选择的成员名单可以在选择成员的菜单上确认。\n购买的自选券的有效期是可购买时间结束一周后的下午14:00点前。",
+        "GachaDescriptionKr": "购买后将获得1张10次招募券和1张3★成员自选券。\n该商品每个帐号只能购买1次。\n※选择已拥有的成员后，可以获得神名精髓与该成员的神名文字。\n可选择的成员名单可以在选择成员的菜单上确认。\n购买的自选券的有效期是可购买时间结束一周后的下午14:00点前。",
         "GachaDescriptionJp": "",
         "GachaPeriodCN": "2026/09/24 14:00~2027/06/10  13:59截止"
     },
@@ -14592,6 +14664,18 @@
         "GachaPeriodCN": "2026/10/08 14:00~2026/10/22  13:59截止"
     },
     {
+        "GachaShopId": 10000003,
+        "TabNameKr": "3★限定必得",
+        "TabNameJp": "",
+        "TitleNameKr": "3★限定成员必得招募",
+        "TitleNameJp": "",
+        "SubTitleKr": "来招募更多个性迥异的成员吧！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "必定获得1名3★成员！\n※在该招募中只能进行1次招募，且只会获得限定成员。\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
+    },
+    {
         "GachaShopId": 70000000,
         "TabNameKr": "返场招募！",
         "TabNameJp": "",
@@ -14625,6 +14709,6 @@
         "SubTitleJp": "",
         "GachaDescriptionKr": "选择招募10次，必定获得1名3★成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
         "GachaDescriptionJp": "",
-        "GachaPeriodCN": "2026/09/24 14:00~2026/10/22  13:59截止"
+        "GachaPeriodCN": "2026/10/08 14:00~2026/10/29  13:59截止"
     }
 ]

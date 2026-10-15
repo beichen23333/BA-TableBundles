@@ -3697,7 +3697,7 @@
     },
     {
         "Key": 2088433857,
-        "NameKr": "等离子场产生装置",
+        "NameKr": "等离子场制造装置",
         "DescriptionKr": "(X)",
         "NameJp": "",
         "DescriptionJp": ""
@@ -11370,7 +11370,7 @@
     {
         "Key": 1158136851,
         "NameKr": "活动挑战关卡3提示",
-        "DescriptionKr": "当所有等离子场发生装置的体力大于0时，敌人的护盾会消失。\n等离子场发生装置的体力每7秒减少25%，因此需要持续恢复。",
+        "DescriptionKr": "当所有等离子场制造装置的体力大于0时，敌人的护盾会消失。\n等离子场制造装置的体力每7秒减少25%，因此需要持续恢复。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -11384,7 +11384,7 @@
     {
         "Key": 2701404947,
         "NameKr": "活动挑战关卡1提示",
-        "DescriptionKr": "舍监队员们会将艾利作为目标围攻过来。请保护好艾利，并击败围攻过来的舍监队员们。",
+        "DescriptionKr": "舍监队员们会向艾利围攻过来。请保护好艾利，并击败围攻过来的舍监队员们。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -21464,28 +21464,28 @@
     {
         "Key": 2554123819,
         "NameKr": "初级战术教育光盘\n（SRT）",
-        "DescriptionKr": "把SRT学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将SRT女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1544663603,
         "NameKr": "中级战术教育光盘\n（SRT）",
-        "DescriptionKr": "把SRT学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将SRT女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 984972513,
         "NameKr": "高级战术教育光盘\n（SRT）",
-        "DescriptionKr": "把SRT学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将SRT女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1194906391,
         "NameKr": "特级战术教育光盘\n（SRT）",
-        "DescriptionKr": "把SRT学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将SRT女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -26273,28 +26273,28 @@
     {
         "Key": 2853101100,
         "NameKr": "初级战术教育光盘\n（狂猎）",
-        "DescriptionKr": "把狂猎学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将狂猎女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1042489897,
         "NameKr": "中级战术教育光盘\n（狂猎）",
-        "DescriptionKr": "把狂猎学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将狂猎女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 145053104,
         "NameKr": "高级战术教育光盘\n（狂猎）",
-        "DescriptionKr": "把狂猎学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将狂猎女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 735383478,
         "NameKr": "特级战术教育光盘\n（狂猎）",
-        "DescriptionKr": "把狂猎学员的战术活动记录成影片的教育用光盘。",
+        "DescriptionKr": "将狂猎女生们进行的战术活动以视频形式记录下来的教育用光盘。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -32516,7 +32516,7 @@
     },
     {
         "Key": 556604040,
-        "NameKr": "触控手表",
+        "NameKr": "触屏手表",
         "DescriptionKr": "搭载了触摸屏的手表。可以移植并运行各种游戏，不过性能只能说是勉强运行的水平。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -32579,7 +32579,7 @@
     },
     {
         "Key": 1344263256,
-        "NameKr": "触控手表设计图",
+        "NameKr": "触屏手表设计图",
         "DescriptionKr": "可制作装备的设计图。",
         "NameJp": "",
         "DescriptionJp": ""
@@ -34862,21 +34862,21 @@
     {
         "Key": 554659675,
         "NameKr": "庚的热巧克力",
-        "DescriptionKr": "庚制作的热巧克力。看起来可疑但非常美味。",
+        "DescriptionKr": "庚制作的热巧克力。看起来有些诡异，但味道非常不错。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 1684697,
         "NameKr": "纺的乐谱",
-        "DescriptionKr": "纺记录自己曲子的乐谱。曲风相当多样。",
+        "DescriptionKr": "纺用来记录自己创作的曲子的乐谱，曲风相当多样。",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 3093289216,
         "NameKr": "莱娜的线团",
-        "DescriptionKr": "莱娜制作服装时使用的线团。蕴含多种可能性。",
+        "DescriptionKr": "莱娜制作服装时使用的线团，其中蕴藏着多种可能性。",
         "NameJp": "",
         "DescriptionJp": ""
     },
@@ -34939,14 +34939,14 @@
     {
         "Key": 2325711709,
         "NameKr": "可疑的坩埚",
-        "DescriptionKr": "沸腾着可疑液体的锅釜。意外地，或许尝起来还不错？",
+        "DescriptionKr": "一口煮着可疑液体的大锅。说不定尝起来会很美味？",
         "NameJp": "",
         "DescriptionJp": ""
     },
     {
         "Key": 2818960363,
         "NameKr": "魔法飞毯循环扇",
-        "DescriptionKr": "华丽的魔法地毯与循环扇组合。即使静止不动，也能感受到魔法的效果。",
+        "DescriptionKr": "华丽的魔法飞毯和循环扇套装。哪怕只是站着不动，也能感受到魔法的效果。",
         "NameJp": "",
         "DescriptionJp": ""
     },

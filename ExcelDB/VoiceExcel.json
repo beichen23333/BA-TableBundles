@@ -141555,5 +141555,83 @@
         "Volume": [
             1.0
         ]
+    },
+    {
+        "UniqueId": 10890,
+        "Id": 1287578539,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0268/CH0268_Season_ChineseNewYear"
+        ],
+        "Volume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 10891,
+        "Id": 3038192698,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0268/CH0268_Season_MidAutumn"
+        ],
+        "Volume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 10892,
+        "Id": 578022451,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0304/CH0304_Season_ChineseNewYear"
+        ],
+        "Volume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 10893,
+        "Id": 3441188379,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0304/CH0304_Season_MidAutumn"
+        ],
+        "Volume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 10894,
+        "Id": 2468550289,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0306/CH0306_Season_ChineseNewYear"
+        ],
+        "Volume": [
+            1.0
+        ]
+    },
+    {
+        "UniqueId": 10895,
+        "Id": 3149612278,
+        "Nation": [
+            "All"
+        ],
+        "Path": [
+            "Audio/VOC_CN/CH0306/CH0306_Season_MidAutumn"
+        ],
+        "Volume": [
+            1.0
+        ]
     }
 ]

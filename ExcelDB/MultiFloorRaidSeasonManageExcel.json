@@ -222,5 +222,19 @@
         "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00003",
         "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00003",
         "PlayTip": "UI_MultiFloorRaid_FloorList_Tipereth_PlayTipLabel"
+    },
+    {
+        "SeasonId": 17,
+        "LobbyEnterScenario": 0,
+        "ShowLobbyBanner": false,
+        "SeasonStartDate": "2026-10-30 14:00:00",
+        "EndNoteLabelStartDate": "2026-11-15 04:00:00",
+        "SeasonEndDate": "2026-11-26 03:59:59",
+        "SettlementEndDate": "2026-11-27 13:59:59",
+        "OpenRaidBossGroupId": "EN0009",
+        "EnterScenarioKey": 242141529,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel"
     }
 ]
