@@ -9126,6 +9126,51 @@
         ]
     },
     {
+        "Id": 1738,
+        "ProductId": "com.yostarjp.bluearchive.r96_support_tsumugi_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
         "Id": 1739,
         "ProductId": "com.yostarjp.bluearchive.r96_202609_favor_starup_3000",
         "StoreType": "GooglePlay",
@@ -18540,6 +18585,51 @@
         ]
     },
     {
+        "Id": 5738,
+        "ProductId": "com.yostarjp.bluearchive.r96_support_tsumugi_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
         "Id": 5739,
         "ProductId": "com.yostarjp.bluearchive.r96_202609_favor_starup_3000",
         "StoreType": "AppStore",
@@ -22475,6 +22565,51 @@
     {
         "Id": 101730,
         "ProductId": "com.yostarjp.bluearchive.r96_support_erina_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 101731,
+        "ProductId": "com.yostarjp.bluearchive.r96_support_tsumugi_4900",
         "StoreType": "PaymentCenter",
         "Price": 4900,
         "PriceReference": "",
@@ -31932,6 +32067,51 @@
         ]
     },
     {
+        "Id": 105738,
+        "ProductId": "com.yostarjp.bluearchive.r96_support_tsumugi_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
         "Id": 105739,
         "ProductId": "com.yostarjp.bluearchive.r96_202609_favor_starup_3000",
         "StoreType": "PCStore",
@@ -32910,6 +33090,222 @@
         ]
     },
     {
+        "Id": 3010020,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tsumugi_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10152,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010021,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_eri_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10125,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010022,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanoe_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10126,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010023,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_miyako_swim_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10071,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010024,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_saki_swim_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10072,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010025,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_marina_qipao_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10103,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010026,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tomoe_qipao_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20038,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010027,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanna_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20023,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010028,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_noa_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10052,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
         "Id": 3050001,
         "ProductId": "com.yostarjp.bluearchive.r94_5.5_eleph_makoto_swim_3000",
         "StoreType": "AppStore",
@@ -33366,6 +33762,222 @@
         ]
     },
     {
+        "Id": 3050020,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tsumugi_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10152,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050021,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_eri_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10125,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050022,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanoe_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10126,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050023,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_miyako_swim_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10071,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050024,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_saki_swim_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10072,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050025,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_marina_qipao_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10103,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050026,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tomoe_qipao_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20038,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050027,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanna_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20023,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050028,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_noa_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10052,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
         "Id": 3150001,
         "ProductId": "com.yostarjp.bluearchive.r94_5.5_eleph_makoto_swim_3000",
         "StoreType": "PCStore",
@@ -33812,6 +34424,222 @@
         ],
         "ParcelId": [
             20062,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150020,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tsumugi_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10152,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150021,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_eri_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10125,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150022,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanoe_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10126,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150023,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_miyako_swim_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10071,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150024,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_saki_swim_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10072,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150025,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_marina_qipao_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10103,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150026,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_tomoe_qipao_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20038,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150027,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_kanna_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20023,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150028,
+        "ProductId": "com.yostarjp.bluearchive.r96_eleph_noa_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10052,
             0,
             23
         ],

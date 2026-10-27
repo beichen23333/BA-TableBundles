@@ -5912,6 +5912,14 @@
         "GoodsId": 20275
     },
     {
+        "Id": 20276,
+        "CategoryType": 1.401298464324817e-45,
+        "ConsumeParcelType": "Item",
+        "ConsumeParcelId": 23,
+        "ShopFilterType": 3.363116314379561e-44,
+        "GoodsId": 20276
+    },
+    {
         "Id": 50000,
         "CategoryType": 2.942726775082116e-44,
         "ConsumeParcelType": "Item",
