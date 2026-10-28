@@ -92782,9 +92782,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101170
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -92829,9 +92827,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101171
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -92876,9 +92872,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101172
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -92923,9 +92917,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101173
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -92970,9 +92962,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101174
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -93017,9 +93007,7 @@
         "StartableEndDate": "",
         "DateAutoRefer": "None_",
         "DisplayOrder": 101000,
-        "PreMissionId": [
-            101175
-        ],
+        "PreMissionId": [],
         "TargetGroup": "Normal",
         "AccountLevel": 1,
         "ContentTags": [],
@@ -144865,6 +144853,246 @@
         ],
         "MissionRewardAmount": [
             20
+        ]
+    },
+    {
+        "Id": 400041,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014010"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014010
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            15
+        ]
+    },
+    {
+        "Id": 400042,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014020"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014020
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            15
+        ]
+    },
+    {
+        "Id": 400043,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014030"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014030
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            15
+        ]
+    },
+    {
+        "Id": 400044,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014040"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014040
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            15
+        ]
+    },
+    {
+        "Id": 400045,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014050"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014050
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            15
+        ]
+    },
+    {
+        "Id": 400046,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-27 11:00:00",
+        "EndDate": "2026-11-10 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70014060"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70014060
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            25
         ]
     },
     {

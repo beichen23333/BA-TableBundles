@@ -13056,6 +13056,47 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 91000055,
+        "GroupId": 91000055,
+        "Rarity": "SSR",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3969505158,
+        "ItemCategory": "Favor",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Favor_SSR_GL_22",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 20,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "System",
+        "ExpiryChangeParcelType": "None_",
+        "ExpiryChangeId": 0,
+        "ExpiryChangeAmount": 0,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [
+            "BC",
+            "Bc"
+        ],
+        "IsCollaboration": true,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 3,
+        "ShopCategory": [],
+        "ExpirationDateTime": "",
+        "ExpirationNotifyDateIn": 0,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 6000,
         "GroupId": 6000,
         "Rarity": "SSR",
@@ -23150,7 +23191,8 @@
         "ShiftingCraftQuality": 0,
         "MaxGiftTags": 0,
         "ShopCategory": [
-            1.401298464324817e-45
+            1.401298464324817e-45,
+            2.802596928649634e-44
         ],
         "ExpirationDateTime": "",
         "ExpirationNotifyDateIn": 0,
@@ -45426,6 +45468,82 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 90070176,
+        "GroupId": 90070176,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-03 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 90070177,
+        "GroupId": 90070177,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3308377822,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_0",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-10 11:00:00",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 90076000,
         "GroupId": 90076000,
         "Rarity": "N",
@@ -45532,6 +45650,44 @@
         "MaxGiftTags": 0,
         "ShopCategory": [],
         "ExpirationDateTime": "2026-05-12 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 90078001,
+        "GroupId": 90078001,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2814968857,
+        "ItemCategory": "RecruitCoin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_RecruitCoin_2",
+        "SpriteName": "",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Item",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-03 10:59:59",
         "ExpirationNotifyDateIn": 1,
         "IsOverrideExpiration": false,
         "ShortcutTypeId": 0,
@@ -57356,6 +57512,44 @@
         "ShiftingCraftRecipe": 0
     },
     {
+        "Id": 80850,
+        "GroupId": 80850,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 4287098248,
+        "ItemCategory": "Coin",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_60000",
+        "SpriteName": "Common_Icon_Event_Token_0_60000",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-17 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
         "Id": 85000,
         "GroupId": 85000,
         "Rarity": "N",
@@ -63870,6 +64064,158 @@
         "MaxGiftTags": 0,
         "ShopCategory": [],
         "ExpirationDateTime": "2026-10-20 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85410,
+        "GroupId": 85410,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2663393436,
+        "ItemCategory": "Coin",
+        "Quality": 1,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_0_S48",
+        "SpriteName": "Common_Icon_Event_Token_0_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-17 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85411,
+        "GroupId": 85411,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 2161564079,
+        "ItemCategory": "Coin",
+        "Quality": 2,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_1_S48",
+        "SpriteName": "Common_Icon_Event_Token_1_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-17 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85412,
+        "GroupId": 85412,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 926350146,
+        "ItemCategory": "Coin",
+        "Quality": 3,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_2_S48",
+        "SpriteName": "Common_Icon_Event_Token_2_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-17 10:59:59",
+        "ExpirationNotifyDateIn": 1,
+        "IsOverrideExpiration": false,
+        "ShortcutTypeId": 0,
+        "GachaTicket": "None_",
+        "AlertPopupId": 0,
+        "ShiftingCraftRecipe": 0
+    },
+    {
+        "Id": 85413,
+        "GroupId": 85413,
+        "Rarity": "N",
+        "ProductionStep": "Release",
+        "LocalizeEtcId": 3050818841,
+        "ItemCategory": "Coin",
+        "Quality": 4,
+        "Icon": "UIs/01_Common/03_NonEquipment/Item_Icon_Event_Token_3_S48",
+        "SpriteName": "Common_Icon_Event_Token_3_S48",
+        "StackableMax": 999999,
+        "StackableFunction": 0,
+        "ImmediateUse": false,
+        "UsingResultParcelType": "None_",
+        "UsingResultId": 0,
+        "UsingResultAmount": 0,
+        "MailType": "ExpiryChangeItem",
+        "ExpiryChangeParcelType": "Currency",
+        "ExpiryChangeId": 1,
+        "ExpiryChangeAmount": 1,
+        "CanTierUpgrade": false,
+        "TierUpgradeRecipeCraftId": 0,
+        "Tags": [],
+        "IsCollaboration": false,
+        "CraftQualityTier0": 0,
+        "CraftQualityTier1": 0,
+        "CraftQualityTier2": 0,
+        "ShiftingCraftQuality": 0,
+        "MaxGiftTags": 0,
+        "ShopCategory": [],
+        "ExpirationDateTime": "2026-11-17 10:59:59",
         "ExpirationNotifyDateIn": 1,
         "IsOverrideExpiration": false,
         "ShortcutTypeId": 0,
@@ -81155,7 +81501,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81193,7 +81541,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81231,7 +81581,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81269,7 +81621,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81307,7 +81661,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81345,7 +81701,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81383,7 +81741,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81421,7 +81781,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81459,7 +81821,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81497,7 +81861,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81535,7 +81901,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81573,7 +81941,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81611,7 +81981,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81729,7 +82101,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81767,7 +82141,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81805,7 +82181,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81843,7 +82221,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81881,7 +82261,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81919,7 +82301,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81957,7 +82341,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -81995,7 +82381,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82033,7 +82421,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82071,7 +82461,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82109,7 +82501,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82147,7 +82541,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82185,7 +82581,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82223,7 +82621,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82261,7 +82661,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82299,7 +82701,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82337,7 +82741,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82375,7 +82781,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82413,7 +82821,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82451,7 +82861,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82489,7 +82901,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82527,7 +82941,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82565,7 +82981,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82603,7 +83021,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82641,7 +83061,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82679,7 +83101,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82717,7 +83141,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82755,7 +83181,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82793,7 +83221,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82831,7 +83261,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82869,7 +83301,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82907,7 +83341,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82945,7 +83381,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -82983,7 +83421,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83021,7 +83461,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83059,7 +83501,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83097,7 +83541,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83135,7 +83581,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83173,7 +83621,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83211,7 +83661,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83249,7 +83701,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83287,7 +83741,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83445,7 +83901,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83483,7 +83941,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83681,7 +84141,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83719,7 +84181,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83757,7 +84221,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83795,7 +84261,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83833,7 +84301,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83871,7 +84341,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83909,7 +84381,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83947,7 +84421,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -83985,7 +84461,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -84023,7 +84501,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -84061,7 +84541,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -84099,7 +84581,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -84137,7 +84621,9 @@
         "ExpiryChangeAmount": 0,
         "CanTierUpgrade": false,
         "TierUpgradeRecipeCraftId": 0,
-        "Tags": [],
+        "Tags": [
+            "Hx"
+        ],
         "IsCollaboration": false,
         "CraftQualityTier0": 0,
         "CraftQualityTier1": 0,
@@ -84186,7 +84672,7 @@
         "MaxGiftTags": 0,
         "ShopCategory": [],
         "ExpirationDateTime": "2026-08-31 23:59:59",
-        "ExpirationNotifyDateIn": 0,
+        "ExpirationNotifyDateIn": 3,
         "IsOverrideExpiration": false,
         "ShortcutTypeId": 0,
         "GachaTicket": "Normal",
@@ -84226,7 +84712,7 @@
         "MaxGiftTags": 0,
         "ShopCategory": [],
         "ExpirationDateTime": "2026-09-30 23:59:59",
-        "ExpirationNotifyDateIn": 0,
+        "ExpirationNotifyDateIn": 3,
         "IsOverrideExpiration": false,
         "ShortcutTypeId": 0,
         "GachaTicket": "Normal",
@@ -84266,7 +84752,7 @@
         "MaxGiftTags": 0,
         "ShopCategory": [],
         "ExpirationDateTime": "2026-11-10 04:00:00",
-        "ExpirationNotifyDateIn": 0,
+        "ExpirationNotifyDateIn": 3,
         "IsOverrideExpiration": false,
         "ShortcutTypeId": 0,
         "GachaTicket": "Normal",
