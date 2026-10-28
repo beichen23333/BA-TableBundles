@@ -372,7 +372,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -385,7 +385,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -398,7 +398,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -411,7 +411,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -1140,6 +1140,58 @@
             10000,
             0,
             10002,
+            0
+        ]
+    },
+    {
+        "BattleType": "Raid",
+        "StageId": 1153101,
+        "CharacterSettingId": 10001,
+        "CharacterId": [
+            10019,
+            0,
+            10012,
+            0,
+            13009,
+            0
+        ]
+    },
+    {
+        "BattleType": "Raid",
+        "StageId": 1153102,
+        "CharacterSettingId": 10002,
+        "CharacterId": [
+            10019,
+            0,
+            10012,
+            0,
+            13009,
+            0
+        ]
+    },
+    {
+        "BattleType": "Raid",
+        "StageId": 1153103,
+        "CharacterSettingId": 10003,
+        "CharacterId": [
+            10019,
+            0,
+            10012,
+            0,
+            13009,
+            0
+        ]
+    },
+    {
+        "BattleType": "Raid",
+        "StageId": 1153104,
+        "CharacterSettingId": 10004,
+        "CharacterId": [
+            10019,
+            0,
+            10012,
+            0,
+            13009,
             0
         ]
     },
@@ -3960,7 +4012,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -3973,7 +4025,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -3986,7 +4038,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -3999,7 +4051,7 @@
             0,
             13010,
             0,
-            10036,
+            16013,
             0
         ]
     },
@@ -5100,7 +5152,7 @@
         "StageId": 1,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5113,7 +5165,7 @@
         "StageId": 2,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5126,7 +5178,7 @@
         "StageId": 3,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5139,7 +5191,7 @@
         "StageId": 4,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5152,7 +5204,7 @@
         "StageId": 5,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5165,7 +5217,7 @@
         "StageId": 6,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5178,7 +5230,7 @@
         "StageId": 7,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5191,7 +5243,7 @@
         "StageId": 8,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5204,7 +5256,7 @@
         "StageId": 9,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5217,7 +5269,7 @@
         "StageId": 10,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5230,7 +5282,7 @@
         "StageId": 11,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5243,7 +5295,7 @@
         "StageId": 12,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5256,7 +5308,7 @@
         "StageId": 13,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5269,7 +5321,7 @@
         "StageId": 14,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5282,7 +5334,7 @@
         "StageId": 15,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5295,7 +5347,7 @@
         "StageId": 16,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5308,7 +5360,7 @@
         "StageId": 17,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5321,7 +5373,7 @@
         "StageId": 18,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5334,7 +5386,7 @@
         "StageId": 19,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5347,7 +5399,7 @@
         "StageId": 20,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5360,7 +5412,7 @@
         "StageId": 21,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5373,7 +5425,7 @@
         "StageId": 22,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5386,7 +5438,7 @@
         "StageId": 23,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5399,7 +5451,7 @@
         "StageId": 24,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5412,7 +5464,7 @@
         "StageId": 125,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5425,7 +5477,7 @@
         "StageId": 126,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5438,7 +5490,7 @@
         "StageId": 127,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5451,7 +5503,7 @@
         "StageId": 128,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5464,7 +5516,7 @@
         "StageId": 129,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5477,7 +5529,7 @@
         "StageId": 130,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5490,7 +5542,7 @@
         "StageId": 131,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5503,7 +5555,7 @@
         "StageId": 132,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5516,7 +5568,7 @@
         "StageId": 133,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5529,7 +5581,7 @@
         "StageId": 134,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5542,7 +5594,7 @@
         "StageId": 135,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5555,7 +5607,7 @@
         "StageId": 136,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5568,7 +5620,7 @@
         "StageId": 137,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5581,7 +5633,7 @@
         "StageId": 138,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5594,7 +5646,7 @@
         "StageId": 139,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5607,7 +5659,7 @@
         "StageId": 140,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5620,7 +5672,7 @@
         "StageId": 141,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5633,7 +5685,7 @@
         "StageId": 142,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5646,7 +5698,7 @@
         "StageId": 143,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5659,7 +5711,7 @@
         "StageId": 144,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5672,7 +5724,7 @@
         "StageId": 145,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5685,7 +5737,7 @@
         "StageId": 146,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5698,7 +5750,7 @@
         "StageId": 147,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,
@@ -5711,7 +5763,7 @@
         "StageId": 148,
         "CharacterSettingId": 10004,
         "CharacterId": [
-            10005,
+            10030,
             0,
             10020,
             0,

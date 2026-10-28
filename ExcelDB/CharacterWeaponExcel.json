@@ -8109,6 +8109,59 @@
         ]
     },
     {
+        "Id": 10153,
+        "ImagePath": "UIs/01_Common/04_Weapon/Weapon_Icon_10003",
+        "SetRecipe": 0,
+        "StatLevelUpType": "Standard",
+        "AttackPower": 180,
+        "AttackPower100": 1801,
+        "MaxHP": 583,
+        "MaxHP100": 5829,
+        "HealPower": 0,
+        "HealPower100": 0,
+        "Unlock": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "RecipeId": [
+            10153300,
+            0,
+            10153301,
+            0
+        ],
+        "MaxLevel": [
+            30,
+            40,
+            50,
+            60,
+            70
+        ],
+        "LearnSkillSlot": [
+            "None",
+            "Passive01",
+            "None",
+            "None",
+            "None"
+        ],
+        "StatType": [
+            "None_",
+            "None_",
+            "IndoorBattleAdaptation_Base",
+            "EnhanceExplosionRate_Base",
+            "None_"
+        ],
+        "StatValue": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
         "Id": 13000,
         "ImagePath": "UIs/01_Common/04_Weapon/Weapon_Icon_13000",
         "SetRecipe": 0,
@@ -13356,6 +13409,59 @@
         ]
     },
     {
+        "Id": 20063,
+        "ImagePath": "UIs/01_Common/04_Weapon/Weapon_Icon_10019",
+        "SetRecipe": 0,
+        "StatLevelUpType": "Standard",
+        "AttackPower": 104,
+        "AttackPower100": 1044,
+        "MaxHP": 658,
+        "MaxHP100": 6584,
+        "HealPower": 195,
+        "HealPower100": 1952,
+        "Unlock": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "RecipeId": [
+            20063300,
+            0,
+            20063301,
+            0
+        ],
+        "MaxLevel": [
+            30,
+            40,
+            50,
+            60,
+            70
+        ],
+        "LearnSkillSlot": [
+            "None",
+            "Passive01",
+            "None",
+            "None",
+            "None"
+        ],
+        "StatType": [
+            "None_",
+            "None_",
+            "IndoorBattleAdaptation_Base",
+            "MaxCostIncrease_Base",
+            "None_"
+        ],
+        "StatValue": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
         "Id": 23000,
         "ImagePath": "UIs/01_Common/04_Weapon/Weapon_Icon_23000",
         "SetRecipe": 0,
@@ -14702,6 +14808,59 @@
             26016300,
             0,
             26016301,
+            0
+        ],
+        "MaxLevel": [
+            30,
+            40,
+            50,
+            60,
+            70
+        ],
+        "LearnSkillSlot": [
+            "None",
+            "Passive01",
+            "None",
+            "None",
+            "None"
+        ],
+        "StatType": [
+            "None_",
+            "None_",
+            "OutdoorBattleAdaptation_Base",
+            "MaxCostIncrease_Base",
+            "None_"
+        ],
+        "StatValue": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "Id": 26017,
+        "ImagePath": "UIs/01_Common/04_Weapon/Weapon_Icon_CH0322",
+        "SetRecipe": 0,
+        "StatLevelUpType": "Standard",
+        "AttackPower": 97,
+        "AttackPower100": 969,
+        "MaxHP": 393,
+        "MaxHP100": 3926,
+        "HealPower": 151,
+        "HealPower100": 1509,
+        "Unlock": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "RecipeId": [
+            26017300,
+            0,
+            26017301,
             0
         ],
         "MaxLevel": [

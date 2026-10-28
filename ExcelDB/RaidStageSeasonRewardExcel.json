@@ -48367,5 +48367,824 @@
         "SeasonRewardAmount": [
             1
         ]
+    },
+    {
+        "SeasonRewardId": 8000,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            16
+        ]
+    },
+    {
+        "SeasonRewardId": 8001,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            10
+        ],
+        "SeasonRewardAmount": [
+            12
+        ]
+    },
+    {
+        "SeasonRewardId": 8002,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            200,
+            0
+        ],
+        "SeasonRewardAmount": [
+            6,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8003,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            300000
+        ]
+    },
+    {
+        "SeasonRewardId": 8004,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            2
+        ],
+        "SeasonRewardAmount": [
+            8
+        ]
+    },
+    {
+        "SeasonRewardId": 8005,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            11
+        ],
+        "SeasonRewardAmount": [
+            6
+        ]
+    },
+    {
+        "SeasonRewardId": 8006,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            201,
+            0
+        ],
+        "SeasonRewardAmount": [
+            3,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8007,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8008,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3
+        ],
+        "SeasonRewardAmount": [
+            4
+        ]
+    },
+    {
+        "SeasonRewardId": 8009,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            12
+        ],
+        "SeasonRewardAmount": [
+            3
+        ]
+    },
+    {
+        "SeasonRewardId": 8010,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            202,
+            0
+        ],
+        "SeasonRewardAmount": [
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8011,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3
+        ],
+        "SeasonRewardAmount": [
+            150
+        ]
+    },
+    {
+        "SeasonRewardId": 8012,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            4
+        ],
+        "SeasonRewardAmount": [
+            1
+        ]
+    },
+    {
+        "SeasonRewardId": 8013,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            13
+        ],
+        "SeasonRewardAmount": [
+            1
+        ]
+    },
+    {
+        "SeasonRewardId": 8014,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            203,
+            0
+        ],
+        "SeasonRewardAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8015,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8016,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1,
+            0
+        ],
+        "SeasonRewardAmount": [
+            32,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8017,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            10,
+            0
+        ],
+        "SeasonRewardAmount": [
+            24,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8018,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            200,
+            0,
+            210,
+            0
+        ],
+        "SeasonRewardAmount": [
+            12,
+            0,
+            12,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8019,
+        "SeasonRewardParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1,
+            0
+        ],
+        "SeasonRewardAmount": [
+            500000,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8020,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3,
+            0
+        ],
+        "SeasonRewardAmount": [
+            4,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8021,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            12,
+            0
+        ],
+        "SeasonRewardAmount": [
+            3,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8022,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            202,
+            0,
+            212,
+            0
+        ],
+        "SeasonRewardAmount": [
+            2,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8023,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8024,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1,
+            0
+        ],
+        "SeasonRewardAmount": [
+            32,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8025,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            10,
+            0
+        ],
+        "SeasonRewardAmount": [
+            24,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8026,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            200,
+            0,
+            210,
+            0
+        ],
+        "SeasonRewardAmount": [
+            12,
+            0,
+            12,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8027,
+        "SeasonRewardParcelType": [
+            "Currency",
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1,
+            0
+        ],
+        "SeasonRewardAmount": [
+            1200000,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8028,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3,
+            0
+        ],
+        "SeasonRewardAmount": [
+            8,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8029,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            12,
+            0
+        ],
+        "SeasonRewardAmount": [
+            6,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8030,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            202,
+            0,
+            212,
+            0
+        ],
+        "SeasonRewardAmount": [
+            4,
+            0,
+            4,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8031,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8032,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            3000000
+        ]
+    },
+    {
+        "SeasonRewardId": 8033,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            2,
+            0
+        ],
+        "SeasonRewardAmount": [
+            32,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8034,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3
+        ],
+        "SeasonRewardAmount": [
+            200
+        ]
+    },
+    {
+        "SeasonRewardId": 8035,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8036,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3,
+            0,
+            4,
+            0
+        ],
+        "SeasonRewardAmount": [
+            8,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8037,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            201,
+            0,
+            211,
+            0
+        ],
+        "SeasonRewardAmount": [
+            6,
+            0,
+            6,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8038,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3,
+            0,
+            4,
+            0
+        ],
+        "SeasonRewardAmount": [
+            8,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8039,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            23
+        ],
+        "SeasonRewardAmount": [
+            20
+        ]
+    },
+    {
+        "SeasonRewardId": 8040,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            1500000
+        ]
+    },
+    {
+        "SeasonRewardId": 8041,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            2000000
+        ]
+    },
+    {
+        "SeasonRewardId": 8042,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            2500000
+        ]
+    },
+    {
+        "SeasonRewardId": 8043,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            3000000
+        ]
+    },
+    {
+        "SeasonRewardId": 8044,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3
+        ],
+        "SeasonRewardAmount": [
+            32
+        ]
+    },
+    {
+        "SeasonRewardId": 8045,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            9998
+        ],
+        "SeasonRewardAmount": [
+            5
+        ]
+    },
+    {
+        "SeasonRewardId": 8046,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            4
+        ],
+        "SeasonRewardAmount": [
+            8
+        ]
+    },
+    {
+        "SeasonRewardId": 8047,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            100008
+        ],
+        "SeasonRewardAmount": [
+            1
+        ]
+    },
+    {
+        "SeasonRewardId": 8048,
+        "SeasonRewardParcelType": [
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            3,
+            0,
+            4,
+            0
+        ],
+        "SeasonRewardAmount": [
+            8,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8049,
+        "SeasonRewardParcelType": [
+            "Currency"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            1
+        ],
+        "SeasonRewardAmount": [
+            3000000
+        ]
+    },
+    {
+        "SeasonRewardId": 8050,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            7
+        ],
+        "SeasonRewardAmount": [
+            300
+        ]
+    },
+    {
+        "SeasonRewardId": 8051,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            12,
+            0
+        ],
+        "SeasonRewardAmount": [
+            12,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8052,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            7
+        ],
+        "SeasonRewardAmount": [
+            200
+        ]
+    },
+    {
+        "SeasonRewardId": 8053,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            9998
+        ],
+        "SeasonRewardAmount": [
+            3
+        ]
+    },
+    {
+        "SeasonRewardId": 8054,
+        "SeasonRewardParcelType": [
+            "Item",
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            203,
+            0
+        ],
+        "SeasonRewardAmount": [
+            2,
+            0
+        ]
+    },
+    {
+        "SeasonRewardId": 8055,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            13
+        ],
+        "SeasonRewardAmount": [
+            6
+        ]
+    },
+    {
+        "SeasonRewardId": 8056,
+        "SeasonRewardParcelType": [
+            "Equipment"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            4
+        ],
+        "SeasonRewardAmount": [
+            8
+        ]
+    },
+    {
+        "SeasonRewardId": 8057,
+        "SeasonRewardParcelType": [
+            "Item"
+        ],
+        "SeasonRewardParcelUniqueId": [
+            100008
+        ],
+        "SeasonRewardAmount": [
+            1
+        ]
     }
 ]

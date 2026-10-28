@@ -1,0 +1,233 @@
+[
+    {
+        "EventContentId": 864,
+        "StageId": 1,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage1",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 400000,
+        "RivalRushDistance": 100000,
+        "RivalCharacterId": [],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 200000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            1,
+            0
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0
+        ],
+        "ItemInterval": [
+            40000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 2,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage2",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 550000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            16
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 190000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            1,
+            0
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0
+        ],
+        "ItemInterval": [
+            40000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 3,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage3",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 660000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            16
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 190000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            6,
+            0
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0
+        ],
+        "ItemInterval": [
+            60000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 4,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage4",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 750000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            16
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 150000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            1,
+            0
+        ],
+        "ItemCreateDistance": [
+            20000,
+            0
+        ],
+        "ItemInterval": [
+            60000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 5,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage5",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 650000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            17
+        ],
+        "RivalVanishTime": 10000,
+        "RivalInterval": 150000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            4,
+            0,
+            5
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0,
+            91000
+        ],
+        "ItemInterval": [
+            60000,
+            0,
+            150000
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 6,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage6",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 665000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            17,
+            0
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 180000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            6,
+            0
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0
+        ],
+        "ItemInterval": [
+            60000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 7,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage7",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 750000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            17,
+            0
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 180000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            1,
+            0
+        ],
+        "ItemCreateDistance": [
+            20000,
+            0
+        ],
+        "ItemInterval": [
+            60000,
+            0
+        ]
+    },
+    {
+        "EventContentId": 864,
+        "StageId": 8,
+        "ArtLevel": "Minigame/TankRacing/ArtLevel/stage8",
+        "BGMId": 260,
+        "FirstPatternDistance": 10000,
+        "GoalCreateDistance": 650000,
+        "RivalRushDistance": 60000,
+        "RivalCharacterId": [
+            18,
+            0
+        ],
+        "RivalVanishTime": 15000,
+        "RivalInterval": 150000,
+        "MinVerticalSpacing": 2500,
+        "MaxVerticalSpacing": 5000,
+        "ItemId": [
+            6,
+            0,
+            7
+        ],
+        "ItemCreateDistance": [
+            100000,
+            0,
+            160000
+        ],
+        "ItemInterval": [
+            60000,
+            0,
+            135000
+        ]
+    }
+]

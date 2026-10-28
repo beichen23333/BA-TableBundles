@@ -9459,6 +9459,330 @@
         ]
     },
     {
+        "Id": 1745,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_hifumi_racing_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 1746,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_azusa_racing_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 1747,
+        "ProductId": "com.yostarjp.bluearchive.r97_exskill_grow_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150005,
+            0,
+            150006,
+            0,
+            150007,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            18,
+            0,
+            30,
+            0,
+            8,
+            0
+        ]
+    },
+    {
+        "Id": 1748,
+        "ProductId": "com.yostarjp.bluearchive.r97_skill_grow_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150002,
+            0,
+            150003,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            35,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "Id": 1749,
+        "ProductId": "com.yostarjp.bluearchive.r97_presentpackage_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            0,
+            5
+        ]
+    },
+    {
+        "Id": 1750,
+        "ProductId": "com.yostarjp.bluearchive.r97_furniture_odyssey_cruise_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0
+        ]
+    },
+    {
+        "Id": 1751,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_explosive_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 1752,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_penetration_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 1753,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_mystic_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 1754,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_sonic_2000",
+        "StoreType": "GooglePlay",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 1755,
+        "ProductId": "com.yostarjp.bluearchive.r97_new_recruit_threestar_4900",
+        "StoreType": "GooglePlay",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            8400,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
         "Id": 5000,
         "ProductId": "com.yostarjp.bluearchive.aokiseki120",
         "StoreType": "AppStore",
@@ -18918,6 +19242,330 @@
         ]
     },
     {
+        "Id": 5745,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_hifumi_racing_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 5746,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_azusa_racing_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 5747,
+        "ProductId": "com.yostarjp.bluearchive.r97_exskill_grow_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150005,
+            0,
+            150006,
+            0,
+            150007,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            18,
+            0,
+            30,
+            0,
+            8,
+            0
+        ]
+    },
+    {
+        "Id": 5748,
+        "ProductId": "com.yostarjp.bluearchive.r97_skill_grow_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150002,
+            0,
+            150003,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            35,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "Id": 5749,
+        "ProductId": "com.yostarjp.bluearchive.r97_presentpackage_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            0,
+            5
+        ]
+    },
+    {
+        "Id": 5750,
+        "ProductId": "com.yostarjp.bluearchive.r97_furniture_odyssey_cruise_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0
+        ]
+    },
+    {
+        "Id": 5751,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_explosive_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 5752,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_penetration_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 5753,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_mystic_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 5754,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_sonic_2000",
+        "StoreType": "AppStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 5755,
+        "ProductId": "com.yostarjp.bluearchive.r97_new_recruit_threestar_4900",
+        "StoreType": "AppStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            8400,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
         "Id": 101000,
         "ProductId": "com.yostarjp.bluearchive.aokiseki120",
         "StoreType": "PaymentCenter",
@@ -22938,6 +23586,330 @@
             12,
             0,
             3
+        ]
+    },
+    {
+        "Id": 101737,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_hifumi_racing_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 101738,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_azusa_racing_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 101739,
+        "ProductId": "com.yostarjp.bluearchive.r97_exskill_grow_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150005,
+            0,
+            150006,
+            0,
+            150007,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            18,
+            0,
+            30,
+            0,
+            8,
+            0
+        ]
+    },
+    {
+        "Id": 101740,
+        "ProductId": "com.yostarjp.bluearchive.r97_skill_grow_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150002,
+            0,
+            150003,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            35,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "Id": 101741,
+        "ProductId": "com.yostarjp.bluearchive.r97_presentpackage_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            0,
+            5
+        ]
+    },
+    {
+        "Id": 101742,
+        "ProductId": "com.yostarjp.bluearchive.r97_furniture_odyssey_cruise_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0
+        ]
+    },
+    {
+        "Id": 101743,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_explosive_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 101744,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_penetration_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 101745,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_mystic_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 101746,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_sonic_2000",
+        "StoreType": "PaymentCenter",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 101747,
+        "ProductId": "com.yostarjp.bluearchive.r97_new_recruit_threestar_4900",
+        "StoreType": "PaymentCenter",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            8400,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
         ]
     },
     {
@@ -32400,6 +33372,330 @@
         ]
     },
     {
+        "Id": 105745,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_hifumi_racing_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 105746,
+        "ProductId": "com.yostarjp.bluearchive.r97_support_azusa_racing_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Equipment",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            3,
+            0,
+            13,
+            0,
+            12,
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "ParcelAmount": [
+            1200,
+            0,
+            80,
+            0,
+            225,
+            0,
+            75,
+            0,
+            215,
+            0
+        ]
+    },
+    {
+        "Id": 105747,
+        "ProductId": "com.yostarjp.bluearchive.r97_exskill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150005,
+            0,
+            150006,
+            0,
+            150007,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            18,
+            0,
+            30,
+            0,
+            8,
+            0
+        ]
+    },
+    {
+        "Id": 105748,
+        "ProductId": "com.yostarjp.bluearchive.r97_skill_grow_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Currency",
+            "Currency",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Item",
+            "Currency"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            3,
+            0,
+            150002,
+            0,
+            150003,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0,
+            340,
+            0,
+            35,
+            0,
+            60,
+            0
+        ]
+    },
+    {
+        "Id": 105749,
+        "ProductId": "com.yostarjp.bluearchive.r97_presentpackage_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 5,
+        "ParcelType": [
+            "Currency",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0,
+            5997
+        ],
+        "ParcelAmount": [
+            800,
+            0,
+            5
+        ]
+    },
+    {
+        "Id": 105750,
+        "ProductId": "com.yostarjp.bluearchive.r97_furniture_odyssey_cruise_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            1960,
+            0
+        ]
+    },
+    {
+        "Id": 105751,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_explosive_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 105752,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_penetration_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 105753,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_mystic_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 105754,
+        "ProductId": "com.yostarjp.bluearchive.r97_threestar_sonic_2000",
+        "StoreType": "PCStore",
+        "Price": 2000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Currency",
+            "Item"
+        ],
+        "ParcelId": [
+            2,
+            0
+        ],
+        "ParcelAmount": [
+            800,
+            0
+        ]
+    },
+    {
+        "Id": 105755,
+        "ProductId": "com.yostarjp.bluearchive.r97_new_recruit_threestar_4900",
+        "StoreType": "PCStore",
+        "Price": 4900,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 1,
+        "ParcelType": [
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            8400,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
         "Id": 900000,
         "ProductId": "FREEPACKAGE_DAILY_01",
         "StoreType": "FreeProduct",
@@ -33306,6 +34602,54 @@
         ]
     },
     {
+        "Id": 3010029,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_hifumi_racing_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10153,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3010030,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_azusa_racing_3000",
+        "StoreType": "GooglePlay",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20063,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
         "Id": 3050001,
         "ProductId": "com.yostarjp.bluearchive.r94_5.5_eleph_makoto_swim_3000",
         "StoreType": "AppStore",
@@ -33978,6 +35322,54 @@
         ]
     },
     {
+        "Id": 3050029,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_hifumi_racing_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10153,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3050030,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_azusa_racing_3000",
+        "StoreType": "AppStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20063,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
         "Id": 3150001,
         "ProductId": "com.yostarjp.bluearchive.r94_5.5_eleph_makoto_swim_3000",
         "StoreType": "PCStore",
@@ -34640,6 +36032,54 @@
         ],
         "ParcelId": [
             10052,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150029,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_hifumi_racing_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            10153,
+            0,
+            23
+        ],
+        "ParcelAmount": [
+            120,
+            0,
+            50
+        ]
+    },
+    {
+        "Id": 3150030,
+        "ProductId": "com.yostarjp.bluearchive.r97_eleph_azusa_racing_3000",
+        "StoreType": "PCStore",
+        "Price": 3000,
+        "PriceReference": "",
+        "PurchasePeriodType": "None_",
+        "PurchasePeriodLimit": 2,
+        "ParcelType": [
+            "Item",
+            "Item",
+            "Item"
+        ],
+        "ParcelId": [
+            20063,
             0,
             23
         ],

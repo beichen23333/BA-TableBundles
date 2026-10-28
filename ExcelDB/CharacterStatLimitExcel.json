@@ -651,7 +651,7 @@
         "Id": 136,
         "TacticEntityType": "Minion",
         "StatType": "WeakDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -660,7 +660,7 @@
         "Id": 137,
         "TacticEntityType": "Minion",
         "StatType": "EffectiveDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -669,7 +669,7 @@
         "Id": 138,
         "TacticEntityType": "Minion",
         "StatType": "NormalDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -678,7 +678,7 @@
         "Id": 139,
         "TacticEntityType": "Minion",
         "StatType": "ResistDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -993,7 +993,7 @@
         "Id": 236,
         "TacticEntityType": "Elite",
         "StatType": "WeakDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1002,7 +1002,7 @@
         "Id": 237,
         "TacticEntityType": "Elite",
         "StatType": "EffectiveDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1011,7 +1011,7 @@
         "Id": 238,
         "TacticEntityType": "Elite",
         "StatType": "NormalDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1020,7 +1020,7 @@
         "Id": 239,
         "TacticEntityType": "Elite",
         "StatType": "ResistDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1335,7 +1335,7 @@
         "Id": 336,
         "TacticEntityType": "Champion",
         "StatType": "WeakDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1344,7 +1344,7 @@
         "Id": 337,
         "TacticEntityType": "Champion",
         "StatType": "EffectiveDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1353,7 +1353,7 @@
         "Id": 338,
         "TacticEntityType": "Champion",
         "StatType": "NormalDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -1362,7 +1362,7 @@
         "Id": 339,
         "TacticEntityType": "Champion",
         "StatType": "ResistDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -2019,7 +2019,7 @@
         "Id": 536,
         "TacticEntityType": "Summoned",
         "StatType": "WeakDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -2028,7 +2028,7 @@
         "Id": 537,
         "TacticEntityType": "Summoned",
         "StatType": "EffectiveDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -2037,7 +2037,7 @@
         "Id": 538,
         "TacticEntityType": "Summoned",
         "StatType": "NormalDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000
@@ -2046,7 +2046,7 @@
         "Id": 539,
         "TacticEntityType": "Summoned",
         "StatType": "ResistDamagedRatio",
-        "StatMinValue": 2000,
+        "StatMinValue": 0,
         "StatMaxValue": 100000,
         "StatRatioMinValue": -10000,
         "StatRatioMaxValue": 100000

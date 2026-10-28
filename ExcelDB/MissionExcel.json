@@ -2454,7 +2454,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -2496,7 +2497,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -3519,7 +3521,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98479,6 +98482,346 @@
         ]
     },
     {
+        "Id": 101247,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153101
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101248,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153102
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101249,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101248
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153103
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101250,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101249
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153104
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101251,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101250
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153105
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101252,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101251
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153106
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101253,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101252
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153107
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
+        "Id": 101254,
+        "Category": "Achievement",
+        "Description": 3130420417,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101253
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1153108
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
         "Id": 110000,
         "Category": "Achievement",
         "Description": 415981323,
@@ -98500,7 +98843,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98542,7 +98886,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98584,7 +98929,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98626,7 +98972,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98668,7 +99015,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98710,7 +99058,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98752,7 +99101,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98794,7 +99144,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98836,7 +99187,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98878,7 +99230,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98920,7 +99273,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98962,7 +99316,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99004,7 +99359,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99046,7 +99402,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99088,7 +99445,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99130,7 +99488,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99172,7 +99531,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99214,7 +99574,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99256,7 +99617,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99298,7 +99660,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99340,7 +99703,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99382,7 +99746,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99424,7 +99789,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99466,7 +99832,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99508,7 +99875,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99550,7 +99918,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99592,7 +99961,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99634,7 +100004,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99676,7 +100047,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99718,7 +100090,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99760,7 +100133,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99802,7 +100176,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99844,7 +100219,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99886,7 +100262,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99928,7 +100305,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -99970,7 +100348,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100012,7 +100391,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100054,7 +100434,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100096,7 +100477,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100138,7 +100520,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100180,7 +100563,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100222,7 +100606,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100264,7 +100649,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100306,7 +100692,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100348,7 +100735,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100390,7 +100778,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100432,7 +100821,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100474,7 +100864,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100516,7 +100907,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100558,7 +100950,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100600,7 +100993,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100642,7 +101036,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100684,7 +101079,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100726,7 +101122,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100768,7 +101165,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100810,7 +101208,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100852,7 +101251,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100894,7 +101294,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100936,7 +101337,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -100978,7 +101380,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101020,7 +101423,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101062,7 +101466,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101104,7 +101509,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101146,7 +101552,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101188,7 +101595,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101230,7 +101638,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101272,7 +101681,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101314,7 +101724,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101356,7 +101767,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101398,7 +101810,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101440,7 +101853,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -101482,7 +101896,8 @@
         "ShortcutUI": [
             "UIStageSelect",
             "UIWeekDungeonLobby|WeekDungeon",
-            "UIEventLobby"
+            "UIEventLobby",
+            "UITacticalRelay_Lobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -149722,6 +150137,2046 @@
         ],
         "MissionRewardAmount": [
             1
+        ]
+    },
+    {
+        "Id": 410020,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410020,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010101,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410021,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410020,
+        "PreMissionId": [
+            410020
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010101,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410022,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410020,
+        "PreMissionId": [
+            410021
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010101,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410023,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410020,
+        "PreMissionId": [
+            410022
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010101,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410030,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410030,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010102,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410031,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410030,
+        "PreMissionId": [
+            410030
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010102,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410032,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410030,
+        "PreMissionId": [
+            410031
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010102,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410033,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410030,
+        "PreMissionId": [
+            410032
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010102,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410040,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410040,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010103,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410041,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410040,
+        "PreMissionId": [
+            410040
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010103,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410042,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410040,
+        "PreMissionId": [
+            410041
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010103,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410043,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410040,
+        "PreMissionId": [
+            410042
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010103,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410050,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410050,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010201,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410051,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410050,
+        "PreMissionId": [
+            410050
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010201,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410052,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410050,
+        "PreMissionId": [
+            410051
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010201,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410053,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410050,
+        "PreMissionId": [
+            410052
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010201,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410060,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410060,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010202,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410061,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410060,
+        "PreMissionId": [
+            410060
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010202,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410062,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410060,
+        "PreMissionId": [
+            410061
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010202,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410063,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410060,
+        "PreMissionId": [
+            410062
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010202,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410070,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410070,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010203,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410071,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410070,
+        "PreMissionId": [
+            410070
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010203,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410072,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410070,
+        "PreMissionId": [
+            410071
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010203,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410073,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410070,
+        "PreMissionId": [
+            410072
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010203,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410080,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410080,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010301,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410081,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410080,
+        "PreMissionId": [
+            410080
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010301,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410082,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410080,
+        "PreMissionId": [
+            410081
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010301,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410083,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410080,
+        "PreMissionId": [
+            410082
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010301,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410090,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410090,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010302,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410091,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410090,
+        "PreMissionId": [
+            410090
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010302,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410092,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410090,
+        "PreMissionId": [
+            410091
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010302,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410093,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410090,
+        "PreMissionId": [
+            410092
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010302,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410100,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410100,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010303,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410101,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410100,
+        "PreMissionId": [
+            410100
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010303,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410102,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410100,
+        "PreMissionId": [
+            410101
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010303,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410103,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410100,
+        "PreMissionId": [
+            410102
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010303,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410110,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410110,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010401,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410111,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410110,
+        "PreMissionId": [
+            410110
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010401,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410112,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410110,
+        "PreMissionId": [
+            410111
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010401,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410113,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410110,
+        "PreMissionId": [
+            410112
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010401,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410120,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410120,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010402,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410121,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410120,
+        "PreMissionId": [
+            410120
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010402,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410122,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410120,
+        "PreMissionId": [
+            410121
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010402,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410123,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410120,
+        "PreMissionId": [
+            410122
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010402,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410130,
+        "Category": "Achievement",
+        "Description": 261477897,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410130,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            140010403,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 410131,
+        "Category": "Achievement",
+        "Description": 3623292643,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410130,
+        "PreMissionId": [
+            410130
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 3,
+        "CompleteConditionParameter": [
+            140010403,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410132,
+        "Category": "Achievement",
+        "Description": 439612448,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410130,
+        "PreMissionId": [
+            410131
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 7,
+        "CompleteConditionParameter": [
+            140010403,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
+        ]
+    },
+    {
+        "Id": 410133,
+        "Category": "Achievement",
+        "Description": 1947207807,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-10-28 11:00:00",
+        "EndDate": "2026-12-23 10:59:59",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 410130,
+        "PreMissionId": [
+            410132
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UITacticalRelay_Lobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_SpecificTacticalRelayWaveClear",
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            140010403,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            10000
         ]
     }
 ]

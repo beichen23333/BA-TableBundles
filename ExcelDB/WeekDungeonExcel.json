@@ -35,7 +35,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30102,
@@ -73,7 +75,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30103,
@@ -111,7 +115,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30104,
@@ -149,7 +155,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30105,
@@ -187,7 +195,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30106,
@@ -225,7 +235,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30107,
@@ -263,7 +275,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30108,
@@ -301,7 +315,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30109,
@@ -339,7 +355,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30110,
@@ -377,7 +395,9 @@
             6,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30201,
@@ -416,7 +436,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30202,
@@ -455,7 +477,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30203,
@@ -494,7 +518,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30204,
@@ -533,7 +559,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30205,
@@ -572,7 +600,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30206,
@@ -611,7 +641,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30207,
@@ -650,7 +682,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30208,
@@ -689,7 +723,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30209,
@@ -728,7 +764,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30210,
@@ -767,7 +805,9 @@
             0,
             9
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30301,
@@ -805,7 +845,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30302,
@@ -843,7 +885,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30303,
@@ -881,7 +925,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30304,
@@ -919,7 +965,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30305,
@@ -957,7 +1005,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30306,
@@ -995,7 +1045,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30307,
@@ -1033,7 +1085,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30308,
@@ -1071,7 +1125,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30309,
@@ -1109,7 +1165,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30310,
@@ -1147,7 +1205,9 @@
             7,
             0
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 30401,
@@ -1186,7 +1246,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30402,
@@ -1225,7 +1289,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30403,
@@ -1264,7 +1332,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30404,
@@ -1303,7 +1375,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30405,
@@ -1342,7 +1418,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30406,
@@ -1381,7 +1461,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30407,
@@ -1420,7 +1504,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30408,
@@ -1459,7 +1547,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30409,
@@ -1498,7 +1590,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30410,
@@ -1537,7 +1633,11 @@
             0,
             8
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Wakamo_default_C_WEEK"
+        ]
     },
     {
         "StageId": 30501,
@@ -1576,7 +1676,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_A"
+        ]
     },
     {
         "StageId": 30502,
@@ -1615,7 +1719,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_B"
+        ]
     },
     {
         "StageId": 30503,
@@ -1654,7 +1762,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_C"
+        ]
     },
     {
         "StageId": 30504,
@@ -1693,7 +1805,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_D"
+        ]
     },
     {
         "StageId": 30505,
@@ -1732,7 +1848,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_E"
+        ]
     },
     {
         "StageId": 30506,
@@ -1771,7 +1891,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_F"
+        ]
     },
     {
         "StageId": 30507,
@@ -1810,7 +1934,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_G"
+        ]
     },
     {
         "StageId": 30508,
@@ -1849,7 +1977,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_H"
+        ]
     },
     {
         "StageId": 30509,
@@ -1888,7 +2020,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_I"
+        ]
     },
     {
         "StageId": 30510,
@@ -1927,7 +2063,11 @@
             0,
             3
         ],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": [
+            "Kaito_Trinity_HG_C_2Phase_WEEK_J"
+        ]
     },
     {
         "StageId": 31101,
@@ -1962,7 +2102,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31102,
@@ -1997,7 +2139,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31103,
@@ -2032,7 +2176,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31104,
@@ -2067,7 +2213,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31105,
@@ -2102,7 +2250,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31106,
@@ -2137,7 +2287,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31107,
@@ -2172,7 +2324,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31108,
@@ -2207,7 +2361,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31109,
@@ -2242,7 +2398,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31110,
@@ -2277,7 +2435,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31111,
@@ -2312,7 +2472,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31112,
@@ -2347,7 +2509,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31113,
@@ -2382,7 +2546,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 31114,
@@ -2417,7 +2583,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32101,
@@ -2452,7 +2620,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32102,
@@ -2487,7 +2657,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32103,
@@ -2522,7 +2694,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32104,
@@ -2557,7 +2731,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32105,
@@ -2592,7 +2768,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32106,
@@ -2627,7 +2805,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32107,
@@ -2662,7 +2842,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32108,
@@ -2697,7 +2879,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32109,
@@ -2732,7 +2916,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32110,
@@ -2767,7 +2953,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32111,
@@ -2802,7 +2990,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32112,
@@ -2837,7 +3027,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32113,
@@ -2872,7 +3064,9 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     },
     {
         "StageId": 32114,
@@ -2907,6 +3101,8 @@
         "BattleRewardExp": 0,
         "BattleRewardPlayerExp": 0,
         "GroupBuffID": [],
-        "EchelonExtensionType": "Base"
+        "EchelonExtensionType": "Base",
+        "EchelonRecommendPresetId": 0,
+        "HideChaserPortraitSpawnTemplateId": []
     }
 ]

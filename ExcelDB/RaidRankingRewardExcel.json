@@ -8440,5 +8440,131 @@
             150,
             0
         ]
+    },
+    {
+        "RankingRewardGroupId": 2330,
+        "Id": 2331,
+        "RankStart": 1,
+        "RankEnd": 20000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 4,
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            3,
+            0,
+            9,
+            0,
+            7,
+            0,
+            101433
+        ],
+        "RewardParcelAmount": [
+            1200,
+            0,
+            300,
+            0,
+            575,
+            0,
+            1
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2330,
+        "Id": 2332,
+        "RankStart": 20001,
+        "RankEnd": 120000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 3,
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            3,
+            0,
+            9,
+            0,
+            7,
+            0
+        ],
+        "RewardParcelAmount": [
+            1000,
+            0,
+            250,
+            0,
+            500,
+            0
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2330,
+        "Id": 2333,
+        "RankStart": 120001,
+        "RankEnd": 240000,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 0,
+        "Tier": 2,
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Furniture",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            3,
+            0,
+            9,
+            0,
+            7
+        ],
+        "RewardParcelAmount": [
+            800,
+            0,
+            200,
+            0,
+            425
+        ]
+    },
+    {
+        "RankingRewardGroupId": 2330,
+        "Id": 2334,
+        "RankStart": 240001,
+        "RankEnd": 0,
+        "PercentRankStart": 0,
+        "PercentRankEnd": 10000,
+        "Tier": 1,
+        "RewardParcelType": [
+            "Currency",
+            "Item",
+            "Item",
+            "Furniture"
+        ],
+        "RewardParcelUniqueId": [
+            3,
+            0,
+            9,
+            0
+        ],
+        "RewardParcelAmount": [
+            600,
+            0,
+            150,
+            0
+        ]
     }
 ]

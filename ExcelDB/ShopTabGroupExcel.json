@@ -79,5 +79,13 @@
         "ShopCategoryTypes": [
             3.6433760072445244e-44
         ]
+    },
+    {
+        "Id": 11,
+        "ShopGroupType": "TacticalRelayBeta",
+        "DisplayOrder": 11,
+        "ShopCategoryTypes": [
+            5.885453550164232e-44
+        ]
     }
 ]
