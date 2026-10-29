@@ -313499,6 +313499,78 @@
         ]
     },
     {
+        "Id": 1901074,
+        "Type": 1,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Item"
+        ],
+        "ConsumeParcelId": [
+            1901110
+        ],
+        "ConsumeParcelAmount": [
+            200
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [],
+        "ConsumeGachaTicketTypeAmount": [],
+        "CombinedGachaCostId": 0,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Character"
+        ],
+        "ParcelId": [
+            10125
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
+        "Id": 1901075,
+        "Type": 1,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Item"
+        ],
+        "ConsumeParcelId": [
+            1901110
+        ],
+        "ConsumeParcelAmount": [
+            200
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [],
+        "ConsumeGachaTicketTypeAmount": [],
+        "CombinedGachaCostId": 0,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Character"
+        ],
+        "ParcelId": [
+            10126
+        ],
+        "ParcelAmount": [
+            1
+        ]
+    },
+    {
         "Id": 5000001,
         "Type": 2,
         "Rarity": "N",
@@ -354482,6 +354554,261 @@
             1901100,
             0,
             110090
+        ],
+        "ParcelAmount": [
+            10,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 5004631,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            120
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [
+            "NormalOnce"
+        ],
+        "ConsumeGachaTicketTypeAmount": [
+            1
+        ],
+        "CombinedGachaCostId": 0,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 5004632,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            1200
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [],
+        "ConsumeGachaTicketTypeAmount": [],
+        "CombinedGachaCostId": 101,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0,
+            50
+        ],
+        "ParcelAmount": [
+            10,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 5004641,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            120
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [
+            "NormalOnce"
+        ],
+        "ConsumeGachaTicketTypeAmount": [
+            1
+        ],
+        "CombinedGachaCostId": 0,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 5004642,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            1200
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [],
+        "ConsumeGachaTicketTypeAmount": [],
+        "CombinedGachaCostId": 101,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0,
+            110010
+        ],
+        "ParcelAmount": [
+            10,
+            0,
+            9
+        ]
+    },
+    {
+        "Id": 5004651,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            120
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [
+            "NormalOnce"
+        ],
+        "ConsumeGachaTicketTypeAmount": [
+            1
+        ],
+        "CombinedGachaCostId": 0,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0
+        ],
+        "ParcelAmount": [
+            1,
+            0
+        ]
+    },
+    {
+        "Id": 5004652,
+        "Type": 2,
+        "Rarity": "N",
+        "IconPath": "",
+        "ConsumeParcelType": [
+            "Currency"
+        ],
+        "ConsumeParcelId": [
+            4
+        ],
+        "ConsumeParcelAmount": [
+            1200
+        ],
+        "ConsumeCondition": [
+            "And"
+        ],
+        "ConsumeGachaTicketType": [],
+        "ConsumeGachaTicketTypeAmount": [],
+        "CombinedGachaCostId": 101,
+        "ProductIdAOS": 0,
+        "ProductIdiOS": 0,
+        "ProductIdHarmony": 0,
+        "ConsumeExtraStep": [],
+        "ConsumeExtraAmount": [],
+        "State": 1,
+        "ParcelType": [
+            "Item",
+            "GachaGroup",
+            "GachaGroup"
+        ],
+        "ParcelId": [
+            1901110,
+            0,
+            110030
         ],
         "ParcelAmount": [
             10,

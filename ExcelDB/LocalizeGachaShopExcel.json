@@ -14016,6 +14016,42 @@
         "GachaPeriodCN": "2026/10/22 14:00~2026/10/29  13:59截止"
     },
     {
+        "GachaShopId": 5004630,
+        "TabNameKr": "长期招募",
+        "TabNameJp": "",
+        "TitleNameKr": "长期招募",
+        "TitleNameJp": "",
+        "SubTitleKr": "来招募更多个性迥异的成员吧！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/29 14:00~2026/11/12  13:59截止"
+    },
+    {
+        "GachaShopId": 5004640,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "艾利（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/29 14:00~2026/11/12  13:59截止"
+    },
+    {
+        "GachaShopId": 5004650,
+        "TabNameKr": "限时招募",
+        "TabNameJp": "",
+        "TitleNameKr": "限时招募！",
+        "TitleNameJp": "",
+        "SubTitleKr": "庚（3★）招募概率提升！",
+        "SubTitleJp": "",
+        "GachaDescriptionKr": "选择招募10次，必定获得1名2★以上成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
+        "GachaDescriptionJp": "",
+        "GachaPeriodCN": "2026/10/29 14:00~2026/11/12  13:59截止"
+    },
+    {
         "GachaShopId": 6000000,
         "TabNameKr": "3★必得",
         "TabNameJp": "",
@@ -14709,6 +14745,6 @@
         "SubTitleJp": "",
         "GachaDescriptionKr": "选择招募10次，必定获得1名3★成员！\n※若出现已拥有的成员则会转换为神名精髓与该成员的神名文字。",
         "GachaDescriptionJp": "",
-        "GachaPeriodCN": "2026/10/08 14:00~2026/10/29  13:59截止"
+        "GachaPeriodCN": "2026/10/29 14:00~2026/11/12  13:59截止"
     }
 ]

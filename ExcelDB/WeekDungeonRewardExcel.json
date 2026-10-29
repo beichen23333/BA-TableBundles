@@ -135,7 +135,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -185,7 +185,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -335,7 +335,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 6858,
+        "RewardParcelProbability": 8230,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -395,7 +395,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5063,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30102,
+        "DungeonType": 1.401298464324817e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10110,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 6361,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -545,7 +555,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 7348,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -555,7 +565,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1568,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -595,7 +605,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 7605,
+        "RewardParcelProbability": 8366,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -615,7 +625,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30103,
+        "DungeonType": 1.401298464324817e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10110,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 3146,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -775,7 +795,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 6858,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -785,7 +805,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 2547,
+        "RewardParcelProbability": 3311,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -815,7 +835,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 9405,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30104,
+        "DungeonType": 1.401298464324817e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40011,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -835,7 +865,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30104,
+        "DungeonType": 1.401298464324817e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10110,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1989,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -995,7 +1035,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1005,7 +1045,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1568,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1045,7 +1085,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 6197,
+        "RewardParcelProbability": 6816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1075,7 +1115,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1245,7 +1285,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1255,7 +1295,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1568,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1295,7 +1335,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 6197,
+        "RewardParcelProbability": 6816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1325,7 +1365,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1495,7 +1535,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1505,7 +1545,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1568,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1555,7 +1595,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5633,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1595,7 +1635,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1775,7 +1815,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4899,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1785,7 +1825,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1568,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1835,7 +1875,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5633,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -1875,7 +1915,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2055,7 +2095,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5633,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2065,7 +2105,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1813,
+        "RewardParcelProbability": 2356,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2115,7 +2155,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 6466,
+        "RewardParcelProbability": 7113,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2155,7 +2195,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 2639,
+        "RewardParcelProbability": 8958,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2335,7 +2375,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30010,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 6270,
+        "RewardParcelProbability": 6897,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2345,7 +2385,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 2057,
+        "RewardParcelProbability": 2675,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2395,7 +2435,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40011,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 7201,
+        "RewardParcelProbability": 7921,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2435,7 +2475,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10110,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3631,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30110,
+        "DungeonType": 1.401298464324817e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10110,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 446,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2595,7 +2645,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 4041,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2645,7 +2695,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2775,7 +2825,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5144,
+        "RewardParcelProbability": 6172,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2825,7 +2875,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5063,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30202,
+        "DungeonType": 2.802596928649634e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10114,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 6361,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2955,7 +3015,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5511,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2965,7 +3025,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1587,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -2995,7 +3055,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5704,
+        "RewardParcelProbability": 6274,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3015,7 +3075,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30203,
+        "DungeonType": 2.802596928649634e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10114,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 3146,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3155,7 +3225,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5144,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3165,7 +3235,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1910,
+        "RewardParcelProbability": 2484,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3195,7 +3265,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 7054,
+        "RewardParcelProbability": 8112,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3215,7 +3285,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30204,
+        "DungeonType": 2.802596928649634e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10114,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1989,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3355,7 +3435,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 4041,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3365,7 +3445,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1587,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3405,7 +3485,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4648,
+        "RewardParcelProbability": 5112,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3435,7 +3515,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3585,7 +3665,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 4041,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3595,7 +3675,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1587,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3635,7 +3715,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4648,
+        "RewardParcelProbability": 5112,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3665,7 +3745,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3815,7 +3895,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 4041,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3825,7 +3905,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1587,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3865,7 +3945,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 4648,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -3905,7 +3985,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4065,7 +4145,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 4041,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4075,7 +4155,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1587,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4115,7 +4195,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 4648,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4155,7 +4235,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4315,7 +4395,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 4648,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4325,7 +4405,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1359,
+        "RewardParcelProbability": 1767,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4375,7 +4455,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4850,
+        "RewardParcelProbability": 5335,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4415,7 +4495,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 2639,
+        "RewardParcelProbability": 8958,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4575,7 +4655,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30014,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4703,
+        "RewardParcelProbability": 5173,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4585,7 +4665,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1543,
+        "RewardParcelProbability": 2006,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4635,7 +4715,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40015,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5401,
+        "RewardParcelProbability": 5941,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4675,7 +4755,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10114,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3631,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30210,
+        "DungeonType": 2.802596928649634e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10114,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 446,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4763,6 +4853,16 @@
         "GroupId": 30301,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3100,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30301,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4010,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -4784,6 +4884,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4050,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30301,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4100,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -4835,7 +4945,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4865,7 +4975,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1162,
+        "RewardParcelProbability": 8216,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4885,7 +4995,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -4943,6 +5053,16 @@
         "GroupId": 30302,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3100,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30302,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4010,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -4964,6 +5084,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4050,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30302,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4100,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -5015,7 +5145,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5144,
+        "RewardParcelProbability": 8230,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5045,7 +5175,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5057,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30302,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40018,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 3409,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5065,7 +5205,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5063,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30302,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10118,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 6361,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5123,6 +5273,16 @@
         "GroupId": 30303,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3101,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30303,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4011,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -5144,6 +5304,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4051,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30303,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4101,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -5195,7 +5365,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 7348,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5205,7 +5375,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5225,7 +5395,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5872,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30303,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40018,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1162,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5235,7 +5415,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5704,
+        "RewardParcelProbability": 8366,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5255,7 +5435,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30303,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10118,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 3146,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5323,6 +5513,16 @@
         "GroupId": 30304,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3101,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30304,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4011,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -5344,6 +5544,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4051,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30304,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4101,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -5395,7 +5605,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 6858,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5405,7 +5615,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1910,
+        "RewardParcelProbability": 3311,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5425,7 +5635,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4108,
+        "RewardParcelProbability": 8811,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5435,7 +5645,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 7054,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30304,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40019,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5455,7 +5675,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30304,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10118,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1989,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5523,6 +5753,16 @@
         "GroupId": 30305,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3102,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30305,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4012,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -5544,6 +5784,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4052,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30305,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4102,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -5595,7 +5845,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5605,7 +5855,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5615,7 +5865,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 882,
+        "RewardParcelProbability": 1176,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5635,7 +5885,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1463,
+        "RewardParcelProbability": 5284,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5645,7 +5895,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4648,
+        "RewardParcelProbability": 6816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5655,7 +5905,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3160,
+        "RewardParcelProbability": 4213,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5675,7 +5925,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5753,6 +6003,16 @@
         "GroupId": 30306,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3102,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30306,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4012,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -5774,6 +6034,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4052,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30306,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4102,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -5825,7 +6095,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5835,7 +6105,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5845,7 +6115,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1102,
+        "RewardParcelProbability": 1470,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5865,7 +6135,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 581,
+        "RewardParcelProbability": 4108,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5875,7 +6145,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4648,
+        "RewardParcelProbability": 6816,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5885,7 +6155,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4409,
+        "RewardParcelProbability": 5878,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5905,7 +6175,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -5983,6 +6253,16 @@
         "GroupId": 30307,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3103,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30307,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4013,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -6004,6 +6284,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4053,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30307,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4103,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -6055,7 +6345,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6065,7 +6355,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6075,7 +6365,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 882,
+        "RewardParcelProbability": 1176,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6085,7 +6375,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 101,
+        "RewardParcelProbability": 135,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6095,7 +6385,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 8818,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30307,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40018,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1757,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6105,7 +6405,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6115,7 +6415,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3160,
+        "RewardParcelProbability": 4213,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6125,7 +6425,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 874,
+        "RewardParcelProbability": 1166,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6145,7 +6445,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6233,6 +6533,16 @@
         "GroupId": 30308,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3103,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30308,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4013,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -6254,6 +6564,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4053,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30308,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4103,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -6305,7 +6625,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3674,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6315,7 +6635,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 2116,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6325,7 +6645,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 882,
+        "RewardParcelProbability": 1176,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6335,7 +6655,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 147,
+        "RewardParcelProbability": 196,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6345,7 +6665,17 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 8818,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30308,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 40018,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 1757,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6355,7 +6685,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6365,7 +6695,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3160,
+        "RewardParcelProbability": 4213,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6375,7 +6705,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1286,
+        "RewardParcelProbability": 1715,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6395,7 +6725,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1573,
+        "RewardParcelProbability": 7360,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6483,6 +6813,16 @@
         "GroupId": 30309,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3103,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30309,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4013,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -6504,6 +6844,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4053,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30309,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4103,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -6555,7 +6905,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4225,
+        "RewardParcelProbability": 6197,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6565,7 +6915,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1359,
+        "RewardParcelProbability": 2356,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6575,7 +6925,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1029,
+        "RewardParcelProbability": 1372,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6585,7 +6935,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 184,
+        "RewardParcelProbability": 245,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6605,7 +6955,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 104,
+        "RewardParcelProbability": 3471,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6615,7 +6965,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4850,
+        "RewardParcelProbability": 7113,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6625,7 +6975,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3637,
+        "RewardParcelProbability": 4850,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6635,7 +6985,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1470,
+        "RewardParcelProbability": 1959,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6655,7 +7005,7 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 2639,
+        "RewardParcelProbability": 8958,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6743,6 +7093,16 @@
         "GroupId": 30310,
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
+        "RewardParcelId": 3103,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30310,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
         "RewardParcelId": 4013,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
@@ -6764,6 +7124,16 @@
         "DungeonType": 4.203895392974451e-45,
         "RewardParcelType": "Item",
         "RewardParcelId": 4053,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 0,
+        "IsDisplayed": true,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30310,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "Item",
+        "RewardParcelId": 4103,
         "RewardParcelAmount": 1,
         "RewardParcelProbability": 0,
         "IsDisplayed": true,
@@ -6815,7 +7185,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4703,
+        "RewardParcelProbability": 6897,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6825,7 +7195,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1543,
+        "RewardParcelProbability": 2675,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6835,7 +7205,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1176,
+        "RewardParcelProbability": 1568,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6845,7 +7215,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 30021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 242,
+        "RewardParcelProbability": 323,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6865,7 +7235,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40018,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1242,
+        "RewardParcelProbability": 4990,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6875,7 +7245,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40019,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 5401,
+        "RewardParcelProbability": 7921,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6885,7 +7255,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40020,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 4041,
+        "RewardParcelProbability": 5389,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6895,7 +7265,7 @@
         "RewardParcelType": "Item",
         "RewardParcelId": 40021,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 1716,
+        "RewardParcelProbability": 2288,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },
@@ -6915,7 +7285,17 @@
         "RewardParcelType": "GachaGroup",
         "RewardParcelId": 10118,
         "RewardParcelAmount": 1,
-        "RewardParcelProbability": 3631,
+        "RewardParcelProbability": 10000,
+        "IsDisplayed": false,
+        "DropItemModelPrefabPath": ""
+    },
+    {
+        "GroupId": 30310,
+        "DungeonType": 4.203895392974451e-45,
+        "RewardParcelType": "GachaGroup",
+        "RewardParcelId": 10118,
+        "RewardParcelAmount": 1,
+        "RewardParcelProbability": 446,
         "IsDisplayed": false,
         "DropItemModelPrefabPath": ""
     },

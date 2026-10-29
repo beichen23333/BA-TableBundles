@@ -100567,5 +100567,1695 @@
         "ConditionRewardParcelType": [],
         "ConditionRewardParcelId": [],
         "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849001,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 1,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849002,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 2,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 5,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849003,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 3,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849004,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 4,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 20,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849005,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 5,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 30,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849006,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 6,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 40,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            100000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849007,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 7,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 50,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849008,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 8,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 60,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849009,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 9,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 70,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849010,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 10,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 80,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849011,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 11,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 90,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849012,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 1086597895,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 12,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceUseDiceCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 100,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849013,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 13,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849014,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 14,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 2,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849015,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 15,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 4,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849016,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 16,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 6,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849017,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 17,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 8,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849018,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 18,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849019,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 19,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 12,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849020,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 20,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 14,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849021,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 21,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 17,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849022,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3628171236,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 22,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UISportsDiceRace|849"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_DiceRaceFinishLapCount",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 20,
+        "CompleteConditionParameter": [
+            849
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849023,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 538150987,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 23,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_CompleteStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 26,
+        "CompleteConditionParameter": [
+            8491301,
+            0,
+            8491302,
+            0,
+            8491303,
+            0,
+            8491304,
+            0,
+            8491305,
+            0,
+            8491306,
+            0,
+            8491307,
+            0,
+            8491308,
+            0,
+            8491309,
+            0,
+            8491310,
+            0,
+            8491311,
+            0,
+            8492301,
+            0,
+            8492302,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Emblem"
+        ],
+        "MissionRewardParcelId": [
+            3000849
+        ],
+        "MissionRewardAmount": [
+            1
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849024,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 24,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492301"
+        ],
+        "ChallengeStageShortcut": 8492301,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849025,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 25,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492302"
+        ],
+        "ChallengeStageShortcut": 8492302,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849026,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 26,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492303"
+        ],
+        "ChallengeStageShortcut": 8492303,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849027,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 27,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492304"
+        ],
+        "ChallengeStageShortcut": 8492304,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849028,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 28,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492305"
+        ],
+        "ChallengeStageShortcut": 8492305,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            250000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849029,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 29,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492306"
+        ],
+        "ChallengeStageShortcut": 8492306,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            250000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849030,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 30,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492307"
+        ],
+        "ChallengeStageShortcut": 8492307,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            250000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849031,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 31,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492308"
+        ],
+        "ChallengeStageShortcut": 8492308,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            250000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849032,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 32,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492309"
+        ],
+        "ChallengeStageShortcut": 8492309,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849033,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 33,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492310"
+        ],
+        "ChallengeStageShortcut": 8492310,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849034,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 34,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492311"
+        ],
+        "ChallengeStageShortcut": 8492311,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849035,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 35,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8492312"
+        ],
+        "ChallengeStageShortcut": 8492312,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 75,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            300000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849036,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 36,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8493301"
+        ],
+        "ChallengeStageShortcut": 8493301,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 100,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            60
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849037,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 37,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8493302"
+        ],
+        "ChallengeStageShortcut": 8493302,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 100,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            60
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849038,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 4026331692,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 38,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [
+            "UIEventLobby|8493303"
+        ],
+        "ChallengeStageShortcut": 8493303,
+        "CompleteConditionType": "Reset_ClearEventStageTimeLimitFromSecond",
+        "IsCompleteExtensionTime": false,
+        "CompleteConditionCount": 170,
+        "CompleteConditionParameter": [
+            849,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            60
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 849039,
+        "EventContentId": 849,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "EventAchievement",
+        "Description": 3481408333,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 39,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_CompleteMission",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 14,
+        "CompleteConditionParameter": [
+            849024,
+            0,
+            849025,
+            0,
+            849026,
+            0,
+            849027,
+            0,
+            849028,
+            0,
+            849029,
+            0,
+            849030,
+            0,
+            849031
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Item"
+        ],
+        "MissionRewardParcelId": [
+            9999
+        ],
+        "MissionRewardAmount": [
+            1
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
     }
 ]

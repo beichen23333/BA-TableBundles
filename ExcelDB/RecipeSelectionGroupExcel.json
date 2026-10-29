@@ -80,6 +80,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000000,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 4100,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000001,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -156,6 +164,14 @@
         "RecipeSelectionGroupComponentId": 10,
         "ParcelType": "Item",
         "ParcelId": 4091,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000001,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 4101,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -240,6 +256,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000002,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 4102,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000003,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -316,6 +340,14 @@
         "RecipeSelectionGroupComponentId": 10,
         "ParcelType": "Item",
         "ParcelId": 4093,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000003,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 4103,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -400,6 +432,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000010,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 3100,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000011,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -476,6 +516,14 @@
         "RecipeSelectionGroupComponentId": 10,
         "ParcelType": "Item",
         "ParcelId": 3091,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000011,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 3101,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -560,6 +608,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000012,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 3102,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000013,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -636,6 +692,14 @@
         "RecipeSelectionGroupComponentId": 10,
         "ParcelType": "Item",
         "ParcelId": 3093,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000013,
+        "RecipeSelectionGroupComponentId": 11,
+        "ParcelType": "Item",
+        "ParcelId": 3103,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -1768,6 +1832,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000030,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 4100,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000031,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -1804,6 +1876,14 @@
         "RecipeSelectionGroupComponentId": 5,
         "ParcelType": "Item",
         "ParcelId": 4061,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000031,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 4101,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -1848,6 +1928,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000032,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 4102,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000033,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -1884,6 +1972,14 @@
         "RecipeSelectionGroupComponentId": 5,
         "ParcelType": "Item",
         "ParcelId": 4063,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000033,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 4103,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -2088,6 +2184,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000050,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 3100,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000051,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -2124,6 +2228,14 @@
         "RecipeSelectionGroupComponentId": 5,
         "ParcelType": "Item",
         "ParcelId": 3061,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000051,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 3101,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -2168,6 +2280,14 @@
         "ResultAmountMax": 1
     },
     {
+        "RecipeSelectionGroupId": 1000052,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 3102,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
         "RecipeSelectionGroupId": 1000053,
         "RecipeSelectionGroupComponentId": 1,
         "ParcelType": "Item",
@@ -2204,6 +2324,14 @@
         "RecipeSelectionGroupComponentId": 5,
         "ParcelType": "Item",
         "ParcelId": 3063,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1000053,
+        "RecipeSelectionGroupComponentId": 6,
+        "ParcelType": "Item",
+        "ParcelId": 3103,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -7873,6 +8001,14 @@
     },
     {
         "RecipeSelectionGroupId": 1001019,
+        "RecipeSelectionGroupComponentId": 52,
+        "ParcelType": "Furniture",
+        "ParcelId": 19302,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001019,
         "RecipeSelectionGroupComponentId": 53,
         "ParcelType": "Furniture",
         "ParcelId": 19303,
@@ -7900,6 +8036,14 @@
         "RecipeSelectionGroupComponentId": 56,
         "ParcelType": "Furniture",
         "ParcelId": 19306,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001019,
+        "RecipeSelectionGroupComponentId": 57,
+        "ParcelType": "Furniture",
+        "ParcelId": 19307,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -14073,6 +14217,14 @@
     },
     {
         "RecipeSelectionGroupId": 1001993,
+        "RecipeSelectionGroupComponentId": 149,
+        "ParcelType": "Furniture",
+        "ParcelId": 19302,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001993,
         "RecipeSelectionGroupComponentId": 150,
         "ParcelType": "Furniture",
         "ParcelId": 19303,
@@ -14100,6 +14252,14 @@
         "RecipeSelectionGroupComponentId": 153,
         "ParcelType": "Furniture",
         "ParcelId": 19306,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001993,
+        "RecipeSelectionGroupComponentId": 154,
+        "ParcelType": "Furniture",
+        "ParcelId": 19307,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -14332,6 +14492,22 @@
         "RecipeSelectionGroupComponentId": 185,
         "ParcelType": "Furniture",
         "ParcelId": 210358,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001993,
+        "RecipeSelectionGroupComponentId": 186,
+        "ParcelType": "Furniture",
+        "ParcelId": 210359,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001993,
+        "RecipeSelectionGroupComponentId": 187,
+        "ParcelType": "Furniture",
+        "ParcelId": 210360,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
@@ -14900,6 +15076,22 @@
         "RecipeSelectionGroupComponentId": 73,
         "ParcelType": "Furniture",
         "ParcelId": 210358,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001999,
+        "RecipeSelectionGroupComponentId": 74,
+        "ParcelType": "Furniture",
+        "ParcelId": 210359,
+        "ResultAmountMin": 1,
+        "ResultAmountMax": 1
+    },
+    {
+        "RecipeSelectionGroupId": 1001999,
+        "RecipeSelectionGroupComponentId": 75,
+        "ParcelType": "Furniture",
+        "ParcelId": 210360,
         "ResultAmountMin": 1,
         "ResultAmountMax": 1
     },
