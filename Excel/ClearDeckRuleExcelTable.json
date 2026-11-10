@@ -38,5 +38,9 @@
     {
         "ContentType": "PermanentRaid",
         "SizeLimit": 30
+    },
+    {
+        "ContentType": "TacticalRelay",
+        "SizeLimit": 30
     }
 ]

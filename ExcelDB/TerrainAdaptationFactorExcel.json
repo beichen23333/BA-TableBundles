@@ -7,7 +7,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 13000,
-        "TerrainFactorDescription": "TerrainFactorDescription_SS"
+        "TerrainFactorDescription01": "TerrainFactorDescription_SS_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_SS_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Street",
@@ -17,7 +19,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 12000,
-        "TerrainFactorDescription": "TerrainFactorDescription_S"
+        "TerrainFactorDescription01": "TerrainFactorDescription_S_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_S_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Street",
@@ -27,7 +31,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 11000,
-        "TerrainFactorDescription": "TerrainFactorDescription_A"
+        "TerrainFactorDescription01": "TerrainFactorDescription_A_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_A_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Street",
@@ -37,7 +43,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 10000,
-        "TerrainFactorDescription": "TerrainFactorDescription_B"
+        "TerrainFactorDescription01": "TerrainFactorDescription_B_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_B_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Street",
@@ -47,7 +55,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 9000,
-        "TerrainFactorDescription": "TerrainFactorDescription_C"
+        "TerrainFactorDescription01": "TerrainFactorDescription_C_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_C_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Street",
@@ -57,7 +67,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 8000,
-        "TerrainFactorDescription": "TerrainFactorDescription_D"
+        "TerrainFactorDescription01": "TerrainFactorDescription_D_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_D_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_D_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -67,7 +79,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 13000,
-        "TerrainFactorDescription": "TerrainFactorDescription_SS"
+        "TerrainFactorDescription01": "TerrainFactorDescription_SS_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_SS_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -77,7 +91,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 12000,
-        "TerrainFactorDescription": "TerrainFactorDescription_S"
+        "TerrainFactorDescription01": "TerrainFactorDescription_S_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_S_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -87,7 +103,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 11000,
-        "TerrainFactorDescription": "TerrainFactorDescription_A"
+        "TerrainFactorDescription01": "TerrainFactorDescription_A_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_A_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -97,7 +115,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 10000,
-        "TerrainFactorDescription": "TerrainFactorDescription_B"
+        "TerrainFactorDescription01": "TerrainFactorDescription_B_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_B_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -107,7 +127,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 9000,
-        "TerrainFactorDescription": "TerrainFactorDescription_C"
+        "TerrainFactorDescription01": "TerrainFactorDescription_C_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_C_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Outdoor",
@@ -117,7 +139,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 8000,
-        "TerrainFactorDescription": "TerrainFactorDescription_D"
+        "TerrainFactorDescription01": "TerrainFactorDescription_D_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_D_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_D_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -127,7 +151,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 13000,
-        "TerrainFactorDescription": "TerrainFactorDescription_SS"
+        "TerrainFactorDescription01": "TerrainFactorDescription_SS_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_SS_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_SS_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -137,7 +163,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 12000,
-        "TerrainFactorDescription": "TerrainFactorDescription_S"
+        "TerrainFactorDescription01": "TerrainFactorDescription_S_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_S_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_S_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -147,7 +175,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 11000,
-        "TerrainFactorDescription": "TerrainFactorDescription_A"
+        "TerrainFactorDescription01": "TerrainFactorDescription_A_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_A_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_A_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -157,7 +187,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 10000,
-        "TerrainFactorDescription": "TerrainFactorDescription_B"
+        "TerrainFactorDescription01": "TerrainFactorDescription_B_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_B_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_B_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -167,7 +199,9 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 9000,
-        "TerrainFactorDescription": "TerrainFactorDescription_C"
+        "TerrainFactorDescription01": "TerrainFactorDescription_C_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_C_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_C_IgnoreCoverrate"
     },
     {
         "TerrainAdaptation": "Indoor",
@@ -177,6 +211,8 @@
         "AccuracyFactor": 0,
         "DodgeFactor": 0,
         "AttackPowerFactor": 8000,
-        "TerrainFactorDescription": "TerrainFactorDescription_D"
+        "TerrainFactorDescription01": "TerrainFactorDescription_D_Damage",
+        "TerrainFactorDescription02": "TerrainFactorDescription_D_Coverrate",
+        "TerrainFactorDescription03": "TerrainFactorDescription_D_IgnoreCoverrate"
     }
 ]

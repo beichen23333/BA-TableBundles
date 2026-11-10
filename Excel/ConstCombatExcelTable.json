@@ -8,6 +8,7 @@
         "ShowBufficonExtraPassiveSkill": true,
         "ShowBufficonLeaderSkill": true,
         "ShowBufficonGroundPassiveSkill": true,
+        "ShowBufficonApcSynergyPassiveSkill": true,
         "SuppliesConditionStringId": "Debuff_SuppliesCondition",
         "PublicSpeechBubbleOffsetX": 9011.46737,
         "PublicSpeechBubbleOffsetY": 9011.46737,
@@ -25,6 +26,7 @@
         "EnemyRegenCost": 10000,
         "ChampionRegenCost": 10000,
         "PlayerRegenCostDelay": 2000,
+        "PlayerAutoUseStartDelay": 333,
         "CrowdControlFactor": 100,
         "RaidOpenScenarioId": "Raid_Enter",
         "EliminateRaidOpenScenarioId": "EliminateRaid_Enter",
@@ -104,6 +106,7 @@
         "CampaignAlertPopupLevelGap": 15,
         "MoveCorrectionSkipRatio": 1500,
         "ObstacleColliderHeightJumpable": -9011.392870000001,
-        "ObstacleColliderHeightNotJumpable": -9011.27519
+        "ObstacleColliderHeightNotJumpable": -9011.27519,
+        "CheckCheaterMaxUseCostTacticalRelay": 0
     }
 ]

@@ -116,5 +116,17 @@
             0,
             90050666
         ]
+    },
+    {
+        "Id": 10,
+        "FreeRecruitPeriodFrom": "2026-11-10 11:00:00",
+        "FreeRecruitPeriodTo": "2026-11-17 10:59:59",
+        "FreeRecruitType": "Accumulation",
+        "FreeRecruitDecorationImagePath": "",
+        "TenRecruitCountOnly": true,
+        "ShopRecruitId": [
+            90050748,
+            0
+        ]
     }
 ]

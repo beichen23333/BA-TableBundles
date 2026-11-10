@@ -47,5 +47,12 @@
         "RewardParcelType": "Currency",
         "RewardParcelId": 1,
         "RewardParcelAmount": 20
+    },
+    {
+        "RewardType": "AssistTerm",
+        "EchelonType": "TacticalRelay",
+        "RewardParcelType": "Currency",
+        "RewardParcelId": 1,
+        "RewardParcelAmount": 20
     }
 ]

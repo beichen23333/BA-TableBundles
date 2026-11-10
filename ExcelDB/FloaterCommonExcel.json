@@ -5,7 +5,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 1,
@@ -13,7 +14,8 @@
         "FloaterOffsetPosX": -1,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 2,
@@ -21,7 +23,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 3,
@@ -29,7 +32,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 4,
@@ -37,7 +41,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 5,
@@ -45,7 +50,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 6,
@@ -53,7 +59,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 7,
@@ -61,7 +68,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 8,
@@ -69,7 +77,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 9,
@@ -77,7 +86,8 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     },
     {
         "Id": 10,
@@ -85,6 +95,7 @@
         "FloaterOffsetPosX": 0,
         "FloaterOffsetPosY": 0,
         "FloaterRandomPosRangeX": 50,
-        "FloaterRandomPosRangeY": 50
+        "FloaterRandomPosRangeY": 50,
+        "LimitedFloaterRandomPosRangeY": 30
     }
 ]

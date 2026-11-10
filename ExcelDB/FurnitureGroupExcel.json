@@ -406,5 +406,22 @@
             200,
             0
         ]
+    },
+    {
+        "Id": 124,
+        "GroupNameLocalize": 197068937,
+        "LocalizeEtcId": 1537274567,
+        "RequiredFurnitureCount": [
+            2,
+            3,
+            5,
+            7
+        ],
+        "ComfortBonus": [
+            100,
+            0,
+            200,
+            0
+        ]
     }
 ]

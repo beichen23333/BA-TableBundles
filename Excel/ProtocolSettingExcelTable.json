@@ -245,6 +245,13 @@
         "Mail": false
     },
     {
+        "Protocol": "Character_AllocateEngraveNode",
+        "OpenConditionContent": "Engrave",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
         "Protocol": "Equipment_List",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -728,6 +735,27 @@
         "Mail": true
     },
     {
+        "Protocol": "Shop_GachaWishListGet",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Shop_GachaWishListSet",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Shop_GachaWishListBuy",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
         "Protocol": "Recipe_Craft",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -959,6 +987,13 @@
         "Mail": false
     },
     {
+        "Protocol": "Raid_Reset",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
         "Protocol": "SkipHistory_List",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -1114,6 +1149,13 @@
     },
     {
         "Protocol": "Scenario_SkipMainStage",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Scenario_Collection",
         "OpenConditionContent": "None_",
         "Currency": false,
         "Inventory": false,
@@ -1757,6 +1799,20 @@
         "Mail": false
     },
     {
+        "Protocol": "Clan_KickHistoryCancel",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Clan_KickHistoryList",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
         "Protocol": "Billing_TransactionStartByYostar",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -2177,6 +2233,27 @@
         "Mail": true
     },
     {
+        "Protocol": "EventContent_ClueSearchInvestigate",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "EventContent_ClueSearchReveal",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "EventContent_ClueSearchBatchSubmit",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
         "Protocol": "TTS_GetFile",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -2574,6 +2651,48 @@
         "Currency": false,
         "Inventory": false,
         "Mail": false
+    },
+    {
+        "Protocol": "MiniGame_JankenLobby",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "MiniGame_JankenSetEchelon",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "MiniGame_JankenEquipmentLevelUp",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "MiniGame_JankenEnterBattle",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "MiniGame_JankenEndBattle",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
+    },
+    {
+        "Protocol": "MiniGame_JankenScoreReward",
+        "OpenConditionContent": "MinigameJanken",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": true
     },
     {
         "Protocol": "Notification_LobbyCheck",
@@ -3066,6 +3185,13 @@
         "Mail": false
     },
     {
+        "Protocol": "EliminateRaid_Reset",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
         "Protocol": "Attachment_Get",
         "OpenConditionContent": "None_",
         "Currency": false,
@@ -3088,6 +3214,27 @@
     },
     {
         "Protocol": "Attachment_EmblemAttach",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Attachment_StudentFrameList",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Attachment_StudentFrameAcquire",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "Attachment_StudentFrameAttach",
         "OpenConditionContent": "None_",
         "Currency": false,
         "Inventory": false,
@@ -3248,6 +3395,34 @@
         "Mail": false
     },
     {
+        "Protocol": "DailyRecord_ClaimStreakReward",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
+        "Protocol": "DailyRecord_SupplementSeasonAttendance",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
+        "Protocol": "DailyRecord_ClaimSeasonReward",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
+        "Protocol": "DailyRecord_RestoreStreakAttendance",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
         "Protocol": "Option_Save",
         "OpenConditionContent": "None_",
         "Currency": true,
@@ -3337,5 +3512,68 @@
         "Currency": false,
         "Inventory": false,
         "Mail": false
+    },
+    {
+        "Protocol": "TacticalRelay_Lobby",
+        "OpenConditionContent": "TacticalRelay",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "TacticalRelay_RankingInfo",
+        "OpenConditionContent": "TacticalRelay",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "TacticalRelay_EnterBattle",
+        "OpenConditionContent": "TacticalRelay",
+        "Currency": false,
+        "Inventory": true,
+        "Mail": true
+    },
+    {
+        "Protocol": "TacticalRelay_EndBattle",
+        "OpenConditionContent": "TacticalRelay",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "TacticalRelay_GiveUp",
+        "OpenConditionContent": "TacticalRelay",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "CharacterAdaptation_Sync",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "CharacterAdaptation_Start",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "CharacterAdaptation_GrowthStep",
+        "OpenConditionContent": "None_",
+        "Currency": false,
+        "Inventory": false,
+        "Mail": false
+    },
+    {
+        "Protocol": "CharacterAdaptation_Receive",
+        "OpenConditionContent": "None_",
+        "Currency": true,
+        "Inventory": true,
+        "Mail": true
     }
 ]

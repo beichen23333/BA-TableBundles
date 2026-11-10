@@ -2453,7 +2453,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -2494,7 +2495,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -3516,7 +3518,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -26987,7 +26990,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27027,7 +27031,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27067,7 +27072,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27107,7 +27113,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27147,7 +27154,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27187,7 +27195,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27227,7 +27236,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27267,7 +27277,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27307,7 +27318,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27347,7 +27359,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27387,7 +27400,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27427,7 +27441,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27467,7 +27482,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27507,7 +27523,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27547,7 +27564,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27587,7 +27605,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27627,7 +27646,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27667,7 +27687,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27707,7 +27728,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27747,7 +27769,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27787,7 +27810,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27827,7 +27851,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27867,7 +27892,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27907,7 +27933,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27947,7 +27974,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -27987,7 +28015,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28027,7 +28056,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28067,7 +28097,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28107,7 +28138,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28147,7 +28179,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28187,7 +28220,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28227,7 +28261,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28267,7 +28302,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28307,7 +28343,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28347,7 +28384,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28387,7 +28425,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28427,7 +28466,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28467,7 +28507,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28507,7 +28548,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28547,7 +28589,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28587,7 +28630,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28627,7 +28671,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28667,7 +28712,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28707,7 +28753,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28747,7 +28794,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28787,7 +28835,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28827,7 +28876,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28867,7 +28917,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28907,7 +28958,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28947,7 +28999,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -28987,7 +29040,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29027,7 +29081,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29067,7 +29122,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29107,7 +29163,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29147,7 +29204,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29187,7 +29245,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29227,7 +29286,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29267,7 +29327,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29307,7 +29368,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29347,7 +29409,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29387,7 +29450,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29427,7 +29491,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29467,7 +29532,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29507,7 +29573,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29547,7 +29614,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29587,7 +29655,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29627,7 +29696,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29667,7 +29737,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29707,7 +29778,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29747,7 +29819,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29787,7 +29860,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29827,7 +29901,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29867,7 +29942,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29907,7 +29983,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29947,7 +30024,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -29987,7 +30065,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30027,7 +30106,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30067,7 +30147,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30107,7 +30188,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30147,7 +30229,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30187,7 +30270,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30227,7 +30311,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30267,7 +30352,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30307,7 +30393,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30347,7 +30434,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30387,7 +30475,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30427,7 +30516,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30467,7 +30557,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30507,7 +30598,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30547,7 +30639,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30587,7 +30680,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30627,7 +30721,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30667,7 +30762,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30707,7 +30803,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30747,7 +30844,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30787,7 +30885,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30827,7 +30926,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30867,7 +30967,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30907,7 +31008,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30947,7 +31049,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -30987,7 +31090,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31027,7 +31131,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31067,7 +31172,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31107,7 +31213,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31147,7 +31254,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31187,7 +31295,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31227,7 +31336,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31267,7 +31377,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31307,7 +31418,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31347,7 +31459,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31387,7 +31500,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31427,7 +31541,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31467,7 +31582,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31507,7 +31623,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31547,7 +31664,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31587,7 +31705,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31627,7 +31746,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31667,7 +31787,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31707,7 +31828,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31747,7 +31869,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31787,7 +31910,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31827,7 +31951,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31867,7 +31992,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31907,7 +32033,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31947,7 +32074,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -31987,7 +32115,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32027,7 +32156,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32067,7 +32197,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32107,7 +32238,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32147,7 +32279,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32187,7 +32320,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32227,7 +32361,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32267,7 +32402,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32307,7 +32443,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32347,7 +32484,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32387,7 +32525,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32427,7 +32566,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32467,7 +32607,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32507,7 +32648,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32547,7 +32689,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32587,7 +32730,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32627,7 +32771,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32667,7 +32812,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32707,7 +32853,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32747,7 +32894,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32787,7 +32935,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32827,7 +32976,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32867,7 +33017,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32907,7 +33058,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32947,7 +33099,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -32987,7 +33140,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33027,7 +33181,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33067,7 +33222,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33107,7 +33263,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33147,7 +33304,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33187,7 +33345,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33227,7 +33386,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33267,7 +33427,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33307,7 +33468,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33347,7 +33509,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33387,7 +33550,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33427,7 +33591,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33467,7 +33632,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33507,7 +33673,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33547,7 +33714,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33587,7 +33755,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33627,7 +33796,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33667,7 +33837,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33707,7 +33878,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33747,7 +33919,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33787,7 +33960,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33827,7 +34001,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33867,7 +34042,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33907,7 +34083,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33947,7 +34124,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -33987,7 +34165,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34027,7 +34206,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34067,7 +34247,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34107,7 +34288,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34147,7 +34329,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34187,7 +34370,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34227,7 +34411,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34267,7 +34452,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34307,7 +34493,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34347,7 +34534,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34387,7 +34575,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34427,7 +34616,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34467,7 +34657,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34507,7 +34698,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34547,7 +34739,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34587,7 +34780,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34627,7 +34821,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34667,7 +34862,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34707,7 +34903,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34747,7 +34944,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34787,7 +34985,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34827,7 +35026,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34867,7 +35067,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34907,7 +35108,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34947,7 +35149,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -34987,7 +35190,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35027,7 +35231,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35067,7 +35272,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35107,7 +35313,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35147,7 +35354,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35187,7 +35395,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35227,7 +35436,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35267,7 +35477,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35307,7 +35518,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35347,7 +35559,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35387,7 +35600,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35427,7 +35641,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35467,7 +35682,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35507,7 +35723,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35547,7 +35764,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35587,7 +35805,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35627,7 +35846,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35667,7 +35887,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35707,7 +35928,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35747,7 +35969,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35787,7 +36010,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35827,7 +36051,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35867,7 +36092,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35907,7 +36133,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35947,7 +36174,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -35987,7 +36215,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36027,7 +36256,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36067,7 +36297,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36107,7 +36338,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36147,7 +36379,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36187,7 +36420,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36227,7 +36461,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36267,7 +36502,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36307,7 +36543,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36347,7 +36584,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36387,7 +36625,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36427,7 +36666,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36467,7 +36707,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36507,7 +36748,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36547,7 +36789,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36587,7 +36830,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36627,7 +36871,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36667,7 +36912,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36707,7 +36953,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36747,7 +36994,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36787,7 +37035,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36827,7 +37076,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36867,7 +37117,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36907,7 +37158,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36947,7 +37199,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -36987,7 +37240,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37027,7 +37281,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37067,7 +37322,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37107,7 +37363,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37147,7 +37404,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37187,7 +37445,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37227,7 +37486,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37267,7 +37527,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37307,7 +37568,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37347,7 +37609,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37387,7 +37650,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37427,7 +37691,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37467,7 +37732,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37507,7 +37773,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37547,7 +37814,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37587,7 +37855,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37627,7 +37896,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37667,7 +37937,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37707,7 +37978,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37747,7 +38019,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37787,7 +38060,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37827,7 +38101,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37867,7 +38142,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37907,7 +38183,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37947,7 +38224,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -37987,7 +38265,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38027,7 +38306,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38067,7 +38347,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38107,7 +38388,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38147,7 +38429,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38187,7 +38470,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38227,7 +38511,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38267,7 +38552,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38307,7 +38593,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38347,7 +38634,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38387,7 +38675,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38427,7 +38716,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38467,7 +38757,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38507,7 +38798,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38547,7 +38839,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38587,7 +38880,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38627,7 +38921,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38667,7 +38962,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38707,7 +39003,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38747,7 +39044,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38787,7 +39085,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38827,7 +39126,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38867,7 +39167,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38907,7 +39208,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -38947,7 +39249,8 @@
         "AccountLevel": 1,
         "ContentTags": [],
         "ShortcutUI": [
-            "UIStageSelect"
+            "UIStageSelect",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_TotalGetClearStarCount",
@@ -60532,6 +60835,1568 @@
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
             90101110
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62400,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211010"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211010
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62401,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211020"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211020
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62402,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211030"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211030
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62403,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211040"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211040
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62404,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211050"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211050
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62405,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211060"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211060
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62406,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211070"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211070
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62407,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211080"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211080
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62408,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211090"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211090
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62409,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211100"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211100
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62410,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211110"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211110
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62411,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211120"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211120
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62412,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211130"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211130
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62413,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211140"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211140
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62414,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211150"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211150
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62415,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211160"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211160
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62416,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|211170"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            211170
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62417,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212010"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212010
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62418,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212020"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212020
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62419,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212030"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212030
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62420,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212040"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212040
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62421,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212050"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212050
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62422,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212060"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212060
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62423,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212070"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212070
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62424,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212080"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212080
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62425,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212090"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212090
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62426,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212100"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212100
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62427,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212110"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212110
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62428,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212120"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212120
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62429,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212130"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212130
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62430,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212140"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212140
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62431,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212150"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212150
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62432,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212160"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212160
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62433,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212170"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212170
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62434,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212180"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212180
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62435,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212190"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212190
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62436,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212200"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212200
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            20
+        ]
+    },
+    {
+        "Id": 62437,
+        "Category": "Achievement",
+        "Description": 933979215,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 62400,
+        "PreMissionId": [
+            62416
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|212210"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            212210
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -90952,6 +92817,49 @@
         ]
     },
     {
+        "Id": 101245,
+        "Category": "Achievement",
+        "Description": 228165122,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": false,
+        "StartDate": "",
+        "EndDate": "",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 101000,
+        "PreMissionId": [
+            101157
+        ],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIRaidLobby",
+            "UIEliminateRaidLobby"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_JoinSpecificRaidCount",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            1038
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            100
+        ]
+    },
+    {
         "Id": 101125,
         "Category": "Achievement",
         "Description": 3273952039,
@@ -94496,7 +96404,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122101
+            1122101,
+            0,
+            2121101,
+            0,
+            2121201
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94537,7 +96449,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122102
+            1122102,
+            0,
+            2121102,
+            0,
+            2121202
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94580,7 +96496,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122103
+            1122103,
+            0,
+            2121103,
+            0,
+            2121203
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94623,7 +96543,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122104
+            1122104,
+            0,
+            2121104,
+            0,
+            2121204
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94666,7 +96590,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122105
+            1122105,
+            0,
+            2121105,
+            0,
+            2121205
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94709,7 +96637,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122106
+            1122106,
+            0,
+            2121106,
+            0,
+            2121206
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -94752,7 +96684,11 @@
         "CompleteConditionType": "Reset_JoinSpecificRaidCount",
         "CompleteConditionCount": 1,
         "CompleteConditionParameter": [
-            1122107
+            1122107,
+            0,
+            2121107,
+            0,
+            2121207
         ],
         "CompleteConditionParameterTag": [],
         "RewardIcon": "",
@@ -95510,7 +97446,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95551,7 +97488,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95592,7 +97530,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95633,7 +97572,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95674,7 +97614,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95715,7 +97656,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95756,7 +97698,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95797,7 +97740,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95838,7 +97782,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95879,7 +97824,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95920,7 +97866,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -95961,7 +97908,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96002,7 +97950,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96043,7 +97992,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96084,7 +98034,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96125,7 +98076,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96166,7 +98118,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96207,7 +98160,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96248,7 +98202,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96289,7 +98244,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96330,7 +98286,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96371,7 +98328,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96412,7 +98370,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96453,7 +98412,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96494,7 +98454,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96535,7 +98496,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96576,7 +98538,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96617,7 +98580,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96658,7 +98622,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96699,7 +98664,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96740,7 +98706,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96781,7 +98748,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96822,7 +98790,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96863,7 +98832,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96904,7 +98874,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96945,7 +98916,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -96986,7 +98958,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97027,7 +99000,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97068,7 +99042,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97109,7 +99084,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97150,7 +99126,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97191,7 +99168,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97232,7 +99210,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97273,7 +99252,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97314,7 +99294,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97355,7 +99336,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97396,7 +99378,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97437,7 +99420,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97478,7 +99462,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97519,7 +99504,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97560,7 +99546,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97601,7 +99588,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97642,7 +99630,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97683,7 +99672,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97724,7 +99714,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97765,7 +99756,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97806,7 +99798,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97847,7 +99840,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97888,7 +99882,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97929,7 +99924,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -97970,7 +99966,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98011,7 +100008,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98052,7 +100050,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98093,7 +100092,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98134,7 +100134,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98175,7 +100176,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98216,7 +100218,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98257,7 +100260,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98298,7 +100302,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98339,7 +100344,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98380,7 +100386,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -98421,7 +100428,8 @@
         "ContentTags": [],
         "ShortcutUI": [
             "UIStageSelect",
-            "UIWeekDungeonLobby|WeekDungeon"
+            "UIWeekDungeonLobby|WeekDungeon",
+            "UIEventLobby"
         ],
         "ChallengeStageShortcut": 0,
         "CompleteConditionType": "Achieve_ClearCampaignStageCount",
@@ -145093,6 +147101,126 @@
         ],
         "MissionRewardAmount": [
             25
+        ]
+    },
+    {
+        "Id": 400047,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-11-17 11:00:00",
+        "EndDate": "2026-12-01 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70015010"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70015010
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ]
+    },
+    {
+        "Id": 400048,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-11-17 11:00:00",
+        "EndDate": "2026-12-01 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70015020"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70015020
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ]
+    },
+    {
+        "Id": 400049,
+        "Category": "Achievement",
+        "Description": 408345533,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "UIs/01_Common/01_Character/NPC_Portrait_NP0013",
+        "ViewFlag": true,
+        "Limit": true,
+        "StartDate": "2026-11-17 11:00:00",
+        "EndDate": "2026-12-01 11:00:00",
+        "EndDay": 0,
+        "StartableEndDate": "",
+        "DateAutoRefer": "None_",
+        "DisplayOrder": 400000,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ContentTags": [],
+        "ShortcutUI": [
+            "UIScenarioMode_Volume|70015030"
+        ],
+        "ChallengeStageShortcut": 0,
+        "CompleteConditionType": "Reset_ClearSpecificScenario",
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            70015030
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            40
         ]
     },
     {

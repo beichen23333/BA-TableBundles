@@ -66,6 +66,7 @@
         "ClanMaxMember": 50,
         "ClanSearchResultCount": 30,
         "ClanMaxApplicant": 100,
+        "ClanKickHistoryMax": 50,
         "ClanRejoinCoolTimeFromSecond": 1000,
         "ClanWordBalloonMaxCharacter": 52,
         "CallNameRenameCoolTimeFromHour": 24,
@@ -93,7 +94,6 @@
         "PostExpiredDayInventoryOverflow": 7,
         "PostExpiredDayGameManager": 7,
         "UILabelCharacterWrap": ".,。,、…~\"-!?！？―<>()（）ー☆★♡♥♧♣♤♠♩♪♬々っッ",
-        "RequestTimeOut": -10770.696230000001,
         "MailStorageSoftCap": 200,
         "MailStorageHardCap": 1000,
         "ClearDeckStorageSize": 20,
@@ -133,6 +133,22 @@
             "ew"
         ],
         "MaxApMasterCoinPerWeek": 12000,
+        "PlusMaxApMasterCoinPerWeekProductMonthlyId1": [
+            90103,
+            1040507485,
+            90503,
+            1040507485,
+            90803
+        ],
+        "PlusMaxApMasterCoinPerWeek1": 2000,
+        "PlusMaxApMasterCoinPerWeekProductMonthlyId2": [
+            90104,
+            1040507485,
+            90504,
+            1040507485,
+            90804
+        ],
+        "PlusMaxApMasterCoinPerWeek2": 1000,
         "CraftOpenExpTier1": 100,
         "CraftOpenExpTier2": 200,
         "CraftOpenExpTier3": 200,
@@ -171,6 +187,7 @@
         "BeforehandGachaGroupId": 2,
         "RenewalDisplayOrderDay": 7,
         "EmblemDefaultId": 1,
+        "StudentFrameDefaultId": 1,
         "BirthdayMailStartDate": "2024-01-01",
         "BirthdayMailRemainDate": 3,
         "BirthdayMailParcelType": "Currency",
@@ -231,6 +248,13 @@
         "QRIconUrlDev": "https://bastage.dn.nexoncdn.co.kr/stage/adult_512_260427.png",
         "QRIconUrlLive": "https://ba.dn.nexoncdn.co.kr/ba_adult_icon.png",
         "ProbablityInfoBtnLinkKR": "https://forum.nexon.com/bluearchive/board_view?board=4606&thread=3488760",
-        "ClearDeckEchelonShowMaxCount": 20
+        "ClearDeckEchelonShowMaxCount": 20,
+        "ExpiryStreakRecordItemReceiveDay": 7,
+        "ExpirySeasonRecordItemReceiveDay": 7,
+        "EngraveContentsIsOpen": false,
+        "TacticalRelayContentsIsOpen": false,
+        "ExSkillLevelMaxByEngrave": 0,
+        "ExSkillUpgradeLevelMax": 5,
+        "RaidResetCount": 1
     }
 ]

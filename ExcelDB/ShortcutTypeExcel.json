@@ -55,5 +55,12 @@
         "ContentType": [
             "MultiFloorRaid"
         ]
+    },
+    {
+        "Id": 40,
+        "IsAscending": false,
+        "ContentType": [
+            "TacticalRelay"
+        ]
     }
 ]

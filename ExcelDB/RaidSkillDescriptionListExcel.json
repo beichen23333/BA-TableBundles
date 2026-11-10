@@ -1229,7 +1229,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Normal",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1262,7 +1262,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Hard",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1295,7 +1295,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "VeryHard",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1328,7 +1328,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Hardcore",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1361,7 +1361,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Extreme",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1394,7 +1394,7 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Insane",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusInsaneEx01",
             "HieronymusInsaneEx02",
@@ -1431,13 +1431,13 @@
     {
         "BossGroup": "Hieronymus",
         "Difficulty": "Torment",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusInsaneEx01",
             "HieronymusInsaneEx02",
             "HieronymusInsaneEx03",
-            "HieronymusTormentPassiveDummy02",
             "HieronymusInsaneEx04",
+            "HieronymusTormentPassiveDummy02",
             "HieronymusInsanePassive01",
             "HieronymusTormentPassiveDummy01"
         ],
@@ -1454,8 +1454,8 @@
             "Ex",
             "Ex",
             "Ex",
-            "Passive",
             "Ex",
+            "Passive",
             "Passive",
             "Passive"
         ],
@@ -1463,8 +1463,8 @@
             "None_",
             "None_",
             "None_",
-            "New",
             "None_",
+            "New",
             "None_",
             "Upgrade"
         ]
@@ -1472,7 +1472,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Normal",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1505,7 +1505,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Hard",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1538,7 +1538,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "VeryHard",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1571,7 +1571,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Hardcore",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1604,7 +1604,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Extreme",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusEx01",
             "HieronymusEx02",
@@ -1637,7 +1637,7 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Insane",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusInsaneEx01",
             "HieronymusInsaneEx02",
@@ -1674,13 +1674,13 @@
     {
         "BossGroup": "Hieronymus_Street",
         "Difficulty": "Torment",
-        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 3:PhaseLabel_Relic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
         "SkillGroupId": [
             "HieronymusInsaneEx01",
             "HieronymusInsaneEx02",
             "HieronymusInsaneEx03",
-            "HieronymusTormentPassiveDummy02",
             "HieronymusInsaneEx04",
+            "HieronymusTormentPassiveDummy02",
             "HieronymusInsanePassive01",
             "HieronymusTormentPassiveDummy01"
         ],
@@ -1697,8 +1697,8 @@
             "Ex",
             "Ex",
             "Ex",
-            "Passive",
             "Ex",
+            "Passive",
             "Passive",
             "Passive"
         ],
@@ -1706,10 +1706,55 @@
             "None_",
             "None_",
             "None_",
+            "None_",
             "New",
             "None_",
-            "None_",
             "Upgrade"
+        ]
+    },
+    {
+        "BossGroup": "Hieronymus_Street",
+        "Difficulty": "Lunatic",
+        "PhaseNameOverrideKey": "1:Boss_PhaseLabel_Common, 2:PhaseLabel_Relic",
+        "SkillGroupId": [
+            "HieronymusLunaticEx01",
+            "HieronymusLunaticEx02",
+            "HieronymusLunaticEx03",
+            "HieronymusLunaticEx04",
+            "HieronymusLunaticPassive01",
+            "HieronymusLunaticPassive10",
+            "HieronymusLunaticPassive11",
+            "HieronymusTormentPassiveDummy01"
+        ],
+        "SkillUsePhase": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        "ShowSkillSlot": [
+            "Ex",
+            "Ex",
+            "Ex",
+            "Ex",
+            "Passive",
+            "Passive",
+            "Passive",
+            "Passive"
+        ],
+        "HighlightResource": [
+            "None_",
+            "Upgrade",
+            "None_",
+            "None_",
+            "Upgrade",
+            "New",
+            "New",
+            "None_"
         ]
     },
     {
