@@ -15698,5 +15698,728 @@
         "ConditionRewardParcelType": [],
         "ConditionRewardParcelId": [],
         "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380000,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 1,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380001,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 2,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 10,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380002,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 3,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 20,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380003,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 4,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 30,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380004,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 5,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 40,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380005,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2901335920,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 6,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearCountDefense",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 50,
+        "CompleteConditionParameter": [
+            10838
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            3
+        ],
+        "MissionRewardAmount": [
+            30
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380006,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 7,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380007,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 8,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380008,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 9,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380009,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 10,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380010,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 11,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380011,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 12,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380012,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 13,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380013,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 14,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380014,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 15,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380015,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 16,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380016,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 4007795049,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 17,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_ClearSpecificDefenseStage",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 1,
+        "CompleteConditionParameter": [
+            10838,
+            0
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Currency"
+        ],
+        "MissionRewardParcelId": [
+            1
+        ],
+        "MissionRewardAmount": [
+            200000
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
+    },
+    {
+        "Id": 108380017,
+        "EventContentId": 10838,
+        "GroupId": 0,
+        "GroupName": "",
+        "Category": "MiniGameEvent",
+        "Description": 2987165464,
+        "ResetType": "None_",
+        "ToastDisplayType": "Complete",
+        "ToastImagePath": "",
+        "ViewFlag": true,
+        "DisplayOrder": 18,
+        "PreMissionId": [],
+        "TargetGroup": "Normal",
+        "AccountLevel": 1,
+        "ShortcutUI": [],
+        "CompleteConditionType": "Reset_CompleteMission",
+        "IsCompleteExtensionTime": true,
+        "CompleteConditionCount": 11,
+        "CompleteConditionParameter": [
+            108380006,
+            0,
+            108380007,
+            0,
+            108380008,
+            0,
+            108380009,
+            0,
+            108380010,
+            0,
+            108380011
+        ],
+        "CompleteConditionParameterTag": [],
+        "RewardIcon": "",
+        "CompleteConditionMissionId": [],
+        "CompleteConditionMissionCount": 0,
+        "MissionRewardParcelType": [
+            "Item"
+        ],
+        "MissionRewardParcelId": [
+            9999
+        ],
+        "MissionRewardAmount": [
+            1
+        ],
+        "ConditionRewardParcelType": [],
+        "ConditionRewardParcelId": [],
+        "ConditionRewardAmount": []
     }
 ]

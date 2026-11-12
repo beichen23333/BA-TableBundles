@@ -21113,7 +21113,7 @@
             604110701
         ],
         "Difficulty": "Torment",
-        "IsOpen": false,
+        "IsOpen": true,
         "MaxPlayerCount": 1,
         "RaidRoomLifeTime": 3600000,
         "BattleDuration": 240000,
@@ -21799,7 +21799,7 @@
             604130701
         ],
         "Difficulty": "Torment",
-        "IsOpen": false,
+        "IsOpen": true,
         "MaxPlayerCount": 1,
         "RaidRoomLifeTime": 3600000,
         "BattleDuration": 240000,

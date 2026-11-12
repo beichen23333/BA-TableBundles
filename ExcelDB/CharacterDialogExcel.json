@@ -297802,6 +297802,36 @@
     {
         "CharacterId": 20049,
         "CostumeUniqueId": 2004901,
+        "DisplayOrder": 10,
+        "ProductionStep": "Release",
+        "DialogCategory": "UITitle",
+        "DialogCondition": "Idle",
+        "Anniversary": "None_",
+        "StartDate": "",
+        "EndDate": "",
+        "GroupId": 1,
+        "DialogType": "Talk",
+        "ActionName": "",
+        "Duration": 0,
+        "AnimationName": "",
+        "LocalizeKR": "蔚蓝，档案。",
+        "LocalizeJP": "",
+        "VoiceId": [
+            2555869261
+        ],
+        "ApplyPosition": false,
+        "PosX": 0.0,
+        "PosY": 0.0,
+        "CollectionVisible": true,
+        "CVCollectionType": "CVNormal",
+        "UnlockFavorRank": 1,
+        "UnlockEquipWeapon": false,
+        "LocalizeCVGroup": "CVGroup_UITitle_Idle1",
+        "DurationCN": 0
+    },
+    {
+        "CharacterId": 20049,
+        "CostumeUniqueId": 2004901,
         "DisplayOrder": 20,
         "ProductionStep": "Release",
         "DialogCategory": "CharacterGet",
@@ -297844,7 +297874,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "",
-        "LocalizeKR": "无聊死了。",
+        "LocalizeKR": "好无聊……",
         "LocalizeJP": "",
         "VoiceId": [
             871448848
@@ -297874,7 +297904,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "",
-        "LocalizeKR": "（那个……是什么？）",
+        "LocalizeKR": "（那个……\n是什么？）",
         "LocalizeJP": "",
         "VoiceId": [
             845231188
@@ -298624,7 +298654,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "99",
-        "LocalizeKR": "又过了一年。\n如果是以前，我会说离死亡\n又近了一步吧。",
+        "LocalizeKR": "新的一年要开始了啊。\n如果是以前，我大概会说\n离死亡又近了一步吧。",
         "LocalizeJP": "",
         "VoiceId": [
             3017248206
@@ -298684,7 +298714,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "04",
-        "LocalizeKR": "别问了。",
+        "LocalizeKR": "干嘛……\n问这个干什么？",
         "LocalizeJP": "",
         "VoiceId": [
             1159357179
@@ -298744,7 +298774,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "05",
-        "LocalizeKR": "捣蛋……糖果……捣蛋……\n说实在的，\n都是些没有意义的东西。",
+        "LocalizeKR": "捣蛋……糖果……捣蛋……\n到底有什么意义啊？",
         "LocalizeJP": "",
         "VoiceId": [
             1559735385
@@ -298774,7 +298804,7 @@
         "ActionName": "",
         "Duration": 0,
         "AnimationName": "02",
-        "LocalizeKR": "什么啊，这是。\n糖果？\n我还没开始捣蛋呢……？",
+        "LocalizeKR": "这是，糖果？\n我没捣蛋啊……？",
         "LocalizeJP": "",
         "VoiceId": [
             4191243140
