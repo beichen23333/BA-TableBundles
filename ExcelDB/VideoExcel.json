@@ -106,16 +106,20 @@
     {
         "Id": 7,
         "Nation": [
-            "All"
+            "JP",
+            "KR"
         ],
         "VideoPath": [
+            "Cafe/PV/EV_Dessert_Video",
             "Cafe/PV/EV_Dessert_Video"
         ],
         "VideoTeenPath": [],
         "SoundPath": [
-            "Cafe/PV/EV_Dessert_Sound"
+            "Cafe/PV/EV_Dessert_Sound",
+            "Cafe/PV/EV_Dessert_Sound_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5443,6 +5447,7 @@
             "Audio/Videos/Main_Digest_1_1_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5462,6 +5467,7 @@
             "Audio/Videos/Main_Digest_1_2_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5481,6 +5487,7 @@
             "Audio/Videos/Main_Digest_1_3_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5500,6 +5507,7 @@
             "Audio/Videos/Main_Digest_1_4_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5519,6 +5527,7 @@
             "Audio/Videos/Main_Digest_1_5_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5538,6 +5547,7 @@
             "Audio/Videos/Main_Digest_1_6_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5557,6 +5567,7 @@
             "Audio/Videos/Main_Digest_1_7_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5576,6 +5587,7 @@
             "Audio/Videos/Main_Digest_1_8_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
@@ -5595,6 +5607,7 @@
             "Audio/Videos/Main_Digest_1_9_Sound_260729_kr"
         ],
         "SoundVolume": [
+            1.0,
             1.0
         ]
     },
